@@ -1,0 +1,39 @@
+[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionAREthProvidedEventsAndFieldsAddConsumer.md)
+
+# AREthProvidedEventsAndFieldsAddConsumer
+
+[CAPL Functions](../../../CAPLfunctions.md) » [Ethernet](../../CAPLEthernetStartPage.md) » [AUTOSAR Eth IL](../CAPLfunctionsAREthILOverview.md) » AREthProvidedEventsAndFieldsAddConsumer
+
+Valid for: CANoe DE • CANoe4SW DE
+
+## Function Syntax
+
+- `long AREthProvidedEventsAndFieldsAddConsumer(dword psiHandle, dword remoteIPv4Address, dword remoteUDPPort, dword remoteTCPPort); // form 1`
+- `long AREthProvidedEventsAndFieldsAddConsumer(dword psiHandle, byte remoteIPv6Address[], dword remoteUDPPort, dword remoteTCPPort); // form 2`
+- `long AREthProvidedEventsAndFieldsAddConsumer(dword psiHandle, IP_Endpoint remoteIPEndpoint); // form 3`
+
+## Description
+
+Adds a consumer to a provided service instance. Afterwards all event/field notifications belonging to this service instance will be sent to this consumer.
+
+## Parameters
+
+- **psiHandle**: Provided service instance handle (may be retrieved by [AREthGetProvidedObjectHandle](CAPLfunctionAREthGetProvidedObjectHandle.md)).
+- **remoteIPv4Address**: IPv4 address of the consumer. In network byte order.
+- **remoteIPv6Address**: IPv6 address of the consumer.
+- **remoteUDPPort**: An UDP port number of the consumer or zero if there is none.
+- **remoteTCPPort**: A TCP port number of the consumer or zero if there is none.
+- **remoteIPEndpoint**: Object of type **IP_Endpoint** that contains the address/port of the consumer.
+
+## Return Values
+
+- **0**: The function was successfully executed
+- **>0**: [Error code](../CAPLfunctionsAREthILErrorCodes.md)
+
+## Example
+
+—
+
+© Vector Informatik GmbH
+
+[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,0 +1,59 @@
+[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForLinTransmError.md)
+
+[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestWaitForLinTransmError
+
+# TestWaitForLinTransmError
+
+[Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
+
+## Function Syntax
+
+```plaintext
+long TestWaitForLinTransmError (dword aFrameId, dword aTimeout);
+long TestWaitForLinTransmError (dword aTimeout);
+```
+
+## Description
+
+Waits for the occurrence of LIN Transmission Error event. Should the event not occur before the expiration of the time **aTimeout**, the wait condition is resolved nevertheless.
+
+**Note**: Consider to set always the appropriate bus context in a multibus environment before the function is called. Further information on site [MultiBus Environment](../../../Shared/CAPL/General/TestMultiBusEnvironment.md).
+
+## Parameters
+
+- **aFrameId**: Numeric ID of a frame whose Transmission Error should be awaited.  
+  Default value: wait for any ID
+
+- **aTimeout**: Maximum time that should be waited [ms]  
+  (Transmission of 0: no timeout controlling)
+
+## Return Values
+
+- **-2**: Resume due to constraint violation
+- **-1**: General error, for example, functionality is not available
+- **0**: Resume due to timeout
+- **1**: Resume due to event occurred
+
+## Example
+
+```plaintext
+testcase tcTFS_linNoResponseEvent ()
+{
+    linTransmError linTransmErrorData;
+
+    if (testWaitForLinTransmError(5000) == 1)
+    {
+        if (testGetWaitLinTransmErrData(linTransmErrorData) == 0)
+        {
+            testStep("Evaluation", "LIN No-Response event occurred for FrameId=0x%X", linTransmErrorData.ID);
+        }
+    }
+}
+```
+
+[TestGetWaitLinTransmErrData](CAPLfunctionTestGetWaitLinTransmErrData.md) • [TestJoinLinTransmErrorEvent](CAPLfunctionTestJoinLinTransmErrorEvent.md)
+
+© Vector Informatik GmbH  
+CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
+[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
+[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

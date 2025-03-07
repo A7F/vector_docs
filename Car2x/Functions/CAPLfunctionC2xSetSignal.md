@@ -1,0 +1,141 @@
+[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xSetSignal.md)
+
+[CAPL Functions](../../CAPLfunctions.md) » [Car2x](../CAPLfunctionsCar2xOverview.md) » C2xSetSignal
+
+# C2xSetSignal
+
+[Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
+
+## Function Syntax
+
+```plaintext
+long C2xSetSignal( char  *signalPath, int64 value); //form 1
+long C2xSetSignal( char *signalPath, int64 value, char* stationName); //form 2
+```
+
+## Description
+
+Sets a signal in a [database defined](../../../CANoeCANalyzer/Car2x/windows/NetworkExplorer/NetworkExplorerSignalSending.md) packet.
+
+## Parameters
+
+- **signalPath**: Path to the signal value to be set in the packet.
+- **value**: New signal value.
+- **stationName**: Name of the sending station.
+
+## Return Values
+
+- **0**: Success
+- **≠0**: [Error code](../CAPLfunctionsCar2xErrorCodes.md)
+
+## Example
+
+```plaintext
+void OnTxBSM(LONG packet)
+{
+  C2xSetSignal("BasicSafetyMessage::value::basicSafetyMessage::coreData::lat", 424409910);
+
+  C2xSetSignal("BasicSafetyMessage::value::basicSafetyMessage::coreData::lon", -834384340);
+
+  C2xSetSignal("BasicSafetyMessage::value::basicSafetyMessage::partII::[0]::partII_Value::specialVehicleExt::description::typeEvent", 100);
+}
+```
+
+[See Also](javascript:void(0);)
+```markdown
+<OnC2xPacket>|../Callbacks/CAPLfunctionC2xOnC2xPacket.htm#aanchor23975
+<OnC2xTransmitPacket>|../Callbacks/CAPLfunctionC2xOnC2xTransmitPacket.htm#aanchor26889
+C2xAddToken|CAPLfunctionC2xAddToken.htm#aanchor432
+C2xAssignNodeToStation|CAPLfunctionC2xAssignNodeToStation.htm#aanchor31711
+C2xCompletePacket|CAPLfunctionC2xCompletePacket.htm#aanchor17662
+C2xConvertTimeFromMSSinceUTC|CAPLfunctionC2xConvertTimeFromMSSinceUTC.htm#aanchor11472
+C2xConvertTimeToMSSinceUTC|CAPLfunctionC2xConvertTimeToMSSinceUTC.htm#aanchor26867
+C2xCreateStation|CAPLfunctionC2xCreateStation.htm#aanchor5846
+C2xDisableMsg|CAPLfunctionC2xDisableMsg.htm#aanchor28570
+C2xEnableMsg|CAPLfunctionC2xEnableMsg.htm#aanchor1395
+C2xGetCycleTime|CAPLfunctionC2xGetCycleTime.htm#aanchor30852
+C2xGetDefaultMacId|CAPLfunctionC2xGetDefaultMacId.htm#aanchor31770
+C2xGetITSTimeStamp|CAPLfunctionC2xGetITSTimeStamp.htm#aanchor24425
+C2xGetLastError|CAPLfunctionC2xGetLastError.htm#aanchor26849
+C2xGetLastErrorText|CAPLfunctionC2xGetLastErrorText.htm#aanchor11927
+C2xGetMessageName|CAPLfunctionC2xGetMessageName.htm#aanchor21385
+C2xGetNodeName|CAPLfunctionC2xGetNodeName.htm#aanchor21077
+C2xGetStationHandle|CAPLfunctionC2xGetStationHandle.htm#aanchor13289
+C2xGetStationHandleByStationName|CAPLfunctionC2xGetStationHandleByStationName.htm#aanchor22716
+C2xGetStationName|CAPLfunctionC2xGetStationName.htm#aanchor17724
+C2xGetThisData|CAPLfunctionC2xGetThisData.htm#aanchor31214
+C2xGetThisMotorolaValue16|CAPLfunctionC2xGetThisMotorolaValue16.htm#aanchor23999
+C2xGetThisMotorolaValue32|CAPLfunctionC2xGetThisMotorolaValue32.htm#aanchor19990
+C2xGetThisMotorolaValue64|CAPLfunctionC2xGetThisMotorolaValue64.htm#aanchor28428
+C2xGetThisTimeNS|CAPLfunctionC2xGetThisTimeNS.htm#aanchor14481
+C2xGetThisValue16|CAPLfunctionC2xGetThisValue16.htm#aanchor22593
+C2xGetThisValue32|CAPLfunctionC2xGetThisValue32.htm#aanchor7857
+C2xGetThisValue64|CAPLfunctionC2xGetThisValue64.htm#aanchor18307
+C2xGetThisValue8|CAPLfunctionC2xGetThisValue8.htm#aanchor25439
+C2xGetTokenBitOfBitString|CAPLfunctionC2xGetTokenBitOfBitString.htm#aanchor13514
+C2xGetTokenBitString|CAPLfunctionC2xGetTokenBitString.htm#aanchor6435
+C2xGetTokenData|CAPLfunctionC2xGetTokenData.htm#aanchor9567
+C2xGetTokenInt|CAPLfunctionC2xGetTokenInt.htm#aanchor5591
+C2xGetTokenInt64|CAPLfunctionC2xGetTokenInt64.htm#aanchor21630
+C2xGetTokenLengthBit|CAPLfunctionC2xGetTokenLengthBit.htm#aanchor28400
+C2xGetTokenOidElement|CAPLfunctionC2xGetTokenOidElement.htm#aanchor21791
+C2xGetTokenString|CAPLfunctionC2xGetTokenString.htm#aanchor30208
+C2xGetTokenSubString|CAPLfunctionC2xGetTokenSubString.htm#aanchor31078
+C2xInitPacket|CAPLfunctionC2xInitPacket.htm#aanchor22422
+C2xInitProtocol|CAPLfunctionC2xInitProtocol.htm#aanchor11096
+C2xIsMsgEnabled|CAPLfunctionC2xIsMsgEnabled.htm#aanchor597
+C2xIsNodeStarted|CAPLfunctionC2xIsNodeStarted.htm#aanchor10424
+C2xIsPacketValid|CAPLfunctionC2xIsPacketValid.htm#aanchor11613
+C2xIsTokenAvailable|CAPLfunctionC2xIsTokenAvailable.htm#aanchor30372
+C2xOutputPacket|CAPLfunctionC2xOutputPacket.htm#aanchor24725
+C2xProtocolAnalyzerGetRuleList|CAPLfunctionC2xProtocolAnalyzerGetRuleList.htm#aanchor19353
+C2xReceivePacket|CAPLfunctionC2xReceivePacket.htm#aanchor8450
+C2xRegisterCallback|CAPLfunctionC2xRegisterCallback.htm#aanchor19511
+C2xReleasePacket|CAPLfunctionC2xReleasePacket.htm#aanchor12868
+C2xRemoveNodeAssignment|CAPLfunctionC2xRemoveNodeAssignment.htm#aanchor4504
+C2xRemoveToken|CAPLfunctionC2xRemoveToken.htm#aanchor25632
+C2xReportProtocolViolation|CAPLfunctionC2xReportProtocolViolation.htm#aanchor25704
+C2xResizeToken|CAPLfunctionC2xResizeToken.htm#aanchor26129
+C2xSecCertificateCreate|CAPLfunctionC2xSecCertificateCreate.htm#aanchor32074
+C2xSecCertificateGetHandle|CAPLfunctionC2xSecCertificateGetHandle.htm#aanchor20814
+C2xSecCertificateGetHashedId8|CAPLfunctionC2xSecCertificateGetHashedId8.htm#aanchor27158
+C2xSecCertificateGetName|CAPLfunctionC2xSecCertificateGetName.htm#aanchor18699
+C2xSecCertificateGetSignerHandle|CAPLfunctionC2xSecCertificateGetSignerHandle.htm#aanchor21154
+C2xSecCertificateGetSignerHashedId8|CAPLfunctionC2xSecCertificateGetSignerHashedId8.htm#aanchor29936
+C2xSecCertificateGetStatus|CAPLfunctionC2xSecCertificateGetStatus.htm#aanchor30775
+C2xSecPacketGetSignerHandle|CAPLfunctionC2xSecPacketGetSignerHandle.htm#aanchor21036
+C2xSecPacketGetSignerHashedId8|CAPLfunctionC2xSecPacketGetSignerHashedId8.htm#aanchor19963
+C2xSecPacketGetSignerType|CAPLfunctionC2xSecPacketGetSignerType.htm#aanchor4292
+C2xSecPacketGetStatus|CAPLfunctionC2xSecPacketGetStatus.htm#aanchor28304
+C2xSecPacketIsSecured|CAPLfunctionC2xSecPacketIsSecured.htm#aanchor27826
+C2xSecPacketSetSignerHandle|CAPLfunctionC2xSecPacketSetSignerHandle.htm#aanchor22383
+C2xSecPacketSetSignerType|CAPLfunctionC2xSecPacketSetSignerType.htm#aanchor21150
+C2xSendMsg|CAPLfunctionC2xSendMsg.htm#aanchor30827
+C2xSetCycleTime|CAPLfunctionC2xSetCycleTime.htm#aanchor28094
+C2xSetSignal|#aanchor20968
+C2xSetStationSpeed|CAPLfunctionC2xSetStationSpeed.htm#aanchor884
+C2xSetTokenBitOfBitString|CAPLfunctionC2xSetTokenBitOfBitString.htm#aanchor21862
+C2xSetTokenBitString|CAPLfunctionC2xSetTokenBitString.htm#aanchor22512
+C2xSetTokenData|CAPLfunctionC2xSetTokenData.htm#aanchor19091
+C2xSetTokenInt|CAPLfunctionC2xSetTokenInt.htm#aanchor24395
+C2xSetTokenInt64|CAPLfunctionC2xSetTokenInt64.htm#aanchor5169
+C2xSetTokenOidElement|CAPLfunctionC2xSetTokenOidElement.htm#aanchor26790
+C2xSetTokenString|CAPLfunctionC2xSetTokenString.htm#aanchor13042
+C2xSetVerbosity|CAPLfunctionC2xSetVerbosity.htm#aanchor18792
+Car2x CAPL Functions|../CAPLfunctionsCar2xOverview.htm#aanchor7431
+Car2x Error Codes|../CAPLfunctionsCar2xErrorCodes.htm#aanchor16978
+OnProtocolViolation|../Callbacks/CAPLfunctionC2xOnProtocolViolation.htm#aanchor27621
+OnScenarioStateChanged|../Callbacks/CAPLfunctionC2xOnScenarioStateChanged.htm#aanchor16247
+OnStartScenario|../Callbacks/CAPLfunctionC2xOnStartScenario.htm#aanchor4225
+OnStationAttributeTrigger|../Callbacks/CAPLfunctionC2xOnStationAttributeTrigger.htm#aanchor28915
+OnStationAttributeTriggerAll|../Callbacks/CAPLfunctionC2xOnStationAttributeTriggerAll.htm#aanchor21716
+SetStationSpeed|../../ADAS/Functions/CAPLfunctionSetStationSpeed.htm#aanchor28451
+```
+
+© Vector Informatik GmbH
+
+CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
+
+[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
+
+[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

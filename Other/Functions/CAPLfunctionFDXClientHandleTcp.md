@@ -1,0 +1,64 @@
+[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Other/Functions/CAPLfunctionFDXClientHandleTcp.md)
+
+[CAPL Functions](../../CAPLfunctions.md) » [General](../CAPLGeneralStartPage.md) » [Function Overview](../CAPLfunctionsGeneralOverview.md) » FDXClientHandleTcp
+
+# FDXClientHandleTcp
+
+[Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
+
+## Function Syntax
+
+- `long FDXClientHandleTcp(dword ipv4Address, dword port); // form 1`
+- `long FDXClientHandleTcp(byte ipv6Address[], dword port); // form 2`
+
+## Description
+
+This function creates an FDX client handle for the FDX client with the specified address.
+
+Prerequisite for the function is to configure **TCP/IPv4** or **TCP/IPv6** as transport layer for the FDX feature.
+
+## Parameters
+
+- **ipv4Address**: IPv4 address of the FDX clients
+- **ipv6Address**: IPv6 address of the FDX clients
+- **port**: TCP port number of the FDX clients.
+
+## Return Values
+
+If successful, the function returns a value greater than 0, which means the FDX client handle. Values smaller than or equal to zero indicate an error.
+
+- **-1**: The FDX feature is disabled in the CANoe DE product configuration or configured for another transport layer.
+
+## Example
+
+**Example for TCP/IPv4**
+
+```plaintext
+long fdxClientHandle = 0;
+dword fdxClientPort = 0;
+dword fdxClientAddr = 0;
+
+fdxClientAddr = IpGetAddressAsNumber("127.0.0.1");
+fdxClientPort = 2810;
+fdxClientHandle = FDXClientHandleTcp(fdxClientAddr, fdxClientPort);
+```
+
+**Example for TCP/IPv6**
+
+```plaintext
+long  fdxClientHandle = 0;
+dword fdxClientPort = 0;
+byte  fdxClientAddr[16];
+
+IpGetAddressAsArray("::1", fdxClientAddr);
+fdxClientPort = 2820;
+fdxClientHandle = FDXClientHandleTcp(fdxClientAddr, fdxClientPort);
+```
+
+[Coupling of two CANoe Instances using the FDX Protocol](../../../CANoeCANalyzer/Interfaces/FDXProtocolCouplingCANoeInstances.md) • [FDXClientHandleUdp](CAPLfunctionFDXClientHandleUdp.md)
+
+© Vector Informatik GmbH
+
+CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
+
+[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

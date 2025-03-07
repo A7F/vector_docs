@@ -1,0 +1,45 @@
+[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/DistributedObjects/Methods/CAPLfunctionValueGetValueState.md)
+
+## CAPL Functions » Distributed Objects » valueHandle::GetValueState
+
+### Tool Availability
+[Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
+
+### Method Syntax
+```plaintext
+dword valueHandle::GetValueState();
+```
+
+### Description
+Returns the state of the value, which tells in particular whether it has already been updated once since the last call to [valueHandle::ResetValueState](CAPLfunctionValueResetValueState.md).
+
+### Parameters
+—
+
+### Return Values
+- **State of the value**
+  - 0 – value not available or invalid
+  - 1 – no value has been set yet
+  - 2 – value was last set before the current measurement or the last call to [valueHandle::ResetValueState](CAPLfunctionValueResetValueState.md). The value may be the initial value if there is one defined.
+  - 3 – value was set since the last call to [valueHandle::ResetValueState](CAPLfunctionValueResetValueState.md)
+
+### Example
+```plaintext
+long ret;
+consumedEventRef * anEvent;
+anEvent = lookupConsumedEvent(path);
+if (anEvent.GetValueState() != 3) // not yet received
+{
+  anEvent.ClearUpdateFlag();
+  ret = testWaitForUpdateFlag(anEvent, 200);
+  // ...
+}
+```
+
+[Programming with the Communication Concept (C#, Python and CAPL)](../../../CANoeCANalyzer/CommunicationConcept/Programming/CCP.md) • [valueHandle::ResetValueState](CAPLfunctionValueResetValueState.md)
+
+© Vector Informatik GmbH
+
+**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
+
+[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

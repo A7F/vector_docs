@@ -1,0 +1,41 @@
+[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ISO11783/ISOInteractionLayer/Functions/CAPLfunctionIso11783ILBlockTxMessage.md)
+
+# Iso11783IL_BlockTxMessage
+
+[CAPL Functions](../../../CAPLfunctions.md) » [ISO11783](../../CAPLfunctionsISO11783Overview.md) » [ISO11783 Interaction Layer](../CAPLfunctionsISOILOverview.md) » Iso11783IL_BlockTxMessage
+
+**Valid for**: CANoe DE • CANoe4SW DE
+
+## Function Syntax
+
+```plaintext
+long Iso11783IL_BlockTxMessage(dword pgn, dword destinationAddress, qword filterMask, qword filterValue); // form 1
+long Iso11783IL_BlockTxMessage(dbNode node, dword pgn, dword destinationAddress, qword filterMask, qword filterValue); // form 2
+```
+
+## Description
+
+Prevents transmitting of a message generated and sent by the interaction layer.
+
+The message to block is specified by PGN, destination address and a part of the first eight data bytes.
+
+To revert this command you can use [Iso11783IL_ResetBlockedTxMessage](CAPLfunctionIso11783ILResetBlockedTxMessage.md) or [Iso11783IL_ResetAllBlockedTxMessages](CAPLfunctionIso11783ILResetAllBlockedTxMessages.md).
+
+## Parameters
+
+- **pgn**: The message with this PGN shall be blocked.
+- **destinationAddress**:
+  - 0 - 255: The message which is sent to this address shall be blocked.
+  - 0xFFFFFFFF (-1): The destination address of the message doesn’t matter.
+- **filterMask**: Defines the bits of the message which shall be used to identify the message.
+- **filterValue**: Defines the value of the bits of the message which shall be used to identify the message. If the value of the masked bits of a sent message is equal to this value then the data of the message is blocked.
+- **node**: Simulation node to apply the function.
+
+## Return Values
+
+- **0**: Manipulation is set successfully
+- **-102**: An invalid parameter is used
+
+## Example
+
+—

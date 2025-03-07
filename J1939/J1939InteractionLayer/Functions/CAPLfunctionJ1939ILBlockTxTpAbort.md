@@ -1,0 +1,41 @@
+[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/J1939/J1939InteractionLayer/Functions/CAPLfunctionJ1939ILBlockTxTpAbort.md)
+
+## CAPL Functions » J1939 » J1939 IL » J1939ILBlockTxTpAbort
+
+# J1939ILBlockTxTpAbort
+
+[Feature availability for your product](../../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
+
+### Function Syntax
+
+- `long J1939ILBlockTxTpAbort();` // Form 1
+- `long J1939ILBlockTxTpAbort(dbNode node);` // Form 2
+
+### Description
+
+Prevents transmitting of the TP.Abort message generated and sent by the interaction layer. The Abort message is blocked every time until the CAPL function [J1939ILResetBlockedTxTpAbort](CAPLfunctionJ1939ILResetBlockedTxTpAbort.md) is called. After blocking the Abort message, the Interaction Layer silently closes the connection without sending further messages.
+
+### Parameters
+
+- **node**: Simulation node to apply the function.
+
+### Return Values
+
+- **0**: OK
+- **-3001**: General Error
+
+### Example
+
+```plaintext
+on start {
+  long res;
+  res = J1939ILBlockTxTpAbort(1); // Block Abort
+  if(res != 0) {
+    write("An error occurred: %d", res);
+  }
+}
+```
+
+© Vector Informatik GmbH
+
+[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

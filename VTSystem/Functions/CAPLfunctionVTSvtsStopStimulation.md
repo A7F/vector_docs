@@ -1,0 +1,42 @@
+[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/VTSystem/Functions/CAPLfunctionVTSvtsStopStimulation.md)
+
+**CAPL Functions** » **VT System** » **vtsStopStimulation**
+
+# vtsStopStimulation
+
+[Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE
+
+## Function Syntax
+
+```plaintext
+long vtsStopStimulation (char Target[]);
+```
+
+## Description
+
+Stops the output of a stimulation signal. This resets the stimulation mode. Therefore it is not sufficient to call [vtsStartStimulation](CAPLfunctionVTSvtsStartStimulation.md) to start the output again. You also have to restore the stimulation mode, e.g. by calling [vtsSetStimulationMode](CAPLfunctionVTSvtsSetStimulationMode.md).
+
+At the end of the execution of the command there is a short break before other commands will be executed. This means that the next functions will be executed after a short delay. This procedure ensures that the stop command is executed effectively. The command should be called only in the context of a test module setup but not in handler functions. In handler functions, the correct execution of the stop command cannot be ensured.
+
+## Parameters
+
+- **Target**: Name of the system variable/namespace that will be affected by this function call.
+
+## Return Values
+
+- **0**: Successful call
+- **-1**: Call error
+- **-2**: The namespace on which the command was called does not exist, is not a valid VT System namespace or does not support this command.
+- **-4**: The function wasn't called in the context of the main method of a test module. So it is not possible to wait until the setting will be taken over from the VT System. Otherwise, the call was successful but it is not sure if the settings have been taken over already when the call returns.
+
+## Example
+
+See example [vtsSetStimulationMode](CAPLfunctionVTSvtsSetStimulationMode.md)
+
+[StopStimulation](CAPLfunctionVTSStopStimulation.md)
+
+© Vector Informatik GmbH
+
+**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
+
+[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

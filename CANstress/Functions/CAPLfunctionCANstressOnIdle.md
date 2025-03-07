@@ -1,0 +1,46 @@
+[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANstress/Functions/CAPLfunctionCANstressOnIdle.md)
+
+**CAPL Functions** » [CANstresss](../CAPLfunctionsCANstressOverview.md) » CANstressOnIdle
+
+# CANstressOnIdle
+
+[Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
+
+## Function Syntax
+
+```
+long CANstressOnIdle( char fnctCallback[] );
+```
+
+## Description
+
+Registers a CAPL function as callback that is called if CANstress is switched into the state **Idle**.
+
+## Parameters
+
+- **fnctCallback**: Name of the function that should be used as callback.
+
+  **Note**
+  - The callback functions must correspond to the following syntax: `long FunctionName( dword );`
+  - Should the CAPL function used as callback not longer be called when CANstress changes into the **Idle** condition, an empty string must be passed as parameter to [CANstressOnPending](CAPLfunctionCANstressOnPending.md).
+
+  ```
+// delete or switch off present callback
+CANstressOnIdle( " " );
+  ```
+
+## Return Values
+
+- **0**: On successful call.
+
+## Example
+
+—
+```
+© Vector Informatik GmbH
+
+CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
+
+[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
+
+[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

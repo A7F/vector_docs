@@ -1,0 +1,60 @@
+[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Security/CallbackHandler/CAPLfunctionOnSecurityOfNodePDUValidatedWithOemInfo.md)
+
+**CAPL Functions** » **Security** » **OnSecurityOfNodePDUValidatedWithOemInfo**
+
+# OnSecurityOfNodePDUValidatedWithOemInfo
+
+[Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
+
+**Note:** Replaces OnSecurityOfNodePDUValidated.
+
+## Function Syntax
+
+```plaintext
+void OnSecurityOfNodePDUValidatedWithOemInfo(char nodeName[], char networkName[], char pduName[], dword dataId, byte payload[], dword payloadLength, qword pduExtractedAuthInfoHigh, qword pduExtractedAuthInfo, dword pduExtractedAuthInfoBitLength, qword pduExtractedFreshness, dword pduExtractedFreshnessBitLength, dword freshnessValueId, dword verificationResult, long oemSpecificFailureReason, qword freshnessValueUsedToValidatePDU, dword freshnessBitLengthUsedToValidatePDU)
+```
+
+## Description
+
+This callback handler is called when a secured PDU is received in the node. Besides the verification result, all values used for verification can be analyzed. It provides information about the specific error if the validation failed. Additionally, you get information about the freshness value and length used for the validation.
+
+The parameter `VerificationResult` indicates if the validation was successful or not.
+
+## Parameters
+
+- **char nodeName[]**: The name of the node.
+- **char networkName[]**: The name of the network the node is on.
+- **pduName[]**: The name of the PDU.
+- **dataId**: The used Data-ID.
+- **payload**: The byte array with the received data.
+- **payloadLength**: Length of the payload array in bytes.
+- **pduExtractedAuthInfoHigh**: Received authentication (MAC). Bytes 8-15. (not relevant for RNA)
+- **pduExtractedAuthInfo**: Received authentication (MAC). Bytes 0-7.
+- **pduExtractedAuthInfoBitLength**: Length of the Authentication in bit.
+- **pduExtractedFreshness**: Received Freshness value from PDU.
+- **pduExtractedFreshnessBitLength**: Length of the Freshness in bit.
+- **freshnessValueId**: Freshness value id.
+- **verificationResult**: Verification result.
+  - Not verified = 0
+  - Verified = 1
+- **oemSpecificFailureReason**: OEM security specific error codes, which give additional information about why the validation failed.
+- **freshnessValueUsedToValidatePDU**: The (full) freshness value used to validate the PDU.
+- **freshnessBitLengthUsedToValidatePDU**: The freshness length in bits used to validate the PDU.
+
+## Return Values
+
+—
+
+## Example
+
+—
+
+[OnSecurityLocalPDUValidatedWithOemInfo](CAPLfunctionOnSecurityLocalPDUValidatedWithOemInfo.md)
+
+© Vector Informatik GmbH
+
+**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
+
+[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
+
+[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

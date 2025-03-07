@@ -1,0 +1,55 @@
+[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/SmartCharging/Callbacks/CAPLfunctionSCCChargingStatusRes.md)
+
+**CAPL Functions** » [Smart Charging](../CAPLFunctionsSmartChargingOverview.md) » [SCC Modeling Libraries (Simulation Setup)](../CAPLFunctionsSmartChargingOverview.md#BMNodeayerDLL) » [EV Callback Functions](../CAPLFunctionsSmartChargingOverview.md#CallbackEV) » SCC_ChargingStatusRes
+
+# SCC_ChargingStatusRes
+
+[Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE  •  CANoe4SW DE
+
+**Note**
+
+- `<InvalidValueSigned>` and/or `<InvalidValueUnsigned>` can be defined in the XML configuration.
+- These are returned if an optional numeric message parameter was queried by this function but not found.
+- See [Configuration of Vehicle SCC Nodes](../../../CANoeCANalyzer/SmartCharging/SCProcedures/SCCConfigurationVehicleSCCNodes.md) or [Configuration of Chargepoint SCC Nodes](../../../CANoeCANalyzer/SmartCharging/SCProcedures/SCConfigurationChargePointSCCNodes.md).
+
+## Function Syntax
+
+```plaintext
+void SCC_ChargingStatusRes ( byte SessionID[], 
+long ResponseCode, char EVSEID[], 
+long SAScheduleTupleID, long ReceiptRequired )
+```
+
+## Description
+
+The callback is called as soon as a Charging Status Response is received.
+
+Further details that are transmitted in this request can be queried with the following functions:
+
+- [SCC_GetMaxCurrent](../Functions/CAPLfunctionSCCGetMaxCurrent.md)
+- [SCC_GetMeterInfoData](../Functions/CAPLfunctionSCCGetMeterInfoData.md)
+- [SCC_GetResponseCodeString](../Functions/CAPLfunctionSCCGetResponseCodeString.md)
+
+## Parameters
+
+- **SessionID**: 8-byte long SessionID of SCC connection, range: 0 – 0xFF FF FF FF FF FF FF FF.
+- **ResponseCode**: 1 if **OK**, 0 if **FAILED**
+- **EVSEID**: ID of charge point.
+- **SAScheduleTupleID**: ID of the selected SAScheduleTuple
+- **ReceiptRequired**: Indicates if the vehicle is required to send a MeteringReceiptReq
+
+## Return Values
+
+—
+
+## Example
+
+—
+
+© Vector Informatik GmbH
+
+**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
+
+[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
+
+[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

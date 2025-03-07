@@ -1,0 +1,66 @@
+[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionAREthGetMessageType.md)
+
+**CAPL Functions** » [Ethernet](../../CAPLEthernetStartPage.md) » [AUTOSAR Eth IL](../CAPLfunctionsAREthILOverview.md) » AREthGetMessageType
+
+# AREthGetMessageType
+
+[Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
+
+## Function Syntax
+
+```plaintext
+dword AREthGetMessageType ( dword messageHandle );
+```
+
+## Description
+
+This function returns the Message Type from the SOME/IP message header.
+
+## Parameters
+
+- **messageHandle**: Handle of the SOME/IP message (e.g. see [OnAREthMessage](CAPLfunctionOnAREthMessage.md))
+
+## Return Values
+
+- **Message type**:
+  - 0x00: REQUEST
+  - 0x01: REQUEST_NO_RETURN
+  - 0x02: NOTIFICATION
+  - 0x40: REQUEST ACK
+  - 0x41: REQUEST_NO_RETURN ACK
+  - 0x42: NOTIFICATION ACK
+  - 0x80: RESPONSE
+  - 0x81: ERROR
+  - 0xC0: RESPONSE ACK
+  - 0xC1: ERROR ACK
+
+In the event of an error, the function returns the value 0. The [AREthGetLastError](CAPLfunctionAREthGetLastError.md) function can then be used to check whether the value is valid or an error has occurred.
+
+## Example
+
+```plaintext
+void OnAREthMessage( dword messageHandle )
+{
+  dword msgType       = 0;
+  LONG  errorCode     = 0;
+  LONG  errorOccured  = 0;
+
+  // get data from SOME/IP message
+  if((msgType = AREthGetMessageType(messageHandle)) == 0)
+  {
+    // check if last function was executed correct
+    if((errorCode = AREthGetLastError()) != 0)
+    {
+      write("AUTOSAR Eth IL error occured: Error code: %d", errorCode);
+      errorOccured = 1;
+    } // if
+  } // if
+
+  if(errorOccured == 0)
+  {
+    write("SOME/IP message with Message Type 0x%02x received",msgType);
+  } // if
+}
+```
+
+[See Also](javascript:void(0);)
