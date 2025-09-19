@@ -16,7 +16,7 @@ dword ethernetPacket.<protocol>.byteLength;
 
 Returns the length of the payload of the protocol. The selector is read only.
 
-If \`<protocol\>` is not contained in the packet, the selector returns 0. [ethernetPacket::protocol::IsAvailable](../Methods/CAPLfunctionProtocolIsAvailable.md) can be used to find out if the protocol is available.
+If `<protocol>` is not contained in the packet, the selector returns 0. [ethernetPacket::protocol::IsAvailable](../Methods/CAPLfunctionProtocolIsAvailable.md) can be used to find out if the protocol is available.
 
 ## Parameters
 

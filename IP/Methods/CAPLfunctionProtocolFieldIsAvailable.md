@@ -8,7 +8,7 @@
 
 ## Method Syntax
 
-long [ethernetPacket](../Objects/CAPLfunctionEthernetPacket.md).\`<[protocol](../../../CANoeCANalyzer/Ethernet/Protocols/Protocol.md)\>`.\`<field\>`.IsAvailable();
+long [ethernetPacket](../Objects/CAPLfunctionEthernetPacket.md).`<[protocol](../../../CANoeCANalyzer/Ethernet/Protocols/Protocol.md)>`.`<field>`.IsAvailable();
 
 ## Description
 
