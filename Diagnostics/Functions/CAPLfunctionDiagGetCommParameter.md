@@ -27,7 +27,7 @@ Returns the value of a numeric/textual communication parameter of the given or c
     - 1: Extended
     - 2: NormalFixed
     - 3: Mixed
-    - <0: No ISO TP
+    - `< 0`: No ISO TP
   - **CANoe.TxId**: CAN Id for transmitted frames
   - **CANoe.RxId**: CAN Id for received frames
   - **CANoe.BaseAddress**: TP base address

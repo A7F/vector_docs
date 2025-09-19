@@ -28,7 +28,7 @@ Retrieves the qualifier of the variant that is configured for the current target
 Length of qualifier written to buffer, may be truncated:
 
 - **0**: No error, OK
-- **<0**: [Error code](../CAPLfunctionsDiagnosticsErrorCode.md)
+- **`< 0`**: [Error code](../CAPLfunctionsDiagnosticsErrorCode.md)
 - **-94**: Especially No target was selected
 
 ## Example

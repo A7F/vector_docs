@@ -67,7 +67,7 @@ References a provided PDU endpoint, which means a specific combination of consum
   **Access Limitation**: Read only
 
 - **`<SignalName>`**: Accesses the specified signal on the PDU.  
-  **Type**: <Data type of the signal>  
+  **Type**: `<Data type of the signal>`  
   **Access Limitation**: 
 
 ### Example

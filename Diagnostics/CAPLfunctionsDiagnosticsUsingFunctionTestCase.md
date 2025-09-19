@@ -22,7 +22,7 @@ CANoe assumes the automatic handling of "Response Pending" (negative response wi
 
 The return values of these functions conform to the following pattern:
 
-- <0: An internal error occurred, e.g. faulty configuration of the Diagnostic Layer.
+- `< 0`: An internal error occurred, e.g. faulty configuration of the Diagnostic Layer.
 - 0: The timeout was reached, i.e. the specific event did **not** occur within the specified time.
 - 1: The event occurred. This may also be a negative response while waiting for a response from the ECU!
 

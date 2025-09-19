@@ -26,7 +26,7 @@ The `[x]` and `[ ]` symbols before each single rule or rule group name represent
 ## Return Values
 
 - **0**: Success
-- **<0**: Error, target buffer too small or error occurred during copying the Protocol Analyzer rules.
+- **`< 0`**: Error, target buffer too small or error occurred during copying the Protocol Analyzer rules.
 
 ## Example
 

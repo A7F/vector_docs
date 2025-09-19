@@ -42,7 +42,7 @@ Reinitializes the object for the given service or primitive. Diagnostics request
 ## Return Values
 
 - **0**: No error, OK
-- **<0**: [Error code](../CAPLfunctionsDiagnosticsErrorCode.md)
+- **`< 0`**: [Error code](../CAPLfunctionsDiagnosticsErrorCode.md)
 
 ## Example
 

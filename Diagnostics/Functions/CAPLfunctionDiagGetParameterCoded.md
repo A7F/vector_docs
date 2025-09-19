@@ -28,7 +28,7 @@ Sets or specifies the value of a parameter directly via coded data bytes.
 
 ## Return Values
 
-0 if bytes were copied, otherwise <0 for an [error code](../CAPLfunctionsDiagnosticsErrorCode.md).
+0 if bytes were copied, otherwise `< 0` for an [error code](../CAPLfunctionsDiagnosticsErrorCode.md).
 
 ## Example
 

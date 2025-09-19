@@ -31,7 +31,7 @@ This function creates a new user-defined Car2x Protocol Analyzer protocol violat
 ## Return Values
 
 - **0**: Success
-- **<0**: Error, the protocol violation was not created
+- **`< 0`**: Error, the protocol violation was not created
 
 ## Example
 

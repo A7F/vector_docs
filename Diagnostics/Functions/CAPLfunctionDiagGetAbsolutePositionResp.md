@@ -42,7 +42,7 @@ Retrieves the position of a parameter in its primitive. The parameter may be loc
 ### Return Values
 
 - **0**: success
-- **<0**: [Error code](../CAPLfunctionsDiagnosticsErrorCode.md)
+- **`< 0`**: [Error code](../CAPLfunctionsDiagnosticsErrorCode.md)
 
 ### Example
 
