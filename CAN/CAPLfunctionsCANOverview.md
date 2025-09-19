@@ -12,7 +12,7 @@
 - [Selectors](#Selectors)
 - [Statistics API](#StatisticsAPI)
 
-## Bus Statistics [▲ back](#Shortcuts)
+## Bus Statistics 
 
 - **[canEnableStatistics](Functions/CAPLfunctionCanEnableStatistics.md):** Enables or disables CAN statistics on a specific (Form 1) or all (Form 2) CAN channels.
 - **[canGetBurstsCount](Functions/CAPLfunctionCanGetBurstsCount.md):** Gets the total count of bursts of a CAN channel.
@@ -37,7 +37,7 @@
 - **[canGetTransceiverErrorCount](Functions/CAPLfunctionCanGetTransceiverErrorCount.md):** Gets the total count of transceiver errors of a CAN channel.
 - **[canGetTxErrorCount](Functions/CAPLfunctionCanGetTxErrorCount.md):** Gets the total count of transmit errors of a CAN channel.
 
-## CANdb API [▲ back](#Shortcuts)
+## CANdb API 
 
 - **[getFirstCANdbFilename](Functions/CAPLfunctionGetFirstCANdbFileName.md):** Finds out the filename of the first assigned database.
 - **[getFirstCANdbName](Functions/CAPLfunctionGetFirstCANdbName.md):** Finds out the name of the first assigned database.
@@ -49,7 +49,7 @@
 - **[getNextCANdbName](Functions/CAPLfunctionGetNextCANdbName.md):** Finds out the names of the other assigned databases.
 - **[setSignalStartValues](Functions/CAPLfunctionSetSignalStartValues.md):** Sets the values of the signals in the parameter to the start values defined in the database.
 
-## Event Procedures [▲ back](#Shortcuts)
+## Event Procedures 
 
 - **[on busIntegration](EventProcedures/CAPLfunctionOnBusIntegration.md):** Is called when a CAN channel is Bus Integrated (e.g. after the start of measurement, rest or bit timing changed).
 - **[on errorFrame](EventProcedures/CAPLfunctionOnErrorFrame.md):** Occurrence of an Error Frame.
@@ -65,7 +65,7 @@
 - **on errorPassive:** CAN controller goes to ErrorPassive.
 - **on warningLimit:** CAN controller reaches the Warning Limit.
 
-## General Functions [▲ back](#Shortcuts)
+## General Functions 
 
 - **[canConfigureBusOff](Functions/CAPLfunctionCanConfigureBusOff.md):** Sets the bus state to **BussOff**.
 - **[canGetDataLength](Functions/CAPLfunctionCanGetDataLength.md):** Returns the valid payload length of the can message.
@@ -77,7 +77,7 @@
 - **[output](Functions/CAPLfunctionOutput.md):** Outputs a message or an Error Frame from the program block.
 - **[valOfId](Functions/CAPLfunctionValOfId.md):** Returns the value of a message identifier independent of its type.
 
-## Hardware API [▲ back](#Shortcuts)
+## Hardware API 
 
 - **[canActivateTxSelfAck](Functions/CAPLfunctionCanActivateTxSelfAck.md):** Activates/deactivates the transmit [self ack feature](../../CANoeCANalyzer/Ribbon/Hardware/NetworkHardware/NetworkHardwareCANControllerConfiguration.md) for the defined channel.
 - **[canFdGetConfiguration](Functions/CAPLfunctionCanFdSetConfiguration.md):** Gets the CAN controller parameters for arbitration and data phase.
@@ -99,12 +99,12 @@
 - **[SetCanBittimingConfiguration](Functions/CAPLfunctionGetSetCanBittimingConfiguration.md):** Configures the bit timings.
 - **[setOcr](Functions/CAPLfunctionSetOcr.md):** Sets the Output Control Register.
 
-## Selectors [▲ back](#Shortcuts)
+## Selectors 
 
 - **[Message](CAPLfunctionMessageSelectors.md):** Detailed description of the CAN [message](../../Shared/CAPL/General/DeclarationOfMessages.md) selectors.
 - **[ErrorFrame](CAPLfunctionErrorFrameSelectors.md):** Detailed description of the CAN Error Frame selectors.
 
-## Statistics API [▲ back](#Shortcuts)
+## Statistics API 
 
 - **[canResetStatistics](Functions/CAPLfunctionCanResetStatistics.md):** Resets CAN statistics.
 - **[BusLoad](Functions/CAPLfunctionBusLoad.md):** Returns the current busload of a channel.

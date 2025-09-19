@@ -22,7 +22,7 @@
 - [Station API](#StationAPI)
 - [Time API](#TimeFunctions)
 
-## Callback Functions [▲ back](#Shortcuts)
+## Callback Functions 
 
 - **`<OnC2xPacket>`**: [CAPL handler to receive data of WLAN packets.](Callbacks/CAPLfunctionC2xOnC2xPacket.md)
 - **`<OnC2xTransmitPacket>`**: [CAPL handler to modify database defined WLAN packets before transmission.](Callbacks/CAPLfunctionC2xOnC2xTransmitPacket.md)
@@ -32,7 +32,7 @@
 - **OnStationAttributeTrigger**: [Defines a reaction on triggerable attributes of a scenario station.](Callbacks/CAPLfunctionC2xOnStationAttributeTrigger.md)
 - **OnStationAttributeTriggerAll**: [Defines a reaction on all triggerable attributes of all stations in the scenario.](Callbacks/CAPLfunctionC2xOnStationAttributeTriggerAll.md)
 
-## Car2x IL API [▲ back](#Shortcuts)
+## Car2x IL API 
 
 - **C2xConfigureChannel**: [Redefines some or all channel parameters on the fly.](Functions/CAPLfunctionC2xConfigureChannel.md)
 - **C2xDisableMsg**: [Disables a message that is enabled.](Functions/CAPLfunctionC2xDisableMsg.md)
@@ -51,18 +51,18 @@
 - **C2xStartNode**: [Start transmission of messages for node.](Functions/CAPLfunctionC2xStartNode.md)
 - **C2xStopNode**: [Stop transmission of messages for node.](Functions/CAPLfunctionC2xStopNode.md)
 
-## Car2x Protocol Analyzer API [▲ back](#Shortcuts)
+## Car2x Protocol Analyzer API 
 
 - **C2xReportProtocolViolation**: [Publish the Protocol Analyzer rule violation.](Functions/CAPLfunctionC2xReportProtocolViolation.md)
 - **C2xProtocolAnalyzerGetRuleList**: [Copies the multiline text representation of the Car2x Protocol Analyzer rules to the variable specified by buffer function parameter.](Functions/CAPLfunctionC2xProtocolAnalyzerGetRuleList.md)
 
-## Car2x Stack API [▲ back](#Shortcuts)
+## Car2x Stack API 
 
 - **C2xAddGeoPos**: [Sets the current geographical position of the station.](Functions/CAPLfunctionC2xAddGeoPos.md)
 - **C2xApplyPathHistory**: [Applies path history data to the packet.](Functions/CAPLfunctionC2xApplyPathHistory.md)
 - **C2xResetPathHistory**: [Clears previously stored path history data.](Functions/CAPLfunctionC2xResetPathHistory.md)
 
-## Car2x Test Service Library [▲ back](#Shortcuts)
+## Car2x Test Service Library 
 
 - **C2xTestGetWaitForMessage**: [Retrieves the Car2x message that has led to the resume of the last wait statement.](Functions/CAPLfunctionC2xTestGetWaitForMessage.md)
 - **C2xTestJoinMessage**: [Joins a Car2x message to the current set of waiting events.](Functions/CAPLfunctionC2xTestJoinMessage.md)
@@ -72,7 +72,7 @@
 - **C2xTestWaitForSignalInRange**: [Waits for a Car2X message which has a signal that is inside or equals the given limits](Functions/CAPLfunctionC2xTestWaitForSignalInRange.md)
 - **C2xTestWaitForSignalMatch**: [Waits for a Car2X message which has a signal that matches the given value.](Functions/CAPLfunctionC2xTestWaitForSignalMatch.md)
 
-## General Functions [▲ back](#Shortcuts)
+## General Functions 
 
 - **C2xGetDefaultMacId**: [Returns the MAC-ID of a WLAN interface.](Functions/CAPLfunctionC2xGetDefaultMacId.md)
 - **C2xGetLastError**: [Gets the last error code.](Functions/CAPLfunctionC2xGetLastError.md)
@@ -80,7 +80,7 @@
 - **C2xRegisterCallback**: [Register a CAPL handler function.](Functions/CAPLfunctionC2xRegisterCallback.md)
 - **C2xSetVerbosity**: [Sets the verbosity level of the Car2x IL.](Functions/CAPLfunctionC2xSetVerbosity.md)
 
-## Packet API [▲ back](#Shortcuts)
+## Packet API 
 
 - **C2xAddToken**: [Adds a token at the end of a protocol header.](Functions/CAPLfunctionC2xAddToken.md)
 - **C2xCompletePacket**: [Completes a WLAN packet for sending.](Functions/CAPLfunctionC2xCompletePacket.md)
@@ -123,7 +123,7 @@
 - **C2xSetTokenPhys**: [Sets the physical value of the ASN.1 token in the packet.](Functions/CAPLfunctionC2xSetTokenPhys.md)
 - **C2xSetTokenString**: [Sets the string value of a token.](Functions/CAPLfunctionC2xSetTokenString.md)
 
-## Scenario API [▲ back](#Shortcuts)
+## Scenario API 
 
 - **C2xAdjustStationSpeedForCollision**: [Adjusts the speed of the given station for collision.](Functions/CAPLfunctionC2xAdjustStationSpeedForCollision.md)
 - **C2xCreateStation**: [Creates a station and assigns it to the currently loaded scenario.](Functions/CAPLfunctionC2xCreateStation.md)
@@ -153,7 +153,7 @@
 - **C2xStartScenario**: [Starts the scenario assigned to the current CANoe DE product configuration immediately.](Functions/CAPLfunctionC2xStartScenario.md)
 - **C2xStopScenario**: [Stops the scenario execution immediately.](Functions/CAPLfunctionC2xStopScenario.md)
 
-## Security API [▲ back](#Shortcuts)
+## Security API 
 
 - **C2xSecCertificateCreate**: [Generate a certificate.](Functions/CAPLfunctionC2xSecCertificateCreate.md)
 - **C2xSecCertificateGetHandle**: [Gets a certificate handle from a certificate.](Functions/CAPLfunctionC2xSecCertificateGetHandle.md)
@@ -172,7 +172,7 @@
 - **C2xSecPacketSetSignerHandle**: [Assigns a certificate to a Tx packet.](Functions/CAPLfunctionC2xSecPacketSetSignerHandle.md)
 - **C2xSecPacketSetSignerType**: [Specifies how the message signer information is included in the message.](Functions/CAPLfunctionC2xSecPacketSetSignerType.md)
 
-## Station API [▲ back](#Shortcuts)
+## Station API 
 
 - **C2xGetNodeName**: [Get the name of the station's assigned database node.](Functions/CAPLfunctionC2xGetNodeName.md)
 - **C2xGetStationColor**: [Get the station's color.](Functions/CAPLfunctionC2xGetStationColor.md)
@@ -182,7 +182,7 @@
 - **C2xGetStationHandleByStationName**: [Retrieves an ITS station handle by the name of the ITS station.](Functions/CAPLfunctionC2xGetStationHandleByStationName.md)
 - **C2xRemoveNodeAssignment**: [Removes an assigned database node from an ITS station.](Functions/CAPLfunctionC2xRemoveNodeAssignment.md)
 
-## Time API [▲ back](#Shortcuts)
+## Time API 
 
 - **C2xConvertMod32TsToUTC**: [A new CAPL function was implemented to convert a mod32 time stamp into a UTC time stamp as array of type long.](Functions/CAPLFunctionC2xConvertMod32TsToUTC.md)
 - **C2xConvertTimeFromMSSinceUTC**: [Converts a time stamp in milliseconds since a reference time into a UTC time stamp.](Functions/CAPLfunctionC2xConvertTimeFromMSSinceUTC.md)

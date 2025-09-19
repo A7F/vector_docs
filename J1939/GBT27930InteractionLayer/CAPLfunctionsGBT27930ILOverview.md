@@ -14,14 +14,14 @@
 - [Other Functions](#Other)
 - [Signal/Message Access](#Signal/M)
 
-## Callback Functions [▲ back](#Shortcuts)
+## Callback Functions 
 
 - [GBT27930IL_OnError](Functions/CAPLfunctionGBT27930ILOnError.md): This callback function is called from the GBT27930 IL if an error occurred.
 - [GBT27930IL_OnRxMessage](Functions/CAPLfunctionGBT27930ILOnRxMessage.md): Is called if a message was received successfully.
 - [GBT27930IL_OnTxMessage](Functions/CAPLfunctionGBT27930ILOnTxMessage.md): Is called if a message was sent successfully.
 - [GBT27930IL_OnTxPrepare](Functions/CAPLfunctionGBT27930ILOnTxPrepare.md): Is called before a parameter group is sent.
 
-## Charging Simulation [▲ back](#Shortcuts)
+## Charging Simulation 
 
 - [GBT27930IL_InitAsCharger](Functions/CAPLfunctionGBT27930ILInitAsCharger.md): Inits simulated node as a charger.
 - [GBT27930IL_InitAsBMS](Functions/CAPLfunctionGBT27930ILInitAsBMS.md): Inits simulated node as a BMS.
@@ -34,7 +34,7 @@
 - [GBT27930IL_SetMaxAllowedMissingTimeForMsg](Functions/CAPLfunctionGBT27930ILSetMaxAllowedMissingTimeForMsg.md): Defines the maximum time a message from the charger may stay missing until the BMS starts its BEM message.
 - [GBT27930IL_TolerateDeviation](Functions/CAPLfunctionGBT27930ILTolerateDeviation.md): Allows the simulated node to tolerate variations in the address of the other participant and the length of its messages.
 
-## Fault Injection [▲ back](#Shortcuts)
+## Fault Injection 
 
 - [GBT27930IL_BlockRxMessage](Functions/CAPLfunctionGBT27930ILBlockRxMessage.md)
 - [GBT27930IL_ResetBlockedRxMessage](Functions/CAPLfunctionGBT27930ILResetBlockedRxMessage.md)
@@ -49,7 +49,7 @@
 - [GBT27930IL_ResetManipulatedMessage](Functions/CAPLfunctionGBT27930ILResetManipulatedMessage.md)
 - [GBT27930IL_ResetAllManipulatedMessages](Functions/CAPLfunctionGBT27930ILResetAllManipulatedMessages.md): Modifies the content of a message generated and sent by the interaction layer.
 
-## Message Configuration [▲ back](#Shortcuts)
+## Message Configuration 
 
 - [GBT27930IL_DisableMsg](Functions/CAPLfunctionGBT27930ILDisableMsg.md): Disables the sending of a message.
 - [GBT27930IL_EnableMsg](Functions/CAPLfunctionGBT27930ILEnableMsg.md): Re-enables the sending of a disabled message.
@@ -59,7 +59,7 @@
 - [GBT27930IL_SetMsgPriority](Functions/CAPLfunctionGBT27930ilsetmsgpriority.md): Sets the message priority.
 - [GBT27930IL_SetMsgPGN](Functions/CAPLfunctionGBT27930ilsetmsgpgn.md): Sets new value of PGN.
 
-## Node Control [▲ back](#Shortcuts)
+## Node Control 
 
 - [GBT27930IL_ControlInit](Functions/CAPLfunctionGBT27930ILControlInit.md): Suppress the auto-start function of the IL.
 - [GBT27930IL_ControlStart](Functions/CAPLfunctionGBT27930ILControlStart.md): Activate node to start Address Claiming.
@@ -67,12 +67,12 @@
 - [GBT27930IL_GetAddress](Functions/CAPLfunctionGBT27930ILGetAddress.md): Returns the address that is used by the J1939 IL.
 - [GBT27930IL_SetNodeProperty](Functions/CAPLfunctionGBT27930ILSetNodeProperty.md): Sets the property of a node.
 
-## Other Functions [▲ back](#Shortcuts)
+## Other Functions 
 
 - [GBT27930IL_GetLastError](Functions/CAPLfunctionGBT27930ILGetLastError.md): Returns the value of the last called J1939 IL function.
 - [GBT27930IL_GetLastErrorText](Functions/CAPLfunctionGBT27930ILGetLastErrorText.md): Returns the textual description of the value of the last called J1939 IL function.
 
-## Signal/Message Access [▲ back](#Shortcuts)
+## Signal/Message Access 
 
 - [GBT27930IL_SetSignal](Functions/CAPLfunctionGBT27930ILSetSignal.md): Sets the physical value of a signal.
 - [GBT27930IL_SetSignalRaw](Functions/CAPLfunctionGBT27930ILSetSignalRaw.md): Sets the raw value of a signal.

@@ -22,14 +22,14 @@
 - [Send and Receive](#Send)
 - [Working Set Master](#WorkingSetMaster)
 
-## Access Environment Variables [▲ back](#Shortcuts)
+## Access Environment Variables 
 
 - [J1939GetEnvDbl](Functions/CAPLfunctionJ1939GetEnvDbl.md): Returns the value of an environment variable of type double.
 - [J1939GetEnvInt](Functions/CAPLfunctionJ1939GetEnvInt.md): Returns the value of an integer environment variable.
 - [J1939SetEnvDbl](Functions/CAPLfunctionJ1939SetEnvDbl.md): Sets the value of an environment variable of type double.
 - [J1939SetEnvInt](Functions/CAPLfunctionJ1939SetEnvInt.md): Sets the value of an integer environment variable.
 
-## Callback Functions [▲ back](#Shortcuts)
+## Callback Functions 
 
 - [J1939AppAddrClaimed](Functions/CAPLfunctionJ1939AppAddrClaimed.md): Indicates that Address Claiming was performed successfully.
 - [J1939AppCmdAddrIndication](Functions/CAPLfunctionJ1939AppCmdAddrIndication.md): Indicates that a new address has been assigned to a control device.
@@ -39,7 +39,7 @@
 - [J1939AppRxIndication](Functions/CAPLfunctionJ1939AppRxIndication.md): Indicates that a parameter group has been received.
 - [J1939AppTxIndication](Functions/CAPLfunctionJ1939AppTxIndication.md): Indicates that a PG has been sent successfully.
 
-## Network Relevant Functions [▲ back](#Shortcuts)
+## Network Relevant Functions 
 
 - [J1939EnableNameManagement](Functions/CAPLfunctionJ1939EnableNameManagement.md): Activated or deactivated the name management of a node.
 - [J1939GetAAC](Functions/CAPLfunctionJ1939Get.md): Returns if a device is self-configuring.
@@ -69,7 +69,7 @@
 - [J1939TableTime](Functions/CAPLfunctionJ1939TableTime.md): Returns the time stamp of the last received "Request for Address Claim".
 - [J1939UpdateTable](Functions/CAPLfunctionJ1939UpdateTable.md): Updates the network table.
 
-## Node Control [▲ back](#Shortcuts)
+## Node Control 
 
 - [J1939CreateECU](Functions/CAPLfunctionJ1939CreateECU.md): Sets up a logical node within a CANoe network node.
 - [J1939DestroyECU](Functions/CAPLfunctionJ1939DestroyECU.md): Deletes a logical node.
@@ -78,19 +78,19 @@
 - [J1939GetEcuState](Functions/CAPLfunctionJ1939GetEcuState.md): Returns the current state of the ECU.
 - [J1939GetNodeAddr](Functions/CAPLfunctionJ1939GetNodeAddr.md): Returns the current address of a logical ECU.
 
-## Other Functions [▲ back](#Shortcuts)
+## Other Functions 
 
 - [J1939GetLastError](Functions/CAPLfunctionJ1939Getlasterror.md): Returns the last error code.
 - [J1939GetLastErrorText](Functions/CAPLfunctionJ1939Getlasterrortext.md): Gets the description of the last error occurred.
 
-## Send and Receive [▲ back](#Shortcuts)
+## Send and Receive 
 
 - [J1939GetRxData](Functions/CAPLfunctionJ1939GetRxData.md): Receives data of a parameter group.
 - [J1939SetTPParam](Functions/CAPLfunctionJ1939SetTPParam.md): Changes the settings of the transport protocol.
 - [J1939TxAbort](Functions/CAPLfunctionJ1939TxAbort.md): Interrupts a parameter group transmission.
 - [J1939TxReqPG](Functions/CAPLfunctionJ1939TxReqPG.md): Sends a parameter group.
 
-## Working Set Master [▲ back](#Shortcuts)
+## Working Set Master 
 
 - [J1939GetWSMAddr](Functions/CAPLfunctionJ1939GetWSMAddr.md): Returns the address of the Working Set Master.
 - [J1939GetWSMaster](Functions/CAPLfunctionJ1939GetWSMaster.md): Returns the address of the Working Set Master.

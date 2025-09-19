@@ -22,7 +22,7 @@
 - [TCP Handling](../SOMEIPIL/CAPLfunctionsSomeIPILOverview.md#TCP)
 - [Value Access](#ValueAccess)
 
-## Callback Functions [▲ back](#Shortcuts)
+## Callback Functions 
 
 - [`<OnAREthEventReceived>`](Functions/CAPLfunctionOnAREthEventReceived.md): CAPL handler to receive events.
 - [`<OnAREthFieldNotification>`](Functions/CAPLfunctionOnAREthFieldNotification.md): CAPL handler to receive field change notifications.
@@ -45,7 +45,7 @@
 - [OnAREthSDServerEventGroupStatusChanged](Functions/CAPLfunctionOnAREthSDServerEventGroupStatusChanged.md): CAPL handler to be called when a Client executes the Require Service or Release Service.
 - [OnAREthSDServerEventGroupStatusChangedIPv6](Functions/CAPLfunctionOnAREthSDServerEventGroupStatusChangedIPv6.md): CAPL handler to be called when a Client executes the Require Service or Release Service.
 
-## Client-Side API [▲ back](#Shortcuts)
+## Client-Side API 
 
 - [AREthAddConsumedEventGroup](Functions/CAPLfunctionAREthAddConsumedEventGroup.md): Adds an Event Group to a Consumed Service Instance
 - [AREthCallMethod](Functions/CAPLfunctionAREthCallMethod.md): Sends a request to the server.
@@ -59,7 +59,7 @@
 - [AREthRemoveFieldConsumer](Functions/CAPLfunctionAREthRemoveFieldConsumer.md): Deletes a Field Consumer.
 - [AREthRemoveMethodCall](Functions/CAPLfunctionAREthRemoveMethodCall.md): Deletes a method call.
 
-## Control API [▲ back](#Shortcuts)
+## Control API 
 
 - [AREthILControlGetStatus](Functions/CAPLfunctionAREthILControlGetStatus.md): Returns current status of AUTOSAR Eth IL.
 - [AREthILControlInit](Functions/CAPLfunctionAREthILControlInit.md): Initializes the AUTOSAR Eth IL.
@@ -68,7 +68,7 @@
 - [AREthILControlStop](Functions/CAPLfunctionAREthILControlStop.md): Stops the AUTOSAR Eth IL.
 - [AREthILControlWait](Functions/CAPLfunctionAREthILControlWait.md): Stops sending cyclic messages.
 
-## Endpoints [▲ back](#Shortcuts)
+## Endpoints 
 
 - [AREthCloseLocalApplicationEndpoint](Functions/CAPLfunctionAREthCloseLocalApplicationEndpoint.md): Closes an application endpoint.
 - [AREthOpenLocalApplicationEndpoint](Functions/CAPLfunctionAREthOpenLocalApplicationEndpoint.md): Opens an application endpoint.
@@ -76,7 +76,7 @@
 - [AREthTlsAuthenticateAsServerWithConfiguration](Functions/CAPLFunctionAREthTlsAuthenticateAsServerWithConfiguration.md): Starts the (D)TLS authentication handshake as server.
 - [AREthPreConfigureTlsConnection](Functions/CAPLfunctionAREthPreConfigureTlsConnection.md): Preconfigures (D)TLS connection between localAEP and remoteAEP at measurement start.
 
-## General Functions [▲ back](#Shortcuts)
+## General Functions 
 
 - [AREthGetLastError](Functions/CAPLfunctionAREthGetLastError.md): Interface to retrieve the last error which occurs in the AUTOSAR Eth IL.
 - [AREthGetLastErrorText](Functions/CAPLfunctionAREthGetLastErrorText.md): Interface to retrieve the last error that occurred in the AUTOSAR Eth IL as string.
@@ -84,7 +84,7 @@
 - [AREthSetProperty](Functions/CAPLfunctionAREthSetProperty.md): Sets a property of the AUTOSAR Eth IL.
 - [AREthSetVerbosity](Functions/CAPLfunctionAREthSetVerbosity.md): Sets the verbosity level of the AUTOSAR Eth IL.
 
-## Low-level API [▲ back](#Shortcuts)
+## Low-level API 
 
 - [AREthCreateMessage](Functions/CAPLfunctionAREthCreateMessage.md): Creates a SOME/IP message.
 - [AREthOutputMessage](Functions/CAPLfunctionAREthOutputMessage.md): Sends a SOME/IP message.
@@ -92,13 +92,13 @@
 - [AREthReleaseMessage](Functions/CAPLfunctionAREthReleaseMessage.md): Deletes a SOME/IP message.
 - [AREthSendARPDUTo](Functions/CAPLfunctionAREthSendARPDUTo.md): Sends data as AUTOSAR PDU via a connection.
 
-## Raw Data Access [▲ back](#Shortcuts)
+## Raw Data Access 
 
 - [AREthGetData](Functions/CAPLfunctionAREthGetData.md): Queries the raw data of a SOME/IP message.
 - [AREthSerializeMessage](Functions/CAPLfunctionAREthSerializeMessage.md): Serializes the SOME/IP message including the header into a buffer.
 - [AREthSetData](Functions/CAPLfunctionAREthSetData.md): Sets the raw data of a SOME/IP message.
 
-## Server-Side API [▲ back](#Shortcuts)
+## Server-Side API 
 
 - [AREthAddEvent](Functions/CAPLfunctionAREthAddEvent.md): Adds an event to a Provided Service Instance.
 - [AREthAddEventToEventgroup](Functions/CAPLfunctionAREthAddEventToEventgroup.md): Assigns an event to an Event Group.
@@ -117,7 +117,7 @@
 - [AREthRemoveProvidedEventGroup](Functions/CAPLfunctionAREthRemoveProvidedEventGroup.md): Removes an Event Group from a Provided Service Instance.
 - [AREthTriggerEvent](Functions/CAPLfunctionAREthTriggerEvent.md): Triggers sending of an event.
 
-## Service Discovery [▲ back](#Shortcuts)
+## Service Discovery 
 
 - [AREthSDDesubscribeEventGroup](Functions/CAPLfunctionAREthSDDesubscribeEventGroup.md): Informs the Remote-SD that Event Group is no longer needed.
 - [AREthSDReleaseService](Functions/CAPLfunctionAREthSDReleaseService.md): Informs the local SD that the Remote Service is no longer needed.
@@ -125,7 +125,7 @@
 - [AREthSDSetServiceStatus](Functions/CAPLfunctionAREthSDSetServiceStatus.md): Informs the Service Discovery of the current status of a provided Service Instance.
 - [AREthSDSubscribeEventGroup](Functions/CAPLfunctionAREthSDSubscribeEventGroup.md): Sends a Subscribe message.
 
-## Static Configuration [▲ back](#Shortcuts)
+## Static Configuration 
 
 - [AREthProvidedEventGroupAddConsumer](Functions/CAPLfunctionAREthProvidedEventGroupAddConsumer.md): Adds a consumer to a provided event group
 - [AREthProvidedEventGroupRemoveConsumer](../SOMEIPIL/Functions/CAPLfunctionSomeIpProvidedEventGroupRemoveConsumer.md): Removes a consumer from a provided event group
@@ -138,19 +138,19 @@
 - [AREthSetMulticastReceiverEndpoints](Functions/CAPLfunctionAREthSetMulticastReceiverEndpoints.md): Sets the multicast endpoint of a consumed event group
 - [AREthSetProviderEndpoints](Functions/CAPLfunctionAREthSetProviderEndpoints.md): Sets the remote endpoints of a consumed service instance
 
-## Symbolic Database Access [▲ back](#Shortcuts)
+## Symbolic Database Access 
 
 - [AREthGetConsumedObjectHandle](Functions/CAPLfunctionAREthGetConsumedObjectHandle.md): Enables to search for a consumed object which has been created separately.
 - [AREthGetProvidedObjectHandle](Functions/CAPLfunctionAREthGetProvidedObjectHandle.md): Enables to search for a provided object which has been created separately.
 - [AREthRegisterCallback](Functions/CAPLfunctionAREthRegisterCallback.md): Enables to register/unregister a CAPL callback function for an object which has been created separately.
 
-## TCP Handling [▲ back](#Shortcuts)
+## TCP Handling 
 
 - [AREthCloseEstablishedTCPConnection](Functions/CAPLfunctionAREthCloseEstablishedTCPConnection.md): Closes one or multiple database defined TCP connection(s).
 - [AREthEstablishTCPConnection](Functions/CAPLfunctionAREthEstablishTCPConnection.md): Establishes one or multiple database defined TCP connection(s).
 - [AREthTCPListen](Functions/CAPLfunctionAREthTCPListen.md): Listen on application endpoint
 
-## Value Access [▲ back](#Shortcuts)
+## Value Access 
 
 - [AREthFillValues](Functions/CAPLfunctionAREthFillValues.md): Fills the fields of SOME/IP events, methods and fields with increasing values for test purposes.
 - [AREthGetDestinationAddress](Functions/CAPLfunctionAREthGetDestinationAddress.md): Returns the IPv4 destination address.

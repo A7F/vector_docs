@@ -25,14 +25,14 @@ To use the CAPL functions the node layer [ISO11783DLL.dll](../../../CANoeCANalyz
 - [Send and Receive](#Send)
 - [Working Set Master](#WorkingSetMaster)
 
-## Access Environment Variables [▲ back](#Shortcuts)
+## Access Environment Variables 
 
 - **Iso11783GetEnvDbl**: Returns the value of an environment variable of type double.
 - **Iso11783GetEnvInt**: Returns the value of an integer environment variable.
 - **Iso11783SetEnvDbl**: Sets the value of an environment variable of type double.
 - **Iso11783SetEnvInt**: Sets the value of an integer environment variable.
 
-## Callback Functions [▲ back](#Shortcuts)
+## Callback Functions 
 
 - **Iso11783AppAddrClaimed**: Indicates that Address Claiming was performed successfully.
 - **Iso11783AppCmdAddrIndication**: Indicates that a new address has been assigned to a control device.
@@ -42,7 +42,7 @@ To use the CAPL functions the node layer [ISO11783DLL.dll](../../../CANoeCANalyz
 - **Iso11783AppRxIndication**: Indicates that a parameter group has been received.
 - **Iso11783AppTxIndication**: Indicates that a PG has been sent successfully.
 
-## File Server Functions [▲ back](#Shortcuts)
+## File Server Functions 
 
 - **Iso11783FSCloseFile**: Closes an opened file or directory.
 - **Iso11783FSGetFileInfo**: Retrieves information about a file or directory.
@@ -56,7 +56,7 @@ To use the CAPL functions the node layer [ISO11783DLL.dll](../../../CANoeCANalyz
 - **Iso11783FSSetPath**: Sets the root directory for the file server functions.
 - **Iso11783FSWriteFile**: Writes data to an open file.
 
-## Network Relevant Functions [▲ back](#Shortcuts)
+## Network Relevant Functions 
 
 - **Iso11783EnableNameManagement**: Activated or deactivated the name management of a node.
 - **Iso11783GetAAC**: Returns if a device is self-configuring.
@@ -86,7 +86,7 @@ To use the CAPL functions the node layer [ISO11783DLL.dll](../../../CANoeCANalyz
 - **Iso11783TableTime**: Returns the time stamp of the last received "Request for Address Claim".
 - **Iso11783UpdateTable**: Updates the network table.
 
-## Node Control [▲ back](#Shortcuts)
+## Node Control 
 
 - **Iso11783CreateECU**: Sets up a logical node within a CANoe network node.
 - **Iso11783DestroyECU**: Deletes a logical node.
@@ -95,7 +95,7 @@ To use the CAPL functions the node layer [ISO11783DLL.dll](../../../CANoeCANalyz
 - **Iso11783GetEcuState**: Returns the current state of the ECU.
 - **Iso11783GetNodeAddr**: Returns the current address of a logical ECU.
 
-## Object Pool API [▲ back](#Shortcuts)
+## Object Pool API 
 
 - **Iso11783OPActivate**: Activates the object pool API.
 - **Iso11783OPChangeActiveMask**: Changes the active data mask.
@@ -155,12 +155,12 @@ To use the CAPL functions the node layer [ISO11783DLL.dll](../../../CANoeCANalyz
 - **Iso11783OPOnStateChange**: Is called on state change of the object pool API.
 - **Iso11783OPOnValueChange**: Is called if the value of an object has been changed.
 
-## Other Functions [▲ back](#Shortcuts)
+## Other Functions 
 
 - **Iso11783GetLastError**: Returns the last error code.
 - **Iso11783GetLastErrorText**: Gets the description of the last error occurred.
 
-## Process Data API [▲ back](#Shortcuts)
+## Process Data API 
 
 - **Iso11783PDDChangeDesignator**: Sends a Change Designator message with a new object designator to the Task Controller.
 - **Iso11783PDDConnectEnvVar**: Connects a process variable with an environment variable.
@@ -186,14 +186,14 @@ To use the CAPL functions the node layer [ISO11783DLL.dll](../../../CANoeCANalyz
 - **Iso11783PDDOnPDM**: Is called on receiving the PDM parameter group.
 - **Iso11783PDDOnStateChanged**: Is called on state change of the process data node layer.
 
-## Send and Receive [▲ back](#Shortcuts)
+## Send and Receive 
 
 - **Iso11783GetRxData**: Receives data of a parameter group.
 - **Iso11783SetTPParam**: Changes the settings of the transport protocol.
 - **Iso11783TxAbort**: Interrupts a parameter group transmission.
 - **Iso11783TxReqPG**: Sends a parameter group.
 
-## Working Set Master [▲ back](#Shortcuts)
+## Working Set Master 
 
 - **Iso11783GetWSMAddr**: Returns the address of the Working Set Master.
 - **Iso11783GetWSMaster**: Returns the address of the Working Set Master.

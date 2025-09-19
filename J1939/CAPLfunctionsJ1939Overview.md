@@ -19,7 +19,7 @@ Only available with [Option J1939](../../CANoeCANalyzer/J1939/J1939.md) and [Opt
 - [General](#General)
 - [CAN FD — J1939-22](#BMcanFDJ1939-22)
 
-## Diagnostic Trouble Code (DTC) [▲ back](#Shortcuts)
+## Diagnostic Trouble Code (DTC) 
 
 - **J1939GetDTC**: Function searches a J1939 diagnostic message for a DTC block containing the specified SPN/FMI/OC values.
 - **J1939GetFmiFromDTC**: Function extracts FMI from DTC.
@@ -28,23 +28,23 @@ Only available with [Option J1939](../../CANoeCANalyzer/J1939/J1939.md) and [Opt
 - **J1939GetSpnFromDTC**: Function extracts SPN from DTC.
 - **J1939MakeDTC**: Function generates a DTC from the defined SPN, FMI and OC.
 
-## Event Procedures [▲ back](#Shortcuts)
+## Event Procedures 
 
 - **on pg**: Receives a J1939 specific message.
 
-## Functional Safety — J1939-76 Dedicated SHM [▲ back](#Shortcuts)
+## Functional Safety — J1939-76 Dedicated SHM 
 
 - **J1939CalculateCrcOfSDM**: Calculates CRC for payload of a Safety Data Message.
 - **J1939FillSHM**: Fills payload of a Safety Header Message with data of Safety Data Message.
 - **J1939ParseSHM**: Provides data of the SDM message, which are contained in payload of the SHM message.
 
-## Functional Safety — Messages With Integrated Checksum and Counter [▲ back](#Shortcuts)
+## Functional Safety — Messages With Integrated Checksum and Counter 
 
 - **J1939CalcChecksum**: Calculates the checksum of a parameter group.
 - **J1939GetChecksumAndCounter**: Stores the checksum and counter of the parameter group in the given arguments.
 - **J1939SetChecksumAndCounter**: Calculates and sets the checksum and the given counter to the parameter group.
 
-## General [▲ back](#Shortcuts)
+## General 
 
 - **J1939ConvertMessageToPg**: Converts a CAN message to a J1939 parameter group.
 - **J1939ConvertPgToMessage**: Converts a J1939 parameter group to a CAN message.
@@ -65,7 +65,7 @@ Only available with [Option J1939](../../CANoeCANalyzer/J1939/J1939.md) and [Opt
 - **J1939SetSourceAddress**: Sets the [source address](../../CANoeCANalyzer/J1939/j1939basics/j1939PGandPGN.md) of a parameter group.
 - **output**: Outputs a parameter group onto the CAN bus.
 
-## CAN FD — J1939-22 [▲ back](#Shortcuts)
+## CAN FD — J1939-22 
 
 - **J1939InitializeMultiPG**: Initiates a CAN FD message for use as a multiPG.
 - **J1939AddContainedPG**: Adds an additional containedPG to a multiPG message.

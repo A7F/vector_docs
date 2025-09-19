@@ -22,13 +22,13 @@
 - [Fit Functions](#Fit)
 - [Serial Bit Analysis Functions and Classes](#SerialBitAnalysis)
 
-## Event Procedures [▲ back](#Shortcuts)
+## Event Procedures 
 
 ### Functions
 
 - [on ScopeEvent](EventProcedures/CAPLfunctionOnScopeEvent.md): Occurrence of a Scope event.
 
-## Eye Diagram [▲ back](#Shortcuts)
+## Eye Diagram 
 
 ### Classes
 
@@ -41,7 +41,7 @@
 - [testWaitScopeGetEyeDiagramAnalysis](../Test/Functions/CAPLfunctionTestWaitScopeGetEyeDiagramAnalysis.md): Request analysis data for a violation found with the eye diagram.
 - [testWaitScopePerformEyeDiagramAnalysis](../Test/Functions/CAPLFunctionTestWaitScopePerformEyeDiagramAnalysis.md): Check bits against a defined bitmask.
 
-## General Function [▲ back](#Shortcuts)
+## General Function 
 
 ### Functions
 
@@ -53,20 +53,20 @@
 
 ## Test Feature Set for Scope
 
-### Acquisition Control Classes and Functions [▲ back](#Shortcuts)
+### Acquisition Control Classes and Functions 
 
 #### Classes
 
 - [ScopeEvent](Classes/CAPLfunctionsScopeEvent.md): Detailed description of occurred scope event.
 
-### Configuration [▲ back](#Shortcuts)
+### Configuration 
 
 #### Functions
 
 - [testWaitScopeSetConfiguration](../Test/Functions/CAPLfunctiontestWaitScopeSetConfiguration.md): Set the configuration for the scope device.
 - [testWaitScopeGetConfigurationInformation](../Test/Functions/CAPLfunctionTestWaitScopeGetConfigurationInformation.md): Get the scope devices and configuration names.
 
-### Duty Cycle Measurement Classes [▲ back](#Shortcuts)
+### Duty Cycle Measurement Classes 
 
 #### Classes
 
@@ -74,7 +74,7 @@
 - [ScopeBitDataDutyCycle](Classes/CAPLfunctionScopeBitDataDutyCycle.md): Request duty cycle measurement data.
 - [ScopeSerialBitAnalysisViolationData](Classes/CAPLfunctionScopeSerialBitAnalysisViolationData.md): Request duty cycle measurement violation data.
 
-### Edge/Transition Time Measurement Functions [▲ back](#Shortcuts)
+### Edge/Transition Time Measurement Functions 
 
 #### Classes
 
@@ -87,20 +87,20 @@
 - [testWaitScopePerformEdgeAnalysis](../Test/Functions/CAPLfunctionTestWaitScopePerformEdgeAnalysis.md): Measures edge parameters.
 - [testWaitScopePerformSignalTransitionTime](../Test/Functions/CAPLfunctionTestWaitScopePerformSignalTransitionTime.md): Measures transition time on bit level.
 
-### Export Functions [▲ back](#Shortcuts)
+### Export Functions 
 
 #### Functions
 
 - [testWaitScopeExportData](../Test/Functions/CAPLfunctionTestWaitScopeExportData.md): Export the scope measurement.
 
-### Fit Functions [▲ back](#Shortcuts)
+### Fit Functions 
 
 #### Fit Functions
 
 - [testWaitForScopeFitData](../Test/Functions/CAPLfunctionTestWaitForScopeFitData.md): Shows frame cutout in scope's Diagram view (CAN).
 - [testWaitForScopeFitDataFr](../Test/Functions/CAPLfunctionTestWaitForScopeFitDataFr.md): Shows frame cutout in scope's Diagram view (FlexRay).
 
-### Serial Bit Analysis Functions and Classes [▲ back](#Shortcuts)
+### Serial Bit Analysis Functions and Classes 
 
 #### Classes
 

@@ -16,7 +16,7 @@ The functions are available with the AUTOSAR PDU Interaction Layer (AUTOSAR PDU 
 - [Signal Handling](#SignalHandling)
 - [Timing Modification](#TimingModification)
 
-## Callback Interface [▲ back](#Shortcuts)
+## Callback Interface 
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -24,7 +24,7 @@ The functions are available with the AUTOSAR PDU Interaction Layer (AUTOSAR PDU 
 | [applILTxRequestConsumed](../CANoeIL/Functions/CAPLfunctionApplILTxRequestConsumed.md) | After **Ignition** state has been enabled by [ARILSetIgnitionState](Functions/CAPLfunctionARILSetIgnitionState.md) or any wake-up-allowed signal is transmitted, then optionally this function is called. |
 | [applILTxRequestPending](../CANoeIL/Functions/CAPLfunctionApplILTxRequestPending.md) | If the **Ignition** state is being enabled by [ARILSetIgnitionState](Functions/CAPLfunctionARILSetIgnitionState.md) or any wake-up-allowed signal is changed, then optionally this function is called. |
 
-## Control [▲ back](#Shortcuts)
+## Control 
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -42,7 +42,7 @@ The functions are available with the AUTOSAR PDU Interaction Layer (AUTOSAR PDU 
 | [ARILSetOperationMode](Functions/CAPLfunctionARILSetOperationMode.md) | Influences the behavior of the update bits and counters. |
 | [ARILSetPowerState](Functions/CAPLfunctionARILSetPowerState.md) | Activates or deactivates the power status globally. |
 
-## Fault Injection and Disturbance [▲ back](#Shortcuts)
+## Fault Injection and Disturbance 
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -60,7 +60,7 @@ The functions are available with the AUTOSAR PDU Interaction Layer (AUTOSAR PDU 
 | [ARILFaultInjectionSetPDULength](Functions/CAPLfunctionARILFaultInjectionSetPDULength.md) | Sets a new payload length for the PDU. |
 | [ARILFaultInjectionSetPowerState](Functions/CAPLfunctionARILFaultInjectionSetPowerState.md) | Activates or deactivates the power status locally. |
 
-## Maintenance [▲ back](#Shortcuts)
+## Maintenance 
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -68,20 +68,20 @@ The functions are available with the AUTOSAR PDU Interaction Layer (AUTOSAR PDU 
 | [ARILGetSigGroupCount](Functions/CAPLfunctionARILGetSigGroupCount.md) | Evaluates how many signal groups are defined inside the PDU. |
 | [ARILGetSigGroupName](Functions/CAPLfunctionARILGetSigGroupName.md) | Retrieves the name of the n`<sup>`th`</sup>` signal group of the PDU. |
 
-## Message Handling [▲ back](#Shortcuts)
+## Message Handling 
 
 | Functions | Short Description |
 |-----------|-------------------|
 | [ARILSetPDUEvent](Functions/CAPLfunctionARILSetPDUEvent.md) | A call of this function will lead to a transmission of the associated PDU. |
 | [ARILControlPDU](Functions/CAPLfunctionARILControlPDU.md) | Sets/activates/deactivates a special feature/action for a dedicated PDU. |
 
-## Signal Handling [▲ back](#Shortcuts)
+## Signal Handling 
 
 | Functions | Short Description |
 |-----------|-------------------|
 | [ARILSetEvent](Functions/CAPLfunctionARILSetEvent.md) | This function considers **Debounce Delay**, and it also considers the activity of the network. |
 
-## Timing Modification [▲ back](#Shortcuts)
+## Timing Modification 
 
 | Functions | Short Description |
 |-----------|-------------------|

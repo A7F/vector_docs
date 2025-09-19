@@ -21,7 +21,7 @@
 
 The following CAPL functions are based on native CAPL. These are the recommended functions to use for CAPL programming.
 
-### A664 Functions (only CANalyzer, CANoe DE, CANoe:lite DE) [▲ back](#Shortcuts)
+### A664 Functions (only CANalyzer, CANoe DE, CANoe:lite DE) 
 
 - **A664CloseProxyPort**: Method to close a specific socket port, which was generated using a664InitProxyPort.
 - **A664GetFunctionalStatus**: This function returns the Functional Status (FS) of an AFDX-PDU (FDS).
@@ -61,25 +61,25 @@ For more convenience in the programming environment a [CAPL include file](../../
 
 To use the CAPL functions the [AFDX_IL.DLL](../../CANoeCANalyzer/AFDX/afdxIL/afdxILInclude.md) must be included.
 
-## Callback Functions [▲ back](#Shortcuts)
+## Callback Functions 
 
 - **`<OnAfdxError>`**: CAPL callback to handle AFDX error events.
 - **`<OnAfdxPacket>`**: CAPL callback to receive data of AFDX packets.
 
-## DB API [▲ back](#Shortcuts)
+## DB API 
 
 - **AfdxGetDBAttrAsString**: Retrieves a message attribute value in string representation from a given message ID.
 - **AfdxGetDBAttrValue**: Retrieves the value of a specific attribute of a dedicated message if the attribute is not of type string.
 - **AfdxGetDBMessageName**: Retrieves the message name from database from a given message ID if it is defined there.
 
-## General Functions [▲ back](#Shortcuts)
+## General Functions 
 
 - **AfdxGetLastError**: Gets the last error code.
 - **AfdxGetLastErrorText**: Gets the description of the last error code.
 - **AfdxSetErrorHandler**: Registers a CAPL callback to handle AFDX error events.
 - **AfdxSetVerbosity**: Sets the verbosity level of the AFDX IL.
 
-## Packet API [▲ back](#Shortcuts)
+## Packet API 
 
 - **AfdxCompletePacket**: Completes an AFDX packet for sending.
 - **AfdxDeregisterReceiveCallback**: Deregisters a previous installed CAPL callback.
@@ -110,7 +110,7 @@ To use the CAPL functions the [AFDX_IL.DLL](../../CANoeCANalyzer/AFDX/afdxIL/afd
 - **AfdxSetTokenReal**: Sets the float or double value of a token.
 - **AfdxSetTokenString**: Sets the string value of a token.
 
-## Signal API [▲ back](#Shortcuts)
+## Signal API 
 
 If signals of messages are defined in an AFDX database, they may be accessed via their defined signal names with these functions or by an offset within the payload if no database information is available.
 

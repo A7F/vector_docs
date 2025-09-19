@@ -25,7 +25,7 @@
 
 ---
 
-### Bus Statistics [▲ back](#Shortcuts)
+### Bus Statistics 
 
 - **frEnableStatistics**: Enables or disables FlexRay statistics on a specific (Form 1) or all (Form 2) FlexRay channels.
 - **frGetBoundaryViolationCount**: Gets the total count of boundary violations of a FlexRay channel.
@@ -47,7 +47,7 @@
 - **frGetSyntaxErrorCount**: Gets the total count of syntax errors of a FlexRay channel.
 - **frGetSyntaxErrorRate**: Gets the rate of syntax errors of a FlexRay channel in frames per second [fr/s].
 
-### Event Procedures [▲ back](#Shortcuts)
+### Event Procedures 
 
 - **on frError**: Is called in the event of a general error being detected on the FlexRay bus.
 - **on frFrame**: Is called up after a frame has been received in the specified slot and cycle.
@@ -66,7 +66,7 @@ The ISO TP node layer DLL (**FlexRayTPISO.dll**) for Vector **DENoe.FlexRay** im
 
 A detailed description of the ISO 10681-2 TP for FlexRay and the implemented CAPL functions can be found in the help [FlexRay TP ISO](../../../../Subsystems/SML/Subsystems/FRTPISO/Content/Topics/FRTPISO/FlexRayTPFRTPiso.md).
 
-### General Functions [▲ back](#Shortcuts)
+### General Functions 
 
 - **frChannelUsesCANoeNetworkSimulator**: Gets whether the given channel uses the built-in network simulator.
 - **frEnableGateway**: Activates a gateway.
@@ -97,13 +97,13 @@ A detailed description of the ISO 10681-2 TP for FlexRay and the implemented CAP
 - **resetFlexRayCC**: Initializes the FlexRay Communication Controller (CC) and begins a new start-up phase for the cluster or a new integrations phase in the cluster.
 - **resetFlexRayCCEx**: Initializes the FlexRay Communication Controller (CC) and generates the specified wake-up pattern before reintegration in the cluster or the start-up.
 
-### Objects [▲ back](#Shortcuts)
+### Objects 
 
 - **frFrame**: Creates a **FlexRay frame object**.
 - **frConfiguration**: Create a **FlexRay parameter object**.
 - **frPDU**: Creates a **FlexRay PDU object**.
 
-### Test Feature Set for FlexRay [▲ back](#Shortcuts)
+### Test Feature Set for FlexRay 
 
 - **testWaitForFrFrame**: Waits for the occurrence of the valid specified FlexRay frame.
 - **testGetWaitFrFrameData**: If a valid FlexRay frame is the last event that triggers a wait instruction, the frame’s content can be called up.
@@ -127,7 +127,7 @@ A detailed description of the ISO 10681-2 TP for FlexRay and the implemented CAP
 - **testGetWaitFrSymbolData**: If a FlexRay symbol event is the last event that triggers a wait instruction, the event’s content can be called up.
 - **testJoinFrSymbolEvent**: Completes the current set of "joined events" with the FlexRay symbol event.
 
-### Test Service Library for FlexRay [▲ back](#Shortcuts)
+### Test Service Library for FlexRay 
 
 - **DLC**: The check condition is violated if the payload length of the message does not agree with the specified payload length of the database (useful for dynamic frames).
 - **Cycle Time**: Checks the occurrences of cyclic messages.
