@@ -9,7 +9,7 @@
 ## Function Syntax
 
 ```
-long mostAmsClearTxQueue(long channel);
+`long mostAmsClearTxQueue(long channel);`
 ```
 
 ## Description

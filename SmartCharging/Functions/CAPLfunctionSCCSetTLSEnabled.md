@@ -14,7 +14,7 @@ void SCC_SetTLSEnabled ( long Enabled )
 
 ## Description
 
-Specifies if TLS is used. This function will affect both the **Security** flag in the SECC Discovery message and the subsequent communication setup. By calling this function, the configuration parameter **<UseTLS>** is overwritten. When no behavior is specified by any of these methods, the remote station may decide for either TCP or TLS.
+Specifies if TLS is used. This function will affect both the **Security** flag in the SECC Discovery message and the subsequent communication setup. By calling this function, the configuration parameter **`<UseTLS>`** is overwritten. When no behavior is specified by any of these methods, the remote station may decide for either TCP or TLS.
 
 **Note:**
 

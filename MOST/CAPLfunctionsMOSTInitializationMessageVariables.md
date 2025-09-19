@@ -37,7 +37,7 @@ There are the following types of message variable for MOST:
   Before sending the message with output(msg) the DLC and thereby also the TelLen can be updated according to the length actually set.
 
 **Example**  
-Press <Ctrl>+<M> or select **Message entry with MOST function catalog** from the shortcut menu to open an input assistant which displays a data entry field in the current program line listing a selection of all MOST messages described in the function catalog. The selection takes in all function catalogs assigned to the CAPL node.
+Press `<Ctrl>`+`<M>` or select **Message entry with MOST function catalog** from the shortcut menu to open an input assistant which displays a data entry field in the current program line listing a selection of all MOST messages described in the function catalog. The selection takes in all function catalogs assigned to the CAPL node.
 
 In this context, the input assistant enables the description of messages up to **OpType** and adds the resulting description to the program text without quotation marks in the notation separated by period marks.
 

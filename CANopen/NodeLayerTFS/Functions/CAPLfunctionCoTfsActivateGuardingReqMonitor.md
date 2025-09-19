@@ -28,7 +28,7 @@ The description of [coTfsActivateHeartbeatMonitor](CAPLfunctionCoTfsActivateHear
 
 - **nodeID**: Node-ID of the DUT.
 - **guardTime**: Guarding time in us.
-- **tolerance**: Permitted time deviation of the target device in us. It is recommended that you use an even value. The tolerated time frame within which a message is still accepted is: x - (delta/2) <= x <= x + (delta/2)
+- **tolerance**: Permitted time deviation of the target device in us. It is recommended that you use an even value. The tolerated time frame within which a message is still accepted is: `x - (delta/2) <= x <= x + (delta/2)`
 
 ## Return Values
 

@@ -1,13 +1,13 @@
 [Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/MATLAB/Functions/CAPLfunctionMODELstep.md)
 
-[CAPL Functions](../../CAPLfunctions.md) » [MATLAB Integration](../CAPLfunctionsMATLABOverview.md) » <ModelName>_step
+[CAPL Functions](../../CAPLfunctions.md) » [MATLAB Integration](../CAPLfunctionsMATLABOverview.md) » `<ModelName>_step`
 
-# <ModelName>_step
+# `<ModelName>_step`
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
 
 **Note**  
-<ModelName> = placeholder for Simulink model
+`<ModelName>` = placeholder for Simulink model
 
 ## Function Syntax
 

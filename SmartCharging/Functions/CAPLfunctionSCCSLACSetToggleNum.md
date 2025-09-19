@@ -8,7 +8,7 @@
 
 ## Function Syntax
 
-```
+```c
 long SCC_SLAC_SetToggleNum ( int ToggleNum )
 ```
 

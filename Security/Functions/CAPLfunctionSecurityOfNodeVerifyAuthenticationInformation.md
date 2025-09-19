@@ -8,8 +8,8 @@
 
 ## Function Syntax
 
-- `long SecurityOfNodeVerifyAuthenticationInformation(dword dataId, byte payload[], dword payloadLength, qword truncatedAuthenticatorHigh, qword truncatedAuthenticator, dword truncatedAuthenticatorBitLength, qword rxFreshness, dword rxFreshnessBitLength, qword currentFreshness, dword freshnessValueLength, dword freshnessValueId, dword verificationResult)` \\ form 1
-- `long SecurityOfNodeVerifyAuthenticationInformation(dword dataId, byte payload[], dword payloadLength, qword truncatedAuthenticatorHigh, qword truncatedAuthenticator, dword truncatedAuthenticatorBitLength, qword rxFreshness, dword rxFreshnessBitLength, qword currentFreshness, dword freshnessValueLength, dword freshnessValueId, dword keyId, dword verificationResult)` \\ form 2
+- `long SecurityOfNodeVerifyAuthenticationInformation(dword dataId, byte payload[], dword payloadLength, qword truncatedAuthenticatorHigh, qword truncatedAuthenticator, dword truncatedAuthenticatorBitLength, qword rxFreshness, dword rxFreshnessBitLength, qword currentFreshness, dword freshnessValueLength, dword freshnessValueId, dword verificationResult)` // form 1
+- `long SecurityOfNodeVerifyAuthenticationInformation(dword dataId, byte payload[], dword payloadLength, qword truncatedAuthenticatorHigh, qword truncatedAuthenticator, dword truncatedAuthenticatorBitLength, qword rxFreshness, dword rxFreshnessBitLength, qword currentFreshness, dword freshnessValueLength, dword freshnessValueId, dword keyId, dword verificationResult)` // form 2
 
 ## Description
 

@@ -13,7 +13,7 @@
 
 ## Description
 
-Retrieves the current raw value of a signal. These functions can be used for signals with more than 32 bits length. If the signal name is statically known, you can also use **$<signal>.raw64** since 7.5 Service Pack 2.
+Retrieves the current raw value of a signal. These functions can be used for signals with more than 32 bits length. If the signal name is statically known, you can also use **$`<signal>`.raw64** since 7.5 Service Pack 2.
 
 ## Parameters
 
@@ -41,7 +41,7 @@ Retrieves the current raw value of a signal. These functions can be used for sig
 
 ### Description
 
-Retrieves the current raw value of a signal. These functions can be used for signals with more than 32 bits length. If the signal name is statically known, you can also use **$<signal>.raw64** since 7.5 Service Pack 2.
+Retrieves the current raw value of a signal. These functions can be used for signals with more than 32 bits length. If the signal name is statically known, you can also use **$`<signal>`.raw64** since 7.5 Service Pack 2.
 
 ### Parameters
 

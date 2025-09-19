@@ -18,7 +18,7 @@ The event procedure is called at the provider when an event is subscribed by a c
 
 ## Parameters
 
-- **<event>**: Designates the event on which the event procedure shall react. This must be a provider endpoint.
+- **`<event>`**: Designates the event on which the event procedure shall react. This must be a provider endpoint.
 
 ## Selectors
 

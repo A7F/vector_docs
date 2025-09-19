@@ -8,7 +8,7 @@
 
 ## Function Syntax
 
-Eth <Ethernet Channel Number>;
+Eth `<Ethernet Channel Number>`;
 
 ## Description
 

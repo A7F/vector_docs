@@ -18,7 +18,7 @@ The event procedure is called when a connection is requested by a consumer.
 
 ## Parameters
 
-- **<ServiceProvider>**: Designates the service provider on which the event procedure shall react.
+- **`<ServiceProvider>`**: Designates the service provider on which the event procedure shall react.
 
 ## Selectors
 

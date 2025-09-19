@@ -16,7 +16,7 @@ dword SomeIpAddEvent( dword psiHandle, dword eventId, char onPrepareEventCallbac
 
 This function adds an Event to a Provided Service Instance that was created by [SomeIpCreateProvidedServiceInstance](CAPLfunctionSomeIpCreateProvidedServiceInstance.md).
 
-[SomeIpTriggerEvent](CAPLfunctionSomeIpTriggerEvent.md) is used to trigger sending of the Event. Then, the CAPL Callback function [<OnSomeIpPrepareEvent>](CAPLfunctionOnSomeIpPrepareEvent.md) is called, and the application has the opportunity to change or update the values of the SOME/IP Event.
+[SomeIpTriggerEvent](CAPLfunctionSomeIpTriggerEvent.md) is used to trigger sending of the Event. Then, the CAPL Callback function [`<OnSomeIpPrepareEvent>`](CAPLfunctionOnSomeIpPrepareEvent.md) is called, and the application has the opportunity to change or update the values of the SOME/IP Event.
 
 An Event can be removed again using the [SomeIpRemoveEvent](CAPLfunctionSomeIpRemoveEvent.md) function.
 
@@ -24,7 +24,7 @@ An Event can be removed again using the [SomeIpRemoveEvent](CAPLfunctionSomeIpRe
 
 - **psiHandle**: Handle of the Provided-Service Instance
 - **eventId**: Identifier of the Event
-- **onPrepareEventCallback**: Name of the CAPL function, see CAPL callback [<OnSomeIpPrepareEvent>](CAPLfunctionOnSomeIpPrepareEvent.md)
+- **onPrepareEventCallback**: Name of the CAPL function, see CAPL callback [\<OnSomeIpPrepareEvent>](CAPLfunctionOnSomeIpPrepareEvent.md)
 
 ## Return Values
 

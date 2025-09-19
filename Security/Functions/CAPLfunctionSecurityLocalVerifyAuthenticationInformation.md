@@ -12,11 +12,11 @@ Replaces `LocalSecurityVerifyAuthenticationInformation`.
 ## Function Syntax
 
 ```
-long SecurityLocalVerifyAuthenticationInformation(dword dataId, byte payload[], dword payloadLength, qword truncatedAuthenticatorHigh, qword truncatedAuthenticator, dword truncatedAuthenticatorBitLength, qword rxFreshness, dword rxFreshnessBitLength, qword currentFreshness, dword freshnessValueLength, dword freshnessValueId, dword verificationResult) \\ form 1
+`long SecurityLocalVerifyAuthenticationInformation(dword dataId, byte payload[], dword payloadLength, qword truncatedAuthenticatorHigh, qword truncatedAuthenticator, dword truncatedAuthenticatorBitLength, qword rxFreshness, dword rxFreshnessBitLength, qword currentFreshness, dword freshnessValueLength, dword freshnessValueId, dword verificationResult)` // form 1
 ```
 
 ```
-long SecurityLocalVerifyAuthenticationInformation(dword dataId, byte payload[], dword payloadLength, qword truncatedAuthenticatorHigh, qword truncatedAuthenticator, dword truncatedAuthenticatorBitLength, qword rxFreshness, dword rxFreshnessBitLength, qword currentFreshness, dword freshnessValueLength, dword freshnessValueId, dword keyId, dword verificationResult) \\ form 2
+`long SecurityLocalVerifyAuthenticationInformation(dword dataId, byte payload[], dword payloadLength, qword truncatedAuthenticatorHigh, qword truncatedAuthenticator, dword truncatedAuthenticatorBitLength, qword rxFreshness, dword rxFreshnessBitLength, qword currentFreshness, dword freshnessValueLength, dword freshnessValueId, dword keyId, dword verificationResult)` // form 2
 ```
 
 ## Description

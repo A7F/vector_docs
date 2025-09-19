@@ -13,7 +13,7 @@ Replaces `LocalSecurityCalculateAuthenticator`.
 ### Function Syntax
 
 ```plaintext
-long SecurityLocalCalculateAuthenticator(dword dataId, byte payload[], dword payloadLength, qword truncatedAuthenticatorHigh, qword truncatedAuthenticator, dword truncatedAuthenticatorBitLength, qword freshness, dword truncatedFreshnessBitLength, dword freshnessValueBitLength, dword freshnessValueId) \\ form 1
+long SecurityLocalCalculateAuthenticator(dword dataId, byte payload[], dword payloadLength, qword truncatedAuthenticatorHigh, qword truncatedAuthenticator, dword truncatedAuthenticatorBitLength, qword freshness, dword truncatedFreshnessBitLength, dword freshnessValueBitLength, dword freshnessValueId) // form 1
 ```
 
 ```plaintext

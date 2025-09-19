@@ -1,6 +1,6 @@
 [Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/Selectors/CAPLfunctionProtocolByte.md)
 
-# ethernetPacket Selectors: <protocol>.byte/word/dword/qword/char/int/long/int64
+# ethernetPacket Selectors: `<protocol>`.byte/word/dword/qword/char/int/long/int64
 
 [CAPL Functions](../../CAPLfunctions.md) » [Ethernet](../CAPLEthernetStartPage.md) » [Function Overview](../CAPLfunctionsIPOverview.md) » [ethernetPacket](../Objects/CAPLfunctionEthernetPacket.md) » Selector byte/word/dword/qword/char/int/long/int64
 

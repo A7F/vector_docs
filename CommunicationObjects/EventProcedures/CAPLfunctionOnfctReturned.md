@@ -16,7 +16,7 @@ The event procedure is called at the consumer when a service function answer is 
 
 ## Parameters
 
-- **<function>**: Designates the function on which the event procedure shall react. This must be a combination of endpoints on consumer side.
+- **`<function>`**: Designates the function on which the event procedure shall react. This must be a combination of endpoints on consumer side.
 
 ## Selectors
 

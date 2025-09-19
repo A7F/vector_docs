@@ -26,8 +26,8 @@ The method call can be removed again using the [AREthRemoveMethodCall](CAPLfunct
 
 - **csiHandle**: Handle of the Consumed Service Instance that was created by [AREthCreateConsumedServiceInstance](CAPLfunctionAREthCreateConsumedServiceInstance.md).
 - **methodId**: Identifier of the method
-- **onResponseCallback**: This callback function is called when the response is received, see [<OnAREthMethodResponse>](CAPLfunctionOnAREthMethodResponse.md)
-- **onErrorCallback**: This callback function is called when a SomeIp error message is received, see [<OnAREthMethodError>](CAPLfunctionOnAREthMethodError.md)
+- **onResponseCallback**: This callback function is called when the response is received, see [`<OnAREthMethodResponse>`](CAPLfunctionOnAREthMethodResponse.md)
+- **onErrorCallback**: This callback function is called when a SomeIp error message is received, see [`<OnAREthMethodError>`](CAPLfunctionOnAREthMethodError.md)
 
 ## Return Values
 

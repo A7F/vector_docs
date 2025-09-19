@@ -22,7 +22,7 @@ Sets the time of the Panel Designer Clock Control. The panel is accessed by its 
 - **panel**: Panel name, restricted to 128 characters. "" – references all loaded panels. If you open a panel the first time, the panel is loaded. If you close the panel, it remains loaded.
   
 - **control**: Name of the control, restricted to 128 characters. You can only access the control by its name. In the property dialog of the control, its name is assigned/displayed. If you want to use the name of a symbol (signal or system variable), you have to ensure that the control has no name instead of the individual control's name. The name of the system variable or signal could be specified as follows:
-  - The form for signals is: "Signal:<signal name>".
+  - The form for signals is: "Signal:`<signal name>`".
   - The form for system variables is: "SysVar:<name of system variable>". The namespace must not be used.
 
   **Note**:

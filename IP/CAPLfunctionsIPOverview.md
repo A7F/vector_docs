@@ -53,7 +53,7 @@
 - [ethGetPhyMode](Functions/CAPLfunctionEthGetPhyMode.md): Gets the PHY mode.
 - [ethGetPhyState](Functions/CAPLfunctionEthGetPhyState.md): Gets the PHY state.
 - [ethSetPhyState](Functions/CAPLfunctionEthSetPhyState.md): Sets the PHY state.
-- [ethResetStatistics](Functions/CAPLfunctionEthResetStatistics.md): Rest the statistics values of Eth<channel> object
+- [ethResetStatistics](Functions/CAPLfunctionEthResetStatistics.md): Rest the statistics values of Eth`<channel>` object
 - [output](Functions/CAPLfunctionOutputEthernet.md): Outputs an Ethernet packet.
 - [ethGetEthernetPort](Functions/CAPLfunctionethGetEthernetPort.md): Gets the Ethernet port for the current simulation node.
 - [ethGetEthernetPortInfos](Functions/CAPLfunctionEthGetEthernetPortInfos.md): Retrieves port related information of all connected network-based Ethernet devices.

@@ -24,7 +24,7 @@
 
 ## Callback Functions [▲ back](#Shortcuts)
 
-- [<OnAREthEventReceived>](Functions/CAPLfunctionOnAREthEventReceived.md): CAPL handler to receive events.
+- [`<OnAREthEventReceived>`](Functions/CAPLfunctionOnAREthEventReceived.md): CAPL handler to receive events.
 - [<OnAREthFieldNotification>](Functions/CAPLfunctionOnAREthFieldNotification.md): CAPL handler to receive field change notifications.
 - [<OnAREthMethodError>](Functions/CAPLfunctionOnAREthMethodError.md): A callback function with this signature must be passed to the CAPL function [AREthCreateMethodCall](Functions/CAPLfunctionAREthCreateMethodCall.md).
 - [<OnAREthMethodRequest>](Functions/CAPLfunctionOnAREthMethodRequest.md): CAPL handler to request a method.

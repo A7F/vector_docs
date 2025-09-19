@@ -147,11 +147,11 @@ Can be used to create an Ethernet send object. The object data can be manipulate
   Type: byte  
   Access Limitation: read-only
 
-- **<protocol>.byte/word/dword/qword/char/int/int64/long**  
+- **`<protocol>`.byte/word/dword/qword/char/int/int64/long**  
   Type: byte, word, dword, qword, char, int, int64, long  
   Access Limitation: —
 
-- **<protocol>.byteLength**  
+- **`<protocol>`.byteLength**  
   Type: long  
   Access Limitation: read-only
 

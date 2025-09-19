@@ -22,7 +22,7 @@ Afterwards the sending of the remote frames is stopped. It is waited for the cor
 
 - **guardTime**: Guard time in milliseconds.
 - **retryFactor**: Retry factor
-- **tolerance**: Permitted time deviation of the target device in milliseconds. It is recommended that you use an even value. The tolerated time frame within which a message is still accepted is: x - (delta/2) <= x <= x + (delta/2)
+- **tolerance**: Permitted time deviation of the target device in milliseconds. It is recommended that you use an even value. The tolerated time frame within which a message is still accepted is: `x - (delta/2) <= x <= x + (delta/2)`
 
 ## Return Values
 

@@ -54,7 +54,7 @@ In order to use them, you simply need to do the following steps:
 
 The following example shows a very simple CAPL ECU simulation node.
 
-You may add additional [on diagRequest <service>](EventProcedures/CAPLfunctionOnDiagRequest.md) handlers for all diagnostic services you want to support with your simulation and change the value of **gECU** to the ECU qualifier you defined in the **Diagnostics/ISO TP…** dialog. Additionally, you might need to adapt the service name for the **Tester Present** service (in this example: **TesterPresent_Process**) to the service identifier specified in your diagnostic description:
+You may add additional [on diagRequest `<service>`](EventProcedures/CAPLfunctionOnDiagRequest.md) handlers for all diagnostic services you want to support with your simulation and change the value of **gECU** to the ECU qualifier you defined in the **Diagnostics/ISO TP…** dialog. Additionally, you might need to adapt the service name for the **Tester Present** service (in this example: **TesterPresent_Process**) to the service identifier specified in your diagnostic description:
 
 ```plaintext
 includes

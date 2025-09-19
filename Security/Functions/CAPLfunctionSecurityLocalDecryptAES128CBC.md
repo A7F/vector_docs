@@ -12,7 +12,7 @@ Replaces `LocalSecurityDecryptAES128CBC`.
 ## Function Syntax
 
 ```
-long SecurityLocalDecryptAES128CBC(byte key[], dword keyLength, byte cipheredData[], dword cipheredDataLength, byte initVector[], dword initVectorLength, byte plainData[], dword plainDataLength)
+`long SecurityLocalDecryptAES128CBC(byte key[], dword keyLength, byte cipheredData[], dword cipheredDataLength, byte initVector[], dword initVectorLength, byte plainData[], dword plainDataLength)`
 ```
 
 ## Description

@@ -22,8 +22,8 @@ On measurement end all existing proxy-ports are closed automatically.
 
 ## Parameters
 
-- **<channel>**: AFDX-channel (1 to 16) to which socket packets should be mapped to (sent and observed).
-- **<outMsgID>**: messageID which is observed on AFDX-channel and transferred to the socket if detected.
+- **`<channel>`**: AFDX-channel (1 to 16) to which socket packets should be mapped to (sent and observed).
+- **`<outMsgID>`**: messageID which is observed on AFDX-channel and transferred to the socket if detected.
 
 ## Return Values
 

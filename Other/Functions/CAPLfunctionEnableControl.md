@@ -22,7 +22,7 @@ If a control and display element is configured as a simple display, this command
 
 - **panel**: Name of the panel, restricted to 128 characters. If an empty string is transferred, the action will affect all loaded panels.
 
-- **control**: Name of the control, restricted to 128 characters. You can only activate/deactivate the control with its name. If you want to use the name of a symbol (signal or system variable) you have to ensure that the control has no name instead of the individual control's name. The form for signals is: "Signal:<signal name>". The form for system variables is: "SysVar:<name of system variable>". The namespace must not be used.
+- **control**: Name of the control, restricted to 128 characters. You can only activate/deactivate the control with its name. If you want to use the name of a symbol (signal or system variable) you have to ensure that the control has no name instead of the individual control's name. The form for signals is: "Signal:`<signal name>`". The form for system variables is: "SysVar:`<name of system variable>`". The namespace must not be used.
 
   **Note:**
   - Symbol assignment is not case sensitive.

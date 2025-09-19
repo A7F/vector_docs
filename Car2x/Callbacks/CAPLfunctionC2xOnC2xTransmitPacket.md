@@ -1,6 +1,6 @@
 [Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Callbacks/CAPLfunctionC2xOnC2xTransmitPacket.md)
 
-[CAPL Functions](../../CAPLfunctions.md) » [Car2x](../CAPLfunctionsCar2xOverview.md) » <OnC2xTransmitPacket>
+[CAPL Functions](../../CAPLfunctions.md) » [Car2x](../CAPLfunctionsCar2xOverview.md) » `<OnC2xTransmitPacket>`
 
 # <OnC2xTransmitPacket> (Callback)
 

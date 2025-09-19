@@ -1,8 +1,8 @@
 [Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/Objects/CAPLfunctionEthernetPort.md)
 
-**CAPL Functions** » [Ethernet](../CAPLEthernetStartPage.md) » [Function Overview](../CAPLfunctionsIPOverview.md) » ethernetPort::<NetworkName>::<PortName>
+**CAPL Functions** » [Ethernet](../CAPLEthernetStartPage.md) » [Function Overview](../CAPLfunctionsIPOverview.md) » ethernetPort::`<NetworkName>`::`<PortName>`
 
-# ethernetPort::<NetworkName>::<PortName>
+# ethernetPort::`<NetworkName>`::`<PortName>`
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
 

@@ -17,7 +17,7 @@
 
 This function activates a diagnostics trouble code (DTC) and adds it to the list of active DTCs. This list with active DTCs is reported in the message DM1. The occurrence count of the DTC is either determined automatically (form 1, 3) or set to a specific value (form 2, 4). Calling form 1 or 3 of the function increments the occurrence count of the DTC with every call. The DTC is uniquely identified by the combination of SPN and FMI. The activated DTC uses conversion method 4 (SPN represented as Intel format for all 19 bits with the SPN Conversion Method set to 0). If a previously active DTC (reported with DM2) is activated again then it is removed from the list of previous active DTCs (and therefore no more reported in message DM2). You can deactivate an activated DTC with [J1939ILDeactivateDTC](CAPLfunctionJ1939ILDeactivateDTC.md).
 
-**Note**: You can use this function only if support of <J1939|ISO11783> Diagnostics is enabled by function [J1939ILActivateDiagnosticsSupport](CAPLfunctionJ1939ILActivateDiagnosticsSupport.md).
+**Note**: You can use this function only if support of `<J1939|ISO11783>` Diagnostics is enabled by function [J1939ILActivateDiagnosticsSupport](CAPLfunctionJ1939ILActivateDiagnosticsSupport.md).
 
 ## Parameters
 

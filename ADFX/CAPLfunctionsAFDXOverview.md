@@ -35,7 +35,7 @@ The following CAPL functions are based on native CAPL. These are the recommended
 - **A664SetChecksum**: This function calculates and sets the checksum in the specified aFrame according to the defined checksum rule.
 - **A664SetFunctionalStatus**: This function sets the Functional Status (FS) of a AFDX-PDU (FDS) (available only in PDU-mode).
 - **A664SetStringSignal**: This function can be used to set a string-signal within a specific a664Message (form 2) or to set the Tx-signal of the CANoe DE product subsystem (form 1).
-- **A664TriggerFrame**: This function triggers the transmission of a single frame <aFrame> either immediately or respecting the BAG.
+- **A664TriggerFrame**: This function triggers the transmission of a single frame `<aFrame>` either immediately or respecting the BAG.
 - **A664TriggerMessage**: This function triggers the scheduling of the message "aMessage". The message is either scheduled once or periodic.
 - **A664VLConfig**: Configure a Virtual-Link for a given a664Frame or a664Message.
 - **Copy Operator**: The copy operator allows to copy a664Message object and a664Frame object combinations.

@@ -18,7 +18,7 @@ The event procedure is called at the provider when an event group is unsubscribe
 
 ## Parameters
 
-- **<EventGroup>**: Designates the event group on which the event procedure shall react. This must be a provider endpoint.
+- **`<EventGroup>`**: Designates the event group on which the event procedure shall react. This must be a provider endpoint.
 
 ## Selectors
 

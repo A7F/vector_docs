@@ -22,7 +22,7 @@ The [frGetConfiguration](../Functions/CAPLfunctionFRGetConfiguration.md) or [frS
 
 ### Parameters
 
-- **<configuration var>**: Character string defining the object’s variable name.
+- **`<configuration var>`**: Character string defining the object's variable name.
 
 ### Selectors
 

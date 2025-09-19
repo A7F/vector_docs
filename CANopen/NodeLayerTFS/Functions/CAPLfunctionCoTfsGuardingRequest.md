@@ -27,7 +27,7 @@ An eventually existing active heartbeat producer is disabled at test start and e
 
 - **guardTime**: Guard time in milliseconds.
 - **retryFactor**: Retry factor.
-- **tolerance**: Permitted time deviation of the target device in milliseconds. It is recommended that you use an even value. The tolerated time-frame within which a message is still accepted is: x - (delta/2) <= x <= x + (delta/2).
+- **tolerance**: Permitted time deviation of the target device in milliseconds. It is recommended that you use an even value. The tolerated time-frame within which a message is still accepted is: `x - (delta/2) <= x <= x + (delta/2)`.
 - **guardReqNumber**: Number of the remote frames to be sent.
 - **waitForEmcy**: If this value is set to 1, after setting the sending of the remote frames, an emergency message with the following content is awaited: EMCY code: 0x8030, Error Register 0x11. With 0, the emergency message is not awaited.
 

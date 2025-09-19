@@ -11,7 +11,7 @@
 ### Function Syntax
 
 ```plaintext
-void OnSecurityLocalPDUPreTx(char pduName[], dword dataId, byte payload[], dword payloadLength, qword& authInfoHigh, qword& authInfo, dword authInfoBitLength, qword& freshness, dword freshnessBitLength, dword freshnessValueId)
+`void OnSecurityLocalPDUPreTx(char pduName[], dword dataId, byte payload[], dword payloadLength, qword& authInfoHigh, qword& authInfo, dword authInfoBitLength, qword& freshness, dword freshnessBitLength, dword freshnessValueId)`
 ```
 
 ### Description

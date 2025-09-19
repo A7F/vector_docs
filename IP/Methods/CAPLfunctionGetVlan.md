@@ -8,8 +8,8 @@
 
 ## Method Syntax
 
-- `long ethernetPacket.GetVlan(word &tpid, word &tci); // form 1`
-- `long ethernetPacket.GetVlan(dword vlanIndex, word &tpid, word &tci); // form 2`
+- `long ethernetPacket.GetVlan(word &tpid, word &tci)` // form 1
+- `long ethernetPacket.GetVlan(dword vlanIndex, word &tpid, word &tci)` // form 2
 
 ## Description
 

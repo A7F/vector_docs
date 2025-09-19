@@ -15,7 +15,7 @@ The Simulink Coder generated DLL contains three additional functions which can b
 The CANoe MATLAB Integration uses meaningful default values to set up and control Simulink model execution. These defaults are determined during the generation process by the Simulink Coder. If you use the CAPL functions described herein you can override these defaults and take control of model execution.
 
 **Note to Function Notation**  
-**<ModelName>** = placeholder for Simulink model
+**`<ModelName>`** = placeholder for Simulink model
 
 ## Export CAPL Functions
 

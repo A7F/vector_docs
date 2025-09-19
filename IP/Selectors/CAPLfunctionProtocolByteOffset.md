@@ -1,6 +1,6 @@
 [Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/Selectors/CAPLfunctionProtocolByteOffset.md)
 
-# ethernetPacket Selectors: <protocol>.byteOffset
+# ethernetPacket Selectors: `<protocol>`.byteOffset
 
 [CAPL Functions](../../CAPLfunctions.md) » [Ethernet](../CAPLEthernetStartPage.md) » [Function Overview](../CAPLfunctionsIPOverview.md) » [ethernetPacket](../Objects/CAPLfunctionEthernetPacket.md) » Selector <protocol>.byteOffset
 

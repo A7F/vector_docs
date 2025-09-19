@@ -28,7 +28,7 @@ This function transforms an inertial coordinate to a geodetic coordinate. Proj_C
 
 ## Return Values
 
-- **long**: 0 if transformation is correct, <> 0 otherwise
+- **long**: 0 if transformation is correct, `<> 0` otherwise
 
 ## Example
 

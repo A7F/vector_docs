@@ -8,7 +8,7 @@
 
 ## Function Syntax
 
-EthernetMacsecConfiguration <variable name>;
+EthernetMacsecConfiguration `<variable name>`;
 
 ## Method Syntax
 

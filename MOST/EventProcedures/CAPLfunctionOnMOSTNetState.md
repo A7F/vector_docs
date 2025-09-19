@@ -9,7 +9,7 @@
 ## Function Syntax
 
 ```plaintext
-OnMostNetState(long oldstate, long newstate);
+`OnMostNetState(long oldstate, long newstate);`
 ```
 
 ## Description

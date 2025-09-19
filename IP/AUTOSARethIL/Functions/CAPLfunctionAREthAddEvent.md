@@ -16,7 +16,7 @@ dword AREthAddEvent( dword psiHandle, dword eventId, char onPrepareEventCallback
 
 This function adds an Event to a Provided Service Instance that was created by [AREthCreateProvidedServiceInstance](CAPLfunctionAREthCreateProvidedServiceInstance.md).
 
-[AREthTriggerEvent](CAPLfunctionAREthTriggerEvent.md) is used to trigger sending of the Event. Then, the CAPL Callback function [<OnAREthPrepareEvent>](CAPLfunctionOnAREthPrepareEvent.md) is called, and the application has the opportunity to change or update the values of the SOME/IP Event.
+[AREthTriggerEvent](CAPLfunctionAREthTriggerEvent.md) is used to trigger sending of the Event. Then, the CAPL Callback function [`<OnAREthPrepareEvent>`](CAPLfunctionOnAREthPrepareEvent.md) is called, and the application has the opportunity to change or update the values of the SOME/IP Event.
 
 An Event can be removed again using the [AREthRemoveEvent](CAPLfunctionAREthRemoveEvent.md) function.
 

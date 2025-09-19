@@ -1,6 +1,6 @@
 [Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/Selectors/CAPLfunctionProtocolFieldBitLength.md)
 
-# ethernetPacket Selectors: <protocol>.<field>.bitLength
+# ethernetPacket Selectors: `<protocol>.<field>.bitLength`
 
 [CAPL Functions](../../CAPLfunctions.md) » [Ethernet](../CAPLEthernetStartPage.md) » [Function Overview](../CAPLfunctionsIPOverview.md) » [ethernetPacket](../Objects/CAPLfunctionEthernetPacket.md) » Selector <protocol>.<field>.bitLength
 

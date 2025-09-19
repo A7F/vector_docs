@@ -15,7 +15,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 void SCC_GetChargingProfileData ( long Index, dword& Start, float& MaxPower, long& MaxNumberOfPhases )
 ```
 

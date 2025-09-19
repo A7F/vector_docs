@@ -18,7 +18,7 @@ diagResponse::IsNegativeResponse ()
 
 ### Description
 
-Returns value <> 0 if the object is a negative response to a request.
+Returns value `<> 0` if the object is a negative response to a request.
 
 ### Parameters
 

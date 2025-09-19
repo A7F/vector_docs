@@ -35,7 +35,7 @@ The function must generate and send the status message to the destAdr address. I
 The special value functionID=-1 triggers the execution of the CAPL function for all MOST functions from the function catalog meeting the following criteria:
 
 - The MOST function must be of the "Property" type.
-- A function with the name cbSendStatus+<MOST function name> needs to be defined in the CAPL program to generate and send the status message.
+- A function with the name cbSendStatus+`<MOST function name>` needs to be defined in the CAPL program to generate and send the status message.
 
 ## Parameters
 

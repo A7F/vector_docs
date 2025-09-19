@@ -24,7 +24,7 @@ diagRequest::IsParameterDefault (char parameterName[])
 
 ## Description
 
-Returns <> 0 if the parameter in the object has its default value.
+Returns `<> 0` if the parameter in the object has its default value.
 
 ## Parameters
 

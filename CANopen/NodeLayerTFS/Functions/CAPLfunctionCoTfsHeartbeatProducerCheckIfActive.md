@@ -27,7 +27,7 @@ This test works passively, no SDO accesses are executed on the DUT.
 
 - **duration**: Test duration in milliseconds, how long the regularity of the heartbeat producer should be tested.
 - **producerTime**: Heartbeat producer time in milliseconds.
-- **tolerance**: Permitted time deviation of the target device in milliseconds. It is recommended that you use an even value. The tolerated time-frame within which a message is still accepted is: x - (tolerance/2) <= x <= x + (tolerance/2)
+- **tolerance**: Permitted time deviation of the target device in milliseconds. It is recommended that you use an even value. The tolerated time-frame within which a message is still accepted is: `x - (tolerance/2) <= x <= x + (tolerance/2)`
 
 ## Return Values
 

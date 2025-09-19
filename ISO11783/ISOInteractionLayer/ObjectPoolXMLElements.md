@@ -201,7 +201,7 @@ In the following the XML elements and the XML attributes of the individual objec
   - XML Element: `<auxiliaryCtrlDesignatorPointer>`
   - XML Attribute: `id`, `type`, `objectID`
 
-All objects that can contain macros are defined by the subelement **<macro>**.
+All objects that can contain macros are defined by the subelement **`<macro>`**.
 
 - **Object that can contain macros**
   - XML Subelement: `<macro>`

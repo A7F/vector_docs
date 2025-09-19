@@ -18,7 +18,7 @@ You can access control information of the [CAN message object](../../Shared/CAPL
 - **name**: (unqualified) symbolic name of the message from the database (since version 7.2). Type: char[]. Access Limitation: read only
 - **[DIR](Selectors/CAPLSelectorDIR.md)**: Direction of transmission, event classification; possible values: Rx, Tx, TXREQUEST. Type: byte. Access Limitation: —
 - **[RTR](Selectors/CAPLSelectorRTR.md)**: Remote Transmission Request; possible values: 0 (no RTR), 1 (RTR). Type: byte. Access Limitation: —
-- **[TYPE](Selectors/CAPLSelectorTYPE.md)**: Combination of DIR and RTR for an efficient evaluation. (TYPE = (RTR << 8) | DIR). Type: word. Access Limitation: —
+- **[TYPE](Selectors/CAPLSelectorTYPE.md)**: Combination of DIR and RTR for an efficient evaluation. (TYPE = (RTR `<<` 8) | DIR). Type: word. Access Limitation: —
 - **[DLC](Selectors/CAPLSelectorDLC.md)**: [The data field length](../../Shared/CAPL/General/DataFieldLegth.md) of a message is coded with the DLC (Data Length Code). Value range: 0..2047. Type: byte. Access Limitation: —
 - **DataLength**: Data length in bytes. Type: byte. Access Limitation: —
 

@@ -16,7 +16,7 @@ dword AREthCreateFieldConsumer( dword csiHandle, long notificationId, long gette
 
 This function adds a Field Consumer to a Consumed Service Instance that was created by [AREthCreateConsumedServiceInstance](CAPLfunctionAREthCreateConsumedServiceInstance.md).
 
-When a suitable field notification is received, the passed Notification Callback is called (see [<OnAREthFieldNotification>](CAPLfunctionOnAREthFieldNotification.md)).
+When a suitable field notification is received, the passed Notification Callback is called (see [`<OnAREthFieldNotification>`](CAPLfunctionOnAREthFieldNotification.md)).
 
 A Field Consumer can be removed again using the [AREthRemoveFieldConsumer](CAPLfunctionAREthRemoveFieldConsumer.md) function.
 
@@ -24,8 +24,8 @@ A Field Consumer can be removed again using the [AREthRemoveFieldConsumer](CAPLf
 
 - **csiHandle**: Handle of the Consumed Service Instance that was created with [AREthCreateConsumerServiceInstance](CAPLfunctionAREthCreateConsumedServiceInstance.md).
 - **notificationId**: Identifier of the field notification. If the field does not support a notifier, the value -1 must be specified here.
-- **getterId**: Identifier of the Field Getter method. In order to call a getter method, a method must be created with the `getterId` beforehand (see also [AREthCreateMethodCall](CAPLfunctionAREthCreateMethodCall.md) and [<OnAREthMethodResponse>](CAPLfunctionOnAREthMethodResponse.md)). The method itself is then called with [AREthCallMethod](CAPLfunctionAREthCallMethod.md). If the field does not support a getter method, the value -1 must be specified here.
-- **setterId**: Identifier of the Field Setter method. In order to call a setter method, a method must be created with the `setterId` beforehand (see also [AREthCreateMethodCall](CAPLfunctionAREthCreateMethodCall.md) and [<OnAREthMethodResponse>](CAPLfunctionOnAREthMethodResponse.md)). The method itself is then called with [AREthCallMethod](CAPLfunctionAREthCallMethod.md). If the field does not support a setter method, the value -1 must be specified here.
+- **getterId**: Identifier of the Field Getter method. In order to call a getter method, a method must be created with the `getterId` beforehand (see also [AREthCreateMethodCall](CAPLfunctionAREthCreateMethodCall.md) and [\<OnAREthMethodResponse>](CAPLfunctionOnAREthMethodResponse.md)). The method itself is then called with [AREthCallMethod](CAPLfunctionAREthCallMethod.md). If the field does not support a getter method, the value -1 must be specified here.
+- **setterId**: Identifier of the Field Setter method. In order to call a setter method, a method must be created with the `setterId` beforehand (see also [AREthCreateMethodCall](CAPLfunctionAREthCreateMethodCall.md) and [\<OnAREthMethodResponse>](CAPLfunctionOnAREthMethodResponse.md)). The method itself is then called with [AREthCallMethod](CAPLfunctionAREthCallMethod.md). If the field does not support a setter method, the value -1 must be specified here.
 - **onFieldNotificationCallback**: This callback function is called when the Field Notification message is received.
 
 ## Return Values

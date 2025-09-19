@@ -25,12 +25,12 @@ Objects are then registered using the [frSetSendFrame](../Functions/CAPLfunction
 
 ## Parameters
 
-- **MsgChannel<num>**: Defines the send channel/cluster. `<num>` must be an integer (e.g. 1, 2, 3, etc.) defining the channel number of the corresponding FlexRay interface.
-- **<frame name>**: Character string corresponding to a frame name from the database. The required parameters (`<slot ID>`, `<base cycle>`, `<cycle repetition>` and `<channel mask>`) are taken from the corresponding frame definition in the database.
-- **<frame var>**: Character string defining the object’s variable name.
-- **<slot ID>**: This number designates a specific slot. Its value must be between 1 and 2047.
-- **<base cycle>**: This number designates the base cycle. This value must be smaller than the repetition factor and lies in the range between 0 and 63. This value, together with the repetition factor, determines the "Cycle Multiplexing".
-- **<cycle repetition>**: This number designates the cycle repetition factor. The value must be between 1 and 64 and be a multiple of 2 (e.g. 1, 2, 4, 8, 16, 32 or 64). This value, together with the base cycle, determines the "Cycle Multiplexing".
+- **MsgChannel`<num>`**: Defines the send channel/cluster. `<num>` must be an integer (e.g. 1, 2, 3, etc.) defining the channel number of the corresponding FlexRay interface.
+- **`<frame name>`**: Character string corresponding to a frame name from the database. The required parameters (`<slot ID>`, `<base cycle>`, `<cycle repetition>` and `<channel mask>`) are taken from the corresponding frame definition in the database.
+- **`<frame var>`**: Character string defining the object's variable name.
+- **`<slot ID>`**: This number designates a specific slot. Its value must be between 1 and 2047.
+- **`<base cycle>`**: This number designates the base cycle. This value must be smaller than the repetition factor and lies in the range between 0 and 63. This value, together with the repetition factor, determines the "Cycle Multiplexing".
+- **`<cycle repetition>`**: This number designates the cycle repetition factor. The value must be between 1 and 64 and be a multiple of 2 (e.g. 1, 2, 4, 8, 16, 32 or 64). This value, together with the base cycle, determines the "Cycle Multiplexing".
 
 ## Selectors — General Use
 

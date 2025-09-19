@@ -24,7 +24,7 @@ An Event Consumer can be removed again using the [AREthRemoveEventConsumer](CAPL
 
 - **csiHandle**: Handle of the Consumed Service Instance that was created with [AREthCreateConsumedServiceInstance](CAPLfunctionAREthCreateConsumedServiceInstance.md).
 - **eventId**: Identifier of the Event.
-- **onEventCallback**: The function name that should be called when a suitable Event is received, see [<OnAREthEventReceived>](CAPLfunctionOnAREthEventReceived.md).
+- **onEventCallback**: The function name that should be called when a suitable Event is received, see [`<OnAREthEventReceived>`](CAPLfunctionOnAREthEventReceived.md).
 
 ## Return Values
 

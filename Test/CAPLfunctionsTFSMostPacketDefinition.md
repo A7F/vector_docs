@@ -58,7 +58,7 @@ When using a High Protocol frame description to specify the user data bytes of a
 - REQUEST(FrameID)
 - MULTIPLE FRAMES REQUEST(FrameID, FrameID, FrameID, …)
 - ADJUST RATE(Operation)
-- DATA FRAME(FrAckHi, FrAckLo, <Raw data byte description>)
+- DATA FRAME(FrAckHi, FrAckLo, `<Raw data byte description>`)
 - 0-FRAME(FrAckLo, SegID, Options, BlockCnt)
 
 **Example**

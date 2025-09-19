@@ -16,7 +16,7 @@ long AREthTriggerEvent( dword pevHandle );
 
 This function triggers sending of an Event.
 
-Afterwards, the CAPL callback function is called in [<OnAREthPrepareEvent>](CAPLfunctionOnAREthPrepareEvent.md), and the application has the opportunity to change or update the values of the SOME/IP Event before it is sent to its subscriber and by Multicast.
+Afterwards, the CAPL callback function is called in [`<OnAREthPrepareEvent>`](CAPLfunctionOnAREthPrepareEvent.md), and the application has the opportunity to change or update the values of the SOME/IP Event before it is sent to its subscriber and by Multicast.
 
 ## Parameters
 

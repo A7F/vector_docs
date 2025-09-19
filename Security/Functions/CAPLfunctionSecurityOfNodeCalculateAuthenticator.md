@@ -8,8 +8,8 @@
 
 ## Function Syntax
 
-- `long SecurityOfNodeCalculateAuthenticator(char nodeName[], char networkName[], dword dataId, byte payload[], dword payloadLength, qword truncatedAuthenticatorHigh, qword truncatedAuthenticator, dword truncatedAuthenticatorBitLength, qword freshness, dword truncatedFreshnessBitLength, dword freshnessValueBitLength, dword freshnessValueId) \\ form 1`
-- `long SecurityOfNodeCalculateAuthenticator(char nodeName[], char networkName[], dword dataId, byte payload[], dword payloadLength, qword truncatedAuthenticatorHigh, qword truncatedAuthenticator, dword truncatedAuthenticatorBitLength, qword freshness, dword truncatedFreshnessBitLength, dword freshnessValueBitLength, dword freshnessValueId, dword keyId) \\ form 2`
+- `long SecurityOfNodeCalculateAuthenticator(char nodeName[], char networkName[], dword dataId, byte payload[], dword payloadLength, qword truncatedAuthenticatorHigh, qword truncatedAuthenticator, dword truncatedAuthenticatorBitLength, qword freshness, dword truncatedFreshnessBitLength, dword freshnessValueBitLength, dword freshnessValueId)` // form 1
+- `long SecurityOfNodeCalculateAuthenticator(char nodeName[], char networkName[], dword dataId, byte payload[], dword payloadLength, qword truncatedAuthenticatorHigh, qword truncatedAuthenticator, dword truncatedAuthenticatorBitLength, qword freshness, dword truncatedFreshnessBitLength, dword freshnessValueBitLength, dword freshnessValueId, dword keyId)` // form 2
 
 ## Description
 

@@ -16,7 +16,7 @@ The event procedure is called at the consumer when an event group subscription h
 
 ## Parameters
 
-- **<EventGroup>**: Designates the event group on which the event procedure shall react. This must be a consumer endpoint.
+- **`<EventGroup>`**: Designates the event group on which the event procedure shall react. This must be a consumer endpoint.
 
 ## Selectors
 

@@ -26,8 +26,8 @@ The method call can be removed again using the [SomeIpRemoveMethodCall](CAPLfunc
 
 - **csiHandle**: Handle of the Consumed Service Instance that was created by [SomeIpCreateConsumedServiceInstance](CAPLfunctionSomeIpCreateConsumedServiceInstance.md).
 - **methodId**: Identifier of the method
-- **onResponseCallback**: This callback function is called when the response is received, see [<OnSomeIpMethodResponse>](CAPLfunctionOnSomeIpMethodResponse.md)
-- **onErrorCallback**: This callback function is called when a SomeIp error message is received, see [<OnSomeIpMethodError>](CAPLfunctionOnSomeIpMethodError.md).
+- **onResponseCallback**: This callback function is called when the response is received, see [`<OnSomeIpMethodResponse>`](CAPLfunctionOnSomeIpMethodResponse.md)
+- **onErrorCallback**: This callback function is called when a SomeIp error message is received, see [`<OnSomeIpMethodError>`](CAPLfunctionOnSomeIpMethodError.md).
 
 ## Return Values
 

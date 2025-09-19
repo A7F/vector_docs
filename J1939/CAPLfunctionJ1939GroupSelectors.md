@@ -36,7 +36,7 @@ You can access control information of the J1939 Parameter Group (PG) object usin
 - **NAME**: (unqualified) symbolic name of the message from the database (since version 7.2). Type: char[]. Access Limitation: read-only
 - **DIR**: Direction of transmission, event classification; possible values: Rx, Tx, TXREQUEST. Type: byte. Access Limitation: —
 - **RTR**: Remote Transmission Request; possible values: 0 (no RTR), 1 (RTR). Type: byte. Access Limitation: —
-- **TYPE**: Combination of DIR and RTR for an efficient evaluation. (TYPE = (RTR << 8) | DIR ). Type: word. Access Limitation: —
+- **TYPE**: Combination of DIR and RTR for an efficient evaluation. `(TYPE = (RTR << 8) | DIR)`. Type: word. Access Limitation: —
 - **TM**: Transmission Method
   - 0 = Single Frame (CAN and CAN FD)
   - 1 = C-PG within Multi-PG (CAN FD)

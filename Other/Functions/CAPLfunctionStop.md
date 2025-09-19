@@ -18,7 +18,7 @@ Programmed interrupt of the ongoing measurement.
 
 If the function is called in an event procedure, the event procedure will always be executed completely before the measurement is stopped.
 
-In offline mode this function interrupts but does not end the measurement. In offline mode the measurement can only be ended with <ESC>.
+In offline mode this function interrupts but does not end the measurement. In offline mode the measurement can only be ended with `<ESC>`.
 
 ## Parameters
 

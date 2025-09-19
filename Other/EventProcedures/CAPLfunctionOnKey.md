@@ -36,7 +36,7 @@ on key * {
 
 If for example a CAPL program contains the `on key` procedures `on key 'a'` and `on key *`, the procedure `on key 'a'` will be called up, when key 'a' is used. With all other keys the procedure `on key *` will be called up.
 
-**The keys <ESC>, <F7>, <F8> and <F9> are not supported of on key procedures.**
+**The keys `<ESC>`, `<F7>`, `<F8>` and `<F9>` are not supported of on key procedures.**
 
 In CAPL the different keys have to be called as follows:
 

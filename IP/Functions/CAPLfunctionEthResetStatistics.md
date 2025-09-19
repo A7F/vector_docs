@@ -14,7 +14,7 @@ void ethResetStatistics( long channel );
 
 ## Description
 
-Resets Ethernet channel statistics. The Ethernet channel statistics are provided by the [Eth](../Objects/CAPLfunctionEth.md)<channel> object.
+Resets Ethernet channel statistics. The Ethernet channel statistics are provided by the [Eth](../Objects/CAPLfunctionEth.md)`<channel>` object.
 
 ## Parameters
 

@@ -116,7 +116,7 @@
   - Access Limitations: read only
 
 - **EOB[i]**
-  - Description: End of byte time stamp of databyte <i> in ns 
+  - Description: End of byte time stamp of databyte `<i>` in ns 
   - Possible indexes: 0..7
   - Type: int64
   - Access Limitations: read only

@@ -18,7 +18,7 @@ The event procedure is called whenever the specified PDU is changed, but not if 
 
 ## Parameters
 
-- **<PDU>**: Designates the PDU on which the procedure shall be called.
+- **`<PDU>`**: Designates the PDU on which the procedure shall be called.
 
 ## Selectors
 

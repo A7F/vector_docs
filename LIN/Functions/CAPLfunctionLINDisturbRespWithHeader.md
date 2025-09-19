@@ -14,7 +14,7 @@ dword linDisturbRespWithHeader(long disturbedFrameId, dword byteIndex, dword bit
 
 ## Description
 
-Configures the LIN hardware to disturb the specified response with a new header (id=<disturbanceHeaderID>).
+Configures the LIN hardware to disturb the specified response with a new header (id=`<disturbanceHeaderID>`).
 
 ## Parameters
 

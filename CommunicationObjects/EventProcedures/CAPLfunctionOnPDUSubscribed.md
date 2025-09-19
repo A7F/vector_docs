@@ -18,7 +18,7 @@ The event procedure is called at the provider when a PDU is subscribed by a cons
 
 ## Parameters
 
-- **<PDU>**: Designates the PDU on which the event procedure shall react. This must be a provider endpoint.
+- **`<PDU>`**: Designates the PDU on which the event procedure shall react. This must be a provider endpoint.
 
 ## Selectors
 

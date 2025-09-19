@@ -18,7 +18,7 @@ The event procedure is called when service discovery is triggered by a consumer.
 
 ## Parameters
 
-- **<Service>**: Designates the Service on which the event procedure shall react.
+- **`<Service>`**: Designates the Service on which the event procedure shall react.
 
 ## Selectors
 

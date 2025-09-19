@@ -16,7 +16,7 @@ The event procedure is called at the provider when a field is unsubscribed by a 
 
 ## Parameters
 
-- **<field>**: Designates the field on which the event procedure shall react. This must be a provider endpoint.
+- **`<field>`**: Designates the field on which the event procedure shall react. This must be a provider endpoint.
 
 ## Selectors
 

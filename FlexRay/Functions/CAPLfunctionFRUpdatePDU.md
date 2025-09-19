@@ -23,7 +23,7 @@ The update bit can also be set.
 
 ## Parameters
 
-- **<PDU var>**  
+- **`<PDU var>`**  
   Name of the variable referenced by the PDU object.  
   The variable name was defined via [frPDU](../Objects/CAPLfunctionFrPDU.md) when the object was created.
 

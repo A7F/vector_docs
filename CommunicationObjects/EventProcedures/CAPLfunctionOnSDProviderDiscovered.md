@@ -17,8 +17,8 @@ The event procedure is called when a new service provider is discovered.
 
 ## Parameters
 
-- **<Service>**: Designates the service on which the event procedure shall react. In this case, the procedure is called for any simulated consumer that has discovered a new provider.
-- **<ServiceConsumer>**: Designates the service consumer on which the event procedure shall react.
+- **`<Service>`**: Designates the service on which the event procedure shall react. In this case, the procedure is called for any simulated consumer that has discovered a new provider.
+- **`<ServiceConsumer>`**: Designates the service consumer on which the event procedure shall react.
 
 ## Selectors
 

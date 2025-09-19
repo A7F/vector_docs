@@ -32,7 +32,7 @@ This function returns the ICMP type and code for a packet. The intended use case
 
 ## Return Values
 
-- **<success>**: `0x0000<ICMP type><ICMP code>`
+- **`<success>`**: `0x0000<ICMP type><ICMP code>`
   - `0x00000000`: Ping Request received (type = 0; code = 0);
   - `0x00000800`: Echo Reply received (type = 8; code = 0);
 - **<error> -1**: IP protocol is not ICMP

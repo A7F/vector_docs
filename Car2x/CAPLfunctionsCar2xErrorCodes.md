@@ -45,7 +45,7 @@
 - **46-0144**: Car2x Security Module not found or not initialized
 - **46-0145**: Car2x Security: No private key found for signing or decrypting
 - **46-0146**: Car2x Security: Protocol type|version mismatch.
-- **46-0147**: Car2x Security: Certificate "<Name>|<HashedId8>" not allowed to sign messages.
+- **46-0147**: Car2x Security: Certificate "`<Name>|<HashedId8>`" not allowed to sign messages.
 
 © Vector Informatik GmbH
 

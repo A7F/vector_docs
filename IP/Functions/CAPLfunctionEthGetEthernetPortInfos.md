@@ -20,7 +20,7 @@ You must provide an array of **ethernetPortInfo** elements of sufficient size fo
 
 ## Parameters
 
-- **portInfos**: Array of type **<ethernetPortInfo>**, which contains the retrieved hardware info as a struct with the following members:
+- **portInfos**: Array of type **`<ethernetPortInfo>`**, which contains the retrieved hardware info as a struct with the following members:
   - `char PortName[32]`
   - `char NetworkName[32]`
   - `char SegmentName[32]`

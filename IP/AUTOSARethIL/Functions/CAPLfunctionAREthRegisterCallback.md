@@ -19,9 +19,9 @@ Enables to register/unregister a CAPL callback function for an object which has 
 ## Parameters
 
 - **objHandle**: Handle of an already existing AUTOSAR Eth IL object for which a new CAPL callback function should be registered/unregistered. The following objects and their corresponding callbacks are supported:
-  - Provided events ([<OnAREthPrepareEvent>](CAPLfunctionOnAREthPrepareEvent.md))
-  - Provided methods ([<OnAREthMethodRequest>](CAPLfunctionOnAREthMethodRequest.md))
-  - Consumed events ([<OnAREthEventReceived>](CAPLfunctionOnAREthEventReceived.md))
+  - Provided events ([`<OnAREthPrepareEvent>`](CAPLfunctionOnAREthPrepareEvent.md))
+  - Provided methods ([`<OnAREthMethodRequest>`](CAPLfunctionOnAREthMethodRequest.md))
+  - Consumed events ([`<OnAREthEventReceived>`](CAPLfunctionOnAREthEventReceived.md))
   - Consumed fields ([<OnAREthFieldNotification>](CAPLfunctionOnAREthFieldNotification.md))
   - Consumed methods ([<OnAREthMethodResponse>](CAPLfunctionOnAREthMethodResponse.md))
 

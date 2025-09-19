@@ -34,7 +34,7 @@ Here the method which qualifier path has the longest match with that of the obje
 
 **Note**
 
-The length of the elements of a qualifier path from the CANdela description file is limited to 50 characters in the CAPL Compiler. Longer names may exceed this limit, but the CAPL program cannot be compiled. Nevertheless, it is possible to specify the qualifier path as a text string in quotation marks: "<Qualifier Path>". In this case the qualifier path may be up to 255 characters in length.
+The length of the elements of a qualifier path from the CANdela description file is limited to 50 characters in the CAPL Compiler. Longer names may exceed this limit, but the CAPL program cannot be compiled. Nevertheless, it is possible to specify the qualifier path as a text string in quotation marks: "`<Qualifier Path>`". In this case the qualifier path may be up to 255 characters in length.
 
 [Connection of the Communication Layer](CAPLfunctionsDiagnosticsConnectionCommunicationLayer.md) • [Basic CAPL Procedure for a Tester Implementation](CAPLfunctionsDiagnosticsTestImplementation.md) • [Expanded Functions in CAPL](CAPLfunctionsDiagnosticsExpandedFunctions.md)
 

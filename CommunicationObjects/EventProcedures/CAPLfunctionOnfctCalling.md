@@ -18,7 +18,7 @@ The event procedure is called when a service function is about to be called at a
 
 ### Parameters
 
-- **<function>**: Designates the function on which the event procedure shall react. This must be a combination of endpoints on provider side, but the consumer endpoint can also be replaced by **all** to designate that the handler shall react on all consumer calls.
+- **`<function>`**: Designates the function on which the event procedure shall react. This must be a combination of endpoints on provider side, but the consumer endpoint can also be replaced by **all** to designate that the handler shall react on all consumer calls.
 
 ### Selectors
 

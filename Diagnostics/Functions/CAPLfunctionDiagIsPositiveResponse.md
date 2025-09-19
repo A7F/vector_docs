@@ -22,7 +22,7 @@ diagResponse::IsPositiveResponse ()
 
 ## Description
 
-Returns value <> 0 if the object is a positive response to a request.
+Returns value `<> 0` if the object is a positive response to a request.
 
 ## Parameters
 

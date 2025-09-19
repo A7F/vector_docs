@@ -18,8 +18,8 @@ This function sends an MTS symbol in the next possible symbol window if the Comm
 
 ## Parameters
 
-- **<type>**: Not used at this time. Reserved for future expansions. Should always be equal to 0.
-- **<param>**: Not used at this time. Reserved for future expansions. Should always be equal to 0.
+- **`<type>`**: Not used at this time. Reserved for future expansions. Should always be equal to 0.
+- **`<param>`**: Not used at this time. Reserved for future expansions. Should always be equal to 0.
 - **channel**: Channel number (or cluster number)
 
 ## Return Values

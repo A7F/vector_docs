@@ -1,6 +1,6 @@
 [Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/Selectors/CAPLfunctionProtocolOptionalStructureField.md)
 
-# ethernetPacket Selectors: <protocol>.<optional-structure>.<field>
+# ethernetPacket Selectors: `<protocol>.<optional-structure>.<field>`
 
 [CAPL Functions](../../CAPLfunctions.md) » [Ethernet](../CAPLEthernetStartPage.md) » [Function Overview](../CAPLfunctionsIPOverview.md) » [ethernetPacket](../Objects/CAPLfunctionEthernetPacket.md) » Selector<protocol>.<optional-structure>. field
 

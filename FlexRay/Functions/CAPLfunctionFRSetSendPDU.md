@@ -18,7 +18,7 @@ Configures the hardware to transmit the specified PDU. All relevant slots are su
 
 ## Parameters
 
-- **<PDU object>**: Specifies the PDU object that is to be submitted for transmission.
+- **`<PDU object>`**: Specifies the PDU object that is to be submitted for transmission.
 
 ## Return Values
 

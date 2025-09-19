@@ -14,7 +14,7 @@ dword linDisturbHeaderWithHeader(dword byteIndex, dword bitIndex, long disturbin
 
 ## Description
 
-Configures the LIN hardware to disturb the next header with a new header (id=<disturbanceHeaderID>).
+Configures the LIN hardware to disturb the next header with a new header (id=`<disturbanceHeaderID>`).
 
 ## Parameters
 

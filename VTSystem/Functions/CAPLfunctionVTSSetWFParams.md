@@ -10,8 +10,8 @@
 
 ## Method Syntax
 
-- `long SysVarNamespace.SetWFParams (double timeIncrement, double pause, dword numOfRepeats); // form 1`
-- `long SysVarNamespace.SetWFParams (double timeIncrement, double pause, dword numOfRepeats, double startDelay, dword startPoint); // form 2`
+- `long SysVarNamespace.SetWFParams (double timeIncrement, double pause, dword numOfRepeats)` // form 1
+- `long SysVarNamespace.SetWFParams (double timeIncrement, double pause, dword numOfRepeats, double startDelay, dword startPoint)` // form 2
 
 ## Description
 

@@ -22,7 +22,7 @@ The key word [this](../../Other/EventProcedures/CAPLfunctionKeywordThis.md) is a
 
 ## Parameters
 
-- **msgChannel<X>**: Ethernet channel number, range 1..32.
+- **msgChannel`<X>`**: Ethernet channel number, range 1..32.
 - **ethernetPort::<NetworkName>::<PortName>**: Ethernet port qualification.
 
 ## Selectors

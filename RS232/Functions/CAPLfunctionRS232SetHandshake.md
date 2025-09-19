@@ -46,7 +46,7 @@ Sets handshake parameters on serial port.
 
 - **timeout**: Timeout in milliseconds for all send and receive operations.
   - **-1**: infinite
-  - **<10**: not allowed
+  - **`< 10`**: not allowed
 
   If this parameter isn't set, the **timeout** default value will be used: 5 seconds.
 

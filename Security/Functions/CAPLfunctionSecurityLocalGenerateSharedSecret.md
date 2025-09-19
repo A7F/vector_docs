@@ -12,7 +12,7 @@ Replaces `SecurityLocalGenerateSharedSecretECDH` and respectively `LocalSecurity
 ## Function Syntax
 
 ```plaintext
-long SecurityLocalGenerateSharedSecret(dword curve, byte publicKey[], dword publicKeyLength, byte privateKey[], dword privateKeyLength, byte sharedSecret[], dword* sharedSecretLength);
+`long SecurityLocalGenerateSharedSecret(dword curve, byte publicKey[], dword publicKeyLength, byte privateKey[], dword privateKeyLength, byte sharedSecret[], dword* sharedSecretLength);`
 ```
 
 ## Description

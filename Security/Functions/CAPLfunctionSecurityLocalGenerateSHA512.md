@@ -13,7 +13,7 @@ Replaces LocalSecurityGenerateSHA512.
 
 ### Function Syntax
 ```
-long SecurityLocalGenerateSHA512(byte data[], dword dataLength, byte sha512[], dword sha512Length)
+`long SecurityLocalGenerateSHA512(byte data[], dword dataLength, byte sha512[], dword sha512Length)`
 ```
 
 ### Description

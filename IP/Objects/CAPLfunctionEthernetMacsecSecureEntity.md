@@ -8,7 +8,7 @@
 
 ## Function Syntax
 
-EthernetMacsecSecureEntity <variable name>;
+EthernetMacsecSecureEntity `<variable name>`;
 
 ## Method Syntax
 

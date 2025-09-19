@@ -8,16 +8,16 @@
 
 ## Function Syntax
 
-- `dword ChkCreate_MsgSignalValueInvalid (Signal aObservedSignal, double aMinValue, double aMaxValue, char [] aCallback); // form 1`
-- `dword ChkStart_MsgSignalValueInvalid (Signal aObservedSignal, double aMinValue, double aMaxValue, char [] aCallback); // form 2`
-- `dword ChkCreate_MsgSignalValueInvalid (char aMessageName[], char aSignalName[], double aMinValue, double aMaxValue, char [] aCallback); // form 3`
-- `dword ChkStart_MsgSignalValueInvalid (char aMessageName[], char aSignalName[], double aMinValue, double aMaxValue, char [] aCallback); // form 4`
-- `dword ChkCreate_MsgSignalValueInvalid (EnvVarName, double aMinValue, double aMaxValue, char [] aCallback); // form 5`
-- `dword ChkStart_MsgSignalValueInvalid (EnvVarName, double aMinValue, double aMaxValue, char [] aCallback); // form 6`
-- `dword ChkCreate_MsgSignalValueInvalid (sysVar aSysVar, double aMinValue, double aMaxValue, char [] aCallback); // form 7`
-- `dword ChkStart_MsgSignalValueInvalid (sysVar aSysVar, double aMinValue, double aMaxValue, char [] aCallback); // form 8`
-- `dword ChkCreate_MsgSignalValueInvalid (sysVar aSysVar, int64 aMinValue, int64 aMaxValue, char [] aCallback); // form 9`
-- `dword ChkStart_MsgSignalValueInvalid (sysVar aSysVar, int64 aMin-Value, int64 aMaxValue, char [] aCallback); // form 10`
+- `dword ChkCreate_MsgSignalValueInvalid (Signal aObservedSignal, double aMinValue, double aMaxValue, char [] aCallback)` // form 1
+- `dword ChkStart_MsgSignalValueInvalid (Signal aObservedSignal, double aMinValue, double aMaxValue, char [] aCallback)` // form 2
+- `dword ChkCreate_MsgSignalValueInvalid (char aMessageName[], char aSignalName[], double aMinValue, double aMaxValue, char [] aCallback)` // form 3
+- `dword ChkStart_MsgSignalValueInvalid (char aMessageName[], char aSignalName[], double aMinValue, double aMaxValue, char [] aCallback)` // form 4
+- `dword ChkCreate_MsgSignalValueInvalid (EnvVarName, double aMinValue, double aMaxValue, char [] aCallback)` // form 5
+- `dword ChkStart_MsgSignalValueInvalid (EnvVarName, double aMinValue, double aMaxValue, char [] aCallback)` // form 6
+- `dword ChkCreate_MsgSignalValueInvalid (sysVar aSysVar, double aMinValue, double aMaxValue, char [] aCallback)` // form 7
+- `dword ChkStart_MsgSignalValueInvalid (sysVar aSysVar, double aMinValue, double aMaxValue, char [] aCallback)` // form 8
+- `dword ChkCreate_MsgSignalValueInvalid (sysVar aSysVar, int64 aMinValue, int64 aMaxValue, char [] aCallback)` // form 9
+- `dword ChkStart_MsgSignalValueInvalid (sysVar aSysVar, int64 aMin-Value, int64 aMaxValue, char [] aCallback)` // form 10
 - `dword ChkCreate_MsgSignalValueInvalid (valueHandle* doValue, double aMinValue, double aMaxValue, char [] aCallback); // form 11`
 - `dword ChkStart_MsgSignalValueInvalid (valueHandle* doValue, double aMinValue, double aMaxValue, char [] aCallback); // form 12`
 - `dword ChkCreate_MsgSignalValueInvalid (valueHandle* doValue, int64 aMinValue, int64 aMaxValue, char [] aCallback); // form 13`

@@ -8,7 +8,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long SCC_SetChargingProfileData(long Index, long Start, double MaxPower, long NumberOfPhases);
 ```
 

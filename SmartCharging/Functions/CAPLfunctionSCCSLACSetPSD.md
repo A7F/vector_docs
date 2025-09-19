@@ -8,7 +8,7 @@
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE  •  CANoe4SW DE
 
 ### Function Syntax
-```
+```c
 SCC_SLAC_SetPSD ( byte PSD[] )
 ```
 

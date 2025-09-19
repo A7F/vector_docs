@@ -8,8 +8,8 @@
 
 #### Function Syntax
 
-- `long SecurityLocalStartControlSimulationNode(char nodeName[], char networkName[], dword orderNumber) // form 1`
-- `long SecurityLocalStartControlSimulationNode(char nodeId[], dword nodeIdType, char networkName[], dword orderNumber) // form 2`
+- `long SecurityLocalStartControlSimulationNode(char nodeName[], char networkName[], dword orderNumber)` // form 1
+- `long SecurityLocalStartControlSimulationNode(char nodeId[], dword nodeIdType, char networkName[], dword orderNumber)` // form 2
 
 #### Description
 

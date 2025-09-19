@@ -12,7 +12,7 @@
 
 ## Description
 
-This function copies the FlexRay protocol parameters to **<configuration var>**.
+This function copies the FlexRay protocol parameters to **`<configuration var>`**.
 
 ## Parameters
 

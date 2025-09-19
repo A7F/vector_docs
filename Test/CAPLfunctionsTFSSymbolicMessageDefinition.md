@@ -69,7 +69,7 @@ TestWaitForMostAMSMessage ("AudioAmplifier.Mute.Status(MuteOn)", SUTInstID, 200)
 TestJoinMostReportEvent ("NetBlock.2.Shutdown");
 ```
 
-Press <Ctrl>+<M> or select **Message input with MOST function catalog...** from the shortcut menu to open an input assistant which displays a data entry field in the current program line listing a selection of all MOST messages described in the function catalog. The selection takes in all function catalogs assigned to the CAPL node.
+Press `<Ctrl>`+`<M>` or select **Message input with MOST function catalog...** from the shortcut menu to open an input assistant which displays a data entry field in the current program line listing a selection of all MOST messages described in the function catalog. The selection takes in all function catalogs assigned to the CAPL node.
 
 In this context, the input assistant permits the description of messages up to parameter values and adds the resulting description to the program text in quotation marks.
 

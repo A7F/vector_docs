@@ -28,8 +28,8 @@
 
 ## Callback Functions [▲ back](#Shortcuts)
 
-- **<OnC2xPacket>**: [CAPL handler to receive data of WLAN packets.](Callbacks/CAPLfunctionC2xOnC2xPacket.md)
-- **<OnC2xTransmitPacket>**: [CAPL handler to modify database defined WLAN packets before transmission.](Callbacks/CAPLfunctionC2xOnC2xTransmitPacket.md)
+- **`<OnC2xPacket>`**: [CAPL handler to receive data of WLAN packets.](Callbacks/CAPLfunctionC2xOnC2xPacket.md)
+- **`<OnC2xTransmitPacket>`**: [CAPL handler to modify database defined WLAN packets before transmission.](Callbacks/CAPLfunctionC2xOnC2xTransmitPacket.md)
 - **OnProtocolViolation**: [A CAPL callback function informing you about a new Protocol Analyzer finding.](Callbacks/CAPLfunctionC2xOnProtocolViolation.md)
 - **OnScenarioStateChanged**: [Is called when the state of the scenario was changed.](Callbacks/CAPLfunctionC2xOnScenarioStateChanged.md)
 - **OnStartScenario**: [Is called at the time when the scenario start was triggered.](Callbacks/CAPLfunctionC2xOnStartScenario.md)

@@ -27,7 +27,7 @@ A method can be removed again using the [AREthRemoveMethod](CAPLfunctionAREthRem
 
 - **psiHandle**: Handle of the Provided Service Instance that was created by [AREthCreateProvidedServiceInstance](CAPLfunctionAREthCreateProvidedServiceInstance.md).
 - **methodId**: Identifier of the method
-- **onMethodRequestCallback**: Name of the CAPL callback function, see CAPL callback [<OnAREthMethodRequest>](CAPLfunctionOnAREthMethodRequest.md)
+- **onMethodRequestCallback**: Name of the CAPL callback function, see CAPL callback [`<OnAREthMethodRequest>`](CAPLfunctionOnAREthMethodRequest.md)
 - **fireAndForget**: Specifies whether the provider is to send a response after the method call:
   - 1: A response is not sent
   - 0: A response is sent (default behavior)

@@ -9,7 +9,7 @@
 ## Function Syntax
 
 ```
-long SecurityLocalGenerateHashMACSHA256(byte key[], dword keyLength, byte data[], dword dataLength, byte* hashMac)
+`long SecurityLocalGenerateHashMACSHA256(byte key[], dword keyLength, byte data[], dword dataLength, byte* hashMac)`
 ```
 
 ## Description

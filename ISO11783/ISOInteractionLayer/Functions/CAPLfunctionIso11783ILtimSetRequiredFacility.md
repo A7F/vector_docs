@@ -24,7 +24,7 @@ You can use [Iso11783IL_TIMResetAllRequiredFunctions](CAPLfunctionIso11783ILtimR
 ## Parameters
 
 - **facilityName**: Name of the TIM function facility.
-  - auxiliaryValve<N>State (N = 1..32)
+  - auxiliaryValve`<N>`State (N = 1..32)
   - auxiliaryValve<N>Flow (N = 1..32)
   - frontPTODisengagement
   - frontPTOEngagementCounterClockwise

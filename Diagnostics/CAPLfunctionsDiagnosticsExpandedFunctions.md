@@ -34,7 +34,7 @@ The qualifier of a complex parameter can be found in CANdelaStudio with the Prop
 
 - In order to assign an object with a variable number of parameters, proceed as follows: if the parameter list is defined in CANdelaStudio as iterative parameters with a number, then first this parameter (e.g., "NUMBER_OF_DTC") must be set. Then call `DiagResize(response)`, which makes space for the actual parameters. These can be set with the `DiagSetComplexParameter` functions.
 
-**Note:** The length of the elements of a qualifier path from the CANdela description file is limited to 50 characters in the CAPL Compiler. Longer names may exceed this limit, but the CAPL program cannot be compiled. Nevertheless, it is possible to specify the qualifier path as a text string in quotation marks: "<Qualifier Path>". In this case, the qualifier path may be up to 255 characters in length.
+**Note:** The length of the elements of a qualifier path from the CANdela description file is limited to 50 characters in the CAPL Compiler. Longer names may exceed this limit, but the CAPL program cannot be compiled. Nevertheless, it is possible to specify the qualifier path as a text string in quotation marks: "`<Qualifier Path>`". In this case, the qualifier path may be up to 255 characters in length.
 
 © Vector Informatik GmbH
 

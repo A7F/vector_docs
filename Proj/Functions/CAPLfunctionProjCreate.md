@@ -25,7 +25,7 @@ This function initializes the Proj Access with a proj definition. After this, th
 ## Return Values
 
 - **long**  
-  0 if initialization is correct, <>0 otherwise
+  0 if initialization is correct, `<> 0` otherwise
 
 ## Example
 

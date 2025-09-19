@@ -20,7 +20,7 @@ This event procedure is called when the Ethernet MACsec connection state of a ph
 
 ## Parameters
 
-- **ethernetPort::<NetworkName>::<PortName>**: Ethernet port qualification.
+- **ethernetPort::`<NetworkName>`::`<PortName>`**: Ethernet port qualification.
 
 ## Selectors
 
