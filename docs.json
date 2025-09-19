@@ -1,20 +1,21 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Vector Documentation",
+  "description": "Comprehensive documentation for Vector functions and APIs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#1E40AF",
+    "light": "#3B82F6",
+    "dark": "#1E3A8A"
   },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Documentation",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Getting Started",
             "pages": [
               "introduction",
               "quickstart",
@@ -30,6 +31,129 @@
               "essentials/settings",
               "essentials/navigation",
               "essentials/reusable-snippets"
+            ]
+          },
+          {
+            "group": "CAPL Functions Overview",
+            "pages": [
+              "CAPLfunctions"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Bus & Protocol Functions",
+        "groups": [
+          {
+            "group": "Core Protocols",
+            "pages": [
+              "CAN/CAPLfunctionsCANOverview",
+              "LIN/CAPLfunctionsLINOverview",
+              "FlexRay/CAPLfunctionsFlexrayOverview",
+              "Ethernet/IP/CAPLEthernetStartPage"
+            ]
+          },
+          {
+            "group": "Automotive Standards",
+            "pages": [
+              "J1939/CAPLfunctionsJ1939StartPage",
+              "ISO11783/CAPLfunctionsISO11783Overview",
+              "KLine/CAPLfunctionsKLineOverview",
+              "MOST/CAPLfunctionsMOSTOverview"
+            ]
+          },
+          {
+            "group": "Aviation & Industrial",
+            "pages": [
+              "A429/CAPLfunctionsA429Overview",
+              "ADFX/CAPLfunctionsAFDXOverview",
+              "GPIB/CAPLfunctionsGPIBOverview",
+              "RS232/CAPLfunctionsRS232Overview"
+            ]
+          },
+          {
+            "group": "Specialized Protocols",
+            "pages": [
+              "CANopen/CAPLfunctionsCANopenOverview",
+              "XCP/CAPLfunctionsXCPOverview",
+              "J1587/CAPLfunctionsJ1587Overview"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Advanced Features",
+        "groups": [
+          {
+            "group": "Communication & Networking",
+            "pages": [
+              "CommunicationObjects/CAPLfunctionsCOOverview",
+              "DistributedObjects/CAPLfunctionsDOOverview",
+              "TCPIPAPI/CAPLfunctionsTCPIPOverview",
+              "TLSAPI/CAPLfunctionsTLSOverview"
+            ]
+          },
+          {
+            "group": "Testing & Analysis",
+            "pages": [
+              "Test/CAPLfunctionsTFSOverview",
+              "Test/CAPLfunctionsTSLOverview",
+              "CANDisturbance/CAPLfunctionsCANDisturbanceOverview",
+              "CANstress/CAPLfunctionsCANstressOverview"
+            ]
+          },
+          {
+            "group": "Diagnostics & Security",
+            "pages": [
+              "Diagnostics/CAPLDiagnosticStartPage",
+              "Security/CAPLFunctionsSecurityOverview",
+              "SmartCharging/CAPLFunctionsSmartChargingOverview"
+            ]
+          },
+          {
+            "group": "Vehicle Technologies",
+            "pages": [
+              "ADAS/CAPLfunctionsADASOverview",
+              "Car2x/CAPLfunctionsCar2xOverview",
+              "CarMaker/CAPLfunctionsCarMakerOverview"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "System Integration",
+        "groups": [
+          {
+            "group": "Hardware Integration",
+            "pages": [
+              "VTSystem/CAPLfunctionsVTSystemOverview",
+              "Sensor/CAPLfunctionsSensorOverview",
+              "Scope/CAPLfunctionsScopeOverview"
+            ]
+          },
+          {
+            "group": "Software Integration",
+            "pages": [
+              "CANoeIL/CAPLfunctionsCANoeILOverview",
+              "MATLAB/CAPLfunctionsMATLABOverview",
+              "MapWindowAPI/CAPLfunctionMapWindowAPI"
+            ]
+          },
+          {
+            "group": "AUTOSAR & Standards",
+            "pages": [
+              "AUTOSARpduIL/CAPLfunctionsAUTOSARpduILOverview",
+              "DTI/CAPLfunctionsDTIOverview"
+            ]
+          },
+          {
+            "group": "General Programming",
+            "pages": [
+              "SystemVariables/CAPLfunctionsSystemVariablesOverview",
+              "SignalAccess/CAPLfunctionsSignalAccessOverview",
+              "StructByteAccess/CAPLfunctionsStructByteAccessOverview",
+              "AssociativeFields/CAPLfunctionsAssociativeFieldOverview",
+              "ObjectOrientedProg/CAPLfunctionsOOPClassesObjects"
             ]
           }
         ]
@@ -58,19 +182,19 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Vector Informatik",
+          "href": "https://www.vector.com",
+          "icon": "globe"
+        },
+        {
+          "anchor": "CANoe Documentation",
+          "href": "https://www.vector.com/int/en/products/products-a-z/software/canoe/",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Support",
+          "href": "https://www.vector.com/int/en/support/",
+          "icon": "headset"
         }
       ]
     }
@@ -82,21 +206,26 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Vector Support",
+        "href": "https://www.vector.com/int/en/support/"
+      },
+      {
+        "label": "CANoe Product Page",
+        "href": "https://www.vector.com/int/en/products/products-a-z/software/canoe/"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Download CANoe",
+      "href": "https://www.vector.com/int/en/downloads/"
     }
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/vector_informatik",
+      "linkedin": "https://linkedin.com/company/vector-informatik",
+      "youtube": "https://youtube.com/user/VectorInformatik"
     }
-  }
+  },
+  "openapi": "api-reference/openapi.json"
 }
