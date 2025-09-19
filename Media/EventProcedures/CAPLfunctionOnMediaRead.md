@@ -23,7 +23,7 @@ This callback is dispatched when an asynchronous read operation on a source read
 - **sourceReaderHandle**: The source reader handle.
 - **result**: The specific result code of the operation. If the operation completed successfully the value is zero. Otherwise the value is non-zero.
 - **streamIndex**: The zero-based index of the stream that delivered the sample.
-- **streamFlags**: 
+- **streamFlags**:
   - **SOURCE_READERF_ERROR (0x00000001)**: An error occurred. If you receive this flag, do not make any further calls to [SourceReader](../CAPLfunctionsMediaSouceReader.md) methods.
   - **SOURCE_READERF_ENDOFSTREAM (0x00000002)**: The source reader reached the end of the stream.
   - **SOURCE_READERF_NEWSTREAM (0x00000004)**: One or more new streams were created. Respond to this flag by doing at least one of the following:

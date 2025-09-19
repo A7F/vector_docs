@@ -31,7 +31,7 @@ The table below shows the definition in a common view (expected payload):
   - **Bit N**: MSB
   - **Bit 0**: LSB
 
-- **Array index**: 
+- **Array index**:
   - **N**
   - **0**
 

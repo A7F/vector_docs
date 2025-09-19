@@ -127,7 +127,7 @@ long functionID, long opType)
    // Get data of the MHPBlock
    mostMHPBlockGetData(buffer, blockBufferSize);
    // Write data to the file
-   byteCount = (mostMHPBlockSize() < blockBufferSize) ? 
+   byteCount = (mostMHPBlockSize() < blockBufferSize) ?
    mostMHPBlockSize() :
    blockBufferSize;
    fileWriteBinaryBlock(buffer, byteCount, fileHandle);

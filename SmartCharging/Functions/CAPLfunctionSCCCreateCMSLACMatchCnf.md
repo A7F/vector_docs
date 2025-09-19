@@ -28,36 +28,36 @@ Creates a **CM_SLAC_Match.Cnf** message for sending.
 
 ### Additional Parameters
 
-1. **ApplicationType**: 
+1. **ApplicationType**:
    - Type: dword
-   - Description: 
+   - Description:
      - `0x00 = PEV-EVSE Association`
      - `0x01-0xFF = Reserved`
 
-2. **SecurityType**: 
+2. **SecurityType**:
    - Type: dword
-   - Description: 
+   - Description:
      - `0x00 = No Security`
      - `0x01 = Public Key Signature`
      - `0x02-0xFF = Reserved`
 
-3. **MVFLength**: 
+3. **MVFLength**:
    - Type: dword
    - Description: Length of the match variable field
 
-4. **PEVID**: 
+4. **PEVID**:
    - Type: byte[]
    - Description: 17 byte ID
 
-5. **EVSEID**: 
+5. **EVSEID**:
    - Type: byte[]
    - Description: 17 byte ID
 
-6. **Reserved field**: 
+6. **Reserved field**:
    - Type: byte[]
    - Description: 8 byte
 
-7. **Reserved field**: 
+7. **Reserved field**:
    - Type: dword
    - Description: 1 byte
 

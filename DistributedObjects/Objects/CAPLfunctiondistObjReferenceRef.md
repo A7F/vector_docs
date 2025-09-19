@@ -2,7 +2,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
 
-### Function Syntax
+## Function Syntax
 
 - `distObjReferenceRef *`
 - `distObjReferenceRef <Interface>`
@@ -47,7 +47,7 @@ References a reference to a distributed object that is derived from the given in
   Type: `dword`  
   Access Limitation: Read only
 
-- **<Member Name>**: Access to a member of the reference.  
+- **`<Member Name>`**: Access to a member of the reference.  
   Type: `<MemberType>`  
   Access Limitation: Read only
 

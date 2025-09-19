@@ -19,7 +19,7 @@ Sets the fill color of a map object or the text color of a text object.
 ## Parameters
 
 - **handle**: Reference of the map object.
-- **fillColor**: 
+- **fillColor**:
   - RGB color value (e.g. calculated by [makeRGB](../../Other/Functions/CAPLfunctionMakeRGB.md)).
   - -1: resets the fill color to transparent (default, except for text objects which use red text color as default).
 

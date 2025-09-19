@@ -60,7 +60,7 @@ Get the value of a parameter from a IPsec security association record. A securit
     - NONE
   - **ahkey**: Returns the key of the esp algorithm.
   - **windowSize**: Replay window size in byte.
-  - **esn**: 
+  - **esn**:
     - 0: extended sequence number disabled
     - 1: extended sequence number enabled
 - **value**: The returned value of the parameter.

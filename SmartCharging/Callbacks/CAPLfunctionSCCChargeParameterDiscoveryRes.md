@@ -8,6 +8,7 @@
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
 
 ### Function Syntax
+
 ```plaintext
 void SCC_ChargeParameterDiscoveryRes 
 ( byte SessionID[], long ResponseCode, 

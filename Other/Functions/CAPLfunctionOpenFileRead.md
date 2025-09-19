@@ -24,7 +24,7 @@ if `mode=1` the file is opened in binary mode.
 ## Parameters
 
 - **filename**: filename
-- **mode**: 
+- **mode**:
 - **fileEncoding**: Identifier of the Microsoft code page that is used to encode the file.
 
 ## Return Values

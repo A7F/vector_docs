@@ -23,7 +23,7 @@ The user can specify a descriptive comment for the monitored message. This comme
 ## Parameters
 
 - **canId**: CAN-ID of the monitored message.
-- **isRTR**: 
+- **isRTR**:
   - 0: Message is a data frame
   - 1: Message is a remote frame
 - **dlc**: Message length in byte, [0..8].
@@ -32,7 +32,7 @@ The user can specify a descriptive comment for the monitored message. This comme
 - **minOcc**: Defines how often the expected message must be received at least.
 - **maxOcc**: Defines how often the expected message is allowed to be received at a maximum.
 - **comment[]**: User defined comment that is written to the report (max. 200 characters).
-- **varContent**: 
+- **varContent**:
   - 0: The same messages is expected always
   - 1: The most significant bit of byte 0 of `msgData` is toggled after each successful reception of a message, the initial value is set by the value of the bit in `msgData`.
   - Other values: Reserved

@@ -112,12 +112,12 @@ setSignal("OnOff", 1.0);
 ```plaintext
 //Message and signal
 setSignal("LightState::OnOff", 1.0);
-//Node, message and signal 
+//Node, message and signal
 setSignal("LightSwitch::LightState::OnOff", 1.0);
-//Database name (alias), node, message and signal 
+//Database name (alias), node, message and signal
 setSignal("PowerTrain::LightSwitch::LightState::OnOff", 1.0);
 setSignal("C11_Fy_Cluster::ESP::PDU_ESP_35::BTS_Bmg", 1);
-//Channel, database name (alias), node, message and signal 
+//Channel, database name (alias), node, message and signal
 setSignal("CAN1::PowerTrain::LightSwitch::LightState::OnOff", 1.0);
 ```
 

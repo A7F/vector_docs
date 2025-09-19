@@ -67,6 +67,7 @@ on key 's'
 ```
 
 [See Also](javascript:void(0);)
+
 ```markdown
 - [AREthGetData](CAPLfunctionAREthGetData.md#aanchor2564)
 - [AREthIsOptional](CAPLfunctionAREthIsOptional.md#aanchor26055)

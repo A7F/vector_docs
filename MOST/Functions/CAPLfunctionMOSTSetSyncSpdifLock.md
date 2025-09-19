@@ -24,7 +24,7 @@ Unlock the timing generator if frame synchronization is not possible due to a cl
 ## Parameters
 
 - **channel**: Channel of the connected interface
-- **mode**: 
+- **mode**:
   - `0`: Separates the timing generator from the S/PDIF input data stream.
   - `1`: Locks the timing generator on the S/PDIF input data stream.
 

@@ -30,7 +30,7 @@ A CAN message stored in the scope buffer will be parsed. For each bit of the mes
     - Classic CAN: Value will not be used.
     - CAN FD: Value will be used for the bits of the data phase.
 
-- **arraySize**: 
+- **arraySize**:
   - [in] the size of the arrays signalData1, signalData2, and signalData3
   - [out] the number of bits parsed and stored in the signalData-arrays.
 

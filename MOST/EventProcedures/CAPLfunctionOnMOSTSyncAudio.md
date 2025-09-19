@@ -17,10 +17,10 @@ The event procedure `OnMostSyncAudio` will be called after routing of audio inpu
 ## Parameters
 
 - **label**: Connection label.
-- **device**: 
+- **device**:
   - 0: Line-In: Audio input signals are put on synchronous channels.
   - 1: Line-Out: Synchronous channel signals are grabbed for audio output.
-- **mode**: 
+- **mode**:
   - 0: Routing canceled.
   - 1: Routing executed.
 

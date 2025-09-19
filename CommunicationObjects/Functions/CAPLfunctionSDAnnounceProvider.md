@@ -2,7 +2,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
 
-### Function Syntax
+## Function Syntax
 
 - `long SD_AnnounceProvider(serviceProviderRef * provider); // form 1`
 - `void SD_AnnounceProvider(providedServiceRef * providedService); // form 2`

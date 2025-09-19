@@ -22,7 +22,7 @@ This function sets the verbosity level of the AFDX IL. The default setting is th
 
 ## Return Values
 
-- **0**: 
+- **0**:
 - **other value**: [error code](../CAPLfunctionsAFDXErrorCodes.md)
 
 ## Example

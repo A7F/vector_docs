@@ -9,6 +9,7 @@
 The function can only be called on system variable namespaces of appropriate channels of **VT System** modules.
 
 ### Method Syntax
+
 ```plaintext
 long SysVarNamespace.SetTriggerParamsEx (eVTSTrigger Trigger, double MinPulseWidth, double RestartTime, dword PreTriggers, dword RestartTriggers, dword ThresholdEventCount, dword ExtSettings);
 ```

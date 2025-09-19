@@ -2,7 +2,7 @@
 
 [CAPL Functions](../../CAPLfunctions.md) » [VT System](../CAPLfunctionsVTSystemOverview.md) » vtsSetInterconnectionMode
 
-### Valid for: CANoe DE • CANoe:lite DE
+## Valid for: CANoe DE • CANoe:lite DE
 
 **Note**  
 This function may not be called in any CAPL handler routines or in ECU nodes. It may only be called in the context of the MainTest method of a test module. Use a test module that automatically runs at the start of measurement to set an initial state.

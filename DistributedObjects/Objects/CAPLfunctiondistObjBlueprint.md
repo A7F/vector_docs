@@ -31,8 +31,8 @@ Variables are initialized with an invalid blueprint. The blueprints have a copy 
 ## Selectors
 
 - **IsValid**: 1 if blueprint is valid, 0 otherwise. Type: `dword`, Access: Read only
-- **<Member Name>**: Access the member blueprint. Type: `distObjMemberBlueprint`, Access: Read only
-- **<Embedded Member Name>**: Access the embedded member blueprint. Type: `distObjBlueprint <Embedded Member Interface>`, Access: Read only
+- **`<Member Name>`**: Access the member blueprint. Type: `distObjMemberBlueprint`, Access: Read only
+- **`<Embedded Member Name>`**: Access the embedded member blueprint. Type: `distObjBlueprint <Embedded Member Interface>`, Access: Read only
 
 ## Example
 

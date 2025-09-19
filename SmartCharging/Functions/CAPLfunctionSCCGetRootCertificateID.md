@@ -12,9 +12,9 @@ This function can be called only within the assigned callback. The function is u
 ## Function Syntax
 
 ```plaintext
-void SCC_GetRootCertificateID ( long Index, 
-char IdOrIssuer [], byte SerialNumber[], 
-long& SerialNumberLength ) 
+void SCC_GetRootCertificateID ( long Index,
+char IdOrIssuer [], byte SerialNumber[],
+long& SerialNumberLength )
 ```
 
 ## Description

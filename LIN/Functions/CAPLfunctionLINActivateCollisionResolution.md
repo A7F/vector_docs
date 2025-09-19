@@ -25,7 +25,7 @@ If the automatic collision resolution is deactivated, the Master always sends th
 ### Parameters
 
 - **etfId**: Identifier of event-triggered frame. Value range: 0-59
-- **activate**: 
+- **activate**:
   - 0: Disable
   - 1: Enable
 

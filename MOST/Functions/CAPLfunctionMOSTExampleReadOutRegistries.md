@@ -33,6 +33,7 @@ OnMostAsRegistry(long regsel)
 ```
 
 Bus Registry:
+
 ```
 Adr    FBlock InstID
 0100   02 00

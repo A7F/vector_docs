@@ -24,4 +24,3 @@ This function completes a packet before sending it with [C2xOutputPacket](CAPLfu
 ## Example
 
 See example of [C2xInitPacket](CAPLfunctionC2xInitPacket.md).
-

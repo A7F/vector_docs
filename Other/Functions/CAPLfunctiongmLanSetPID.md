@@ -43,7 +43,7 @@ The parameter ID is set with selector **gm_pid**.
 gmLanMessage * msg1 ={SA =0x44, PRIO=  0x7,  gm_pid=0x11};
 gmLanSetSourceId(msg1,0x55);
 gmLanSetPID(msg1,0x11);
-gmLanSetPrio(msg1,0x5); 
+gmLanSetPrio(msg1,0x5);
 
 output(msg1);
 
@@ -53,7 +53,7 @@ write("pid: 0x%x, source: 0x%x, prio:  x%x",gmLanGetPID(msg1),gmLanGetSourceId(m
 Priority and source address are copied from **Battery_Voltage** message to the new message **msg**:
 
 ```plaintext
-on gmlanmessage  Battery_Voltage 
+on gmlanmessage  Battery_Voltage
 {
   gmlanmessage Battery_Voltage msg;
   msg = this;  // SA and PRIO are not copied

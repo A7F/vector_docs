@@ -18,7 +18,7 @@ Returns the FBlockID at position i of the registry. Indexing starts at 0.
 
 ## Parameters
 
-- **regsel**: 
+- **regsel**:
   - 1: Local FBlockList
   - 2: Bus registry
 

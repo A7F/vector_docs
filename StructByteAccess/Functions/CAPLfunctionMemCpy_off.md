@@ -25,12 +25,12 @@ Copies bytes from a source to destination, giving a destination start offset. Th
 
 ### Parameters
 
-- **dest**: 
+- **dest**:
   - (form 1, 2): Struct into which the bytes shall be copied.
   - (form, 9, 10, 11): vCDL object into which the bytes shall be copied.
   - (other forms): Array into which the bytes shall be copied.
 
-- **source**: 
+- **source**:
   - (form 3, 4): Struct from which the bytes shall be copied.
   - (form 12, 13, 14): vCDL object from which the bytes shall be copied.
   - (other forms): Array from which the bytes shall be copied.

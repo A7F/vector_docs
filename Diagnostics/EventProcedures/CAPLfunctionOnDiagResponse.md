@@ -54,6 +54,7 @@ _______________________
 ## Example
 
 **Example 1 - Simulation Setup**  
+
 ```c
 // e.g. used in a Tester module
 on diagResponse *
@@ -90,6 +91,7 @@ on diagResponse *
 ```
 
 **Example 2 - Measurement Setup**  
+
 ```c
 // Indicate all responses in the write window
 diagResponse *

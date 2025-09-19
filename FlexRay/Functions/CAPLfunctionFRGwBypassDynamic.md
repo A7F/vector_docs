@@ -20,7 +20,7 @@ Settings from the **Network Hardware Configuration** dialog are overwritten with
 
 ## Parameters
 
-- **bypass**: 
+- **bypass**:
   - 0 = Routing deactivated
   - 1 = Routing activated
 

@@ -43,7 +43,7 @@ A security association record can be created with [ipsecAssociationInit](CAPLfun
   - **ahalgorithm**: Returns the used esp algorithm. Possible values are: NULL, SHA2_512, SHA512, AES192GMAC, AES128GMAC, SHA256, SHA2_256, SHA2_384, SHA384, SHA, SHA1, AES256GMAC, AESCMAC, SHA1_160, NONE
   - **ahkey**: Returns the key of the esp algorithm
   - **windowSize**: replay window size in byte
-  - **esn**: 
+  - **esn**:
     - **0**: extended sequence number disabled
     - **1**: extended sequence number enabled
 - **value**: The value to set in the security association record.

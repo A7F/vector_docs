@@ -2,7 +2,7 @@
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
 
-### Function Syntax
+## Function Syntax
 
 - `fieldProviderRef * <var>; // form 1`
 - `fieldProviderRef <Field> <var>; // form 2`

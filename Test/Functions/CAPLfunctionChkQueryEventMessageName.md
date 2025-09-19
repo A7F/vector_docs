@@ -26,9 +26,9 @@ Stores the name of the message, that has led to the event, in the buffer and ret
 
 ## Parameters
 
-- **aCheckId** — 
-- **buffer** — 
-- **bufferlen** — 
+- **aCheckId** —
+- **buffer** —
+- **bufferlen** —
 
 ## Return Values
 

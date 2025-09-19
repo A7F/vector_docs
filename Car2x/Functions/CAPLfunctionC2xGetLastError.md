@@ -36,4 +36,3 @@ if (C2xGetLastError() == 0) {
   write("Error: %s", error);
 }
 ```
-

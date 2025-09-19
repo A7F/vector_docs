@@ -19,11 +19,11 @@ Returns the available oscilloscopes and possible configurations. The returned de
 ## Parameters
 
 - **deviceNames**: The names of the scope device.
-- **deviceCount**: 
+- **deviceCount**:
   - [in] The number of scope devices requested
   - [out] The number of available scope devices
 - **configurationNames**: The configuration names of all available configurations.
-- **configurationCount**: 
+- **configurationCount**:
   - [in] The number of requested configurations
   - [out] The number of available configurations
 

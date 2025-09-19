@@ -2,7 +2,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
 
-### Function Syntax
+## Function Syntax
 
 ```
 on fct_calling <function>;

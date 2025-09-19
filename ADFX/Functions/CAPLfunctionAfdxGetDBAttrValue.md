@@ -24,4 +24,3 @@ Retrieves the value of a specific attribute of a dedicated message if the attrib
 ## Example
 
 —
-

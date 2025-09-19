@@ -6,6 +6,7 @@
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
 
 ### Function Syntax
+
 ```
 distObjDataRef <Member>
 ```
@@ -14,7 +15,7 @@ distObjDataRef <Member>
 —
 
 ### Description
-References a distributed object data member. This type cannot be used in declarations. This is a subtype of [distObjMemberRef <Member>](CAPLfunctiondistObjMemberRef.md) and `valueHandle <DataType>`. The referenced value is immutable for consumed members and mutable otherwise.
+References a distributed object data member. This type cannot be used in declarations. This is a subtype of [distObjMemberRef `<Member>`](CAPLfunctiondistObjMemberRef.md) and `valueHandle <DataType>`. The referenced value is immutable for consumed members and mutable otherwise.
 
 ### Parameters
 - **Member**: Path of a distributed object data member.
@@ -23,6 +24,7 @@ References a distributed object data member. This type cannot be used in declara
 —
 
 ### Example
+
 ```plaintext
 on start
 {

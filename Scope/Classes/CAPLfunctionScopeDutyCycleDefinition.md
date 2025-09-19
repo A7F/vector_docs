@@ -10,10 +10,10 @@ This structure defines the threshold levels for the duty cycle measurement.
 
 **Threshold Levels:**
 
-- **TH<sub>Rec(max)</sub>**: Maximum voltage level of a recessive bit
-- **TH<sub>Dom(max)</sub>**: Maximum voltage level of a dominant bit
-- **TH<sub>Rec(min)</sub>**: Minimum voltage level of a recessive bit
-- **TH<sub>Dom(min)</sub>**: Minimum voltage level of a recessive bit
+- **TH`<sub>`Rec(max)</sub>**: Maximum voltage level of a recessive bit
+- **TH`<sub>`Dom(max)</sub>**: Maximum voltage level of a dominant bit
+- **TH`<sub>`Rec(min)</sub>**: Minimum voltage level of a recessive bit
+- **TH`<sub>`Dom(min)</sub>**: Minimum voltage level of a recessive bit
 
 ## Methods
 

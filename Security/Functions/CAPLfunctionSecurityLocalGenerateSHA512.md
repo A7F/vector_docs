@@ -12,6 +12,7 @@
 Replaces LocalSecurityGenerateSHA512.
 
 ### Function Syntax
+
 ```c
 long SecurityLocalGenerateSHA512(byte data[], dword dataLength, byte sha512[], dword sha512Length)
 ```
@@ -32,6 +33,7 @@ Generates a SHA512 hash for the given data and using the given key.
 - **<= 0**: Error. A value less than or equal to 0 means error.
 
 ### Example
+
 ```c
 byte data[3] = { 0x61, 0x62, 0x63 };
 byte refOutput[64] ={

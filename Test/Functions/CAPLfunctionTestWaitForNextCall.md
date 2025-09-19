@@ -13,7 +13,7 @@
 
 ## Description
 
-Waits for the next call of the method at the simulated provider. You may use a specific endpoint combination to wait for the call of a specific consumer or the combination [all,<provider>] to wait for a call of any consumer.
+Waits for the next call of the method at the simulated provider. You may use a specific endpoint combination to wait for the call of a specific consumer or the combination [all,`<provider>`] to wait for a call of any consumer.
 
 You can get information about the call with the **CurrentCCO** property or through the **LatestCall** value (both at the method endpoint).
 

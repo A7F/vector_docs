@@ -37,7 +37,7 @@ Again results in a "data" field size of n bytes. In this case, there is no seque
 
 ## Return Values
 
-- **0**: 
+- **0**:
 - **other value**: [error code](../CAPLfunctionsAFDXErrorCodes.md)
 
 ## Example

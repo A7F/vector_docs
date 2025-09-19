@@ -6,7 +6,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
 
-### Error Codes
+## Error Codes
 
 - **0**: No error; the function was performed successfully
 - **1**: General internal error

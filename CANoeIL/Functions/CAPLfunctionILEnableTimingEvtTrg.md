@@ -18,7 +18,7 @@ Controls the event triggered timing of PDUs. The event triggered timing can be e
 ## Parameters
 
 - **aPDUName**: Name of the PDU that should be modified.
-- **enable**: 
+- **enable**:
   - 0 = disable
   - 1 = enable
 

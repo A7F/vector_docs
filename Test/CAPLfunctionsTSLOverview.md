@@ -6,7 +6,7 @@
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
 
-### Functions
+## Functions
 
 - [Types of functions](CAPLfunctionsTSLFunctionTypes.md)
   - Check functions shall be identifiable easily. So the functions are to be prefixed.

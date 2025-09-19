@@ -2,7 +2,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
 
-### DoIP_UDPSendPort (raw)
+## DoIP_UDPSendPort (raw)
 
 **Note**  
 The following DoIP CAPL function is only available with the modeling library **DoIP.dll** and eventually an appropriate implementation of the CAPL Callback Interface. Information about the DoIP DLL and the CAPL Callback Interface you find here:
@@ -35,7 +35,7 @@ Send given raw data to peer(s) as UDP frame.
 ## Example
 
 ```plaintext
-// Send an invalid identification request to a non-standard port of a 
+// Send an invalid identification request to a non-standard port of a
 // specific vehicle that must ignore it
 BYTE rawData[8] = { 0x02,0xFF /*wrong!*/, 0x00,0x01, 0x00,0x00,0x00,0x00};
 DoIP_UDPSendPort( "169.254.123.45", 13401 /* non standard */, rawData, elcount( rawData));
@@ -75,7 +75,7 @@ Sends a DoIP PDU with valid layout to peer(s) as UDP frame. The configured DoIP 
 ## Example
 
 ```plaintext
-// Send an invalid identification request to a non-standard port of a 
+// Send an invalid identification request to a non-standard port of a
 // specific vehicle that must ignore it
 BYTE rawData[8] = { 0x02,0xFF /*wrong!*/, 0x00,0x01, 0x00,0x00,0x00,0x00};
 DoIP_UDPSendPort( "169.254.123.45", 13401 /* non standard */, rawData, elcount( rawData));

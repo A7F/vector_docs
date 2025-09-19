@@ -18,7 +18,7 @@ ARINC word errors are also monitored with [statistics system variables](../../..
 
 | Example                          | Triggering ARINC word error event         |
 |----------------------------------|-------------------------------------------|
-| on a429worderror *               | error with any label                      |
+| on a429worderror *| error with any label                      |
 | on a429worderror MsgChannel7.*   | error with any label on channel 7         |
 
 - A429 CAPL Functions

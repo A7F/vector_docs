@@ -18,7 +18,7 @@ Deletes a file or directory of the File Server.
 ## Parameters
 
 - **fs**: FS simulation node to apply the function
-- **path**: 
+- **path**:
   - Path of a file or directory to delete. The path is absolute or relative to the root directory of the File Server.
   - If the path is an empty string then all directories and files of the root directory are deleted.
 - **options**:

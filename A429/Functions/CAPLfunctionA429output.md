@@ -23,4 +23,3 @@ For transferring multiple ARINC words in one call, use the function [a429Transmi
 ## Example
 
 See [Scheduling an ARINC word](../CAPLfunctionsA429Scheduling.md)
-

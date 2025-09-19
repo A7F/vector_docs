@@ -32,7 +32,7 @@ Creates a **CM_Validate.Cnf** message for sending.
   - **Index**: 0
   - **Name**: SignalType
   - **Type**: dword
-  - **Description**: 
+  - **Description**:
     - 0x00 = PEV S2 toggles on CPLT line
     - 0x01-0xFF = Reserved
 

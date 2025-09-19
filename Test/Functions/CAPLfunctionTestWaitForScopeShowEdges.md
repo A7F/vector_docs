@@ -20,8 +20,8 @@ The defined frame cutout of the previously transition time measurement frame tog
 - **msgFieldStart**: The start of the cutout to be displayed. See `<application>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"')).
 - **startBitNo**: A bit index in the message field.
 - **noOfBits**: Count of bits to be displayed.
-- **flags**: 
-  - **Bits**: 
+- **flags**:
+  - **Bits**:
     - 0: Bit visible for analyzed edges
       - 0 = Without bitmask
       - 1 = With bitmask

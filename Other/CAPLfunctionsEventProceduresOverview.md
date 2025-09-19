@@ -62,7 +62,7 @@ CAPL is a procedural language in which the execution of program blocks is contro
 
 The program code that you define in event procedures is executed when the event occurs. For example, you could send a message onto the bus in response to a key press (`on key`), track the occurrence of messages on the bus (`on message`), or else execute cyclically defined actions (`on timer`).
 
-### Example
+## Example
 
 [Example](EventProcedures/CAPLfunctionsEventproceduresExample.md)
 

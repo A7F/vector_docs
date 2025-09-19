@@ -25,7 +25,7 @@ Consider to set always the appropriate bus context in a multibus environment bef
 ## Parameters
 
 - **aPDUName**: Name of the PDU that should be modified.
-- **enable**: 
+- **enable**:
   - 0 = disable
   - 1 = enable
 

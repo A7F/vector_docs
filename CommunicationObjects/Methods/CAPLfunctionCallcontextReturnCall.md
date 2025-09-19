@@ -2,7 +2,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
 
-### Method Syntax
+## Method Syntax
 
 - `void callContext::ReturnCall(); // form 1`
 - `void callContext::ReturnCall(<Type> returnValue); // from 2`

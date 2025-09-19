@@ -38,7 +38,7 @@ Configures the LIN hardware to disturb the specified response with a variable bi
 
 - **roundup**: If true, the lengths specified in **lengthInNS** will be rounded up to the next possible length that can be transmitted by the LIN hardware, otherwise the lengths will be rounded down.
 
-- **timeoutPrevention**: 
+- **timeoutPrevention**:
   - 0: deactivates the timeout prevention for the 7259- or 7269-transceiver.
   - 1: activates the timeout prevention for the 7259- or 7269-transceiver.
 

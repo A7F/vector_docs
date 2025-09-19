@@ -6,7 +6,7 @@
 
 ---
 
-### Note
+## Note
 
 This CAPL function is also available in C#.
 

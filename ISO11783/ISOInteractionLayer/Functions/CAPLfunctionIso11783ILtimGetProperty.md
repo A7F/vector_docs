@@ -22,7 +22,7 @@ Gets a property of the TIM server/client.
 - **propertyName**: Name of the property.
   - **Properties**: `isServerMaster`
     - **Value Range**: 0..1
-    - **Description**: 
+    - **Description**:
       - 1: TIM server is TIM server master.
       - 0: TIM server is no TIM server master.
   - **Properties**: `bootTime`
@@ -36,7 +36,7 @@ Gets a property of the TIM server/client.
     - **Description**: Implemented TIM version number of the TIM client/server.
   - **Properties**: `deactivateCertificateValidation`
     - **Value Range**: 0..FFh
-    - **Description**: 
+    - **Description**:
       - Bit 0 = 1: Validation of Conformance Certification information against device certificate is deactivated.
       - Bit 1 = 1: Validation of ISOBUS device name (NAME) against device certificate is deactivated.
       - Bit 2 = 1: Validation of function capabilities against the certificates is deactivated.
@@ -44,22 +44,22 @@ Gets a property of the TIM server/client.
       - Bit 4 = 1: Check for certificate type (client or server certificate) is deactivated.
   - **Properties**: `enableDemoMode`
     - **Value Range**: 0..1
-    - **Description**: 
+    - **Description**:
       - 1: Demo mode is enabled. Therefore no certificates and keys are validated.
       - 0: Demo mode is disabled.
   - **Properties**: `useRequestCounter`
     - **Value Range**: 0..1
-    - **Description**: 
+    - **Description**:
       - 1: Increment request counter (starting with 0) in function request messages.
       - 0: Request counter is not used when function request messages are sent.
   - **Properties**: `restartAfterWorkflowViolation`
     - **Value Range**: 0..1
-    - **Description**: 
+    - **Description**:
       - 1: Client restarts communication to the server if there is a workflow violation.
       - 0: Client does not restart communication to the server if there is a workflow violation.
   - **Properties**: `requireAcknowledgeOfStartOfMotion`
     - **Value Range**: 0..1
-    - **Description**: 
+    - **Description**:
       - 1: Operator acknowledgment ([Iso11783IL_TIMOperatorAcknowledgeStartOfMotion](CAPLfunctionIso11783ILtimOperatorAcknowledgeStartOfMotion.md)) is necessary to start vehicle motion by the client.
       - 0: Client can start vehicle motion without operator acknowledgment.
 

@@ -18,7 +18,7 @@ Use this function to register a [CAPL callback](../EventProcedures/CAPLfunctionO
 
 ## Return Values
 
-- **0**: 
+- **0**:
 - **other value**: [error code](../CAPLfunctionsAFDXErrorCodes.md)
 
 ## Example

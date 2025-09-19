@@ -19,7 +19,7 @@ Returns the volume of the audio input or output.
 ## Parameters
 
 - **channel**: Channel of the connected interface.
-- **device**: 
+- **device**:
   - 0: Line-In
   - 1: Line-Out
 

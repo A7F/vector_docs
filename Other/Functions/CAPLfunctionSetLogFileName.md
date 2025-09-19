@@ -21,7 +21,8 @@ Sets the name of the logging file. If a valid extension is given it also changes
 - **fileName**  
   - Note: Since Version 8.5 the filename can also contain field codes. If the new filename does not contain any field code, all increment field codes from the old one will be appended (regardless of whether there are other field codes there as well). The auto increment field codes will be added to the filenames as usual. With form 3, this behavior can be suppressed with the parameter **appendIncrementFieldCodes**.
   - Example field codes:
-    ```
+    
+```
     ...
     setLogFileName( "logFile_M{IncMeasurement}.blf" );
     ...
@@ -32,6 +33,7 @@ Sets the name of the logging file. If a valid extension is given it also changes
     ...
     // Sets the name of the logging file to logFile_YYYY-MM-DD.blf with YYYY-MM-DD = current system date.
     ```
+
   - The name may be an absolute path, a single filename or a relative path. If an absolute path or a relative path is supplied, all non existing directories of the path will be created. The logging file will be placed in the directory of the current configuration, if a single filename is supplied, or in the path relative to the configuration file if a relative path is supplied. The directories of the path must be separated by a backslash ('\'). The filename can contain a filename extension. If no extension is input, the last used file type will be set automatically. If an invalid extension is given the function will do nothing.
   - Note: Within a [string literal](../CAPLfunctionsStringLiteral.md) a second backslash has to be set (see example).
   - The new name will only be changed with a new `setLogFileName` call or by a corresponding entry in the configuration dialog of the logging file.

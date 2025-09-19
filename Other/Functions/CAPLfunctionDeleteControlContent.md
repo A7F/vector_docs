@@ -23,7 +23,7 @@ Deletes the content of the **CAPL Output View** in the *Panel Designer*. The pan
 
 ## Return Values
 
-— 
+—
 
 ## Example
 

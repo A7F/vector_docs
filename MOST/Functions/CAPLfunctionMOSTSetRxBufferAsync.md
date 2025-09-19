@@ -28,13 +28,13 @@ The stress network interface controller (NIC) must have its bypass opened (see [
 ## Parameters
 
 - **channel**: Channel of the connected interface.
-- **buffermode**: 
+- **buffermode**:
   - 0: stops draining the Rx buffer for MDP and MEP
   - 1: starts draining the buffer again.
 
 ## Return Values
 
-- **0**: 
+- **0**:
 - **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example

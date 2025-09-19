@@ -22,7 +22,7 @@ Starts the generation of the signal sequence on the ECL which was prepared by [m
 ## Parameters
 
 - **channel**: Channel of the connected interface.
-- **startstop**: 
+- **startstop**:
   - 0: stops the generation of the sequence
   - 1: starts the generation of the sequence
 

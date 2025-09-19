@@ -26,7 +26,7 @@ With this function, it is possible to activate or deactivate a network adapter o
 ## Parameters
 
 - **ifIndex**: The 1-based network interface index.
-- **status**: 
+- **status**:
   - 0: Set adapter down
   - 1: Set adapter up
 

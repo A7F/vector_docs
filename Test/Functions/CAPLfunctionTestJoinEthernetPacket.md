@@ -29,7 +29,7 @@ Completes the current set of **joined events** with the transmitted event. This 
 - **sMAC**: The source MAC address of the Ethernet packet that should be awaited (0 means wildcard).
 - **dMAC**: The destination MAC address of the Ethernet packet that should be awaited (0 means wildcard).
 - **vlanID**: The VLAN ID of the Ethernet packet that should be awaited (0 means wildcard or in case of an Ethernet packet without VLAN tag: not applicable).
-- **etherType**: The EtherType of the Ethernet packet that should be awaited (0 means wildcard). 
+- **etherType**: The EtherType of the Ethernet packet that should be awaited (0 means wildcard).
   - **Form 4**: If concrete source and/or destination IPv4 addresses are passed as arguments (no wildcard) the argument etherType is forced to 0x0800 (IPv4).
   - **Form 5**: If concrete source and/or destination IPv6 addresses are passed as arguments (no wildcard) the argument etherType is forced to 0x86DD.
 - **flags**: Some flags to configure special behaviors. A value of 0 means all flags are deactivated (default).

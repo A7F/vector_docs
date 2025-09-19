@@ -25,7 +25,7 @@ Use the ARILFaultInjectionDisturbChecksum64 functions for 64-bit CRC values (e.g
   - **1**: Freeze - Current signal value is used (`disturbanceValue` is not used).
   - **2**: Random - Random value is used (`disturbanceValue` is not used).
   - **3**: Offset - Signal value is increased by value of parameter `disturbanceValue`.
-- **disturbanceCount**: 
+- **disturbanceCount**:
   - **-1**: Infinite - Disturbance is continuously applied.
   - **0**: Stop - An active disturbance is stopped and the CRC will be calculated again appropriately.
   - **n > 0**: Count - Do exactly n disturbances.

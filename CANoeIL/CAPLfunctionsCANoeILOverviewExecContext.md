@@ -2,7 +2,7 @@
 
 [Valid for](../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
 
-### Node Context in the Simulation Setup
+## Node Context in the Simulation Setup
 The interaction layer is generally executed in the node context. This means that the CAPL interface can be used only within this node. In this way it is ensured that the relationship between a node and its model is maintained.
 
 ### Global Functions in the Simulation Setup

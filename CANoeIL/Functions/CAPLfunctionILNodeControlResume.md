@@ -21,7 +21,7 @@ Restarts the interaction layer of the specified simulation node. Cyclical sendin
 ## Parameters
 
 - **aNodeName**: Name of the node of which the interaction layer should be started.
-- **flags**: 
+- **flags**:
   - 0: Signals/PDUs are sent with the last current values (of the latest updated buffer content).
   - 1: Signals/PDUs are sent with **Init** value, corresponds to form 1.
 

@@ -52,6 +52,7 @@ void OnAREthSDClientEventGroupStatusChanged( dword serviceId, dword instanceId, 
 ```
 
 [See Also](javascript:void(0);)
+
 ```markdown
 - OnAREthEventReceived
 - OnAREthFieldNotification

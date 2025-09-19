@@ -18,7 +18,7 @@ Sets minimum separation time to use.
 
 ## Parameters
 
-- **STmin_ms**: 
+- **STmin_ms**:
   - `[0, 127]`: Separation time in milliseconds
   - `other`: 127 ms will be used
 

@@ -23,7 +23,7 @@ The behavior of the function call differs for different [measurement phases](../
 
 ## Return Values
 
-- **0**: 
+- **0**:
 - **other value**: See [error code](../CAPLfunctionsAFDXErrorCodes.md).
 
 ## Example

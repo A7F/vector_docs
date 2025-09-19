@@ -61,4 +61,3 @@ void OnC2xPacket( long channel, long dir, long radioChannel, long signalStrength
   write ("rx_length: %d", rx_length);
 }
 ```
-

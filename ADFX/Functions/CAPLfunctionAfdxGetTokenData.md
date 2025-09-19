@@ -58,4 +58,3 @@ void OnAfdxPacket( long dir, long line, int64 timestamp, long bag, long afdxFlag
   }
 }
 ```
-

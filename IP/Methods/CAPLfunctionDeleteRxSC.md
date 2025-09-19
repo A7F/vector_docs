@@ -26,7 +26,7 @@ Deletes a receive secure channel.
 
 ### Example
 
-— 
+—
 
 © Vector Informatik GmbH
 

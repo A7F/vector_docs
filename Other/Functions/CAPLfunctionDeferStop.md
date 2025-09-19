@@ -14,7 +14,7 @@ void DeferStop(dword maxDeferTime);
 
 ## Description
 
-Defers measurement stop. 
+Defers measurement stop.
 
 The function can be called in the [on preStop](../EventProcedures/CAPLfunctionsEventproceduresMeasurementSystem.md) handler or even at an earlier time instance. Measurement is deferred until [CompleteStop](CAPLfunctionCompleteStop.md) is called in the same node or the simulation time has advanced by the amount given in parameter maxDeferTime since the arrival of a stop request (and call of the on preStop handler).
 

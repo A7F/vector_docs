@@ -35,4 +35,3 @@ packetHdl = C2xGetMessageHandle(1,1);
 C2xDisableMsg(packetHdl);
 C2xDisableMsg("BasicNode",packetHdl);
 ```
-

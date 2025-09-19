@@ -22,7 +22,7 @@ This function copies the string value to the token without terminating "\0".
 
 ## Return Values
 
-- **0**: 
+- **0**:
 - **other value**: [error code](../CAPLfunctionsAFDXErrorCodes.md)
 
 ## Example
@@ -44,4 +44,3 @@ AfdxOutputPacket( packetHandle );
 // release packet
 AfdxReleasePacket( packetHandle );
 ```
-

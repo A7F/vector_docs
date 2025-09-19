@@ -37,4 +37,3 @@ C2xSecPacketSetSignerHandle(packetHandle, certificateHandle);
 C2xCompletePacket(packetHandle);
 C2xOutputPacket(packetHandle);
 ```
-

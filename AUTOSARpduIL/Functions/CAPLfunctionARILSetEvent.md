@@ -2,7 +2,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
 
-### Note
+## Note
 
 - It is possible to ignore the transmit-model in the database and to generate the transmission event manually.
 - It is strongly recommended to use this functionality only for test purposes and not in real simulations. The database should be corrected instead.

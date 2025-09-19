@@ -9,7 +9,7 @@
 The following table contains the states of a connection from the TIM server to the TIM client. The state is used by the CAPL functions [Iso11783IL_TIMConnectSysVarToState](Functions/CAPLfunctionIso11783ILtimConnectSysVarToState.md), [Iso11783IL_TIMFreezeConnection](Functions/CAPLfunctionIso11783ILtimFreezeConnection.md) and [Iso11783IL_TIMContinueConnection](Functions/CAPLfunctionIso11783ILtimContinueConnection.md).
 
 - **State 0: Offline**
-  - **Pre Condition:** 
+  - **Pre Condition:**
     - Server is not activated.
     - Server is stopped ([ISO11783IL_ControlStop](Functions/CAPLfunctionIso11783ILControlStop.md)).
   - **Action when State is Entered:** —
@@ -44,7 +44,7 @@ The following table contains the states of a connection from the TIM server to t
 
 - **State 20: Start authentication**
   - **Pre Condition:** Initialization succeeded.
-  - **Action when State is Entered:** 
+  - **Action when State is Entered:**
     - Start sending **Auth_ServerAuthenticationStatus** with the **(Re) Start authentication** status bit set (to **1**).
     - If **Auth_ClientAuthenticationStatus** with the **(Re) Start authentication** status bit reset (to **0**) is received then check if LwA is possible for this connection, calculate random challenge and reset **(Re)Start authentication** bit of **Auth_ServerAuthenticationStatus**.
     - Switch to state **Server starts authentication**.
@@ -59,7 +59,7 @@ The following table contains the states of a connection from the TIM server to t
 
 - **State 23: Client Random Challenge Response is received**
   - **Pre Condition:** **Auth_ClientRandomChallengeResponse** is received.
-  - **Action when State is Entered:** 
+  - **Action when State is Entered:**
     - If full authentication (FwA) is necessary then send **Auth_ClientCertificateRequest** for the testlab certificate and switch to state **Client Testlab certificate request is sent**.
     - Else if lightweight authentication (LwA) is necessary switch to state **Calculate CMCA over received challenge**.
 
@@ -105,7 +105,7 @@ The following table contains the states of a connection from the TIM server to t
 
 - **State 34: Start validating client certificates**
   - **Pre Condition:** All certificates which are added via [Iso11783IL_TIMAddCertificate](Functions/CAPLfunctionIso11783ILtimAddCertificate.md) are requested by the client and all stored certificates of the client are requested by this server.
-  - **Action when State is Entered:** 
+  - **Action when State is Entered:**
     - Check if received client certificates are listed on CRL and if they are valid. Furthermore, check the ISO NAME in the certificates as well as the ISO Version.
     - If all check succeeded switch to state **Validation of client certificates succeeded**.
 
@@ -123,7 +123,7 @@ The following table contains the states of a connection from the TIM server to t
 
 - **State 50: Calculate CMCA over received challenge**
   - **Pre Condition:** —
-  - **Action when State is Entered:** 
+  - **Action when State is Entered:**
     - Sign received challenge and send acknowledge for challenge signed to the client.
     - Wait for acknowledgment for challenge signed of the client. Then switch to state **Start CMCA Challenge Response**.
 
@@ -137,7 +137,7 @@ The following table contains the states of a connection from the TIM server to t
 
 - **State 53: Client Signed Challenge Response is received**
   - **Pre Condition:** **Auth_ClientSignedChallengeResponse** is received.
-  - **Action when State is Entered:** 
+  - **Action when State is Entered:**
     - Validate signed challenge response. If validation succeeded and **Auth_ClientAuthenticationStatus** notification with status **Authenticated** is received then switch to state **Authentication succeeded**. If validation failed, switch to state **Authentication error**.
 
 - **State 54: Authentication succeeded**

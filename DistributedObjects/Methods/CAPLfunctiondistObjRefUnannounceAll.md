@@ -2,7 +2,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
 
-### Method Syntax
+## Method Syntax
 
 void [distObjRef](../Objects/CAPLfunctiondistObjRef.md)::UnannounceAll();
 

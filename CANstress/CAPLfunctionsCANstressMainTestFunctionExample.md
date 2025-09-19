@@ -2,7 +2,7 @@
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE
 
-### Example
+## Example
 
 ```plaintext
 MainTest ()

@@ -21,12 +21,12 @@ The function moves, copies or deletes a file or directory.
 - **sourcePath**: Absolute file or directory source path
 - **destPath**: Absolute file or directory destination path or 0 to delete the file or directory specified in `sourcePath`
 - **movemode**:
-  - **Bit 0**: 
+  - **Bit 0**:
     - Value: 0 - Action: copy
     - Value: 1 - Action: move
-  - **Bit 1**: 
+  - **Bit 1**:
     - Value: 1 - delete option: force
-  - **Bit 2**: 
+  - **Bit 2**:
     - Value: 1 - delete option: recursive
 
 The two delete options "recursive" and "force" only have an impact on the deletion process. In this context, recursive means the deletion of a directory with its content, whereas "force" enables a read-only file or directory to be deleted.

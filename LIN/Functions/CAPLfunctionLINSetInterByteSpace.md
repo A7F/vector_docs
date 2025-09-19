@@ -46,7 +46,7 @@ on key 's'
 {
     if ( linSetInterByteSpace(0x33, 9, 32) != 0)
     {
-        // from now on for frame ID=0x33 the inter-byte space 
+        // from now on for frame ID=0x33 the inter-byte space
         // between last data byte field and Checksum byte is 2 bit times
         ...
     }

@@ -20,7 +20,7 @@ If there are multiple handlers for the same member, the measurement will be abor
 
 ### Parameters
 
-- **<Interface Member>**: Designates the consumed interface method for which the handler shall be called.
+- **`<Interface Member>`**: Designates the consumed interface method for which the handler shall be called.
 
 ### Selectors
 

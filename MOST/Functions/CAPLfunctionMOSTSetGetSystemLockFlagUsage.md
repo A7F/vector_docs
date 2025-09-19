@@ -20,14 +20,14 @@ For test purposes, the stress network interface controller in the OptoLyzer G2 3
 ## Parameters
 
 - **channel**: Channel of the connected interface
-- **mode**: 
+- **mode**:
   - 0: clear system lock flag
   - 1: default mode
 
 ## Return Values
 
 - **mostSetSystemLockFlagUsage**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
-- **mostGetSystemLockFlagUsage**: 
+- **mostGetSystemLockFlagUsage**:
   - >=0: See mode parameter
   - <0: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 

@@ -19,7 +19,7 @@ Sets the threshold value for differentiating between high and low levels. Voltag
 ## Parameters
 
 - **Target**: Name of the system variable/namespace that will be affected by this function call.
-- **Threshold**: 
+- **Threshold**:
   - **Comparison Table**:
     - **VT1004**: -32 V to +32 V
     - **VT1004A**: -40 V to +40 V

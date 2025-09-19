@@ -24,11 +24,11 @@ Creates a **CM_MNBC_Sound.Ind** message for sending.
 
 ### Additional Parameters
 
-1. **ApplicationType** (dword): 
+1. **ApplicationType** (dword):
    - 0x00 = PEV-EVSE Association
    - 0x01-0xFF = Reserved
 
-2. **SecurityType** (dword): 
+2. **SecurityType** (dword):
    - 0x00 = No Security
    - 0x01 = Public Key Signature
    - 0x02-0xFF = Reserved

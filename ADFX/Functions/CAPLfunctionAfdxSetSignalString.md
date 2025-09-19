@@ -26,7 +26,7 @@ This function sets the value of an AFDX string signal. The AFDX string structure
 
 ## Return Values
 
-- **0**: 
+- **0**:
 - **other value**: [error code](../CAPLfunctionsAFDXErrorCodes.md)
 
 ## Example

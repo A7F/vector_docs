@@ -28,10 +28,10 @@ Creates a Current Demand Response message for sending.
 - **NotificationMaxDelay**: Time until the vehicle is expected to react on the notification (for DC_EVSEStatus).
 - **StatusCode**: Internal state of the EVSE (for DC_EVSEStatus).
 - **Notification**: Notification about an action that the charge point wants the vehicle to perform (for DC_EVSEStatus).
-- **PresentValues**: 
+- **PresentValues**:
   - PresentValues [0] = EVSEPresentVoltage
   - PresentValues [1] = EVSEPresentCurrent
-- **LimitAchievedFlags**: 
+- **LimitAchievedFlags**:
   - LimitAchievedFlags [0] = EVSECurrentLimitAchieved
   - LimitAchievedFlags [1] = EVSEVoltageLimitAchieved
   - LimitAchievedFlags [2] = EVSEPowerLimitAchieved

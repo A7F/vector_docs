@@ -2,7 +2,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
 
-### Function Syntax
+## Function Syntax
 
 - `measuredServicePDURef * <var>; // form 1`
 - `measuredServicePDURef <PDU> <var>; // form 2`

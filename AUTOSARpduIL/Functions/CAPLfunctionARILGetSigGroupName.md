@@ -13,7 +13,7 @@ long ARILGetSigGroupName (char aMsgName[], dword index, char sigGroupName[], lon
 
 ## Description
 
-Retrieves the name of the n<sup>th</sup> signal group of the PDU.
+Retrieves the name of the n`<sup>`th</sup> signal group of the PDU.
 
 ## Parameters
 

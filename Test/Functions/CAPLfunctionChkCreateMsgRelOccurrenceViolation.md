@@ -39,10 +39,10 @@ The numeric functions/constructors with the parameter 'aMessageId' cannot be use
 ## Parameters
 
 - **observedMessage**: The observed message in symbolic form, e.g.: "EngineData", whose occurrence is to be monitored. Message must exist in database.
-- **aMinRelCycleTime**: 
+- **aMinRelCycleTime**:
   - 0: Limit is not checked.
   - 0 < x < 1: Limit is checked.
-- **aMaxRelCycleTime**: 
+- **aMaxRelCycleTime**:
   - 0: Limit is not checked.
   - 1 < x < ∞: Limit is checked.
 - **aCallback**: This parameter must be specified in simulation nodes; it is optional in test modules.

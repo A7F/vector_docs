@@ -51,7 +51,7 @@
 - **Keyword**: DLC
   - **Description**: Expected number of data bytes contained in the frame (Data Length Code). Value range: 0..8
   - **Type**: byte
-  - **Access Limitations**: 
+  - **Access Limitations**:
 
 - **Keyword**: MsgChannel
   - **Description**: Channel through which the event was received. Value range: 1..32
@@ -66,7 +66,7 @@
 - **Keyword**: lin_FsmState
   - **Description**: The status the FSM is currently in and in which it did not transmit the frame response. Value range: 0..255. If lin_FsmState = 255 no FSM was configured to respond to this frame. The value of lin_FSMId is thus also invalid.
   - **Type**: byte
-  - **Access Limitations**: 
+  - **Access Limitations**:
 
 - **Keyword**: breaklen
   - **Description**: Length of the sync break in ns

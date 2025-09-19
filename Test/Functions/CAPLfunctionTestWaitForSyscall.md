@@ -31,6 +31,7 @@ To avoid absolute paths in CAPL code and to be independent of the execution plat
 - At application call the absolute path can be resolved with the CAPL function [GetUserFilePath](../../Other/Functions/CAPLfunctionGetUserFilePath.md).
 
 **Example:**  
+
 ```c
 char absPath[256];
 GetUserFilePath("MyApplication.exe", absPath, 256);

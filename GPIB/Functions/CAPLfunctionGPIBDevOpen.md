@@ -49,7 +49,7 @@ Opens a GPIB device and returns a device ID.
 
 ## Return Values
 
-- **Device ID**: 
+- **Device ID**:
 - **-1**: On error
   - if no GPIB driver is available, or
   - if the driver is not properly installed, or configured incorrectly, or

@@ -2,7 +2,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
 
-### Note
+## Note
 - This function can only be used in the CAPL file that is attached to the appropriate node. The corresponding function [ILNodeControlResume](../../CANoeIL/Functions/CAPLfunctionILNodeControlResume.md) can be used in a global node outside or in test modules.
 - This function should not be used in the **on PreStart** event procedure.
 

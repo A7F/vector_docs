@@ -12,6 +12,7 @@ The usage of "boxed" event procedures is not compatible to older versions of you
 Normally, the generic event procedures (e.g. [on message *](../CAN/EventProcedures/CAPLfunctionOnMessage.md)) are only called if there is no more specific event procedure in the program for the message which is received.
 
 **Example**  
+
 ```plaintext
 on message 100
 {
@@ -22,11 +23,13 @@ on message *
    write("generic");
 }
 ```
+
 If the message 100 is received, the output in the Write Window will be "specific" only.
 
 If you want to implement an event procedure which is called always, regardless of other event procedures, you can use a "boxed" event procedure signified by **[*]**.
 
 **Example**  
+
 ```plaintext
 on message 100
 {
@@ -37,6 +40,7 @@ on message [*]
    write("generic");
 }
 ```
+
 If the message 100 is received, the output in the Write Window will be "generic" followed by "specific".
 
 The "boxed" event procedures are always called before other, possibly more specific event procedures in the program.

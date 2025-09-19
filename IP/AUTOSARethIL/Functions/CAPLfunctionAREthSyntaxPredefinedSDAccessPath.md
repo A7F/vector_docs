@@ -6,7 +6,7 @@
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
 
-### Examples
+## Examples
 
 - **Flags**
   - `AREthSetValueDWord(msg, "Flags", 0xC0); //set reboot (0x80) and unicast (0x40) flag`

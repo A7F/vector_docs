@@ -22,7 +22,7 @@ Provides information about the MOST interface used.
 - **channel**: Channel of the connected interface.
 - **infoID**: The ID decides the meaning of the return value.
 
-  - **kMostHWInfo_Type = 0**: 
+  - **kMostHWInfo_Type = 0**:
     - Return Value: >0
     - Description: Interface type:
       - 1: VN2600/VN2610
@@ -36,24 +36,24 @@ Provides information about the MOST interface used.
       - 9: Logger
       - 10: OptoLyzer MOCCA compact 150c
 
-  - **kMostHWInfo_SimulationMode = 1**: 
+  - **kMostHWInfo_SimulationMode = 1**:
     - Return Value: 0, 1
-    - Description: 
+    - Description:
       - 0: real
       - 1: simulated
 
-  - **kMostHWInfo_Manufacturer = 2**: 
+  - **kMostHWInfo_Manufacturer = 2**:
     - Manufacturer: "Vector", "K2L"
 
-  - **kMostHWInfo_SyncMode = 3**: 
+  - **kMostHWInfo_SyncMode = 3**:
     - Return Value: >=0
     - Description: Synchronization mode:
       - 0: off
       - 1: SW Sync active
-      - 2: HW Sync active (network interface on <channel> is Sync Master)
-      - 3: HW Sync active (network interface on <channel> is Sync Slave)
+      - 2: HW Sync active (network interface on `<channel>` is Sync Master)
+      - 3: HW Sync active (network interface on `<channel>` is Sync Slave)
 
-  - **kMostHWInfo_SyncStatus = 4**: 
+  - **kMostHWInfo_SyncStatus = 4**:
     - Return Value: >=0
     - Description: Synchronization status:
       - 0: HW Sync not active

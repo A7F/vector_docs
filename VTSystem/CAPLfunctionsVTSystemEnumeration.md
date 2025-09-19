@@ -6,7 +6,7 @@
 
 **Valid for**: CANoe DE • CANoe:lite DE
 
-### eVTSLoadMode
+## eVTSLoadMode
 
 - **Value**: 0
   - **Enum**: eVTSLoadModeInactive

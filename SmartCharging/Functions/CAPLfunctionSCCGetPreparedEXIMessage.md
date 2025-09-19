@@ -6,7 +6,7 @@
 
 **Valid for**:  CANoe DE • CANoe4SW DE
 
-### Note
+## Note
 
 - Use this function to access the EXI encoder to create reference messages, or to create V2G messages with a custom TCP header. The latter can then be sent using the features of the [Option Ethernet](../../IP/CAPLfunctionsIPOverview.md).
 - It is possible to call [SendPreparedMessage()](CAPLfunctionSCCSendPreparedMessage.md) subsequently without preparing the message anew.

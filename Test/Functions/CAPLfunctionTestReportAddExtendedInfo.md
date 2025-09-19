@@ -26,7 +26,8 @@ With this function, it is possible to take over information into the protocol th
 - **text**: Info text to be written into the report. The text can optionally contain values that are given as additional parameters. For that the corresponding format string can be inserted into the text and corresponding values are added to the parameter list. The format strings have the same meaning as with the [write](../../Other/Functions/CAPLfunctionWrite.md) function and are described there.
 
   **Example**:
-  ```
+  
+```
   TestReportAddExtendedInfo("text", "Output voltage =  %d volts)", voltage);
   ```
 

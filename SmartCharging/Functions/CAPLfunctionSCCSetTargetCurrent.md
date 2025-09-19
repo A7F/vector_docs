@@ -11,6 +11,7 @@
 This function needs a running SCC session in order to work. Make sure to call it only after the Session Setup Request message is sent.
 
 ### Function Syntax
+
 ```plaintext
 long SCC_SetTargetCurrent ( float TargetCurrent )
 ```

@@ -33,7 +33,7 @@ For AFDX the usual string format contains the string length information at the f
 ```plaintext
 a664Message TESTMSG_ALLTYPES testMsg = { msgChannel = 1};
 a664SetStringSignal(TEST_STRING14_CITY, "STR126"); // set signal value on signalServer
-a664InitPayload (testMsg); 	// set payload to last known signal values
+a664InitPayload (testMsg);  // set payload to last known signal values
 a664TriggerMessage(testMsg, 1);
 
 a664Message TESTMSG_ALLTYPES testMsg = { msgChannel = 1};

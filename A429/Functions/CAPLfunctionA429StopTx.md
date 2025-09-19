@@ -24,4 +24,3 @@ This function is necessary to stop the cyclic transmission of an ARINC word in t
 ## Example
 
 —
-

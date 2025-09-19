@@ -12,11 +12,11 @@
 ### Description
 This method resizes the container. If the new size is greater than the old size, new elements will be added at the end. If the new size is less than the old size, elements will be removed at the end.
 
-It requires that **<Typedef name>** refers to a list type.
+It requires that **`<Typedef name>`** refers to a list type.
 
 The first overload is available for lists of objects and references. It appends default objects or empty references.
 
-The second Overload is only available when **<Typedef name>** refers to a (nested) list of objects. Here the objects are created according to the blueprint argument.
+The second Overload is only available when **`<Typedef name>`** refers to a (nested) list of objects. Here the objects are created according to the blueprint argument.
 
 ### Parameters
 - **size**: The new size of the container.
@@ -27,6 +27,7 @@ The second Overload is only available when **<Typedef name>** refers to a (neste
 - **1**: An error occurred
 
 ### Example
+
 ```cpp
 // vCDL
 version 1.3;

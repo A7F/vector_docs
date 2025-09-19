@@ -44,21 +44,21 @@ Further information on site [MultiBus Environment](../../../Shared/CAPL/General/
 
 - **origninatorNode**: Originator node from database.
 - **responderNode**: Responder node from database.
-- **orginatorAddress**: 
+- **orginatorAddress**:
   - Originator address
   - Possible values:
     - 0 – 253: Observe originator node with this address
     - 254, -1 (or 0xFFFFFFFF): Observe all originator nodes
-- **responderAddress**: 
+- **responderAddress**:
   - Responder address
   - Possible values:
     - 0 – 253, 255: Observe responder node with this address
     - 254, -1 (or 0xFFFFFFFF): Observe all responder nodes
-- **callback1**: 
+- **callback1**:
   - This parameter is optional.
   - Name of the callback which is called when the check fails.
   - Signature: `void Callback( dword checkId )`
-- **callback2**: 
+- **callback2**:
   - This parameter is optional.
   - Name of the callback which is called when the check fails.
   - Signature: `void Callback( TestCheck check )`

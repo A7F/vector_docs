@@ -26,7 +26,7 @@ The event procedure is called on the change of the state of an Ethernet PHY or i
 
 - **hwPort**: Port associated with the PHY. Type: `ethernetPort`. Access Limitation: [network-based](../../../CANoeCANalyzer/Ethernet/EthernetPortBasedNetworkAccess.md) access only.
 - **time_ns**: Time stamp of the PHY event. Type: `int64`. Access Limitation: read only.
-- **phystate**: 
+- **phystate**:
   - 1: Normal state
   - 2: Sleep state
   - 3: PowerOff state
@@ -34,7 +34,7 @@ The event procedure is called on the change of the state of an Ethernet PHY or i
   - 5: ePhySleepLocalState
   - 6: ePhySleepLocalRequestState
   Type: `int32`. Access Limitation: read only.
-- **eventtype**: 
+- **eventtype**:
   - 1: Sleep received
   - 2: Sleep sent
   - 3: Sleep abort

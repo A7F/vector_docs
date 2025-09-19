@@ -21,7 +21,7 @@ A [Cannot Claim Address](../../../../CANoeCANalyzer/J1939/j1939basics/j1939NMT.m
 
 ## Parameters
 
-- **options**: 
+- **options**:
   - `1`: suppress sending **Cannot Claim Address** message
 - **node**: Simulation node to apply the function
 

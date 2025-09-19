@@ -74,25 +74,25 @@ Checks the occurrences of cyclic messages. Event is generated if the time betwee
 ## Parameters
 
 - **aObservedMessage**: The observed message in symbolic form, e.g.: "MotorData", whose occurrence is to be monitored. Message must exist in database.
-- **aMinCycleTime**: 
+- **aMinCycleTime**:
   - 0: Limit is not checked
   - 0 < x < aMaxCycleTime: Limit is checked
   - Default unit [ms], if not changed with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md).
-- **aMaxCycleTime**: 
+- **aMaxCycleTime**:
   - 0: Limit is not checked
   - aMinCycleTime < x < ∞: Limit is checked
   - Default unit [ms], if not changed with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md).
-- **aCallback**: 
+- **aCallback**:
   - In simulation nodes this parameter has to be set.
   - In test modules this parameter is optional.
-- **slotID**: 
+- **slotID**:
   - This number designates a specific FlexRay slot.
   - Its value must be between 1 and 2047.
-- **cycleOffs**: 
+- **cycleOffs**:
   - This number designates the base cycle.
   - This value must be smaller than the repetition factor and lies in the range between 0 and 63.
   - This value, together with the repetition factor, determines the "Cycle Multiplexing" of a FlexRay frame.
-- **cycleRep**: 
+- **cycleRep**:
   - This number designates the cycle repetition factor.
   - The value must be between 1 and 64 and be a multiple of 2 (e.g. 1, 2, 4, 8, 16, 32 or 64).
   - This value, together with the base cycle, determines the "Cycle Multiplexing" of a FlexRay frame.

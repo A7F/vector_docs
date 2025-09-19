@@ -4,7 +4,7 @@
 
 [CAPL Functions](../../../CAPLfunctions.md) » [ISO11783](../../CAPLfunctionsISO11783Overview.md) » [Task Controller Interaction Layer (TC IL)](../CAPLfunctionsISOILTCOverview.md) » TCIL_UnassignReceiver
 
-### Valid for: CANoe DE • CANoe4SW DE
+## Valid for: CANoe DE • CANoe4SW DE
 
 ## Function Syntax
 

@@ -2,7 +2,7 @@
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
 
-### Method Syntax
+## Method Syntax
 
 `dword valueHandle::GetUpdateCount();`
 

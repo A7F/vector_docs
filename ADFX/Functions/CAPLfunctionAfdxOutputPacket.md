@@ -61,7 +61,7 @@ In the following cases the message needs to be defined in a DBC file and the fil
 
 ## Return Values
 
-- **0**: 
+- **0**:
 - **other value**: [error code](../CAPLfunctionsAFDXErrorCodes.md)
 
 ## Example

@@ -57,4 +57,3 @@ void OnAfdxError( int64 timestamp, long channel, long errorType, char errorText[
   }
 }
 ```
-

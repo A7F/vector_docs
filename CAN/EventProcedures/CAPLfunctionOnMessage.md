@@ -60,56 +60,67 @@ on message CAN2.*
 ```plaintext
 on message 123
 ```
+
 React to message 123 (dec, standard identifier), regardless of receiving chip
 
 ```plaintext
 on message 123x
 ```
+
 React to message 123 (dec, [extended identifier](../../../CANoeCANalyzer/General/CANExtendedIdentifier.md)), regardless of receiving chip
 
 ```plaintext
 on message 0x123
 ```
+
 React to message 123 (hex, standard identifier), regardless of receiving chip
 
 ```plaintext
 on message 0x123x
 ```
+
 React to message 123 (hex, extended identifier), regardless of receiving chip
 
 ```plaintext
 on message EngineData
 ```
+
 React to message EngineData
 
 ```plaintext
 on message CAN1.123
 ```
+
 React to message 123 if it is received by CAN1 chip
 
 ```plaintext
 on message CAN1.<symbolic name>
 ```
+
 [Resolution of an Ambiguous Name](../../../Shared/CAPL/General/ResolveAmbiguities.md)
 
 ```plaintext
 on message *
 ```
+
 React to all messages, that are not used within another `on message` procedure in the same node.
 
 ```plaintext
 on message CAN2.*
 ```
+
 React to all messages received by CAN2 chip ([unboxed](../../Other/CAPLfunctionsBoxedEventProceduresOverview.md))
 
 ```plaintext
 on message CAN2.[*]
 ```
+
 React to all messages received by CAN2 chip ([boxed](../../Other/CAPLfunctionsBoxedEventProceduresOverview.md))
 
 ```plaintext
 on message 0,1,10-20
 ```
+
 React to messages 0, 1 and 10 through 20
 
 [Resolution of Ambiguities](../../../Shared/CAPL/General/ResolveAmbiguities.md)

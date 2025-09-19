@@ -25,7 +25,7 @@ This function configures the MOST hardware as a Timing Master (mode = 1) or Timi
 ## Parameters
 
 - **channel**: Channel of the connected interface
-- **mode**: 
+- **mode**:
   - `0`: Slave
   - `1`: Master
 

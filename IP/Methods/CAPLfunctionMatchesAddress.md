@@ -4,7 +4,7 @@
 
 [CAPL Functions](../../CAPLfunctions.md) » [Ethernet](../CAPLEthernetStartPage.md) » [Function Overview](../CAPLfunctionsIPOverview.md) » IP_Address::MatchesAddress
 
-### Method Syntax
+## Method Syntax
 
 - `long IP_Address::MatchesAddress (IP_Address ipAddr); // form 1`
 - `long IP_Address::MatchesAddress (IP_Address ipAddr, long prefix); // form 2`

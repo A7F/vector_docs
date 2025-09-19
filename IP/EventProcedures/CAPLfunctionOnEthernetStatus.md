@@ -27,38 +27,38 @@ The key word [this](../../Other/EventProcedures/CAPLfunctionKeywordThis.md) is a
 
 ## Selectors
 
-- **status**: 
+- **status**:
   - 0: Link down
   - 1: Link up
   - Type: long
   - Access Limitation: Read only
 
-- **bitrate**: 
+- **bitrate**:
   - Bitrate in kBit/sec
   - Type: dword
   - Access Limitation: Read only
 
-- **msgChannel**: 
+- **msgChannel**:
   - Application channel, i.e. Eth 1
   - Type: word
   - Access Limitation: —
 
-- **hwChannel**: 
+- **hwChannel**:
   - Hardware channel. If not supported by network interface, value is 1.
   - Type: word
   - Access Limitation: Only with Vector Interfaces, i.e. VN5640, with operation mode with more than 1 hardware channel. Channel-based network access only
 
-- **hwPort**: 
+- **hwPort**:
   - Port used for network-based access.
   - Type: ethernetPort
   - Access Limitation: [network-based](../../../CANoeCANalyzer/Ethernet/EthernetPortBasedNetworkAccess.md) access only
 
-- **time_ns**: 
+- **time_ns**:
   - Timestamp of the status change
   - Type: int64
   - Access Limitation: Read only
 
-- **medium**: 
+- **medium**:
   - 0: kEthernetPhyMediumUnknown
   - 1: kEthernetPhyMediumIEEE_802_3
   - 2: kEthernetPhyMedium100BASE_T1
@@ -71,14 +71,14 @@ The key word [this](../../Other/EventProcedures/CAPLfunctionKeywordThis.md) is a
   - Type: enum EthernetPhyMedium
   - Access Limitation: Read only
 
-- **mode**: 
+- **mode**:
   - 0: kEthernetPhyModeUnknown
   - 1: kEthernetPhyModeMaster
   - 2: kEthernetPhyModeSlave
   - Type: enum EthernetPhyMode
   - Access Limitation: Read only
 
-- **connector**: 
+- **connector**:
   - 0: kEthernetPhyConnectorDefault (the only available connector on this channel)
   - 1: kEthernetPhyConnectorRJ45
   - 2: kEthernetPhyConnectorDSub

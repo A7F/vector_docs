@@ -21,7 +21,7 @@ Only supported for [network-based configurations](../../../CANoeCANalyzer/Ethern
 ## Parameters
 
 - **port**: Ethernet port.
-- **phyMode**: 
+- **phyMode**:
   - 0: kEthernetPhyModeUnknown
   - 1: kEthernetPhyModeMaster
   - 2: kEthernetPhyModeSlave

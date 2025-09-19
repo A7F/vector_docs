@@ -6,16 +6,16 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
 
-### Keywords and Descriptions
+## Keywords and Descriptions
 
 - **Time**
-  - Description: Time stamp synchronized with the global time base on the computer (CAN hardware or PC system clock). 
+  - Description: Time stamp synchronized with the global time base on the computer (CAN hardware or PC system clock).
   - Unit: 10µs
   - Type: dword
   - Access Limitations: read only
 
 - **Time_ns**
-  - Description: Time stamp synchronized with the global time base on the computer (CAN hardware or PC system clock). 
+  - Description: Time stamp synchronized with the global time base on the computer (CAN hardware or PC system clock).
   - Unit: nanoseconds
   - Type: int64
   - Access Limitations: read only
@@ -116,7 +116,7 @@
   - Access Limitations: read only
 
 - **EOB[i]**
-  - Description: End of byte time stamp of databyte `<i>` in ns 
+  - Description: End of byte time stamp of databyte `<i>` in ns
   - Possible indexes: 0..7
   - Type: int64
   - Access Limitations: read only

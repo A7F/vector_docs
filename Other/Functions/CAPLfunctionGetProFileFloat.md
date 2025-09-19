@@ -11,6 +11,7 @@
 A filename must be passed to this function. The absolute filename is determined by means of a [search procedure](../CAPLfunctionsFileSearchProcedure.md).
 
 ### Function Syntax
+
 ```plaintext
 float getProfileFloat(char section[], char entry[], long def, char filename[]); // form 1
 float getProfileFloat(char section[], char entry[], long def, char filename[], dword utf16); // form 2

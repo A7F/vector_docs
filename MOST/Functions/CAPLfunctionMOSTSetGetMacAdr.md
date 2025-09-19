@@ -28,7 +28,7 @@ The functions set and retrieve the 48 bit MAC address of the network interface c
 ## Return Values
 
 - **mostSetMacAdr**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
-- **mostGetMacAdr**: 
+- **mostGetMacAdr**:
   - >=0: 48 bit MAC address
   - <0: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 

@@ -24,8 +24,8 @@ The CANoe MATLAB Integration uses meaningful default values to set up and contro
 
 | Functions | Short Description |
 |-----------|-------------------|
-| [\<ModelName>_init](Functions/CAPLfunctionMODELinit.md) | Initializes the CANoe runtime environment for the generated model DLL. |
-| [\<ModelName>_step](Functions/CAPLfunctionMODELstep.md) | Executes a simulation step. |
+| [\`<ModelName>`_init](Functions/CAPLfunctionMODELinit.md) | Initializes the CANoe runtime environment for the generated model DLL. |
+| [\`<ModelName>`_step](Functions/CAPLfunctionMODELstep.md) | Executes a simulation step. |
 | [GetSimulinkModelName](Functions/CAPLfunctionGetSimulinkModelName.md) | Returns the name of the Simulink model. |
 
 ## CAPL Functions in Concurrent Execution Mode

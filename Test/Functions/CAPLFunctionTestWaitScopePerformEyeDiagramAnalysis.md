@@ -6,7 +6,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
 
-### Function Syntax
+## Function Syntax
 
 - `long testWaitScopePerformEyeDiagramAnalysis(message frame, dword flags, dword groupNumber, ScopeSinglePolygonBitMask bitMask, ScopeAnalyseHandle handle); // form 1`
 - `long testWaitScopePerformEyeDiagramAnalysis(linFrame frame, dword flags, dword groupNumber, ScopeSinglePolygonBitMask bitMask, ScopeAnalyseHandle handle); // form 2`
@@ -25,7 +25,7 @@ Perform a bit analysis for the eye diagram.
   - Form 1 (CAN): Reserved must be set to 0.
   - Form 2 (LIN): Reserved must be set to 0.
   - Form 3(FlexRay) and Form 4(FlexRay Node):
-    - 0-2: 
+    - 0-2:
       - 0 = Analyze only frames in Key Slots
       - 1 = Analyze only frames of static segment
       - 2 = Analyze only frames in dynamic segment

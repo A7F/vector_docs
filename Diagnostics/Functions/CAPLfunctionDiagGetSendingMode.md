@@ -8,7 +8,7 @@ The sending as UUDT is activated via CDD and only available for special manufact
 ## Function Syntax
 
 ```plaintext
-long diagGetSendingMode 
+long diagGetSendingMode
 (diagResponse response);
 ```
 

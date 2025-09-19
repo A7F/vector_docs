@@ -6,7 +6,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
 
-### Table of Selectors
+## Table of Selectors
 
 - **Keyword:** Time
   - **Description:** Time stamp synchronized with the global time base on the computer (CAN hardware or PC system clock). Unit: 10µs
@@ -36,7 +36,7 @@
 - **Keyword:** ID
   - **Description:** LIN Frame identifier (6 bits) of the measured frame. Value range: 0..63
   - **Type:** byte
-  - **Access Limitations:** 
+  - **Access Limitations:**
 
 - **Keyword:** DLC
   - **Description:** Measured number of data bytes (Data Length Code). Value range: 0..8

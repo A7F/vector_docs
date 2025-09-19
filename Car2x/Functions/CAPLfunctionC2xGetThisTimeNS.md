@@ -17,7 +17,7 @@ This function returns the time stamp of an received WLAN packet in nanoseconds.
 
 ## Parameters
 
-— 
+—
 
 ## Return Values
 

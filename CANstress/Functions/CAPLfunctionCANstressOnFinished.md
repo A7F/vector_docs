@@ -23,6 +23,7 @@ Registers a CAPL function as callback that is called if CANstress is switched in
   ```
 // delete or switch off present callback
 CANstressOnFinished( " " );
+
   ```
 
 ## Return Values

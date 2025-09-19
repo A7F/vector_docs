@@ -22,7 +22,7 @@ Generates signature of data with a given private key using asymmetric RSA signat
 - **dataLength**: Length of the data to be signed
 - **signature [OUT]**: Generated signature
 - **signatureLength [IN/OUT]**: Length of generated signature
-- **signatureScheme**: 
+- **signatureScheme**:
   - PKCS1_v1_5_SHA-256 = 1
   - PKCS1_v1_5_SHA-384 = 2
   - PKCS1_v1_5_SHA-512 = 3

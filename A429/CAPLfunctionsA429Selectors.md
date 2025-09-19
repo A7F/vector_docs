@@ -95,12 +95,12 @@ The offsets used together with the selector address the following parts of the A
 
 - **Offset**: 3, 2, 1, 0
 - **Byte(0)/char(0)**: 0
-- **Byte(1)/char(1)**: 
-- **Byte(2)/char(2)**: 
-- **Byte(3)/char(3)**: 
+- **Byte(1)/char(1)**:
+- **Byte(2)/char(2)**:
+- **Byte(3)/char(3)**:
 - **Word(0)/int(0)**: 0
-- **Word(1)/int(1)**: 
-- **Word(2)/int(2)**: 
+- **Word(1)/int(1)**:
+- **Word(2)/int(2)**:
 - **Dword(0)/long(0)**: 0
 
 [Meaning](../../CANoeCANalyzer/A429/basicsA429/A429basics.md): Parity + SSM + Data, Data, Data + SDI, ARINC-Label

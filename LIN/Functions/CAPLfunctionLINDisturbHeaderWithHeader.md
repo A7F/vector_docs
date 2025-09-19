@@ -18,17 +18,17 @@ Configures the LIN hardware to disturb the next header with a new header (id=`<d
 
 ## Parameters
 
-- **byteIndex**: 
+- **byteIndex**:
   - Starts disturbance in byte with index `<byteIndex>`.
   - 0: Sync Byte
   - 1: ProtectedId Byte
 
-- **bitIndex**: 
+- **bitIndex**:
   - Starts disturbance at bit position `<bitIndex>`.
   - An index in the range 0-7 specifies a data bit, while the index 8 specifies the stop bit. Higher index values specify the interbyte-space after the indexed data byte. In which case, the user should make sure that the interbyte space is large enough.
   - Value range: 0..255
 
-- **disturbanceHeaderID**: 
+- **disturbanceHeaderID**:
   - Frame ID to be used for the header disturbance.
   - **Note**: This is not the ID of the header to be disturbed, but the ID of the header disturbance itself.
 

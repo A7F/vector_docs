@@ -2,7 +2,7 @@
 
 **Valid for**: CANoe DE
 
-### Function Syntax
+## Function Syntax
 
 ```
 on PDU_update <PDU>;

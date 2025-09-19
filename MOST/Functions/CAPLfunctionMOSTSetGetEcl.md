@@ -25,14 +25,14 @@ long mostGetEcl(long channel);
 ## Parameters
 
 - **channel**: Channel of the connected interface.
-- **eclState**: 
+- **eclState**:
   - 0: low
   - 1: high
 
 ## Return Values
 
 - **mostSetEcl**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
-- **mostGetEcl**: 
+- **mostGetEcl**:
   - >=0: See **eclState** parameter
   - <0: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 

@@ -44,15 +44,15 @@ References a monitoring distributed object that is derived from the denoted inte
   - Type: `dword`
   - Access Limitation: Read only
 
-- **<Member Name>**: Access to a member of the object.
+- **`<Member Name>`**: Access to a member of the object.
   - Type: `<MemberType>`
   - Access Limitation: Read only
 
-- **<Embedded Member Name>**: Access to an embedded member of the object.
+- **`<Embedded Member Name>`**: Access to an embedded member of the object.
   - Type: `monitoringDistObjRef <Embedded Member Interface>`
   - Access Limitation: Read only
 
-- **<Reference Member Name>**: Access to a reference member of the object.
+- **`<Reference Member Name>`**: Access to a reference member of the object.
   - Type: `monitoringDistObjReferenceRef <Reference Member Interface>`
   - Access Limitation: Read only
 

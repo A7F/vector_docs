@@ -59,7 +59,7 @@ Observes the J1939 Request2 (C900h). It is possible to observe all Request2 mess
   - bit 5: the address busy Acknowledgment message
   - bit 6: timeout, no answer expected.
   - You can combine the expected parameters by bitwise operations.
-- **options**: 
+- **options**:
   - bit 1: allow request if request is pending
   - bit 2: allow Acknowledgment message sent to specific destination address (required by ISO11783)
   - You can combine the options parameters by bitwise operations.

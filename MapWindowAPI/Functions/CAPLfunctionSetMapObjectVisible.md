@@ -19,7 +19,7 @@ Sets the visibility of a map object.
 ## Parameters
 
 - **handle**: Reference of the map object.
-- **visible**: 
+- **visible**:
   - 0 = not visible
   - 1 = visible
 

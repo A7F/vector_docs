@@ -6,7 +6,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
 
-### Table of Keywords
+## Table of Keywords
 
 - **Keyword:** Time
   - **Description:** Time stamp synchronized with the global time base on the computer (CAN hardware or PC system clock). Unit: 10µs

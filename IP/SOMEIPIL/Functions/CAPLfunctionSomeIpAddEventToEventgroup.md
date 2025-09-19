@@ -62,4 +62,5 @@ void OnPrepareEvent1(DWORD eventHandle, DWORD messageHandle)
 ```
 
 [See Also](javascript:void(0);)
+
 ```markdown

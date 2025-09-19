@@ -19,7 +19,7 @@ Scales symbols in a CANoe DE product [Graphics Window](../../../CANoeCANalyzer/W
 ## Parameters
 
 - **windowName**: The name of the Graphics Window.
-- **mode**: 
+- **mode**:
   - mode = 1: Fit all signals
   - mode = 2: Fit all signals Y
   - mode = 3: Fit X

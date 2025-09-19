@@ -34,7 +34,7 @@ The Flags field can be zero or more (in any order) of:
 - **- (minus)**: Left-align the output of this placeholder. (The default is to right-align the output.)
 - **+ (plus)**: Prepends a plus for positive signed-numeric types. positive = +, negative = -. The default does not prepend anything in front of positive numbers.
 - **(space)**: Prepends a space for positive signed-numeric types. positive = , negative = -. This flag is ignored if the + flag exists. The default does not prepend anything in front of positive numbers.
-- **0 (zero)**: When the 'width' option is specified, prepends zeros for numeric types. The default prepends spaces. For example, `Write("%4X",3)` produces `   3`, while `Write("%04X",3)` produces `0003`.
+- **0 (zero)**: When the 'width' option is specified, prepends zeros for numeric types. The default prepends spaces. For example, `Write("%4X",3)` produces `  3`, while `Write("%04X",3)` produces `0003`.
 - **# (hash)**: Alternate form:
   - For `g` and `G` types, trailing zeros are not removed.
   - For `f`, `F`, `e`, `E`, `g`, `G` types, the output always contains a decimal point.
@@ -44,7 +44,7 @@ The Flags field can be zero or more (in any order) of:
 
 The width field specifies a **minimum** number of characters to output and is typically used to pad fixed-width fields in tabulated output, where the fields would otherwise be smaller, although it does not cause truncation of oversized fields.
 
-The width field may be omitted, or a numeric integer value, or a dynamic value when passed as another argument when indicated by an asterisk `*`. For example, `Write("%*d", 5, 10)` will result in `   10` being printed, with a total width of 5 characters.
+The width field may be omitted, or a numeric integer value, or a dynamic value when passed as another argument when indicated by an asterisk `*`. For example, `Write("%*d", 5, 10)` will result in `  10` being printed, with a total width of 5 characters.
 
 Though not part of the width field, a leading zero is interpreted as the zero-padding flag mentioned above, and a negative value is treated as the positive value in conjunction with the left-alignment `-` flag also mentioned above.
 

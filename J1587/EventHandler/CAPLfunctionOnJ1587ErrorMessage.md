@@ -14,11 +14,12 @@ For passing this message to other node, `output(this)` must be called inside the
 
 ## Parameters
 
-- * (receives all MIDs) // Msg with J1587_Error != 0
+- - (receives all MIDs) // Msg with J1587_Error != 0
 
 ## Example
 
 **on J1587ErrorMessage** 50 //50 is Sender MID, can be dbNode name or MID
+
 ```
 {
   write ("Msg with ErrorCode %d received, MID %d", this.J1587_MID,

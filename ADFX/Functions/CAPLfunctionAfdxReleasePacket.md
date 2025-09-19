@@ -18,7 +18,7 @@ This function deletes a packet created with [AfdxInitPacket](CAPLfunctionAfdxIni
 
 ## Return Values
 
-- **0**: 
+- **0**:
 - **other value**: [error code](../CAPLfunctionsAFDXErrorCodes.md)
 
 ## Example

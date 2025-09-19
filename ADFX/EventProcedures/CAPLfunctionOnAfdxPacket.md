@@ -27,7 +27,7 @@ This callback is called when a registered AFDX packet is received.
   - 3: LineAB
 - **timestamp**: Time stamp of the packet or fragment in ns.
 - **bag**: Time difference since last packet of this Virtual Link in ms.
-- **afdxFlags**: 
+- **afdxFlags**:
   - **status info**
     - bit 0: This packet was received from Line-B.
     - bit 1: This packet is redundant.

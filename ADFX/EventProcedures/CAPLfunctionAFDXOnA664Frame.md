@@ -51,4 +51,3 @@ Calling conventions for the **on a664Frame** handler.
 - `on a664Frame MsgChannel1.123`: Event with VLId 123 (decimal) on channel 1.
 - `on a664Frame ICMP`: ICMP Event on any channel.
 - `on a664Frame MsgChannel1.ICMP`: ICMP Event on channel 1.
-

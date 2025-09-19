@@ -6,7 +6,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
 
-### Note
+## Note
 
 - This function can be called only within the assigned callback. The function is used to query the details of a request or of a SLAC or V2G message.
 - This function is available for the messages **ChargingStatusRes**, **CurrentDemandRes** and **MeteringReceiptRes** if a MeterInfo element is contained.

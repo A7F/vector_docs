@@ -6,7 +6,7 @@
 
 [Feature availability for your product](../../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
 
-### Function Syntax
+## Function Syntax
 
 - `long J1939ILBlockTxTpAbort();` // Form 1
 - `long J1939ILBlockTxTpAbort(dbNode node);` // Form 2

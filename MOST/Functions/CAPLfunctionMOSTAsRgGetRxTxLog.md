@@ -21,7 +21,7 @@ The second one returns the logical device address (node address) of the function
 
 ## Parameters
 
-- **regsel**: 
+- **regsel**:
   - 1: Local FBlockList
   - 2: Bus registry
 - **i**: Position of the registry entry.

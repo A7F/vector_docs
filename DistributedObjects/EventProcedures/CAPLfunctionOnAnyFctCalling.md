@@ -17,11 +17,11 @@ This handler is called whenever a method of a distributed object derived from th
 ## Selectors
 
 - **Selector**: object
-  - **Type**: distObjRef <T>
+  - **Type**: distObjRef `<T>`
   - **Access Limitation**: Read only
 
 - **Selector**: context
-  - **Type**: callContext <T>
+  - **Type**: callContext `<T>`
   - **Access Limitation**: Read only
 
 ## Example

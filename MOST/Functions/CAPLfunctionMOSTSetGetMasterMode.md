@@ -25,14 +25,14 @@ mostSetMasterMode becomes operative with the next call of [mostSetTimingMode](CA
 ## Parameters
 
 - **channel**: Channel of the connected interface
-- **mode**: 
+- **mode**:
   - 0: static master
   - 1: non-static master
 
 ## Return Values
 
 - **mostSetMasterMode**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
-- **mostGetMasterMode**: 
+- **mostGetMasterMode**:
   - >=0: See mode parameter
   - <0: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 

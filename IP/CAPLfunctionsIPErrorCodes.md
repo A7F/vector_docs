@@ -6,7 +6,7 @@
 
 [Valid for](../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
 
-### Error Codes
+## Error Codes
 
 - **0**: no error
 - **46-0100**: General error

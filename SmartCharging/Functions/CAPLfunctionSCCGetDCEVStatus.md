@@ -12,9 +12,9 @@ This function can be called only within the assigned callback. The function is u
 ## Function Syntax
 
 ```plaintext
-void SCC_GetDC_EVStatus ( long& EVReady, 
-long& EVCabinConditioning, 
-long& EVRESSConditioning, char EVErrorCode[], 
+void SCC_GetDC_EVStatus ( long& EVReady,
+long& EVCabinConditioning,
+long& EVRESSConditioning, char EVErrorCode[],
 long& EVRESSSOC) // form 1
 ```
 

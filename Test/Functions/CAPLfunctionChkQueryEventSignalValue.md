@@ -23,7 +23,7 @@ This function enables access to the signal value which was last reported by a ch
 ## Parameters
 
 - **checkId**: Identifier of the queried Check.
-- **double *pValue**: 
+- **double *pValue**:
   - Note: This requires the transfer of an array.
 
 ## Return Values

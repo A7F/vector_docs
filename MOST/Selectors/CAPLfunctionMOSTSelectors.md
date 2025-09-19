@@ -120,7 +120,7 @@ These selectors are only valid for **mostMessage**
   Access: read only, Spy, MOST150 only
 
 Example:  
-Press <Ctrl>+<W> or select **Signal insertion from MOST function catalog...** from the shortcut menu to open a selection dialog listing all messages and their parameters from the function catalog for selection.  
+Press `<Ctrl>`+`<W>` or select **Signal insertion from MOST function catalog...** from the shortcut menu to open a selection dialog listing all messages and their parameters from the function catalog for selection.  
 This includes all non-nested parameters in the user data with constant width and constant position.  
 In this context, the parameter name is inserted into the program text as a selector.
 

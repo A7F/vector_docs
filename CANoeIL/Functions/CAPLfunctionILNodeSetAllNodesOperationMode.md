@@ -2,11 +2,12 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
 
-### Note
+## Note
 - This function is not available for all OEM add-ons — depends on the CANoeIL.
 - This function can be used in a global node outside the node context of the IL and in test modules.
 
 ## Function Syntax
+
 ```
 long ILNodeSetAllNodesOperationMode(long mode, long param)
 ```
@@ -16,7 +17,7 @@ Sets specific operation mode in the interaction layer of all nodes in the curren
 
 ## Parameters
 
-- **mode**: 
+- **mode**:
   - `0`: influences update bits; other values have currently no effect and are reserved.
 
 - **param**: The effect of **param** depends on the parameter **mode**:

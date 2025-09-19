@@ -17,7 +17,7 @@ Copies the current IP address to the byte array whereas the byte array's size ne
 
 ## Parameters
 
-— 
+—
 
 ## Return Values
 

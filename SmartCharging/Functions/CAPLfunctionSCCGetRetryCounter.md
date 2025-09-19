@@ -6,7 +6,7 @@
 
 **Valid for:** CANoe DE • CANoe4SW DE
 
-### Note
+## Note
 
 - `<InvalidValueSigned>` and/or `<InvalidValueUnsigned>` can be defined in the XML configuration.
 - These are returned if an optional numeric message parameter was queried by this function but not found.

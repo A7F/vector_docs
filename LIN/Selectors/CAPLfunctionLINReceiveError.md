@@ -6,7 +6,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
 
-### Table of Selectors
+## Table of Selectors
 
 - **Keyword**: Time
   - **Description**: Time stamp synchronized with the global time base on the computer (CAN hardware or PC system clock). Unit: 10µs
@@ -51,7 +51,7 @@
 - **Keyword**: DLC
   - **Description**: Number of data bytes expected in the frame (Data Length Code). Only valid if **lin_ShortError** is not set. Value range: 0..8
   - **Type**: byte
-  - **Access Limitations**: 
+  - **Access Limitations**:
 
 - **Keyword**: MsgChannel
   - **Description**: Transmission channel. Value range: 1..32

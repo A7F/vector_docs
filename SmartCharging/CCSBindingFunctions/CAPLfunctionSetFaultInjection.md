@@ -21,7 +21,7 @@ Enables fault injection within the V2G communication.
   - 1 = PreventTCPShutdown
   - 2 = PreventTCPShutdownReaction
 
-- **enable**: 
+- **enable**:
   - 1 = enable
   - 0 = disable
 

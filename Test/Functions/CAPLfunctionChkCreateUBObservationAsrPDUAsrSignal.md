@@ -56,7 +56,7 @@ The numeric functions/constructors with the parameter **aHeaderId** cannot be us
 - **aHeaderId**: PDU header ID to be observed. The corresponding PDU shall be defined in the database.
 - **signalGroup**: Signal group with SQC to be observed.
 - **signalName**: Signal with UB to be observed.
-- **maxNoOfConsUnchangedDataWithSetUB**: 
+- **maxNoOfConsUnchangedDataWithSetUB**:
   - `> 0`: Maximal number of constant unchanged data with set UB
   - `= 0`: Unchanged data with set UB not allowed
   - `-1`: Unchanged data with set UB allowed infinite

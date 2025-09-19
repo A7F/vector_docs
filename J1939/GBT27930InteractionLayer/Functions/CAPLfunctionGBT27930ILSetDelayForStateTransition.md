@@ -21,38 +21,38 @@ Defines delay for a state transition.
 
 - **stateTransition**: State transition to be delayed. The following values are defined:
   - **11**: After the K3 and K4 are closed (resp. GBT27930IL_StartChargingSimulation() is called): Start sending of CHM
-  - **0**: 
+  - **0**:
     - Charger: After the appearance of the BHM: Stop sending of CHM and start sending of CRM (BMS is not recognized)
     - BMS: After the appearance of the CHM: Start sending of BHM
-  - **1**: 
+  - **1**:
     - Charger: After the appearance of the BRM: Stop sending of CRM (BMS is not recognized) and start sending of CRM (BMS is recognized)
     - BMS: After the appearance of the CRM (BMS is not recognized): Stop sending of BHM and start sending of BRM
-  - **2**: 
+  - **2**:
     - Charger: After the appearance of the BCP: Stop sending of CRM (BMS is recognized) and start sending of CML
     - BMS: After the appearance of the CRM (BMS is recognized): Stop sending of BRM and start sending of BCP
-  - **3**: 
+  - **3**:
     - Charger: After the appearance of the BRO (Ready for charging): Stop sending of CML and start sending of CRO (Not ready for charging)
     - BMS: After the appearance of the CML: Stop sending of BCP and start sending of BRO (Not ready for charging)
-  - **4**: 
+  - **4**:
     - Charger: After the sending of CRO (Not ready for charging) is started: Stop sending of CRO (Not ready for charging) and start sending of CRO (Ready for charging)
     - BMS: After the sending of BRO (Not ready for charging) is started: Stop sending of BRO (Not ready for charging) and start sending of BRO (Ready for charging)
-  - **5**: 
+  - **5**:
     - Charger: After the appearance of the BCS: Stop sending of CRO (Ready for charging) and start sending of CCS
     - BMS: After the appearance of the CRO (Not ready for charging): Stop sending of BRO (Ready for charging) and start sending of BCL
-  - **15**: 
+  - **15**:
     - BMS: After the sending of BCL is started: In addition to sending BCL, start sending BCS
-  - **6**: 
+  - **6**:
     - Charger: After the appearance of the BST: Stop sending of CCS and start sending of CST. This is used when the BMS suspends charging.
     - BMS: After the appearance of the CCS: In addition to sending BCL and BCS, start sending BSM. If configured, BMV and BMT are also sent.
-  - **16**: 
+  - **16**:
     - BMS: After the appearance of the CST: Stop sending of BST and start sending of BSD. This is used when the BMS suspends charging.
-  - **7**: 
+  - **7**:
     - Charger: After the appearance of the BSD: Stop sending of CST and start sending of CSD
     - BMS: After the appearance of the CST: Stop sending of BCL, BCS and BSM and start sending of BST. This is used when the Charger suspends charging.
-  - **8**: 
+  - **8**:
     - Charger: After the sending of the CSD is started: Stop sending of CSD, end of charging
     - BMS: After the sending of the BST is started: Stop sending of BST and start sending of BSD. This is used when the Charger suspends charging.
-  - **9**: 
+  - **9**:
     - BMS: After the sending of the BSD is started: Stop sending of BSD, end of charging
 
 - **delay**: Time (in ms) for which the state transition is to be delayed.

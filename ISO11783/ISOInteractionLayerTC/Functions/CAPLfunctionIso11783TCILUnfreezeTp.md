@@ -24,7 +24,7 @@ The connection then acts as if no interruption occurred. That means, if the conn
 ## Parameters
 
 - **node**: Simulation node to apply the function.
-- **protocol**: 
+- **protocol**:
   - 1: BAM
   - 2: RTS/CTS
   - 3: Fast Packet (not supported)

@@ -6,7 +6,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
 
-### Function Syntax
+## Function Syntax
 
 ```plaintext
 long TestValidatePhysValueSInt(char aTestStep[], valueHandle * value, int64 awaitedValue);

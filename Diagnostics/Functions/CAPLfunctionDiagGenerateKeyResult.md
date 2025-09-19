@@ -14,7 +14,7 @@ Indicates the result of the security key computation which was started with [Dia
 
 ## Parameters
 
-- **result**: 
+- **result**:
   - **0**: Success
   - **other**: Error code
 - **computedKey**: Key as returned by the Seed & Key DLL, if any.

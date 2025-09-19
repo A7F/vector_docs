@@ -2,7 +2,7 @@
 
 [CAPL Functions](../../CAPLfunctions.md) » [AFDX](../CAPLfunctionsAFDXOverview.md) » AfdxGetSignalString
 
-### Valid for:
+## Valid for:
 - CANoe DE
 - CANoe:lite DE
 - CANoe4SW DE

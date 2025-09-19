@@ -2,7 +2,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
 
-### Function Syntax
+## Function Syntax
 
 ```
 consumedServiceRef * LookupConsumedService(char[] path);

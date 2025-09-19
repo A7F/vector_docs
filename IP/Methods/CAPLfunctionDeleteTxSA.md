@@ -23,7 +23,7 @@ Deletes a secure association for transmitting.
 
 ### Return Values
 
-- **byte**: 
+- **byte**:
   - 1 if the call succeeded, 0 otherwise.
   - The call will fail if:
     - The secure channel referred to by the sci does not exist.
@@ -32,7 +32,7 @@ Deletes a secure association for transmitting.
 
 ### Example
 
-— 
+—
 
 © Vector Informatik GmbH
 

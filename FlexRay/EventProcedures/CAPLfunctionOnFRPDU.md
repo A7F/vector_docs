@@ -70,26 +70,26 @@ An optional qualifier can be used to assign the handler to a specific network:
 
   Provides more detailed status information from the frame header, if necessary. Possible values:
 
-  - **0x1** — 
+  - **0x1** —
   - **0x2** Payload valid = msg contains valid data
-  - **0x4** — 
-  - **0x8** — 
-  - **0x10** — 
-  - **0x20** — 
-  - **0x40** — 
-  - **0x80** — 
-  - **0x100** — 
-  - **0x200** — 
-  - **0x400** — 
-  - **0x800** — 
-  - **0x1000** — 
-  - **0x2000** — 
+  - **0x4** —
+  - **0x8** —
+  - **0x10** —
+  - **0x20** —
+  - **0x40** —
+  - **0x80** —
+  - **0x100** —
+  - **0x200** —
+  - **0x400** —
+  - **0x800** —
+  - **0x1000** —
+  - **0x2000** —
   - **0x4000** The PDU was sent/simulated.
   - **0x8000** The PDU was received in asynchronous mode.
   - **0x10000** It is a PDU!
   - **0x20000** PDU Update Bit
-  - **0x40000** — 
-  - **0x80000** — 
+  - **0x40000** —
+  - **0x80000** —
   - **0x100000** PDU is part of the dynamic segment.
   - **0x400000** PDU has an Update Bit.
 

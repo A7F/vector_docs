@@ -15,7 +15,7 @@ Calculates the corresponding CRC checksum based on the payload. The correct offs
 ## Parameters
 
 - **pduName**: Name of the PDU.
-- **type**: 
+- **type**:
   - type = 0 : CRC
   - type = 1 : CHK
 - **payload**: Payload for which the checksum is to be calculated.

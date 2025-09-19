@@ -6,7 +6,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
 
-### Method Syntax
+## Method Syntax
 
 ```
 dword X509DNAttribute_SetValue(qword objectHandle, char[] newValue)

@@ -40,7 +40,7 @@
   - Description: Channel through which the event was received.
   - Value range: 1..32
   - Type: word
-  - Access Limitations: 
+  - Access Limitations:
 
 - **lin_OldMode**
   - Description: Index of a previously active schedule table.

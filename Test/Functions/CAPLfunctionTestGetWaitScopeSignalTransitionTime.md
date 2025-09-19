@@ -33,7 +33,7 @@
     - `4-5`: Rising/falling edge selection:
       - `Bit 4 = 1 Use rising edges`
       - `Bit 5 = 1 Use falling edges`
-    - `9`: 
+    - `9`:
       - `0 = Use last occurrence for transition time measurement`
       - `1 = Use first occurrence for transition time measurement`
   - All other bits are reserved and must be set to 0.

@@ -30,7 +30,7 @@ Do not use IpBind when you are working with [TcpConnect](CAPLfunctionTCPConnect.
 - **address**: The [numerical](../../../Shared/CAPL/TCPIPAPI/IPAddressByteOrdering.md) local IPv4 address.
 - **ipv6address**: The local IPv6 address in a [16 byte array](../../../Shared/CAPL/TCPIPAPI/IPAddressByteOrdering.md).
 - **port**: The local port in host-byte order.
-- **localEndpoint**: Bind the socket to this local endpoint. 
+- **localEndpoint**: Bind the socket to this local endpoint.
   - IP Address can be 0, if the socket should not be bound to an address.
   - Port number can be undefined, if a dynamic port number should be used.
   - Examples:

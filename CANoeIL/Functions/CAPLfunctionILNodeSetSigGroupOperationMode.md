@@ -20,7 +20,7 @@ Sets specific operation mode in the interaction layer for the specified signal g
 ## Parameters
 
 - **signalGroupName**: Name of the signal group.
-- **mode**: 
+- **mode**:
   - 0: influences update bits; other values have currently no effect and are reserved.
 - **param**: The effect of **param** depends on the parameter **mode**:
   - **Syntax form 1, Mode Value 0**:

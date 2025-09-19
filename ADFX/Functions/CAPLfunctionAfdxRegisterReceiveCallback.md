@@ -42,7 +42,7 @@ Calling the function with form 1 is equivalent to calling it with form 2 with th
 
 ## Return Values
 
-- **0**: 
+- **0**:
 - **other value**: [error code](../CAPLfunctionsAFDXErrorCodes.md)
 
 ## Example

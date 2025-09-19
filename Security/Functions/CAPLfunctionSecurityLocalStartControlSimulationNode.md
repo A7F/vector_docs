@@ -29,7 +29,7 @@ Form 2 allows to control non-database simulation nodes.
 - **char nodeId[]**: The name or title of the node to control. Use either the node name of a network node declared in the database or the node title declared in the Simulation Setup of the CANoe DE product and set parameter nodeIdType accordingly. (Form 2)
 - **dword nodeIdType**: Configure how the parameter nodeId shall be interpreted. Possible Values:
   - 1: nodeId refers to node name of a network node declared in the database
-  - 2: nodeId refers to node title declared in the Simulation Setup of the CANoe DE product (If Network Node is set to <<default>>) (Form 2)
+  - 2: nodeId refers to node title declared in the Simulation Setup of the CANoe DE product (If Network Node is set to <`<default>`>) (Form 2)
 - **char networkName[]**: The name of the network the node to control is on.
 - **dword orderNumber**: Defines the position in the ordered list, in which the callbacks are executed. Order number 1 is reserved for the simulation node itself. Order number 2 means that the callback is triggered directly after the simulation node (number 1), but before any other node who may have registered to a higher order number. Only one node can register to an order number. If the order number is already used, the registration fails.
 

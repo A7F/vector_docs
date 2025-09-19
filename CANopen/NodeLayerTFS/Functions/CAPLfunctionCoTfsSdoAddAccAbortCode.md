@@ -2,7 +2,7 @@
 
 **Valid for**: CANoe DE • CANoe:lite DE • CANoe4SW DE
 
-### Note
+## Note
 The extended SDO abort handling feature is not supported on using the following functions:
 - [coTfsODChk](CAPLfunctionCoTfsOdChk.md)
 - [coTfsODChkNotExist](CAPLfunctionCoTfsOdChkNotExist.md)

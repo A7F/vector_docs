@@ -21,7 +21,7 @@ Sends an arbitrary bitstream on the LIN bus.
 
 - **bitStream**: The bitstream to be sent. Maximum number of bits: 2^31-1.
 - **numberOfBits**: The number of bits in the bitStream-array.
-- **timeoutPrevention**: 
+- **timeoutPrevention**:
   - 0: deactivates the [timeout prevention](../CAPLfunctionsLINTimeoutPrevention.md) for the 7259-transceiver.
   - 1: activates the [timeout prevention](../CAPLfunctionsLINTimeoutPrevention.md) for the 7259-transceiver.
 

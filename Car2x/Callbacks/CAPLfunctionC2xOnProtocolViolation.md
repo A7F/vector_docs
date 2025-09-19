@@ -16,26 +16,26 @@ A CAPL callback function informing you about a new Protocol Analyzer finding. Wh
 
 ## Parameters
 
-- **severity**: 
+- **severity**:
   - 0 – the protocol violation finding was defined as error
   - 1 – the protocol violation finding was defined as warning
 
-- **stationId**: 
+- **stationId**:
   - Id of the station that caused the protocol violation.
 
-- **scope**: 
+- **scope**:
   - Text value indicating the position of the rule in the Protocol Analyzer rule tree, each level is separated by the pipe character "|" and corresponds to a separate folder in the tree. For example "My rules|EU|CAM|Custom Rules".
 
-- **ruleId**: 
+- **ruleId**:
   - Integer number which identify the rule
 
-- **ruleName**: 
+- **ruleName**:
   - Short rule name, will be shown in the Protocol Analyzer rule tree
 
-- **violationDescription**: 
+- **violationDescription**:
   - Detailed description of the violation or unexpected behavior
 
-- **ruleDescription**: 
+- **ruleDescription**:
   - Detailed description of the behavior and/or token values expected by this rule
 
 ## Return Values

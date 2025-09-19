@@ -20,11 +20,11 @@ Adds a file or the content of a local directory to the File Server. Existing dir
 ## Parameters
 
 - **fs**: FS simulation node to apply the function
-- **targetPath**: 
+- **targetPath**:
   - Files are copied into this path. The path is relative to the root directory of the File Server.
   - If the path is an empty string then the files are copied into root directory of the File Server.
   - If the directory does not exist then it is created.
-- **sourcePath**: 
+- **sourcePath**:
   - Path of a file or a directory which contains files and directories. Path has to be absolute or relative relating to the folder of the CANoe configuration.
   - This file or the content of this directory is copied into the File Server. Thus, you can create a predefined environment for File Server clients.
 

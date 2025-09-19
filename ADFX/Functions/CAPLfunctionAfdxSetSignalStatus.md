@@ -23,7 +23,7 @@ This function sets the functional status (FS) of a signal.
 
 ## Return Values
 
-- **0**: 
+- **0**:
 - **other value**: [error code](../CAPLfunctionsAFDXErrorCodes.md)
 
 ## Example

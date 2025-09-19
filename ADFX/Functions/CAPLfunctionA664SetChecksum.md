@@ -29,4 +29,3 @@ This function calculates and sets the checksum in the specified `aFrame` accordi
 ## Example
 
 —
-

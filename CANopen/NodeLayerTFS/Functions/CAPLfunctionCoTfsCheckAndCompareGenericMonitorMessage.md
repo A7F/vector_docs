@@ -22,7 +22,7 @@ The function can be used during a monitoring started with [coTfsConfigureGeneric
 - **dlc**: Message length in byte, [0..8].
 - **msgData**: Expected message data.
 - **msgMask**: Message data mask, set bits are compared and the message is presumed to be valid if the bits match with the data.
-- **order**: 
+- **order**:
   - 0: Any receive message must contain the data specified in `msgData`/`msgMask`
   - 1..0xFFFFFFFE: The numeric specified message must contain the data specified in `msgData`/`msgMask`, 1 is the oldest message
   - 0xFFFFFFFF: The last received message must contain the data specified in `msgData`/`msgMask`

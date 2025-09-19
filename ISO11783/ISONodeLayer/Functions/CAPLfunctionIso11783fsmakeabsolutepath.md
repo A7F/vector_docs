@@ -23,7 +23,7 @@ A path must follow the 8.3 format (8 character identifier with 4 character exten
 
 - **relPath**: Relative path which could contain `..` and `.`.
 - **absPath**: Absolute path.
-- **mustExist**: 
+- **mustExist**:
   - 1: check if path exists and return an error if the file does not exist.
   - 0: the path must not exist.
 - **bufferSize**: Size of `buffer` in byte.

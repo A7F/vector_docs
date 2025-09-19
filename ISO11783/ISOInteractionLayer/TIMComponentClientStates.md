@@ -9,13 +9,13 @@
 The following table contains the states of a connection from the TIM client to the TIM server. The state is used by the CAPL functions [Iso11783IL_TIMConnectSysVarToState](Functions/CAPLfunctionIso11783ILtimConnectSysVarToState.md), [Iso11783IL_TIMFreezeConnection](Functions/CAPLfunctionIso11783ILtimFreezeConnection.md) and [Iso11783IL_TIMContinueConnection](Functions/CAPLfunctionIso11783ILtimContinueConnection.md).
 
 - **State 0: Offline**
-  - **Pre Condition:** 
+  - **Pre Condition:**
     - Client is not started.
     - Client is stopped ([ISO11783IL_ControlStop](Functions/CAPLfunctionIso11783ILControlStop.md)).
   - **Action when State is Entered:** —
 
 - **State 10: Automation Unavailable**
-  - **Pre Condition:** 
+  - **Pre Condition:**
     - Address Claim succeeded.
     - [Iso11783IL_TIMConnectToServer](Functions/CAPLfunctionIso11783ILtimConnectToServer.md) is called to connect client a server.
   - **Action when State is Entered:** Wait for **TIM_ServerStatus_Msg** of a server. If received switches to state **Tim Server Status is received**.
@@ -30,7 +30,7 @@ The following table contains the states of a connection from the TIM client to t
 
 - **State 13: Connection Version is valid**
   - **Pre Condition:** Check of the connection version succeeded.
-  - **Action when State is Entered:** 
+  - **Action when State is Entered:**
     - Start sending cyclic **TIM_ClientStatus_Msg**.
     - Send **TIM_FunctionsSupportRequest** to server and switch to state **Supported functions request is sent**.
 
@@ -51,10 +51,10 @@ The following table contains the states of a connection from the TIM client to t
   - **Action when State is Entered:** No action. You can switch to state **Automation Unavailable** by calling [Iso11783IL_TIMConnectToServer](Functions/CAPLfunctionIso11783ILtimConnectToServer.md).
 
 - **State 20: Start authentication**
-  - **Pre Condition:** 
+  - **Pre Condition:**
     - Initialization succeeded.
     - [ISO1783IL_TIMRestartAuthentication](Functions/CAPLfunctionIso11783ILtimRestartAuthentication.md) Authentication is called after an authentication error.
-  - **Action when State is Entered:** 
+  - **Action when State is Entered:**
     - Send **Auth_ClientAuthenticationStatus** with **(Re)Start authentication** bit.
     - If **Auth_ServerAuthenticationStatus** with **(Re)Start authentication** Status bit set (to **1**) is received then check if LwA is possible, calculate random challenge and reset **(Re)Start authentication** bit of **Auth_ClientAuthenticationStatus**.
 
@@ -68,7 +68,7 @@ The following table contains the states of a connection from the TIM client to t
 
 - **State 23: Server Random Challenge response is received**
   - **Pre Condition:** **Auth_SererRandomChallengeResponse** is received.
-  - **Action when State is Entered:** 
+  - **Action when State is Entered:**
     - If full authentication (FwA) is necessary then send **Auth_ServerCertificateRequest** to the server to request the testlab certificate and switch to state **Server testlab certificate request is sent**.
     - Else if lightweight authentication (LwA) is possible switch to state **Calculate CMCA over received challenge**.
 
@@ -114,7 +114,7 @@ The following table contains the states of a connection from the TIM client to t
 
 - **State 34: Start validating server certificates**
   - **Pre Condition:** All stored certificates of the server are requested by this client and all certificates which are added via [Iso11783IL_TIMAddCertificate](Functions/CAPLfunctionIso11783ILtimAddCertificate.md) are requested by the server.
-  - **Action when State is Entered:** 
+  - **Action when State is Entered:**
     - Check if received server certificates are listed on CRL and if they are valid. Furthermore, check the ISO NAME in the certificates as well as the ISO Version.
     - If all check succeeded switch to state **Authentication succeeded**. Else switch to state **Authentication Error**.
 
@@ -132,7 +132,7 @@ The following table contains the states of a connection from the TIM client to t
 
 - **State 50: Calculate CMCA over received challenge**
   - **Pre Condition:** —
-  - **Action when State is Entered:** 
+  - **Action when State is Entered:**
     - Sign received challenge and send acknowledge for challenge signed to the server.
     - Wait for acknowledgment for challenge signed of the server. Then switch to state **Start CMCA Challenge Response**.
 
@@ -154,7 +154,7 @@ The following table contains the states of a connection from the TIM client to t
 
 - **State 60: Automation enabled**
   - **Pre Condition:** First **TIM_FunctionsAssignmentResponse** with status **1** (is assigned to requesting TIM client) and reason **0** (all clear/no reason) is received.
-  - **Action when State is Entered:** 
+  - **Action when State is Entered:**
     - Send **TIM_ClientStatus_Msg** with State **Automation Enable**.
     - Send **TIM function request** with value **Ready to Control**.
 
@@ -163,7 +163,7 @@ The following table contains the states of a connection from the TIM client to t
   - **Action when State is Entered:** —
 
 - **State 99: Authentication error**
-  - **Pre Condition:** 
+  - **Pre Condition:**
     - **Authentication Status** notification with an error code is received.
     - No **Authentication Status** notification is received for more than 3 seconds.
   - **Action when State is Entered:** Depends on post condition.

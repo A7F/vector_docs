@@ -2,7 +2,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
 
-### Note
+## Note
 
 - If called in a tester node, an error is returned.
 - The IP address given must be available in the node’s IP context, i.e. it must be configured for the simulation node at the CANoe Ethernet network, or the address must be assigned to a Windows adapter if the operating system stack is active.

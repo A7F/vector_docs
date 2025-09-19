@@ -69,6 +69,7 @@ on key 's'
 ```
 
 [See Also](javascript:void(0);)
+
 ```markdown
 - SomeIpSDDesubscribeEventGroup
 - [SomeIpSDReleaseService](CAPLfunctionSomeIpSDReleaseService.md#aanchor27015)

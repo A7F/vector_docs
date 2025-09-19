@@ -44,8 +44,8 @@ Note that you can not
   - Access Limitation: Read-only
 
 - **name**: The name of the MACsec port configuration as in the security profile
-  - Type: 
-  - Access Limitation: 
+  - Type:
+  - Access Limitation:
 
 - **hwPort**: The measurement port this secure entity is associated with
   - Type: ethernetPort

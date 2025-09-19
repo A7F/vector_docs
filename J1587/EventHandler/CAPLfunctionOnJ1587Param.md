@@ -17,6 +17,7 @@ dbMsg | PID | *
 ## Example
 
 **on J1587Param** TextMessageAcknowledged
+
 ```
 {
   if (this.MID == gECU_MID)

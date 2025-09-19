@@ -15,7 +15,7 @@ This function creates a new user-defined Car2x Protocol Analyzer protocol violat
 ## Parameters
 
 - **packet**: Handle of a packet that has been created with C2xInitPacket or was provided as callback function parameter. If this parameter is zero, the packet-related features like navigation to the associated trace window line will not be possible for this finding.
-- **severity**: 
+- **severity**:
   - 0 – the protocol violation finding will be shown as error.
   - 1 – the protocol violation finding will be shown as warning.
 - **scope**: Text value indicating the position of the rule in the Protocol Analyzer rule tree, each level is separated by the pipe character "|" and corresponds to a separate folder in the tree. For example "My rules|EU|CAM|Custom Rules".

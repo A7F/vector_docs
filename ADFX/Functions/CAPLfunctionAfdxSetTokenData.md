@@ -27,7 +27,7 @@ This function copies a number of bytes from source buffer to a token's data area
 
 ## Return Values
 
-- **0**: 
+- **0**:
 - **other value**: [error code](../CAPLfunctionsAFDXErrorCodes.md)
 
 ## Example

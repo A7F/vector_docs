@@ -105,12 +105,12 @@ value = getSignal("OnOff");
 float value;
 //Message and signal
 value = getSignal("LightState::OnOff");
-//Node, message and signal 
+//Node, message and signal
 value = getSignal("LightSwitch::LightState::OnOff");
-//Database name (alias), node, message and signal 
+//Database name (alias), node, message and signal
 value = getSignal("PowerTrain::LightSwitch::LightState::OnOff");
 value = getSignal("C11_Fy_Cluster::ESP::PDU_ESP_35::BTS_Bmg");
-//Channel, database name (alias), node, message and signal 
+//Channel, database name (alias), node, message and signal
 value = getSignal("CAN1::PowerTrain::LightSwitch::LightState::OnOff");
 ```
 

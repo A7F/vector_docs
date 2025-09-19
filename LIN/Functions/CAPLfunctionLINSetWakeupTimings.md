@@ -47,7 +47,7 @@ On success, a value unequal to zero, otherwise zero.
 // Configures the wake up timings for the database node "LINMaster".
 linSetWakeupTimings(150, 3, 250, "LINMaster")
 
-// send a wakeup signal via a keyboard event within the CAPL program of the node 
+// send a wakeup signal via a keyboard event within the CAPL program of the node
 // "LINMaster". The configured timings will be used.
 on key 'w'
 {

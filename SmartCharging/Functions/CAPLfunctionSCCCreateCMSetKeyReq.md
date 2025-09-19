@@ -25,7 +25,7 @@ Creates a **CM_Set_Key.Req** message for sending.
 
 ### Additional Parameters
 
-1. **KeyType** (dword): 
+1. **KeyType** (dword):
    - 0x00 = DAK (AES-128)
    - 0x01 = NMK (AES-128)
    - 0x02 = NEK (AES-128)

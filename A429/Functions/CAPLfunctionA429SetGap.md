@@ -27,4 +27,3 @@ This function sets the selector [gap](../CAPLfunctionsA429Selectors.md) of an AR
 ## Example
 
 —
-

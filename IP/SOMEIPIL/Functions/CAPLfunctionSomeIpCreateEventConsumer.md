@@ -24,7 +24,7 @@ An Event Consumer can be removed again using the [SomeIpRemoveEventConsumer](CAP
 
 - **csiHandle**: Handle of the Consumed Service Instance that was created with [SomeIpCreateConsumedServiceInstance](CAPLfunctionSomeIpCreateConsumedServiceInstance.md).
 - **eventId**: Identifier of the Event.
-- **onEventCallback**: The function name that should be called when a suitable Event is received, see [\<OnSomeIpEventReceived>\](CAPLfunctionOnSomeIpEventReceived.md).
+- **onEventCallback**: The function name that should be called when a suitable Event is received, see [\`<OnSomeIpEventReceived>`\](CAPLfunctionOnSomeIpEventReceived.md).
 
 ## Return Values
 

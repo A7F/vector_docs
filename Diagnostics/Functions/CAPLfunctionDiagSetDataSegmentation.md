@@ -8,7 +8,7 @@ This function is only available with the implementation of the generic CAPL call
 ## Function Syntax
 
 ```plaintext
-long diag_SetDataSegmentation 
+long diag_SetDataSegmentation
 (long mode, DWORD maxSegmentSize, DWORD segmentSeparationTime);
 ```
 

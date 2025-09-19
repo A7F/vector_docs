@@ -2,7 +2,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
 
-### Method Syntax
+## Method Syntax
 
 - `callcontext <MethodType> consumedMethodRef::CallAsync_Phys(params ...); // form 1`
 - `void consumedMethodRef::CallAsync_Phys(params …, Callback); // form 2`

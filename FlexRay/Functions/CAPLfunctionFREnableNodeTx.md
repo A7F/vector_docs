@@ -20,7 +20,7 @@ With enabling the default data of the frames/PDUs are transmitted.
 
 - **channel**: FlexRay channel.
 - **node**: Name of the node.
-- **enable**: 
+- **enable**:
   - 1: Enables the transmission
   - 0: Disables the transmission
 

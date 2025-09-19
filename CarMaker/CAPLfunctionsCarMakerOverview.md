@@ -10,7 +10,7 @@ CarMaker
 
 ---
 
-### Functions
+## Functions
 
 - [CarMaker_BeginWrite, CarMaker_FinishWrite](Functions/CAPLfunctionCarMakerBeginFinishWrite.md)
   - Groups several write operations to a single atomic write operation.

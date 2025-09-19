@@ -101,8 +101,8 @@ Starting with CANoe DE product 9.0 SP3 The CAPL compiler supports diagnostic obj
 ```plaintext
 On start
 {
-  DiagRequest ECU1.Service1 req1;			// OK since Service1 is defined for ECU1
-  DiagRequest ECU1.NotExisting req2;		// compile error since service unknown
+  DiagRequest ECU1.Service1 req1;           // OK since Service1 is defined for ECU1
+  DiagRequest ECU1.NotExisting req2;        // compile error since service unknown
 }
 ```
 

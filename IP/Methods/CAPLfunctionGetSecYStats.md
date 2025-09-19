@@ -29,7 +29,7 @@ See the IEEE802.1AE-2018, chapter 10.7, for thorough explanation of these statis
 
 ## Example
 
-— 
+—
 
 © Vector Informatik GmbH
 

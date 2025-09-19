@@ -6,7 +6,7 @@
 
 **Valid for**: CANoe DE • CANoe4SW DE
 
-### Note
+## Note
 
 For more information on how this function is typically called and where to derive the corresponding parameters, check the dedicated OEM Security AddOn Manuals.
 

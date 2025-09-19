@@ -104,7 +104,8 @@ The behavior of the AUTOSAR Eth IL can be configured using properties. Propertie
 - **Example form 1**: `AREthSetProperty("ClientId", 1);`
 
 - **Example form 2**:
-  ```c
+  
+```c
   dword appEndpointHandle;
   dword serviceHandle;
 
@@ -114,8 +115,9 @@ The behavior of the AUTOSAR Eth IL can be configured using properties. Propertie
   ```
 
 - **Example form 3**:
+  
   ```c
-  dword appEndpointHandle;
+dword appEndpointHandle;
   dword serviceHandle;
 
   appEndpointHandle = SomeIpOpenLocalApplicationEndpoint(kUDP, 30501);
@@ -124,22 +126,25 @@ The behavior of the AUTOSAR Eth IL can be configured using properties. Propertie
   ```
 
 - **Example form 4**:
+  
   ```c
   Byte buffer[16] = {0xFF, 0x14, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x04, 0x00, 0x01};
-  AREthSetProperty("SDMulticastIpv6", buffer);
+AREthSetProperty("SDMulticastIpv6", buffer);
   ```
 
 - **Example form 5**:
+  
   ```c
   Byte buffer[16] = {0xFF, 0x14, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x04, 0x00, 0x01};
   AREthSetProperty("SDMulticastIpv6", 16, buffer);
-  ```
+```
 
 - **Example form 6**:
+  
   ```c
   char serviceName[20] = "test_service";
   dword csi;
-  IP_Endpoint ep;
+IP_Endpoint ep;
 
   ep = IP_Endpoint(UDP:[ff::1]:6000);
   csi = SomeIpGetProvidedObjectHandle(serviceName);

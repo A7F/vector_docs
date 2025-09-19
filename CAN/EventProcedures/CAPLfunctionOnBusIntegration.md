@@ -28,6 +28,7 @@ This event handler is called when a bus integration event occurs on a CAN channe
 **Example form 1**
 
 Form 1 (Wildcard all CAN channels the bus integration event occurs)
+
 ```plaintext
 on busIntegration
 {
@@ -38,6 +39,7 @@ on busIntegration
 **Example form 2**
 
 Form 2 (Defined CAN channel the bus integration event occurs)
+
 ```plaintext
 on CAN1.busIntegration
 {

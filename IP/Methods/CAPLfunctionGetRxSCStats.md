@@ -27,7 +27,7 @@ Returns the secure channel’s receive statistic variables.
 
 ## Example
 
-— 
+—
 
 © Vector Informatik GmbH
 

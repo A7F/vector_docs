@@ -39,7 +39,7 @@ Certain network parameters depend on the used protocol version:
 
 - Wakeup frame retransmission delay (‘ttobrk’): 50 ms
 - Number of Wakeup frame retransmissions: 3
-- Length of Wakeup frame: 600 µs 
+- Length of Wakeup frame: 600 µs
 - Wakeup delimiter length: 35 ms
 - Byte order: Big-Endian
 

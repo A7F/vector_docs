@@ -2,7 +2,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
 
-### Method Syntax
+## Method Syntax
 
 dword [consumedFieldRef](../Objects/CAPLfunctionConsumedFieldRef.md)::AbstractIsFieldRequested;
 

@@ -28,7 +28,7 @@ Sets the limit for voltage. These limits are used in various messages for both A
 
 ## Example
 
-— 
+—
 
 © Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  

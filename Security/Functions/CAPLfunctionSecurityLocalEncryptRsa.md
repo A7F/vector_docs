@@ -24,7 +24,7 @@ Encrypts data with a given public key using asymmetric RSA encryption. Padding m
 - **plainDataLength**: Length of the data to be encrypted
 - **cipherData [OUT]**: Buffer to store encrypted data
 - **cipherDataLength [IN/OUT]**: Length of buffer to store encrypted data.
-- **paddingMode**: 
+- **paddingMode**:
   - OAEP(SHA-256) = 1
   - OAEP(SHA-384) = 2
   - OAEP(SHA-512) = 3

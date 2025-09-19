@@ -71,6 +71,7 @@ on key 's'
 ```
 
 [See Also](javascript:void(0);)
+
 ```markdown
 - [AREthSDDesubscribeEventGroup](CAPLfunctionAREthSDDesubscribeEventGroup.md#aanchor20104)
 - [AREthSDReleaseService](CAPLfunctionAREthSDReleaseService.md#aanchor14012)

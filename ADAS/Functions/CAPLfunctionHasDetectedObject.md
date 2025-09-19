@@ -12,11 +12,13 @@ This CAPL function is also available in C#.
 ### Function Syntax
 
 **C#**
+
 ```
 bool HasDetectedObject.Call(int trackingId);
 ```
 
 **CAPL**
+
 ```
 int HasDetectedObject.Call(int trackingId);
 ```
@@ -46,11 +48,13 @@ This function can be used to query whether a detected object of a sensor with a 
 In the examples it is assumed in each case that a DO object of the type IScenarioManager was created.
 
 #### CAPL
+
 ```capl
 int result = radar.HasDetectedObject.Call(5);
 ```
 
 #### C#
+
 ```csharp
 bool result = radar.HasDetectedObject.Call(5);
 ```

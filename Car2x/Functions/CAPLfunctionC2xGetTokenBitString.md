@@ -42,4 +42,3 @@ byte brakePedalActive(long channel, longdir, longradioChannel, long signalStreng
   return 0;
 }
 ```
-

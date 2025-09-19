@@ -6,7 +6,7 @@
 
 **Valid for**: CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
 
-### Function Syntax
+## Function Syntax
 
 ```
 long TestValidatePhysValueOutsideRangeFloat(char aTestStep[], valueHandle * value, float aLowLimit, float aHighLimit);

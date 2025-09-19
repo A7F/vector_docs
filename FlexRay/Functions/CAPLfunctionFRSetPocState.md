@@ -24,7 +24,7 @@ All E-Ray POC-state changes can be monitored with the status- or POC-state-event
 ## Parameters
 
 - **Channel**: FlexRay channel (cluster number).
-- **ccNumber**: 
+- **ccNumber**:
   - 1: E-Ray
   - 2: Second Startup Controller/Coldstart helper (Fujitsu)
 - **pocState**: Desired POC state:

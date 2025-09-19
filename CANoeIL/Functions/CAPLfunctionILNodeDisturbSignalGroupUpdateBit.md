@@ -2,7 +2,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
 
-### Note
+## Note
 - This function is not available for all OEM add-ons — depends on the CANoeIL.
 - This function can be used in a global node outside the node context of the IL and in test modules.
 
@@ -27,7 +27,7 @@ Modifies the update bit of a signal group. Different fault injections are possib
   - **0**: Value - The disturbance uses the value in `disturbanceValue` as update bit.
   - **1**: Freeze - The current update bit value is transmitted.
   - **2**: Random - A random value is transmitted as update bit.
-- **disturbanceCount**: 
+- **disturbanceCount**:
   - **-1**: Infinite.
   - **0**: Stops the disturbance, e.g., an infinite disturbance.
   - **n**: Number of disturbances.

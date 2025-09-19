@@ -29,7 +29,7 @@ To load and transfer a file with a device descriptor object pool **without check
 
 - **ddopPath**: File path of the device descriptor object pool (DDOP) file.
 - **implement**: Simulation node to apply the function.
-- **options**: 
+- **options**:
   - 1: Load binary representation of a device descriptor object pool. The content of the DDOP file is not validated, no process data dictionary is created and you cannot access process variables or properties via CAPL functions.
 
 ## Return Values

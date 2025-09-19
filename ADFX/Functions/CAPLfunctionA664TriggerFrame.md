@@ -38,4 +38,3 @@ myFrame = myMsg;
 myFrame.UdpDstPort = 3333;  // change UDP destination port
 a664TriggerFrame(myFrame, 1);  // transmit the frame respecting the BAG
 ```
-

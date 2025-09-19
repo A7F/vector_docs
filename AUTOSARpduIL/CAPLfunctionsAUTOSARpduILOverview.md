@@ -66,7 +66,7 @@ The functions are available with the AUTOSAR PDU Interaction Layer (AUTOSAR PDU 
 |-----------|-------------------|
 | [ARILCalculateCRC](Functions/CAPLfunctionARILCalculateCRC.md) | Calculates the CRC of the PDU according to the given payload. |
 | [ARILGetSigGroupCount](Functions/CAPLfunctionARILGetSigGroupCount.md) | Evaluates how many signal groups are defined inside the PDU. |
-| [ARILGetSigGroupName](Functions/CAPLfunctionARILGetSigGroupName.md) | Retrieves the name of the n<sup>th</sup> signal group of the PDU. |
+| [ARILGetSigGroupName](Functions/CAPLfunctionARILGetSigGroupName.md) | Retrieves the name of the n`<sup>`th</sup> signal group of the PDU. |
 
 ## Message Handling [▲ back](#Shortcuts)
 

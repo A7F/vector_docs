@@ -24,7 +24,7 @@ Sets the Light Status at the Fiber Optical Transmitter (FOT).
 ## Parameters
 
 - **channel**: Channel of the interface to be queried
-- **txlight**: 
+- **txlight**:
   - `0`: disable FOT: Tx light off
   - `1`: enable FOT:  
     - TimingMaster: Modulated light on

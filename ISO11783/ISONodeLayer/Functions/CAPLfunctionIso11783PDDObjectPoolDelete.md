@@ -20,7 +20,7 @@ Contrary to [Iso11783PDDDelete](CAPLfunctionIso11783PDDdelete.md) the connection
 
 ## Parameters
 
-- **ecuHandle**: 
+- **ecuHandle**:
   - Handle of the ECU.
   - The handle must be created with [Iso11783CreateECU](CAPLfunctionIso11783CreateECU.md) beforehand or ZERO for general parameters.
 

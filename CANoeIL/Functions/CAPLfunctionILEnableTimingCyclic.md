@@ -18,7 +18,7 @@ Controls the cyclic timing of PDUs. The cyclic timing can be enabled/disabled. T
 ## Parameters
 
 - **aPDUName**: Name of the PDU that should be modified.
-- **enable**: 
+- **enable**:
   - 0 = disable
   - 1 = enable
 

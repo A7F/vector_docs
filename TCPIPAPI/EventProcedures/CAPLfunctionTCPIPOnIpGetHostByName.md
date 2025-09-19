@@ -4,7 +4,7 @@
 
 [CAPL Functions](../../CAPLfunctions.md) » [TCP/IP API](../CAPLfunctionsTCPIPOverview.md) » OnIpGetHostByName
 
-### Valid for: CANoe DE • CANoe4SW DE
+## Valid for: CANoe DE • CANoe4SW DE
 
 ## Function Syntax
 

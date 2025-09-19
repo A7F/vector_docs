@@ -6,7 +6,7 @@
 
 **Valid for**: CANoe DE • CANoe4SW DE
 
-### Note
+## Note
 - The function is dependent on the selected stack.
 - This functionality cannot be used in connection with the operating system TCP/IP stack.
 

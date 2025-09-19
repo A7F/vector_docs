@@ -37,7 +37,7 @@
     - 4-5: Rising/falling edge selection:
       - Bit 4 = 1 Use rising edges
       - Bit 5 = 1 Use falling edges
-    - 6: 
+    - 6:
       - 0 = Use last occurrence for transition time measurement, where the voltage level is above or below the threshold level.
       - 1 = Use first occurrence for transition time measurement, where the voltage level is above or below the threshold level.
     - All other bits are reserved and must be set to 0.

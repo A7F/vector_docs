@@ -199,7 +199,7 @@
   - **Expected Value:** no
 
 - **Error Code:** 42
-  - **Description:** Illegal value of **MaxBlkSize**: Value must be between Scale * NDF_ACK and (Scale+1) * NDF_ACK
+  - **Description:** Illegal value of **MaxBlkSize**: Value must be between Scale *NDF_ACK and (Scale+1)* NDF_ACK
   - **Erroneous Value:** yes
   - **Expected Value:** yes (`Scale << 16 + NDF_ACK`)
 

@@ -21,7 +21,7 @@ Reads all objects from the object dictionary of another node. The callback is ca
 ## Parameters
 
 - **serverNodeID**: Node ID of the SDO server.
-- **blockMode**: 
+- **blockMode**:
   - **0**: Do not use SDO block transfer.
   - **1**: Use SDO block transfer.
 - **errCode**: Error code buffer (is entered in index 0 of the field):

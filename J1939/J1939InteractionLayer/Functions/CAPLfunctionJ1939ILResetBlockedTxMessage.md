@@ -6,7 +6,7 @@
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
 
-### Function Syntax
+## Function Syntax
 
 ```plaintext
 long J1939ILResetBlockedTxMessage(dword pgn, dword destinationAddress, qword filterMask, qword filterValue); // form 1

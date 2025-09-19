@@ -22,7 +22,7 @@ Consider to set always the appropriate bus context in a multibus environment bef
 ## Parameters
 
 - **pduName**: Name of the PDU.
-- **type**: 
+- **type**:
   - type = 0 : CRC
   - type = 1 : CHK
 - **payload**: Payload for which the checksum is to be calculated.

@@ -51,4 +51,3 @@ void OnPreTxDENM(LONG packet)
 
 }
 ```
-

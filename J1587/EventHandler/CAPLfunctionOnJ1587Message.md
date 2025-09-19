@@ -19,6 +19,7 @@ dbNode | MID | * // Msg with J1587_Error = 0
 ## Example
 
 **on J1587Message** 50 // 50 is Sender MID, can be dbNode name or MID
+
 ```
 {
   J1587Param 0 param;

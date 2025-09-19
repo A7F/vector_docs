@@ -47,7 +47,7 @@ on key 's'
     {
         if (index <= frameMotorControl.DLC+1) {
             // for all valid data bytes and checksum byte set inter-byte space to 2 bit times
-            arrayOfSixteenthBits[index] = 32; 
+            arrayOfSixteenthBits[index] = 32;
         }
         else {
             // initialize unused array elements

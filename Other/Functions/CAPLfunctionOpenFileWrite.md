@@ -25,7 +25,7 @@ This function opens the **filename** file for the write access.
 ## Parameters
 
 - **filename**: filename
-- **mode**: 
+- **mode**:
 - **fileEncoding**: Identifier of the Microsoft code page that is used to encode the file.
 
 ## Return Values

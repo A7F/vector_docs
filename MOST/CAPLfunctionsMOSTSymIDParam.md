@@ -37,6 +37,7 @@ The index of the array element is specified in square brackets and attached to t
 As an alternative, the functions for accessing parameters permit the specification of the parameter index as an additional parameter inside the brackets of the parameter address instead (see the `<arrayIndex>` parameter in [mostParamSet](Functions/CAPLfunctionMOSTParamSet.md)). This index declaration overwrites the indexing in the brackets of the parameter address.
 
 **Example**  
+
 ```plaintext
 mostAmsMessage AudioDiskPlayer.MediaInfo.Status msg
 mostParamSet(msg, "Data", 2); // sets the array size to 2
@@ -51,10 +52,12 @@ mostParamSet(msg, "Data.Record[].MediaType", 2, 1); // sets the parameter 'Media
 The size (number of elements) of arrays can be set or read with mostParamSet() and mostParamGet().
 
 **Example**  
+
 ```plaintext
 mostAmsMessage AudioDiskPlayer.MediaInfo.Status msg
 mostParamSet(msg, "Data", 3);
 ```
+
 The "Data" parameter now contains 3 elements (here: 3 records).
 
 ## Parameter type: Sequence
@@ -65,13 +68,16 @@ The "Data" parameter now contains 3 elements (here: 3 records).
 The size (number of elements) of a sequence can also be set or read with mostParamSet() and mostParamGet().
 
 **Example**  
+
 ```plaintext
 mostAmsMessage NetBlock.FBlockIDs.Status msg
 mostParamSet(msg, "FBlockIDList", 3);
 ```
+
 The "FBlockIDList" parameter now contains 3 elements (here: 3 entries with {FBlockID, InstID}).
 
 The parameters can be set as follows:
+
 ```plaintext
 mostParamSet(msg, "FBlockIDList.FBlockID[]", 1, 0x02);
 mostParamSet(msg, "FBlockIDList.InstID[]", 1, 0x00);

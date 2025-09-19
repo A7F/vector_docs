@@ -38,7 +38,7 @@ The stress network interface controller (NIC) must have **active bypass** or **b
 - **channel**: Channel of the connected interface
 - **invistime**: Time during which node has its bypass closed (in ms)
 - **vistime**: Time with opened bypass (in ms)
-- **repeat**: 
+- **repeat**:
   - 0: Stop stress
   - >0: Number of transitions
   - 0xFFFF: Generate transitions continually

@@ -97,7 +97,7 @@ With `mostSetStressNodeParameter` the MOST node parameters of this additional NI
 ## Return Values
 
 - **mostSetStressNodeParameter**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
-- **mostGetStressNodeParameter**: 
+- **mostGetStressNodeParameter**:
   - >=0: Parameter value
   - <0: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
@@ -107,6 +107,7 @@ With `mostSetStressNodeParameter` the MOST node parameters of this additional NI
 See [mostConfigureBusloadCtrl](CAPLfunctionMOSTConfigureBusloadCtrl.md)
 
 **Example OptoLyzer G2 3150o**  
+
 ```c
 // configure stress controller as visible network node with logical address 0x123
 mostSetStressNodeParameter(1, 1, 0x123); // set node address

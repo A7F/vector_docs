@@ -11,6 +11,7 @@
 This function can be called only within the assigned callback. The function is used to query the details of a request.
 
 ### Function Syntax
+
 ```
 void SCC_GetResponseCodeString ( char ResponseCode[] )
 ```

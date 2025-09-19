@@ -36,7 +36,7 @@
 - **Keyword**: MsgChannel
   - **Description**: Channel through which the event was received. Value range: 1..32
   - **Type**: word
-  - **Access Limitations**: 
+  - **Access Limitations**:
 
 - **Keyword**: lin_Signal
   - **Description**: Signal actually received. Because of different baudrates of transmitter and receiver in Sleep state, this signal can take on the legal values 0x00, 0x80 (signal actually transmitted) and 0xC0.
@@ -45,7 +45,7 @@
 
 - **Keyword**: lin_External
   - **Description**: indicates whether the wake-up signal was
-    - received by an external device (selector set) or 
+    - received by an external device (selector set) or
     - transmitted by the LIN hardware itself (selector not set).
   - **Type**: byte
   - **Access Limitations**: read only

@@ -4,7 +4,7 @@
 
 [CAPL Functions](../../../CAPLfunctions.md) » [J1939](../../CAPLfunctionsJ1939StartPage.md) » [GNSS NL](../CAPLfunctionsGNSSNLOverview.md) » GNSSOnLastWpReached
 
-### Valid for: CANoe DE • CANoe4SW DE
+## Valid for: CANoe DE • CANoe4SW DE
 
 ## Function Syntax
 

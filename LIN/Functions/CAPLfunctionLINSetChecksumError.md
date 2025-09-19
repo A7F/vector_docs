@@ -19,7 +19,7 @@ Sets/resets a checksum error of a LIN frame. The activated checksum error is the
 ## Parameters
 
 - **frameId**: LIN frame identifier in the range 0 .. 63.
-- **activate**: 
+- **activate**:
   - 0: deactivate checksum error
   - 1: activate checksum error
 

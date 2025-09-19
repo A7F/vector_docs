@@ -27,7 +27,7 @@ This function sets the specified token‘s data as a [float](../../../Shared/CAP
 
 ## Return Values
 
-- **0**: 
+- **0**:
 - **other value**: [error code](../CAPLfunctionsAFDXErrorCodes.md)
 
 ## Example

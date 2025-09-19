@@ -26,7 +26,7 @@ Returns the ID of the message that has forced the event.
 
 ## Parameters
 
-- **aCheckId** — 
+- **aCheckId** —
 
 ## Return Values
 

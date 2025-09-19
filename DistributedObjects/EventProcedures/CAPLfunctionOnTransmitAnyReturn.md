@@ -22,11 +22,11 @@ This handler is called whenever an instance of a provided method member transmit
 ## Selectors
 
 - **Selector**: object
-  - **Type**: distObjRef <T>
+  - **Type**: distObjRef `<T>`
   - **Access Limitation**: Read only
 
 - **Selector**: context
-  - **Type**: callContext <T>
+  - **Type**: callContext `<T>`
   - **Access Limitation**: Read only
 
 ## Example

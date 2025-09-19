@@ -30,7 +30,7 @@ Use the **errorIndication** parameter of the `OnXcpUpload` callback function to 
 - **namespace**: Namespace of the corresponding system variable.
 - **variable**: Name of the corresponding system variable.
 - **sysvar**: Name of the fully qualified name of the system variable, including all namespaces, separated by "::". The name must be preceded by "sysvar::".
-- **errorIndication**: 
+- **errorIndication**:
   - 0: OK
   - -4: Device is not connected
 

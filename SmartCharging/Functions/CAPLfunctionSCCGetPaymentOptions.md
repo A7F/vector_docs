@@ -6,7 +6,7 @@
 
 **Valid for**: CANoe DE • CANoe4SW DE
 
-### Note
+## Note
 This function can be called only within the assigned callback. The function is used to query the details of a request.
 
 ## Function Syntax

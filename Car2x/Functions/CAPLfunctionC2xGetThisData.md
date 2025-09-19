@@ -50,4 +50,3 @@ void OnC2xPacket( long channel, long dir, long radioChannel, long signalStrength
   write( "Receive payload with %d bytes", len );
 }
 ```
-

@@ -12,7 +12,7 @@ This functionality is only available for VN2600/VN2610/VN2640 hardware, OptoLyze
 ## Function Syntax
 
 ```plaintext
-long mostGenerateLockError(long channel, long unmodtime, 
+long mostGenerateLockError(long channel, long unmodtime,
 long modtime, long repeat);
 ```
 

@@ -19,7 +19,7 @@ Converts a time stamp to separate parts.
 
 ## Parameters
 
-- **timestamp**: 
+- **timestamp**:
   - time stamp in 10 microseconds (form 1)
   - time stamp in nanoseconds (form 2)
 - **days**: Receives the days of the time stamp

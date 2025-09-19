@@ -70,7 +70,7 @@ References a provided method endpoint, which means a specific combination of con
 
 - **DefaultResult**: Default value for automatic return of the function for the return value.  
   **Type**: `<Data Type of the function return value>`  
-  **Access Limitation**: 
+  **Access Limitation**:
 
 - **AutoAnswerMode**: Mode for automatic answering function calls:
   - Auto: calls are answered with the default values
@@ -78,11 +78,11 @@ References a provided method endpoint, which means a specific combination of con
   - Discard: calls are discarded and will not be answered
   - AutoField: only for field getters and setters; use the field value to answer the call.  
   **Type**: `enum`  
-  **Access Limitation**: 
+  **Access Limitation**:
 
 - **AutoAnswerTimeNS**: Time in nonoseconds until the call is answered if the **AutoAnswerMode** is **Auto** or **AutoField**.  
   **Type**: `int64`  
-  **Access Limitation**: 
+  **Access Limitation**:
 
 ## Example
 

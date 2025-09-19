@@ -26,7 +26,7 @@ Uses the output of [ChkQuery_EventStatus](CAPLfunctionChkQueryEventStatus.md) an
 
 ## Parameters
 
-- **aCheckId** — 
+- **aCheckId** —
 
 ## Return Values
 

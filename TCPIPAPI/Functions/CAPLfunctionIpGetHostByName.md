@@ -21,7 +21,7 @@ The function dissolves a host name in its IP address. The given host name is fir
 - **hostname**: The name of the host whose address should be determined.
 - **ipv4Address**: Array in which the determined IPv4 addresses are written.
 - **ipv6Address**: Array in which the determined IPv6 addresses are written.
-- **count**: 
+- **count**:
   - On call: buffer size (only form 1-2)
   - After call: Number of determined addresses
 - **addresses**: Array of IP_Address elements, which is filled with the IP addresses (IPv4 and IPv6) for the host.

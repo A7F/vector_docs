@@ -22,7 +22,7 @@ Creates a Contract Authentication Response message for sending.
 
 - **SessionID**: 8-byte long SessionID of SCC connection, range: 0 - 0xFF FF FF FF FF FF FF FF.
 - **ResponseCode**: Acknowledgment status of the message. The list of possible response codes you find on page [SCC_SetResponseCode](CAPLfunctionSCCSetResponseCode.md).
-- **EVSEProcessing**: 
+- **EVSEProcessing**:
   - 0 if **Finished**
   - 1 if **Ongoing**
   - 2 if **Ongoing_WaitingForCustomerInteraction** (ISO 15118).

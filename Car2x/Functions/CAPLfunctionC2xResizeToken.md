@@ -2,7 +2,7 @@
 
 **Valid for**: CANoe DE
 
-### Note
+## Note
 This function can only be used with resizable tokens. These are e.g. the **header**, **data**, and all ASN.1 defined bit string tokens. If a token is not resizable the error code 46-0125 is returned.
 
 ## Function Syntax
@@ -32,4 +32,3 @@ In case the token length is increased by full bytes, the additional bytes are in
 ## Example
 
 See example of [C2xInitPacket](CAPLfunctionC2xInitPacket.md)
-

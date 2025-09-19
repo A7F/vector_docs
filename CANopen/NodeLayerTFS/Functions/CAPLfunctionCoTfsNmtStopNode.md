@@ -15,7 +15,7 @@ This call triggers a NMT message that sets the in DUT (Device Under Test) to the
 
 ## Parameters
 
-- **broadcastFlag**: 
+- **broadcastFlag**:
   - `!=0`: NMT message is sent to all nodes (broadcast)
 
 ## Return Values

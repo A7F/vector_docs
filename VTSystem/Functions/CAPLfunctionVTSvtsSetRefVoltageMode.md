@@ -37,11 +37,11 @@ Sets the mode for the reference voltage output to control the power supply's out
 
 ### Example
 
-In order to output a control voltage (V<sub>Control</sub>) which leads to the desired output voltage V<sub>Out</sub>, the VT7001 must know the power supply factor.
+In order to output a control voltage (V`<sub>`Control</sub>) which leads to the desired output voltage V`<sub>`Out</sub>, the VT7001 must know the power supply factor.
 
-In the following example, the factor of the external power supply is 0.1 and the desired output voltage V<sub>Out</sub> is 15 V.
+In the following example, the factor of the external power supply is 0.1 and the desired output voltage V`<sub>`Out</sub> is 15 V.
 
-To achieve the desired output voltage (V<sub>Out</sub>), the VT7001 calculates and sets the control voltage (V<sub>Control</sub>) automatically (1.5 V =15 * 0.1), which results in an output voltage of 15 V.
+To achieve the desired output voltage (V`<sub>`Out</sub>), the VT7001 calculates and sets the control voltage (V`<sub>`Control</sub>) automatically (1.5 V =15 * 0.1), which results in an output voltage of 15 V.
 
 #### CAPL
 

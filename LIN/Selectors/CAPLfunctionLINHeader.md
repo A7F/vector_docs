@@ -6,12 +6,12 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
 
-### Table of Keywords
+## Table of Keywords
 
 - **Keyword:** ID
   - **Description:** LIN Frame identifier (6 bits)
   - **Type:** byte
-  - **Access Limitations:** 
+  - **Access Limitations:**
 
 - **Keyword:** DLC
   - **Description:** Number of data bytes expected for the frame (Data Length Code).

@@ -23,7 +23,7 @@ This function updates an opaque AFDX signal. There are two different opaque data
   **Note:** The signal, the signal’s data type and the message need to be defined in the assigned DBC file.
 - **offset**: The offset value points to the starting byte of the opaque signal in the AFDX payload area.
 - **length**: This is the number of bytes, the opaque signal is occupying in the `value` buffer.
-- **value**: 
+- **value**:
   - For form 1 the bytes of the opaque data have to be provided.
   - For form 2 the complete opaque signal is available in the buffer (for variable length the length value belongs to the opaque data).
 - **fdsStatus**:
@@ -32,7 +32,7 @@ This function updates an opaque AFDX signal. There are two different opaque data
 
 ## Return Values
 
-- **0**: 
+- **0**:
 - **other value**: [error code](../CAPLfunctionsAFDXErrorCodes.md)
 
 ## Example

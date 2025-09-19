@@ -2,7 +2,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
 
-### Function Syntax
+## Function Syntax
 
 - `consumedPDURef * <var>; // form 1`
 - `consumedPDURef <PDU> <var>; // form 2`

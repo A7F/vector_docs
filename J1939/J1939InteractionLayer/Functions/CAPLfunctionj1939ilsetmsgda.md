@@ -31,6 +31,7 @@ Sets the message destination address.
 ## Example
 
 —
+
 ```markdown
 © Vector Informatik GmbH
 

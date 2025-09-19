@@ -30,7 +30,7 @@ Call [mostSetSyncMute](CAPLfunctionMOSTSetSyncMute.md) to mute/demute the signal
 ## Parameters
 
 - **channel**: Channel of the connected interface
-- **channels**: 
+- **channels**:
   - **S/PDIF In**: Synchronous channels on which the S/PDIF input signal should be routed to.
   - **S/PDIF Out**: Synchronous channels from which the data should be routed to the S/PDIF output.
 

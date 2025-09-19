@@ -54,6 +54,7 @@ void OnSomeIpMessage( DWORD messageHandle )
 ```
 
 [See Also](javascript:void(0);)
+
 ```markdown
 - [SomeIpFillValues](CAPLfunctionSomeIpFillValues.md)
 - [SomeIpGetDestinationAddress](CAPLfunctionSomeIpGetDestinationAddress.md)

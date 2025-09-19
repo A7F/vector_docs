@@ -50,7 +50,7 @@ void proj_convert_to_inertial() {
 
 ### Availability
 
-- **Since Version**: 
+- **Since Version**:
   - CANoe: 17 SP2
   - vTESTstudio: 8
 - **Restricted To**: N/A

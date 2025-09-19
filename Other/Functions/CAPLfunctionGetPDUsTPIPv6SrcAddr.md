@@ -8,6 +8,7 @@
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
 
 ### Function Syntax
+
 ```plaintext
 long GetPDUsTPIPv6SrcAddr(this, byte IPv6SourceAddress[]);
 ```
@@ -29,6 +30,7 @@ This function can only be used within a [on PDU](../EventProcedures/CAPLfunction
 - **-6**: Message or PDU is not available (any more)
 
 ### Example
+
 ```plaintext
 on PDU engineDataPDU
 {

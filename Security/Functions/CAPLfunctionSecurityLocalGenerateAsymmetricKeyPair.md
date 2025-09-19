@@ -53,6 +53,7 @@ Currently supported algorithms: Ed25519 (public key: 32 bytes, private key: 32 b
 ## Example
 
 **Note**  
+
 ```plaintext
 byte priv[1000];
 byte pub[1000];

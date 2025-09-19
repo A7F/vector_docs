@@ -19,11 +19,11 @@ This handler is called whenever a value of the given set is updated. The sets ar
 ## Selectors
 
 - **Selector**: object
-  - **Type**: distObjRef <T>
+  - **Type**: distObjRef `<T>`
   - **Access Limitation**: Read only
 
 - **Selector**: value
-  - **Type**: valueHandle <T>
+  - **Type**: valueHandle `<T>`
   - **Access Limitation**: Read only
 
 ## Example

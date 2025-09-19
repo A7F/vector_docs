@@ -16,7 +16,7 @@ The event procedure is called when a service function is about to be called at a
 
 ### Parameters
 
-- **<function>**: Designates the function on which the event procedure shall react. This must be a combination of endpoints on provider side, but the consumer endpoint can also be replaced by **all** to designate that the handler shall react on all consumer calls.
+- **`<function>`**: Designates the function on which the event procedure shall react. This must be a combination of endpoints on provider side, but the consumer endpoint can also be replaced by **all** to designate that the handler shall react on all consumer calls.
 
 ### Selectors
 
@@ -54,13 +54,13 @@ The event procedure is called when a service function is about to be called at a
   - Type: int64
   - Access Limitation: Read only
 
-- **<Parameter Name>**: Value of the named parameter. Note that parameters are not accessible or read-only depending on the side and state of the call, e.g. you cannot access out-parameters in state Initial and cannot change in-parameters in state **Returned**.
-  - Type: <data type of the parameter>
-  - Access Limitation: <depends on side and state>
+- **`<Parameter Name>`**: Value of the named parameter. Note that parameters are not accessible or read-only depending on the side and state of the call, e.g. you cannot access out-parameters in state Initial and cannot change in-parameters in state **Returned**.
+  - Type: `<data type of the parameter>`
+  - Access Limitation: `<depends on side and state>`
 
 - **Result**: Return value of the function (if the function return type is not void).
-  - Type: <data type of the return value>
-  - Access Limitation: <depends on side and state>
+  - Type: `<data type of the return value>`
+  - Access Limitation: `<depends on side and state>`
 
 ### Example
 

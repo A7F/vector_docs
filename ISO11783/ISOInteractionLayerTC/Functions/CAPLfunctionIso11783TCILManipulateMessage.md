@@ -24,7 +24,7 @@ To revert this command you can use [TCIL_ResetManipulatedMessage](CAPLfunctionIs
 ## Parameters
 
 - **pgn**: The message with this PGN shall be modified.
-- **destinationAddress**: 
+- **destinationAddress**:
   - 0 - 255: The message which is sent to this address shall be modified.
   - 0xFFFFFFFF (-1): The destination address of the message doesn’t matter
 - **filterMask**: Defines the bits of the message which shall be used to identify the message.

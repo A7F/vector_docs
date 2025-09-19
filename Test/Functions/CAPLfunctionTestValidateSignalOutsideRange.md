@@ -21,7 +21,7 @@ This function replaces `testValidateSignalOutsideRangeByTxNode`.
 
 Checks the signal value, the environment variable value or the system variable value against the condition:
 
-- Value < aLowLimit or 
+- Value < aLowLimit or
 - Value > aHighLimit
 
 The test step is evaluated as passed or failed depending on the results.

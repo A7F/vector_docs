@@ -13,7 +13,7 @@ The following socket options can be set at the IPPROTO_IPV6 socket option level 
 - **C**: Supported by CANoe internal network stack
 - **W**: Supported by Windows network stack
 
-### Socket Options Table
+## Socket Options Table
 
 - **IPV6_UNICAST_HOPS**
   - **Set/Get**: set/get

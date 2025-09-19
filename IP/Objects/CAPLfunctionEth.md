@@ -24,68 +24,68 @@ Use [ethResetStatistics](../Functions/CAPLfunctionEthResetStatistics.md) to rese
 
 Note: The following selectors are only valid for **channel-based access**.
 
-- **status**: 
+- **status**:
   - 0 – Link down
   - 1 – Link up
   - Type: long
   - Access Limitation: Read only
 
-- **bitrate**: 
+- **bitrate**:
   - Bitrate in kBit/sec
   - Type: dword
   - Access Limitation: Read only
 
-- **TxBitrate**: 
+- **TxBitrate**:
   - Current TX bitrate in [kBit/sec]
   - Type: dword
   - Access Limitation: Read only
 
-- **RxBitrate**: 
+- **RxBitrate**:
   - Current RX bitrate in [kBit/sec]
   - Type: dword
   - Access Limitation: Read only
 
-- **TxPacketRate**: 
+- **TxPacketRate**:
   - Current TX packet rate [pkt/sec]
   - Type: dword
   - Access Limitation: Read only
 
-- **RxPacketRate**: 
+- **RxPacketRate**:
   - Current RX packet rate [pkt/sec]
   - Type: dword
   - Access Limitation: Read only
 
-- **TxPacketCount**: 
+- **TxPacketCount**:
   - Number of transmitted Ethernet packets
   - Type: qword
   - Access Limitation: Read only
 
-- **RxPacketCount**: 
+- **RxPacketCount**:
   - Number of received Ethernet packets
   - Type: qword
   - Access Limitation: Read only
 
-- **TxByteCount**: 
+- **TxByteCount**:
   - Number of transmitted bytes
   - Type: qword
   - Access Limitation: Read only
 
-- **RxByteCount**: 
+- **RxByteCount**:
   - Number of received bytes
   - Type: qword
   - Access Limitation: Read only
 
-- **TxErrorCount**: 
+- **TxErrorCount**:
   - Number of transmitted error packets
   - Type: dword
   - Access Limitation: Read only
 
-- **RxErrorCount**: 
+- **RxErrorCount**:
   - Number of received error packets
   - Type: dword
   - Access Limitation: Read only
 
-- **SQI**: 
+- **SQI**:
   - Current Signal Quality Indicator:
     - 0 – Error Occurring
     - 1 – No Margin

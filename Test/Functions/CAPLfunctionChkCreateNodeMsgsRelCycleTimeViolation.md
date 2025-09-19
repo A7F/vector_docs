@@ -27,7 +27,7 @@ dword ChkStart_NodeMsgsRelCycleTimeViolation (Node aNode, double aMinRelCycleTim
 
 Checks the occurrences of cyclic messages of the given send node.
 
-Event is generated if the time between sends of the (same) message is smaller than minRelCycleTime * GenMsgCycleTime (DB-attribute) or larger than maxRelCycleTime * GenMsgCycleTime.
+Event is generated if the time between sends of the (same) message is smaller than minRelCycleTime *GenMsgCycleTime (DB-attribute) or larger than maxRelCycleTime* GenMsgCycleTime.
 
 Not to be checked limits are set to 0; there must be at least one limit specified.
 
@@ -42,10 +42,10 @@ For FlexRay only valid data frames and PDUs are recognized as communication, Nul
 ## Parameters
 
 - **aNode**: Must exist in DB
-- **aMinRelCycleTime**: 
+- **aMinRelCycleTime**:
   - 0: Limit is not checked
   - 0 < x < 1: Limit is checked
-- **aMaxRelCycleTime**: 
+- **aMaxRelCycleTime**:
   - 0: Limit is not checked
   - 1 < x < ∞: Limit is checked
 - **aCallback**: In simulation nodes this parameter has to be set. In test modules this parameter is optional.

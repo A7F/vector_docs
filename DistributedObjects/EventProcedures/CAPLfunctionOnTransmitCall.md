@@ -14,7 +14,7 @@ This handler is called whenever a consumed method member transmits a value via t
 
 If the member does not use the CAPL binding, the handler is ignored.
 
-If there are multiple handlers for the same member, the measurement will be aborted. Inside the handler the this expression refers to the call context of the call (i.e. it is of type callContext <Member>).
+If there are multiple handlers for the same member, the measurement will be aborted. Inside the handler the this expression refers to the call context of the call (i.e. it is of type callContext `<Member>`).
 
 ## Parameters
 

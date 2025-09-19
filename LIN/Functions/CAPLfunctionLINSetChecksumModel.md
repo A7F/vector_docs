@@ -24,7 +24,7 @@ Sets the checksum calculation model of a single frame.
 
 - **channel**: The channel for which the checksum model of the frame should be changed. Value range: 1..32
 - **frameId**: The unprotected identifier of the frame. Value range: 0 .. 63 (excluding 60 and 61).
-- **checksumModel**: 
+- **checksumModel**:
   - Value range: 0..1
   - 0: **classic** (LIN 1.x) checksum model
   - 1: **enhanced** (LIN 2.x) checksum model

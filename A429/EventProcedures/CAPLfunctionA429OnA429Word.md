@@ -35,4 +35,3 @@ The event procedure `on a429word` is called on every event, related to an error 
 | `on a429word MsgChannel7.67` | Event with label = 67 (hex. = 0x43, oct. = 103o) on channel 7|
 | `on a429word 2, 0x30..0x38`  | Event with label = 2, 48..56                                 |
 | `on a429word MsgChannel7.LBL_103` | Event with label from assigned database on channel 7    |
-

@@ -26,10 +26,9 @@ This function sets the value of a 64-bit integer signal.
 
 ## Return Values
 
-- **0**: 
+- **0**:
 - **other value**: [error code](../CAPLfunctionsAFDXErrorCodes.md)
 
 ## Example
 
 —
-

@@ -78,4 +78,3 @@ on key 's' {
 - **CANoe Test Setup for Test Units**: ✔
 - **32-Bit**: ✔
 - **64-Bit**: ✔
-

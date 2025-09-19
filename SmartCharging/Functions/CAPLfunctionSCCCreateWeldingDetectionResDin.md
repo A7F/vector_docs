@@ -30,7 +30,7 @@ Creates a Welding Detection Response message for sending.
 
 ### Optional Parameters
 
-- **Index 0**: 
+- **Index 0**:
   - **Name**: IsolationStatus
   - **Type**: char[]
   - **Description**: Current isolation condition.

@@ -14,7 +14,7 @@ This function waits for a **LSS switch state global mode** request.
 
 ## Parameters
 
-- **pMode**: 
+- **pMode**:
   - 0 - waiting mode
   - 1 - configuration mode
 

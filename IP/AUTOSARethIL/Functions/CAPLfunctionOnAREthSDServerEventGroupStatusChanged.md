@@ -57,6 +57,7 @@ void OnAREthSDServerEventGroupStatusChanged( dword serviceId, dword instanceId, 
 ```
 
 [See Also](javascript:void(0);)
+
 ```markdown
 - [OnAREthEventReceived](CAPLfunctionOnAREthEventReceived.md#aanchor30368)
 - [OnAREthFieldNotification](CAPLfunctionOnAREthFieldNotification.md#aanchor14184)

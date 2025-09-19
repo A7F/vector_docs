@@ -31,7 +31,7 @@ Changes an internal property of the node.
   - **Packets_Per_CTS**: Number of packets, which are requested by CTS. Value Range: 1..255, Initial Value: 16
   - **Packets_Per_RTS**: Number of packets, which is used with RTS. Value Range: 1..255, Initial Value: 255
   - **Packets_Per_Sequence_Ex**: Number of packets, which are requested by ECTS (Extended TP). Value Range: 1..255, Initial Value: 64
-  - **BAM_with_Destination**: Target address, which is used for BAM. 
+  - **BAM_with_Destination**: Target address, which is used for BAM.
     - 0: Target address is 0xFF
     - 1: Specific target address is used
     - Value Range: 0..1, Initial Value: 0

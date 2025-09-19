@@ -6,7 +6,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
 
-### Changes
+## Changes
 This function was renamed from **chkCreate_ADASTimeToImpactViolation**/**chkStart_ADASTimeToImpactViolation** in version 16 SP3.
 
 ## Function Syntax

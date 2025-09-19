@@ -6,7 +6,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE •  CANoe4SW DE
 
-### Note
+## Note
 
 - The charge point DLL uses the `<EVSEConfiguration>` XML elements, and the vehicle DLL the `<PEVConfiguration>` elements. The two configuration types can be numbered independently.
 - Using `SCC_LoadV2GConfig()`, the charge point may react on the requested schema, by supplying e.g. different types of tariff tables and service lists.

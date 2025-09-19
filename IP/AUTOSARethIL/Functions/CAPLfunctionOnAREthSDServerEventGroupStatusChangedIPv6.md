@@ -21,7 +21,7 @@ This callback function can be implemented in the CAPL program if a Service Serve
 - **serviceId**: ID of the service whose status has changed.
 - **instanceId**: Instance ID
 - **eventGroupId**: ID of the Event Group.
-- **status**: 
+- **status**:
   - 0: not subscribed
   - 1: subscribed
 - **newIpAddress**: IPv6 address via which the subscription was received.

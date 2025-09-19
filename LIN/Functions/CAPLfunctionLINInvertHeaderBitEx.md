@@ -14,7 +14,7 @@
 
 ## Description
 
-Inverts the specified number of 1/16<sup>th</sup> bits at the specified position in the next LIN header.
+Inverts the specified number of 1/16`<sup>`th</sup> bits at the specified position in the next LIN header.
 
 **Note**: Partial bit disturbances require the activation of the flash mode in order to get the edges of the disturbance fast enough. Call [linActivateFlashMode](CAPLfunctionLINActivateFlashMode.md) for that purpose.
 
@@ -28,10 +28,10 @@ Inverts the specified number of 1/16<sup>th</sup> bits at the specified position
 - **bitIndex**: The index of the bit to be manipulated.
   - Value range: 0..255
 
-- **bitOffsetInSixteenthBits**: The offset in 1/16<sup>th</sup> bits into the bit specified in `bitIndex`.
+- **bitOffsetInSixteenthBits**: The offset in 1/16`<sup>`th</sup> bits into the bit specified in `bitIndex`.
   - Value range: 0..15
 
-- **distLengthInSixteenthBits**: The length of the disturbance in units of 1/16<sup>th</sup> bit.
+- **distLengthInSixteenthBits**: The length of the disturbance in units of 1/16`<sup>`th</sup> bit.
   - Value range: 0..65535
 
 - **Level**: Level of the disturbance.

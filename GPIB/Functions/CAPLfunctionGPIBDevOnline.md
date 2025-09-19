@@ -19,7 +19,7 @@ Activates/deactivates the device.
 ## Parameters
 
 - **deviceDescriptor**: Device ID
-- **mode**: 
+- **mode**:
   - 1: online
   - 0: offline
 

@@ -20,79 +20,79 @@ Sets a property of the TIM server/client.
 ## Parameters
 
 - **propertyName**: Name of the property.
-  - **isServerMaster**: 
+  - **isServerMaster**:
     - Value Range: 0..1
     - Default value server: 0
     - Default value client: —
-    - Description: 
+    - Description:
       - 1: TIM server is TIM server master.
       - 0: TIM server is no TIM server master.
-  - **bootTime**: 
+  - **bootTime**:
     - Value Range: 0..255 [seconds]
     - Default value server: 1
     - Default value client: —
     - Description: Boot time which is reported in the TIM_ServerVersionResponse message.
-  - **minimumVersion**: 
+  - **minimumVersion**:
     - Value Range: 0..255
     - Default value server: 0
     - Default value client: 0
     - Description: Minimum TIM version number of the TIM client/server.
-  - **implementedVersion**: 
+  - **implementedVersion**:
     - Value Range: 0..255
     - Default value server: 0
     - Default value client: 0
     - Description: Implemented TIM version number of the TIM client/server.
-  - **deactivateCertificateValidation**: 
+  - **deactivateCertificateValidation**:
     - Value Range: 0..FFh
     - Default value server: 0
     - Default value client: 0
-    - Description: 
+    - Description:
       - Bit 0 = 1: Validation of Conformance Certification information against device certificate is deactivated.
       - Bit 1 = 1: Validation of ISOBUS device name (NAME) against device certificate is deactivated.
       - Bit 2 = 1: Validation of function capabilities against the certificates is deactivated.
       - Bit 3 = 1: Check for revoked certificates is deactivated.
       - Bit 4 = 1: Check for certificate type (client or server certificate) is deactivated.
-  - **enableDemoMode**: 
+  - **enableDemoMode**:
     - Value Range: 0..1
     - Default value server: 0
     - Default value client: 0
-    - Description: 
+    - Description:
       - 1: Demo mode is enabled. Therefore no certificates and keys are validated.
       - 0: Demo mode is disabled.
-  - **useRequestCounter**: 
+  - **useRequestCounter**:
     - Value Range: 0..1
     - Default value server: 0
     - Default value client: 0
-    - Description: 
+    - Description:
       - 1: Increment request counter (starting with 0) in function request messages.
       - 0: Request counter is not used when function request messages are sent.
-  - **restartAfterWorkflowViolation**: 
+  - **restartAfterWorkflowViolation**:
     - Value Range: 0..1
     - Default value server: —
     - Default value client: 0
-    - Description: 
+    - Description:
       - 1: Client restarts communication to the server if there is a workflow violation.
       - 0: Client does not restart communication to the server if there is a workflow violation.
-  - **requireAcknowledgeOfStartOfMotion**: 
+  - **requireAcknowledgeOfStartOfMotion**:
     - Value Range: 0..1
     - Default value server: 0
     - Default value client: —
-    - Description: 
+    - Description:
       - 1: Operator acknowledgment ([Iso11783IL_TIMOperatorAcknowledgeStartOfMotion](CAPLfunctionIso11783ILtimOperatorAcknowledgeStartOfMotion.md)) is necessary to start vehicle motion by the client.
       - 0: Client can start vehicle motion without operator acknowledgment.
-  - **minimumAuthVersion**: 
+  - **minimumAuthVersion**:
     - Value Range: 2..250, 255
     - Default value server: 255
     - Default value client: 255
-    - Description: 
+    - Description:
       - 2..250: Minimum Authentication Version supported by the TIM client/server.
       - 255: Authentication Version is not supported by the TIM client/server.
       - If both versions (minimum and implemented) are set to 255 then the TIM client/server does not know/support the Authentication Version mechanism.
-  - **implementedAuthVersion**: 
+  - **implementedAuthVersion**:
     - Value Range: 1..250, 255
     - Default value server: 255
     - Default value client: 255
-    - Description: 
+    - Description:
       - 1..250: Implemented Authentication Version supported by the TIM client/server.
       - 255: Authentication Version is supported by the TIM client/server.
       - If Implemented Authentication Version is between 2 and 250 an **Auth_ServerVersionRequest** or **Auth_ClientVersionRequest** message is responded by the TIM server or TIM client.

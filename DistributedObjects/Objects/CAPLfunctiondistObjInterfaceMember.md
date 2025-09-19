@@ -65,7 +65,7 @@ version 1.4;
 namespace SomeNamespace
 {
   [Binding="Abstract", AutoSubscribe=false]
-  interface SomeInterface 
+  interface SomeInterface
   {
     consumed data int32 SomeData;
   }
@@ -74,7 +74,7 @@ namespace SomeNamespace
 }
 
 // CAPL
-on start 
+on start
 {
   char str[100];
   getAttribute(SomeInterface.SomeData, _SystemAttributes::Binding, str);

@@ -6,6 +6,7 @@
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
 
 ### Method Syntax
+
 ```plaintext
 long Binding::ReturnReceived(distObjMethodRef * member, callContext * value);
 ```
@@ -24,6 +25,7 @@ Sets the out-parameters for a returning call at a consumed method member that us
 - **6**: One way function used
 
 ### Example
+
 ```plaintext
 // Transmit a method call via CAN messages.
 // This example requires a CAN message "SomeMethod_Call" with

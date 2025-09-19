@@ -29,7 +29,7 @@ Disturbs the Update Bit of all signals and/or signal groups that are sent by the
   - **4, Random Set**: The update bit will randomly be not set but will always after transmission be cleared (**disturbanceValue** is not used).
   - **5, Random Reset**: The update bit will always correctly be set but randomly not reset (**disturbanceValue** is not used).
 
-- **disturbanceCount**: 
+- **disturbanceCount**:
   - **-1, Infinite**: Disturbance is continuously applied.
   - **0, Stop**: An active disturbance is stopped and the CRC will be calculated again appropriately.
   - **n > 0, Count**: Do exactly n disturbances.

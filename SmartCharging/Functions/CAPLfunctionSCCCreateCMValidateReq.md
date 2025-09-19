@@ -28,7 +28,7 @@ Creates a **CM_Validate.Req** message for sending.
 
 ### Additional Parameters
 
-1. **SignalType** (dword): 
+1. **SignalType** (dword):
    - 0x00 = PEV S2 toggles on CPLT line
    - 0x01-0xFF = Reserved
 

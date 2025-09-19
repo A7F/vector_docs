@@ -55,4 +55,3 @@ if (C2xIsTokenAvailable(packet, "geoNetworking", "spvNetAddr"))
   write("error! spvNetAddr is available in geoNetworking broadcast");
 }
 ```
-

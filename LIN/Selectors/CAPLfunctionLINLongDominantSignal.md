@@ -6,7 +6,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
 
-### Keywords and Descriptions
+## Keywords and Descriptions
 
 - **Time**
   - Description: Time stamp synchronized with the global time base on the computer (CAN hardware or PC system clock).

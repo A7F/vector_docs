@@ -24,7 +24,7 @@ An Event can be removed again using the [AREthRemoveEvent](CAPLfunctionAREthRemo
 
 - **psiHandle**: Handle of the Provided-Service Instance
 - **eventId**: Identifier of the Event
-- **onPrepareEventCallback**: Name of the CAPL function, see CAPL callback [\<OnAREthPrepareEvent>](CAPLfunctionOnAREthPrepareEvent.md)
+- **onPrepareEventCallback**: Name of the CAPL function, see CAPL callback [\`<OnAREthPrepareEvent>`](CAPLfunctionOnAREthPrepareEvent.md)
 
 ## Return Values
 

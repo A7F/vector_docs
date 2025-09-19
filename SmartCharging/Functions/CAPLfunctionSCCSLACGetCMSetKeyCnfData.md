@@ -6,7 +6,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
 
-### Note
+## Note
 - This function can be called only within the assigned callback. The function is used to query the details of a request.
 - `<InvalidValueSigned>` and/or `<InvalidValueUnsigned>` can be defined in the XML configuration.
   - These are returned if an optional numeric message parameter was queried by this function but not found.

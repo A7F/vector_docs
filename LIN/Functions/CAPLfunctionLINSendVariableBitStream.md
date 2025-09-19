@@ -22,7 +22,7 @@ Sends an arbitrary bitstream with bits of variable length on the LIN bus.
 - **lengthInNS**: The length of each bit in nanoseconds.
 - **numberOfBits**: The number of bits in the bitStream-array. Note that while the dataBuffer-array will usually have a size of ceil(numberOfBits / 8), the size of lengthInNS will need to be at least numberOfBits.
 - **roundUp**: If true, the lengths specified in lengthInNS will be rounded up to the next possible length that can be transmitted by the LIN hardware, otherwise the lengths will be rounded down.
-- **timeoutPrevention**: 
+- **timeoutPrevention**:
   - 0: deactivates the timeout prevention for the 7259-transceiver.
   - 1: activates the timeout prevention for the 7259-transceiver.
 - **interruptingTx**: When activated (= 1) the transmission of the bitstream starts immediately without waiting for the bus to be free. Note that this mode may disturb a running transmission.

@@ -29,7 +29,7 @@ Creates a Power Delivery Response message for sending, using the DC syntax.
 
 ### Optional Parameters
 
-- **Index 0**: 
+- **Index 0**:
   - **Name**: IsolationStatus
   - **Type**: char[]
   - **Description**: Current isolation condition.

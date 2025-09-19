@@ -6,7 +6,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
 
-### Method Syntax
+## Method Syntax
 
 `dword X509Certificate_GetSignatureAlgIdentifier(qword objectHandle, qword& outHandleAlgIdentifier)`
 

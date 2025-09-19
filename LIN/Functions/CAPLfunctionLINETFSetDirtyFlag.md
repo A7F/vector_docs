@@ -19,7 +19,7 @@ With this function it is possible to set/clear the dirty flag of an associated f
 ## Parameters
 
 - **assocId**: Identifier of unconditional frame. LIN frame identifier of associated (unconditional) frame whose dirty flag should be set or cleared. Value range: 0 .. 63
-- **dirty**: 
+- **dirty**:
   - 1: Set the dirty flag.
   - 0: Clear the **dirty** flag.
 

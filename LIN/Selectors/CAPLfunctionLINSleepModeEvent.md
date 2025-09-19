@@ -40,7 +40,7 @@
   - Description: Channel through which the event was received.
   - Value range: 1..32
   - Type: word
-  - Access Limitations: 
+  - Access Limitations:
 
 - **lin_WasAwake**
   - Description: Indicates which status the LIN hardware was in before the LinSleepModeEvent occurred:
@@ -65,7 +65,7 @@
 
 - **lin_Reason**
   - Description: This value indicates the reason for an event. A variety of values can be transferred.
-    - General values: 
+    - General values:
       - 0: Start state
     - Values upon transition to Sleep mode:
       - 1: SleepModeFrame

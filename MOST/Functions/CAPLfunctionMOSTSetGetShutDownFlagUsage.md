@@ -24,14 +24,14 @@ mostSetShutDownFlagUsage with mode 0.
 ## Parameters
 
 - **channel**: Channel of the connected interface
-- **mode**: 
+- **mode**:
   - 0: clear shutdown flag
   - 1: default mode
 
 ## Return Values
 
 - **mostSetShutDownFlagUsage**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
-- **mostGetShutDownFlagUsage**: 
+- **mostGetShutDownFlagUsage**:
   - >=0: See mode parameter
   - <0: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 

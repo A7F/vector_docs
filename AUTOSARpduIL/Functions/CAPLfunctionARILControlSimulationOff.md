@@ -2,7 +2,7 @@
 
 **Valid for**: CANoe DE • CANoe4SW DE
 
-### Note
+## Note
 
 This function should not be used in the **on PreStart** event procedure.
 

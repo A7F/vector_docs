@@ -8,7 +8,7 @@ Only available with Option CANopen.
 
 ---
 
-### CANopen Basic
+## CANopen Basic
 
 - [CAPL Functions](CANopenBasic/CAPLfunctionsCANopenBasicOverview.md)
 

@@ -40,4 +40,3 @@ C2xSecPacketSetSignerType(packetHandle, 2); // send certificate
 C2xCompletePacket(packetHandle);
 C2xOutputPacket(packetHandle);
 ```
-

@@ -291,13 +291,13 @@ The methods/functions listed on this site can only be called in connection with 
 
 ## VT7001 related Methods/Functions [▲ back](#Shortcuts)
 
-- [\<OnSerialError>](Functions/CAPLfunctionVTSOnSerialError.md)
+- [\`<OnSerialError>`](Functions/CAPLfunctionVTSOnSerialError.md)
   - Is called when an error has occurred in an operation on a serial port.
 
-- [\<OnSerialReceive>](Functions/CAPLfunctionVTSOnSerialReceive.md)
+- [\`<OnSerialReceive>`](Functions/CAPLfunctionVTSOnSerialReceive.md)
   - Is called when data has been received from the assigned serial port.
 
-- [\<OnSerialSend>](Functions/CAPLfunctionVTSOnSerialSend.md)
+- [\`<OnSerialSend>`](Functions/CAPLfunctionVTSOnSerialSend.md)
   - Is called when a send operation has been completed on the assigned serial port.
 
 - [LoadWFVoltage](Functions/CAPLfunctionVTSLoadWFVoltage.md)

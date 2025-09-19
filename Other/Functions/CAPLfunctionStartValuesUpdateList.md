@@ -6,7 +6,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
 
-### Note
+## Note
 
 - Call `startValuesUpdateList()` in the `on stopMeasurement` CAPL event handler to save the last variable or signal values, for which start values are defined, for the next measurement start.
 - If you change the value of a variable or signal value in a CAPL event handler, you cannot call `startValuesUpdateList()` in the same handler to save the values just set as start values. The variable or signal value is only changed after the function call `startValuesUpdateList()`. Decouple the call to `startValuesUpdateList()` via a timer from setting the variable or signal value. Refer to example 2 below.

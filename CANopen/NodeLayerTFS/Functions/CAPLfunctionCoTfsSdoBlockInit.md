@@ -100,7 +100,7 @@ if (retValFunc == kTestStepPassed)
 {
     /* start block upload */
     strncpy(msg,"coTfsSDOBlockInit - start block upload", elCount(msg));
-    ccs = kClientCommandSpecifier_BlockUpload; /* block upload */ 
+    ccs = kClientCommandSpecifier_BlockUpload; /* block upload */
     cs = kClientSubcommand_StartUpload;
 
     /* start upload */ retValFunc = coTfsSDOBlockInit( 0 /*dword index*/, 0 /*dword subIndex*/, ccs /*dword ccs*/, cs /*dword cs*/, 0 /*dword crcSupported*/, 0 /*dword sizeIndicated*/, 0 /*dword blkSize*/, 0 /*dword size*/, 0 /*dword threshold*/ );

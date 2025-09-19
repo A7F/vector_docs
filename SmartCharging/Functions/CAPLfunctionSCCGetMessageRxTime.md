@@ -6,7 +6,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
 
-### Note
+## Note
 
 - This function can be called only within the assigned callback. It is used to query the details of a SLAC or V2G message.
 - The result of this query is the message timestamp as seen in the Trace window. It is a value taken from your CANoe DE product, in contrast to [SCC_GetTimestamp](CAPLfunctionSCCGetTimestamp.md), which returns a timestamp parameter that is sent inside a V2G message.

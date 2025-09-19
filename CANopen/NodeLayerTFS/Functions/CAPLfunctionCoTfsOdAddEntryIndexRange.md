@@ -21,7 +21,7 @@ The function adds several object entries to the internal list. The elements only
 - **minIndex**: Minimal index which is to create.
 - **maxIndex**: Maximal index which is to create.
 - **subIndex**: Subindex of object.
-- **accessType**: 
+- **accessType**:
   - 1: readWrite
   - 2: readOnly
   - 3: writeOnly

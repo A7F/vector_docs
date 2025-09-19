@@ -33,4 +33,3 @@ This function sets the integer value of a token. Form 2 with byte offset sets a 
 ## Example
 
 See example of [C2xInitPacket](CAPLfunctionC2xInitPacket.md).
-

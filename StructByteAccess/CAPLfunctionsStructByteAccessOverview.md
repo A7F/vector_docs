@@ -12,7 +12,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 
 ---
 
-### Functions
+## Functions
 
 - [memcmp](Functions/CAPLfunctionMemCmp.md): Compares the bytes of the parameters.
 - [memcpy](Functions/CAPLfunctionMemCpy.md): Copies bytes from a source to a destination.

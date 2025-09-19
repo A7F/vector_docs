@@ -4,7 +4,7 @@
 
 You can access information of the error frame object using the following selectors:
 
-### Identification
+## Identification
 *Note: The validity of ID and DLC depends on the error type and the error position!*
 
 - **CAN**: Transmission channel or channel through which the frame error has been received.  

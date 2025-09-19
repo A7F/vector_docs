@@ -8,7 +8,7 @@ Parameter access functions can access the transmitted value as follows:
 - **1**: physical: Access to the value calculated from the transmitted numerical value (is also displayed symbolical as text).
 - **2**: coded: Immediate transformation into a numeric type (up to 32 bit), i.e. floating point values will also be provided in their internal description (bit form).
 
-### Example:
+## Example:
 
 Parameter definition in Diagnostic Description:
 

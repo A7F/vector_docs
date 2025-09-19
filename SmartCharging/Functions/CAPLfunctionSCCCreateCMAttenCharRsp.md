@@ -30,14 +30,14 @@ Creates a **CM_Atten_Char.Rsp** message for sending.
 - **Index 0**
   - **Name**: ApplicationType
   - **Type**: dword
-  - **Description**: 
+  - **Description**:
     - 0x00 = PEV-EVSE Association
     - 0x01-0xFF = Reserved
 
 - **Index 1**
   - **Name**: SecurityType
   - **Type**: dword
-  - **Description**: 
+  - **Description**:
     - 0x00 = No Security
     - 0x01 = Public Key Signature
     - 0x02-0xFF = Reserved

@@ -39,4 +39,3 @@ if (C2xGetStationName(stationHdl, elcount(stationName), stationName) == 0)
   write("Station: %s", stationName) ;
 }
 ```
-

@@ -31,10 +31,10 @@ Note: This function is only valid during a `SCC_MessageTxInd()` callback with Me
 
 - **ChargeServiceIDs**: The destination array of at least size 1 to receive the ServiceID from the ChargeService.
 - **ServiceListIDs**: The destination array is large enough to receive the (maximum) number of expected ServiceIDs from the ServiceList as per your SCC_ChargePoint XML configuration file.
-- **ChargeServiceIDsCount**: 
+- **ChargeServiceIDsCount**:
   - In: dimension of the destination array
   - Out: The number of charge services
-- **ServiceListIDsCount**: 
+- **ServiceListIDsCount**:
   - In: dimension of the destination array
   - Out: The number of ServiceIDs returned in the ServiceListIDs array, may be 0 (zero) if no ServiceList is contained in the message.
 

@@ -2,7 +2,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
 
-### Note
+## Note
 
 Setting the ignition state with this function will also update the appropriate global system variable (`sysvar::_ILControl::Ignition`). Therefore the state in all ILs will automatically be set accordingly.
 

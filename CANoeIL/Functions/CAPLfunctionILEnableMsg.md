@@ -2,7 +2,7 @@
 
 **Valid for**: CANoe DE • CANoe4SW DE
 
-### Note
+## Note
 
 - This function is not available for all OEM add-ons — depends on the CANoeIL.
 - This function can be used in a global node outside the node context of the IL.

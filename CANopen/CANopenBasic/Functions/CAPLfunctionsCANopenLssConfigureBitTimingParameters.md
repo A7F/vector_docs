@@ -14,7 +14,7 @@ The LSS master configures the bit timing of a LSS slave.
 
 ## Parameters
 
-- **tableSelector**: 
+- **tableSelector**:
   - **0**: bit timing table according to CiA 301
   - **0x80..0xFE**: manufacturer-specific bit timing table
 

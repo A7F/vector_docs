@@ -23,7 +23,7 @@ Sets up a bitstream as the response to the specified frame.
 - **frameId**: LIN frame identifier in the range 0 .. 63
 - **bitStream**: The bitstream array to be sent as a response. Maximum number of bits: 2^31-1.
 - **numberOfBits**: Number of bits in the bitStream array to be sent.
-- **timeoutPrevention**: 
+- **timeoutPrevention**:
   - 0: deactivates the timeout prevention for the 7259-transceiver.
   - 1: activates the timeout prevention for the 7259-transceiver.
 - **count**: Number of times, the bitstream shall be sent as a response before deactivating itself.

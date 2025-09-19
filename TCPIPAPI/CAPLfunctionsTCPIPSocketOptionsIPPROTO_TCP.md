@@ -13,7 +13,7 @@ The following socket options can be set at the IPPROTO_TCP socket option level i
 - **C**: Supported by CANoe internal network stack
 - **W**: Supported by Windows network stack
 
-### Socket Options
+## Socket Options
 
 - **TCP_NODELAY**
   - **Set/Get**: set/get

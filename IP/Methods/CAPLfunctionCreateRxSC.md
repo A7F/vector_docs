@@ -27,7 +27,7 @@ Creates a secure channel for receiving.
 
 ## Example
 
-— 
+—
 
 © Vector Informatik GmbH
 

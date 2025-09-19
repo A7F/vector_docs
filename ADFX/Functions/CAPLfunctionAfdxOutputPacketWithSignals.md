@@ -21,7 +21,7 @@ Sends a message and automatically updates the payload with the current Tx-signal
 
 ## Parameters
 
-- **0**: 
+- **0**:
 - **other value**: [error code](../CAPLfunctionsAFDXErrorCodes.md)
 
 ## Return Values

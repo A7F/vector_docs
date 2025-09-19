@@ -14,7 +14,7 @@ Returns whether the specified event is currently requested (if abstract binding 
 
 **Parameters**
 
-— 
+—
 
 **Return Values**
 

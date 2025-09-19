@@ -48,7 +48,7 @@
 
 Checks the occurrences of cyclic messages.
 
-Event is generated if the time between sends of the message is smaller than minRelCycleTime * GenMsgCycleTime (DB-attribute) or larger than maxRelCycleTime * GenMsgCycleTime.
+Event is generated if the time between sends of the message is smaller than minRelCycleTime *GenMsgCycleTime (DB-attribute) or larger than maxRelCycleTime* GenMsgCycleTime.
 
 Not to be checked limits are set to 0; there must be at least one limit specified.
 
@@ -65,13 +65,13 @@ Further information on site [MultiBus Environment](../../../Shared/CAPL/General/
 ## Parameters
 
 - **aObservedMessage**: The observed message in symbolic form, e.g.: "MotorData", whose occurrence is to be monitored. Message must exist in database
-- **aMinRelCycleTime**: 
+- **aMinRelCycleTime**:
   - 0: Limit is not checked
   - 0 < x < 1: Limit is checked
-- **aMaxRelCycleTime**: 
+- **aMaxRelCycleTime**:
   - 0: Limit is not checked
   - 1 < x < ∞: Limit is checked
-- **aCallback**: 
+- **aCallback**:
   - In simulation nodes this parameter has to be set.
   - In test modules this parameter is optional.
 - **slotID**: This number designates a specific FlexRay slot. Its value must be between 1 and 2047.

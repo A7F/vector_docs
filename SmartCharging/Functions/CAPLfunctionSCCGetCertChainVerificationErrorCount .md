@@ -4,10 +4,11 @@
 
 **CAPL Functions** » [Smart Charging](../CAPLFunctionsSmartChargingOverview.md) » [SCC Modeling Libraries (Simulation Setup)](../CAPLFunctionsSmartChargingOverview.md#BMNodeayerDLL) » [General Functions](../CAPLFunctionsSmartChargingOverview.md#GeneralFunctions) » [Shared Functions](../CAPLFunctionsSmartChargingOverview.md#GeneralFunctions) » SCC_GetCertChainVerificationErrorCount
 
-### Tool Availability
+## Tool Availability
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE  •  CANoe4SW DE
 
 ### Function Syntax
+
 ```
 dword SCC_GetCertChainVerificationErrorCount( )
 ```

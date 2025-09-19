@@ -17,7 +17,7 @@ The procedure `on sysVar` is called only when the value of the variable changes.
 
 You can also react in the same way to value changes of specific elements of a system variable of type [struct or generic array](../../../Shared/SystemVariables/SysVar.md). For this, add the element to the name of the variable. For additional clarity, you can also use `on sysVarMember` instead of `on sysVar`.
 
-### Example
+## Example
 
 In the following example there is a reaction to a change on the I/O input DI_0 (first input port), and the new value of the I/O signal is assigned to the signal IOValue of a CAN message transmitted by the node Gateway.
 

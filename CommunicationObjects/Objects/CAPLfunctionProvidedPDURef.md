@@ -2,7 +2,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
 
-### Function Syntax
+## Function Syntax
 
 - `providedPDURef * <var>; // form 1`
 - `providedPDURef <PDU> <var>; // form 2`
@@ -64,7 +64,7 @@ References a provided PDU endpoint, which means a specific combination of consum
 
 - **`<SignalName>`**: Accesses the specified signal on the PDU.  
   **Type**: `<Data type of the signal>`  
-  **Access Limitation**: 
+  **Access Limitation**:
 
 ### Example
 

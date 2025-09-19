@@ -20,7 +20,7 @@ Controls the immediate timing of PDUs. The immediate timing can be enabled/disab
 ## Parameters
 
 - **aPDUName**: Name of the PDU that should be modified.
-- **enable**: 
+- **enable**:
   - 0 = disable
   - 1 = enable
 

@@ -22,7 +22,7 @@ This function may only be used in `on preStart`.
 
 ## Parameters
 
-— 
+—
 
 ## Return Values
 

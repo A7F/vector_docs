@@ -27,7 +27,7 @@ Sets the visibility of all panel controls. The panel is accessed by its individu
 
   **Note**: If you want to access all elements of a panel, the notation "" is used, see example below.
 
-  **Example**: 
+  **Example**:
   - "Signal:SleepInd"
   - "SysVar:SVInteger"
 

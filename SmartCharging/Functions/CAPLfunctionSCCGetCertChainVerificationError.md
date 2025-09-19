@@ -48,9 +48,9 @@ Gets an individual verification from the last certificate chain verification, wh
   24. Certificate public key invalid
   25. Signature algorithm unknown
   26. Signature algorithm – bad parameters
-  101. Domain Component invalid according to ISO 15118-2
-  102. Common Name mismatch (Common Name of leaf does not match received eMAID)
-  103. Country Name was set within contract certificate
+  27. Domain Component invalid according to ISO 15118-2
+  28. Common Name mismatch (Common Name of leaf does not match received eMAID)
+  29. Country Name was set within contract certificate
 
 ## Return Values
 

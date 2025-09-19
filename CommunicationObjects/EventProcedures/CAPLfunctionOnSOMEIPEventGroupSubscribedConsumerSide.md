@@ -29,7 +29,7 @@ The event procedure is called at the consumer when an event group subscription h
 ## Example
 
 ```plaintext
-on SOMEIP_EventGroupSubscribedConsumerSide <EventGroup>
+on SOMEIP_EventGroupSubscribedConsumerSide `<EventGroup>`
 {
   if (this.Status == 1) // Positive Acknowledgement
   {

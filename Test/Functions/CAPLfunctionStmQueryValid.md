@@ -26,7 +26,7 @@ Examines whether a stimulus with particular Id is valid.
 
 ## Parameters
 
-- **dword aStimulusId** — 
+- **dword aStimulusId** —
 
 ## Return Values
 

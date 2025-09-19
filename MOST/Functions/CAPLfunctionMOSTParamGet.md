@@ -21,7 +21,8 @@ Suitable for parameter types 'Number', 'Enum', 'BitField' and 'Bool'.
 
 **Note:** For parameters of type 'Array' or 'Sequence' the size (number of elements) of the parameter is retrieved. The array size cannot be determined, if the parameter 'Pos' selects only one array element.
 
-**Example:** 
+**Example:**
+
 ```plaintext
 mostAmsMessage AudioDiskPlayer.MediaInfo.Status msg;
 int arraySize;

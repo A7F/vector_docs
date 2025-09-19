@@ -20,7 +20,7 @@ This callback is called for every secured PDU of the specified node on the speci
 
 - **char nodeName[]**: The name of the node.
 - **char networkName[]**: The name of the network the node is on.
-- **dword context**: 
+- **dword context**:
   - 1: PDU is received (MAC verification)
   - 0: PDU is transmitted (MAC calculation)
 - **char pduName[]**: The name of the PDU.

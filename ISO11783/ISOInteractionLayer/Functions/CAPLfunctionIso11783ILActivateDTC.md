@@ -23,7 +23,7 @@ This function activates a diagnostics trouble code (DTC) and adds it to the list
 
 - **spn**: Suspect Parameter Number of the activated DTC, 0..524287.
 - **fmi**: Failure Mode Indicator of the activated DTC, 0..31.
-- **options**: 
+- **options**:
   - Bit 0 = 0: Send message DM1 as soon as possible.
   - Bit 0 = 1: Send message DM1 with next cycle.
 - **occurrenceCount**: Occurrence Count of the activated DTC, 0..127. If a form without this parameter is used, then the occurrence count is determined automatically.

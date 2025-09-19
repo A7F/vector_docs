@@ -6,7 +6,7 @@
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
 
-### Function Syntax
+## Function Syntax
 
 - `long testWaitScopePerformEdgeAnalysis(message frame, ScopeAnalyseRange analyseRange, dword flags, long thresholdStart long thresholdEnd, ScopeEdgeAnalyseResult parameter[], dword parameterCount, ScopeAnalyseHandle handle) //Form 1`
 - `long testWaitScopePerformEdgeAnalysis(linFrame frame, ScopeAnalyseRange analyseRange, dword flags, long thresholdStart long thresholdEnd, ScopeEdgeAnalyseResult parameter[], dword parameterCount, ScopeAnalyseHandle handle) //Form 2`
@@ -22,7 +22,7 @@ Perform an edge analysis for falling/rising edges of a specific frame or a compl
 - **frame //Form 1,2,3**: The CAN, LIN or FlexRay frame should be analyzed.
 - **nodeName //Form 4**: The node should be analyzed.
 - **analyseRange**: The start and end of the transition time measurement. See Class: [scopeAnalyseRange](../../Scope/Classes/CAPLfunctionScopeAnalyseRange.md).
-- **flags**: 
+- **flags**:
   - **Bits**:
     - 0: Define threshold level unit:
       - 0 = Threshold level in mV
@@ -34,7 +34,7 @@ Perform an edge analysis for falling/rising edges of a specific frame or a compl
     - 4-5: Rising/falling edge selection
       - Bit 4 = 1 Use rising edges
       - Bit 5 = 1 Use falling edges
-    - 6: 
+    - 6:
       - 0 = Use last occurrence for transition time measurement, where the voltage level is above or below the threshold level.
       - 1 = Use first occurrence for transition time measurement, where the voltage level is above or below the threshold level.
   - All other bits are reserved and must be set to 0.

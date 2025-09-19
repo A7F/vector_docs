@@ -32,4 +32,3 @@ Value of the bit.
 ## Example
 
 See example of [C2xSetTokenBitOfBitString](CAPLfunctionC2xSetTokenBitOfBitString.md).
-

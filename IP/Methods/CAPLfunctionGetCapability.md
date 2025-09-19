@@ -24,7 +24,7 @@ Returns the MACsec capability of the secure entity. Usually, this will be `MACSE
 
 ## Example
 
-— 
+—
 
 © Vector Informatik GmbH
 

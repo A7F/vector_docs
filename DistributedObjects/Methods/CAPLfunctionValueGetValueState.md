@@ -6,6 +6,7 @@
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
 
 ### Method Syntax
+
 ```plaintext
 dword valueHandle::GetValueState();
 ```
@@ -24,6 +25,7 @@ Returns the state of the value, which tells in particular whether it has already
   - 3 – value was set since the last call to [valueHandle::ResetValueState](CAPLfunctionValueResetValueState.md)
 
 ### Example
+
 ```plaintext
 long ret;
 consumedEventRef * anEvent;

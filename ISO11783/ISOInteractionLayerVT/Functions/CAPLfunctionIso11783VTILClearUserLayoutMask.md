@@ -19,7 +19,7 @@ Removes all Window Masks and all Key Groups from a User-Layout Mask of the Virtu
 
 - **maskIndex**: Index of the User-Layout Mask, 0..10. Value of maskIndex must be smaller than the number of User-Layout Masks (which can be configured with [VTIL_SetNodeProperty](CAPLfunctionIso11783VTILSetNodeProperty.md)).
 
-- **options**: 
+- **options**:
   - 0: No additional option
   - 1: Send a VT On User-Layout Hide/Show message for every removed Window Mask or Key Group
 
