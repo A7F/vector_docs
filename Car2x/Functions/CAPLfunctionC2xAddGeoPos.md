@@ -27,23 +27,23 @@ The recommended frequency of updating the station position data by calling this 
 
 ## Parameters
 
-- **latitude**: New station latitude in degrees, -90.0° < latitude < 90.0°
-- **longitude**: New station longitude in degrees, -180.0° <= longitude <= 180.0°
-- **elevation**: Optional, new station altitude in meters, -1000.0m <= elevation <= 8000.0m. Set the elevation parameter to a value outside of the valid range to indicate that the elevation is not provided / is unused.
-- **heading**: New station heading angle, in degrees from north, 0.0° <= heading <= 360.0°
-- **speed**: New station speed in m/s, speed >= 0.0
-- **hdop (optional)**: New value for horizontal dilution of precision, supplied by most GNSS receivers, 0.1 < hdop < 100.0. Values below 5.0 mean the GNSS fix is of good quality. Provide a negative value to this parameter to indicate that the hdop parameter is not provided / is unused.
-- **vdop (optional)**: New value for vertical dilution of precision, supplied by most GNSS receivers, 0.1 < vdop < 100.0. Values below 5.0 mean the GNSS fix is of good quality. Provide a negative value to this parameter to indicate that the vdop parameter is not provided / is unused.
-- **routeId**: Unique integer number which identify the geographical route data storage where the position data will be saved to. In this way the position data of multiple geographical position data sources can be saved separately. By using the same routeId value in e.g. C2xApplyPathHistory CAPL Function the position data of exactly this routeId will be used independent from other existing routes. Valid value range: routeId > 0.
+- **latitude**: New station latitude in degrees, `-90.0° < latitude < 90.0°`
+- **longitude**: New station longitude in degrees, `-180.0° <= longitude <= 180.0°`
+- **elevation**: Optional, new station altitude in meters, `-1000.0m <= elevation <= 8000.0m`. Set the elevation parameter to a value outside of the valid range to indicate that the elevation is not provided / is unused.
+- **heading**: New station heading angle, in degrees from north, `0.0° <= heading <= 360.0°`
+- **speed**: New station speed in m/s, `speed >= 0.0`
+- **hdop (optional)**: New value for horizontal dilution of precision, supplied by most GNSS receivers, `0.1 < hdop < 100.0`. Values below 5.0 mean the GNSS fix is of good quality. Provide a negative value to this parameter to indicate that the hdop parameter is not provided / is unused.
+- **vdop (optional)**: New value for vertical dilution of precision, supplied by most GNSS receivers, `0.1 < vdop < 100.0`. Values below 5.0 mean the GNSS fix is of good quality. Provide a negative value to this parameter to indicate that the vdop parameter is not provided / is unused.
+- **routeId**: Unique integer number which identify the geographical route data storage where the position data will be saved to. In this way the position data of multiple geographical position data sources can be saved separately. By using the same routeId value in e.g. C2xApplyPathHistory CAPL Function the position data of exactly this routeId will be used independent from other existing routes. Valid value range: `routeId > 0`.
 
 ## Return Values
 
 - **0**: No error, OK
-- **≠0**: [Error code](../CAPLfunctionsCar2xErrorCodes.md)
+- **`≠0`**: [Error code](../CAPLfunctionsCar2xErrorCodes.md)
 
 ## Example
 
-```plaintext
+```c
 // Station geo position source: VN4610, GNSS1
 on sysvar GNSS::Ath1
 {

@@ -27,7 +27,7 @@ The a664Message object then allows to retrieve the various runtime parameters li
 
 ## Return Values
 
-- **<success> - 0**: Information about corresponding message was successfully retrieved
+- **`<success>` - 0**: Information about corresponding message was successfully retrieved
 - **-1**: Wrong bus system (callback not from an AFDX channel)
 - **-3**: PDU-object (this) not of correct type or not initialized properly
 - **-6**: Frame or PDU not available

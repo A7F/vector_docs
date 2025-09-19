@@ -24,12 +24,12 @@
 
 ## Callback Functions [▲ back](#Shortcuts)
 
-- [`<OnAREthEventReceived>`](Functions/CAPLfunctionOnAREthEventReceived.md): CAPL handler to receive events.
-- [\<OnAREthFieldNotification>](Functions/CAPLfunctionOnAREthFieldNotification.md): CAPL handler to receive field change notifications.
-- [<OnAREthMethodError>](Functions/CAPLfunctionOnAREthMethodError.md): A callback function with this signature must be passed to the CAPL function [AREthCreateMethodCall](Functions/CAPLfunctionAREthCreateMethodCall.md).
-- [<OnAREthMethodRequest>](Functions/CAPLfunctionOnAREthMethodRequest.md): CAPL handler to request a method.
-- [<OnAREthMethodResponse>](Functions/CAPLfunctionOnAREthMethodResponse.md): CAPL handler to response a method.
-- [<OnAREthPrepareEvent>](Functions/CAPLfunctionOnAREthPrepareEvent.md): CAPL handler to prepare an event before sending.
+- [\<OnAREthEventReceived\>](Functions/CAPLfunctionOnAREthEventReceived.md): CAPL handler to receive events.
+- [\<OnAREthFieldNotification\>](Functions/CAPLfunctionOnAREthFieldNotification.md): CAPL handler to receive field change notifications.
+- [\<OnAREthMethodError\>](Functions/CAPLfunctionOnAREthMethodError.md): A callback function with this signature must be passed to the CAPL function [AREthCreateMethodCall](Functions/CAPLfunctionAREthCreateMethodCall.md).
+- [\<OnAREthMethodRequest\>](Functions/CAPLfunctionOnAREthMethodRequest.md): CAPL handler to request a method.
+- [\<OnAREthMethodResponse\>](Functions/CAPLfunctionOnAREthMethodResponse.md): CAPL handler to response a method.
+- [\<OnAREthPrepareEvent\>](Functions/CAPLfunctionOnAREthPrepareEvent.md): CAPL handler to prepare an event before sending.
 - [OnAREthClosedIPv6TCPConnection](Functions/CAPLfunctionOnAREthClosedIPv6TCPConnection.md): CAPL handler to be called after a IL’s TCP connection has been closed.
 - [OnAREthEstablishedIPv6TCPConnection](Functions/CAPLfunctionOnAREthEstablishedIPv6TCPConnection.md): CAPL handler to be called after an incoming or outgoing TCP connection.
 - [OnAREthClientAepConnected](Functions/CAPLFunctionOnAREthClientAepConnected.md): This callback gets called when a server-side SOME/IP Application Endpoint gets opened.

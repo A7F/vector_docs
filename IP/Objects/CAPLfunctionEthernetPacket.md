@@ -163,7 +163,7 @@ Can be used to create an Ethernet send object. The object data can be manipulate
   Type: byte, word, dword, qword (depends on field)  
   Access Limitation: —
 
-- **<protocol>.<field>.bitLength**  
+- **`<protocol>.<field>.bitLength`**  
   Type: long  
   Access Limitation: read-only
 

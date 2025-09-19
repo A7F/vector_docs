@@ -77,7 +77,7 @@ If the Frame object is created (e.g. FrFrame (1,0,1) receiveFrame;) for use with
 - **FR_SlotID**: The frame was received in this FlexRay slot.
 - **FR_Cycle**: The frame was received in this FlexRay slot.
 - **FR_PayloadLength**: Length of the payload that was received in 16 Bit words (data type: word).
-- **byte(index), word(index), dword(index), qword(index), char(index), int(index), long(index), int64(index), <signal name>**: Direct access to the payload/data of the frame. The number of valid data bytes is specified by the selector `FR_PayloadLength`.
+- **byte(index), word(index), dword(index), qword(index), char(index), int(index), long(index), int64(index), `<signal name>`**: Direct access to the payload/data of the frame. The number of valid data bytes is specified by the selector `FR_PayloadLength`.
 - **FR_Flags**: Corresponding bits in the flags mirror specific bits in the FlexRay header of the received frame.
 - **FR_Payload**: This selector allows the access of the payload array (for using as a byte array parameter in functions).
 
