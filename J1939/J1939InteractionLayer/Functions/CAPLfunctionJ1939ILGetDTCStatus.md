@@ -19,7 +19,7 @@ long J1939ILGetDTCStatus(dbNode node, dword spn, byte fmi, word& state, word& oc
 
 This function returns the current **occurrence count** and **state** of a diagnostics trouble code (DTC). The function checks the list of active DTCs and the list of previously active DTCs for the specified DTC.
 
-**Note**: You can use this function only if support of <J1939|ISO11783> Diagnostics is enabled by function [J1939ILActivateDiagnosticsSupport](CAPLfunctionJ1939ILActivateDiagnosticsSupport.md).
+**Note**: You can use this function only if support of `<J1939|ISO11783>` Diagnostics is enabled by function [J1939ILActivateDiagnosticsSupport](CAPLfunctionJ1939ILActivateDiagnosticsSupport.md).
 
 ### Parameters
 

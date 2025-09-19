@@ -33,7 +33,7 @@ The result of this method depends on the security profile which is mapped on the
 - **dword payloadLength**: The payload length of the PDU in bytes.
 - **qword truncatedAuthenticatorHigh [Out]**: Upper 64 bits of the authenticator (MAC), if authenticator is larger than 64 bits. Otherwise 0;
 - **qword truncatedAuthenticator [Out]**: The full authenticator value or the lower 64 bits of the authenticator (MAC), if authenticator is larger than 64 bits.
-- **dword truncatedAuthenticatorBitLength [In/Out]**: Length of complete authenticator to transmit (length of authInfo if the authenticator is <= 64 bit, otherwise length of authInfo + authInfoHigh).
+- **dword truncatedAuthenticatorBitLength [In/Out]**: Length of complete authenticator to transmit (length of authInfo if the authenticator is `<= 64` bit, otherwise length of authInfo + authInfoHigh).
 - **qword freshness [In/Out]**:
   - In: The full freshness value for MAC calculation.
 - **dword truncatedFreshnessBitLength [In/Out]**: The length of the truncated freshness in bits.
@@ -45,7 +45,7 @@ The result of this method depends on the security profile which is mapped on the
 
 - **qword truncatedAuthenticatorHigh [Out]**: Upper 64 bits of the authenticator (MAC), if authenticator is larger than 64 bits. Otherwise 0;
 - **qword truncatedAuthenticator [Out]**: The full authenticator value or the lower 64 bits of the authenticator (MAC), if authenticator is larger than 64 bits.
-- **dword truncatedAuthenticatorBitLength [In/Out]**: Length of complete authenticator to transmit (length of authInfo if the authenticator is <= 64 bit, otherwise length of authInfo + authInfoHigh).
+- **dword truncatedAuthenticatorBitLength [In/Out]**: Length of complete authenticator to transmit (length of authInfo if the authenticator is `<= 64` bit, otherwise length of authInfo + authInfoHigh).
 - **qword freshness [In/Out]**: In: The full freshness value for MAC calculation. Out: Truncated tx freshness.
 - **dword truncatedFreshnessBitLength [In/Out]**: The length of the truncated freshness in bits.
 

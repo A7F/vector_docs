@@ -167,19 +167,19 @@ Can be used to create an Ethernet send object. The object data can be manipulate
   Type: long  
   Access Limitation: read-only
 
-- **<protocol>.<field>.bitOffset**  
+- **`<protocol>.<field>.bitOffset`**  
   Type: long  
   Access Limitation: read-only
 
-- **<protocol>.<field>.byteLength**  
+- **`<protocol>.<field>.byteLength`**  
   Type: long  
   Access Limitation: read-only
 
-- **<protocol>.<field>.byteOffset**  
+- **`<protocol>.<field>.byteOffset`**  
   Type: long  
   Access Limitation: read-only
 
-- **<protocol>.<optional-structure>.<field>**  
+- **`<protocol>.<optional-structure>.<field>`**  
   Type: byte, word, dword, qword (depends on field)  
   Access Limitation: —
 
@@ -187,7 +187,7 @@ Can be used to create an Ethernet send object. The object data can be manipulate
 
 ### Example
 
-```plaintext
+```c
 ethernetPacket txPacket;
 int i;
 
@@ -209,7 +209,7 @@ output( txPacket );
 
 With Vector network interfaces in [network-based](../../../CANoeCANalyzer/Ethernet/EthernetPortBasedNetworkAccess.md) access, it is possible to send a packet directly to a specific port. If the **hwPort** selector is not initialized, the port of CAPL program simulation node is used. In this example, we send a packet directly to the **ChatClient1** port in the **Ethernet1** network.
 
-```plaintext
+```c
 ethernetPacket txPacket;
 int i;
 
