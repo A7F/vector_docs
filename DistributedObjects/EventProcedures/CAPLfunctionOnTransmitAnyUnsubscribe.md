@@ -18,7 +18,7 @@ Inside the handler, the [this](../../Other/EventProcedures/CAPLfunctionKeywordTh
 
 ## Parameters
 
-- **<Interface Member>**: Designates the consumed data, event, or field interface member for which the handler shall be called.
+- **`<Interface Member>`**: Designates the consumed data, event, or field interface member for which the handler shall be called.
 
 ## Selectors
 

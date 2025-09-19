@@ -12,7 +12,7 @@ long distObjContainerRef <Typedef name>::Erase(dword index);
 
 ## Description
 
-Replaces an object at the given index with an invalid object. It requires that **<Typedef name>** refers to an object array type. The length of the container is not changed.
+Replaces an object at the given index with an invalid object. It requires that **`<Typedef name>`** refers to an object array type. The length of the container is not changed.
 
 ## Parameters
 

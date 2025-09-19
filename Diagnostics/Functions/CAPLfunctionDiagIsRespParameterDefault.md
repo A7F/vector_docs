@@ -29,7 +29,7 @@ Access/check a response parameter for a given request. It is not necessary to de
 
 - **0**: The parameter has none or not its default value.
 - **1**: The parameter has its default value.
-- **<0**: Diagnostic [Error code](../CAPLfunctionsDiagnosticsErrorCode.md).
+- **`< 0`**: Diagnostic [Error code](../CAPLfunctionsDiagnosticsErrorCode.md).
 
 ## Example
 

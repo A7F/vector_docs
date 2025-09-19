@@ -13,7 +13,7 @@
 
 ## Description
 
-Adds an element at the end of the container. It requires that **<Typedef name>** refers to a list type.
+Adds an element at the end of the container. It requires that **`<Typedef name>`** refers to a list type.
 
 - The first overload is available for lists of objects and references. It appends a default object or reference.
 - Form 2 and 3 are only available when **<Typedef name>** refers to a (nested) list of references. Here the parameter can be used to directly set the target of the new reference.

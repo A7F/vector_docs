@@ -26,7 +26,7 @@ Returns 1 if the parameter in the response object is valid, otherwise 0 is retur
 
 - **1**: Parameter value is valid, `errorLevelOut[0]` is set to 0.
 - **0**: Parameter value is invalid, `errorLevelOut[0]` is set to the level of the problem.
-- **<0**: [Error code](../CAPLfunctionsDiagnosticsErrorCode.md)
+- **`< 0`**: [Error code](../CAPLfunctionsDiagnosticsErrorCode.md)
 
 ## Example
 

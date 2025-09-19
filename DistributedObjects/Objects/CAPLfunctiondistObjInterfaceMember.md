@@ -21,7 +21,7 @@ The types are not available for user declarations.
 
 ## Parameters
 
-- **<Interface Member>**: The path of the interface member.
+- **`<Interface Member>`**: The path of the interface member.
 
 ## Selectors
 

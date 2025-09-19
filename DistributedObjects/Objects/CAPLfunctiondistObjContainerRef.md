@@ -9,11 +9,11 @@
 
 ## Method Syntax
 
-- [distObjContainerRef <Typedef name>::Create](../Methods/CAPLfunctiondistObjContainerRefCreate.md)
-- [distObjContainerRef <Typedef name>::Erase](../Methods/CAPLfunctiondistObjContainerRefErase.md)
-- [distObjContainerRef <Typedef name>::PopBack](../Methods/CAPLfunctiondistObjContainerRefPopBack.md)
-- [distObjContainerRef <Typedef name>::PushBack](../Methods/CAPLfunctiondistObjContainerRefPushBack.md)
-- [distObjContainerRef <Typedef name>::Resize](../Methods/CAPLfunctiondistObjContainerRefResize.md)
+- [distObjContainerRef `<Typedef name>`::Create](../Methods/CAPLfunctiondistObjContainerRefCreate.md)
+- [distObjContainerRef `<Typedef name>`::Erase](../Methods/CAPLfunctiondistObjContainerRefErase.md)
+- [distObjContainerRef `<Typedef name>`::PopBack](../Methods/CAPLfunctiondistObjContainerRefPopBack.md)
+- [distObjContainerRef `<Typedef name>`::PushBack](../Methods/CAPLfunctiondistObjContainerRefPushBack.md)
+- [distObjContainerRef `<Typedef name>`::Resize](../Methods/CAPLfunctiondistObjContainerRefResize.md)
 
 ## Description
 

@@ -17,7 +17,7 @@ This handler is called whenever an instance of a provided method member transmit
 
 ## Parameters
 
-- **<Interface Member>**: Designates the provided interface method for which the handler shall be called.
+- **`<Interface Member>`**: Designates the provided interface method for which the handler shall be called.
 
 ## Selectors
 

@@ -30,7 +30,7 @@ Treats the data of the response object as the specified primitive. This will cau
 ## Return Values
 
 - **0**: No error, OK
-- **<0**: [Error code](../CAPLfunctionsDiagnosticsErrorCode.md)
+- **`< 0`**: [Error code](../CAPLfunctionsDiagnosticsErrorCode.md)
 
 ## Example
 

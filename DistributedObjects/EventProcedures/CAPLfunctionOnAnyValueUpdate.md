@@ -14,7 +14,7 @@ This handler is called whenever a value of the given set is updated. The sets ar
 
 ## Parameters
 
-- **<value set>**: Designates the value set for which the handler shall be called.
+- **`<value set>`**: Designates the value set for which the handler shall be called.
 
 ## Selectors
 

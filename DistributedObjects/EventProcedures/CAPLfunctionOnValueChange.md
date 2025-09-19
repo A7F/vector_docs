@@ -14,7 +14,7 @@ The event procedure is called whenever the specified value changes. It’s not c
 
 ## Parameters
 
-- **<value>**: Designates the value on which the procedure shall be called.
+- **`<value>`**: Designates the value on which the procedure shall be called.
 
 ## Selectors
 

@@ -4,7 +4,7 @@
 
 ## Method Syntax
 
-[monitoringDistObjRef](../Objects/CAPLfunctionMonitoringDistObjRef.md) <Interface> [distObjBlueprint](../Objects/CAPLfunctiondistObjBlueprint.md) <Interface>::CreateMonitoringObject(char path[]);
+[monitoringDistObjRef](../Objects/CAPLfunctionMonitoringDistObjRef.md) `<Interface>` [distObjBlueprint](../Objects/CAPLfunctiondistObjBlueprint.md) `<Interface>`::CreateMonitoringObject(char path[]);
 
 ## Description
 

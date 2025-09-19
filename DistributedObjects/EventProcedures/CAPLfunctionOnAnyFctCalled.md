@@ -12,7 +12,7 @@ This handler is called whenever a provided method of a distributed object derive
 
 ## Parameters
 
-- **<provided or internal interface method>**: Designates the interface method for which the handler shall be called.
+- **`<provided or internal interface method>`**: Designates the interface method for which the handler shall be called.
 
 ## Selectors
 

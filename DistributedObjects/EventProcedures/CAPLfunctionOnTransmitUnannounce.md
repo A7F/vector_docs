@@ -16,7 +16,7 @@ If the member does not use the CAPL binding, the handler is ignored. If there ar
 
 ## Parameters
 
-- **<Member>**: Provided data, event or field member.
+- **`<Member>`**: Provided data, event or field member.
 
 ## Selectors
 

@@ -9,7 +9,7 @@
 
 ## Description
 
-Creates a new object at the given index. It requires that **<Typedef name>** refers to an object array type.
+Creates a new object at the given index. It requires that **`<Typedef name>`** refers to an object array type.
 
 ## Parameters
 

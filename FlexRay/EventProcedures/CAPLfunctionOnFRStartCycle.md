@@ -12,11 +12,11 @@
 
 - `on frStartCycle <cycle>`
 
-  This function is only called for a certain cycle `<cycle>`. This procedure must not describe any cycle that has already been described by a procedure of the form "on frStartCycle (<base cycle>, <cycle repetition>)".
+  This function is only called for a certain cycle `<cycle>`. This procedure must not describe any cycle that has already been described by a procedure of the form "on frStartCycle (`<base cycle>`, `<cycle repetition>`)".
 
 - `on frStartCycle (<base cycle>, <cycle repetition>)`
 
-  This function is called for all cycles that comply with the defined cycle multiplexing (`FR_Cycle modulo <cycle repetition> = <base cycle>`). This procedure must not describe any cycle that has already been described by a procedure of the form "on frStartCycle <cycle>".
+  This function is called for all cycles that comply with the defined cycle multiplexing (`FR_Cycle modulo <cycle repetition> = <base cycle>`). This procedure must not describe any cycle that has already been described by a procedure of the form "on frStartCycle `<cycle>`".
 
 ## Description
 

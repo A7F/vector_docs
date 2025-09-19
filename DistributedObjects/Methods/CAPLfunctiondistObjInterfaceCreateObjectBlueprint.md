@@ -4,9 +4,9 @@
 
 ## Method Syntax
 
-[distObjBlueprint](../Objects/CAPLfunctiondistObjBlueprint.md) <Interface> [distObjInterface](../Objects/CAPLfunctiondistObjInterface.md) <Interface>::CreateObjectBlueprint();
+[distObjBlueprint](../Objects/CAPLfunctiondistObjBlueprint.md) `<Interface>` [distObjInterface](../Objects/CAPLfunctiondistObjInterface.md) `<Interface>`::CreateObjectBlueprint();
 
-[distObjBlueprint](../Objects/CAPLfunctiondistObjBlueprint.md) <Interface> [distObjInterface](../Objects/CAPLfunctiondistObjInterface.md) <Interface>::CreateObjectBlueprint(distObjRef <Interface> object);
+[distObjBlueprint](../Objects/CAPLfunctiondistObjBlueprint.md) `<Interface>` [distObjInterface](../Objects/CAPLfunctiondistObjInterface.md) `<Interface>`::CreateObjectBlueprint(distObjRef `<Interface>` object);
 
 ## Description
 

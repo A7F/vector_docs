@@ -18,7 +18,7 @@ A value which has a struct or array data type is always updated automatically. T
 
 ## Parameters
 
-- **<value>**: Designates the value on which the procedure shall be called.
+- **`<value>`**: Designates the value on which the procedure shall be called.
 
 ## Selectors
 

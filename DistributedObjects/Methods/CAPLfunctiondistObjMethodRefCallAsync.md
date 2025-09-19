@@ -14,7 +14,7 @@ Asynchronous call to a method member, i.e. the call does not wait for the functi
 ## Parameters
 
 - The **in** and **inout** parameters of the method. The function expects the arguments in **impl** encoding.
-- Form 2 takes as last parameter a callback function which in turn must have a single parameter of type **callContext <Method>** and return type **void**. You can also use a [delegate](../../../Shared/CAPL/General/Delegates.md) for the callback.
+- Form 2 takes as last parameter a callback function which in turn must have a single parameter of type **callContext `<Method>`** and return type **void**. You can also use a [delegate](../../../Shared/CAPL/General/Delegates.md) for the callback.
 
 ## Return Values
 

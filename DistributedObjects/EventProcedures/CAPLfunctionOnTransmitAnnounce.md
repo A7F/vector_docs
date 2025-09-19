@@ -16,7 +16,7 @@ If there are multiple handlers for the same member, the measurement will be abor
 
 ## Parameters
 
-- **<Member>**: Provided data, event or field member.
+- **`<Member>`**: Provided data, event or field member.
 
 ## Selectors
 

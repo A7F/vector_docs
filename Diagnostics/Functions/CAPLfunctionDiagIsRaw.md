@@ -31,7 +31,7 @@ Returns if the object is stored as raw data or can be interpreted.
 
 - **1**: Object is stored as raw data.
 - **0**: Object can be interpreted.
-- **<0**: [Error code](../CAPLfunctionsDiagnosticsErrorCode.md)
+- **`< 0`**: [Error code](../CAPLfunctionsDiagnosticsErrorCode.md)
 
 ## Example
 

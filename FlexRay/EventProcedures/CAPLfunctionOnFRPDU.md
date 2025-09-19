@@ -62,7 +62,7 @@ An optional qualifier can be used to assign the handler to a specific network:
 
   Length of the present payload in bytes (data type: word). **Write-protected!**
 
-- **byte(index), word(index), dword(index), qword(index), char(index), int(index), long(index), int64(index), <signal name>**
+- **byte(index), word(index), dword(index), qword(index), char(index), int(index), long(index), int64(index), `<signal name>`**
 
   Direct access to the payload/data of the PDU. **Write-protected!**
 

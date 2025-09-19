@@ -18,7 +18,7 @@ If there are multiple handlers for the same member, the measurement will be abor
 
 ## Parameters
 
-- **<Interface Member>**: Designates the provided data, event, or field interface member for which the handler shall be called.
+- **`<Interface Member>`**: Designates the provided data, event, or field interface member for which the handler shall be called.
 
 ## Selectors
 

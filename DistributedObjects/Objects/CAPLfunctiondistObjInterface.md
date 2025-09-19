@@ -9,10 +9,10 @@
 
 ## [Method](../../../Shared/CAPL/General/ClassesAndObjects.md) Syntax
 
-- [distObjInterface <Interface>::CreateObject](../Methods/CAPLfunctiondistObjInterfaceCreateObject.md)
-- [distObjInterface <Interface>::CreateObjectBlueprint](../Methods/CAPLfunctiondistObjInterfaceCreateObjectBlueprint.md)
-- [distObjInterface <Interface>::CreateReverseObjectBlueprint](../Methods/CAPLfunctiondistObjInterfaceCreateReverseObjectBlueprint.md)
-- [distObjInterface <Interface>::DestroyObject](../Methods/CAPLfunctiondistObjInterfaceDestroyObject.md)
+- [distObjInterface `<Interface>`::CreateObject](../Methods/CAPLfunctiondistObjInterfaceCreateObject.md)
+- [distObjInterface `<Interface>`::CreateObjectBlueprint](../Methods/CAPLfunctiondistObjInterfaceCreateObjectBlueprint.md)
+- [distObjInterface `<Interface>`::CreateReverseObjectBlueprint](../Methods/CAPLfunctiondistObjInterfaceCreateReverseObjectBlueprint.md)
+- [distObjInterface `<Interface>`::DestroyObject](../Methods/CAPLfunctiondistObjInterfaceDestroyObject.md)
 
 ## Description
 

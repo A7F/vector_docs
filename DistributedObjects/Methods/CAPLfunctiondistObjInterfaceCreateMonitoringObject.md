@@ -4,9 +4,9 @@
 
 ## Method Syntax
 
-[monitoringDistObjRef](../Objects/CAPLfunctionMonitoringDistObjRef.md) <Interface> [distObjInterface](../Objects/CAPLfunctiondistObjInterface.md) <Interface>::CreateMonitoringObject(distObjBlueprint <Interface> blueprint, char path[]);
+[monitoringDistObjRef](../Objects/CAPLfunctionMonitoringDistObjRef.md) `<Interface>` [distObjInterface](../Objects/CAPLfunctiondistObjInterface.md) `<Interface>`::CreateMonitoringObject(distObjBlueprint `<Interface>` blueprint, char path[]);
 
-[monitoringDistObjRef](../Objects/CAPLfunctionMonitoringDistObjRef.md) reverse<<Interface>> [distObjInterface](../Objects/CAPLfunctiondistObjInterface.md) <Interface>::CreateMonitoringObject(distObjBlueprint reverse<<Interface>> blueprint, char path[]);
+[monitoringDistObjRef](../Objects/CAPLfunctionMonitoringDistObjRef.md) `reverse<<Interface>>` [distObjInterface](../Objects/CAPLfunctiondistObjInterface.md) `<Interface>`::CreateMonitoringObject(distObjBlueprint `reverse<<Interface>>` blueprint, char path[]);
 
 ## Description
 

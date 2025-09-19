@@ -1,8 +1,8 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Vector Documentation",
-  "description": "Comprehensive documentation for Vector functions and APIs",
+  "name": "Vector CAPL Documentation",
+  "description": "Comprehensive documentation for Vector CAPL functions and APIs",
   "colors": {
     "primary": "#1E40AF",
     "light": "#3B82F6",
@@ -712,13 +712,13 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Vector Informatik",
+          "anchor": "Vector Website",
           "href": "https://www.vector.com",
           "icon": "globe"
         },
         {
           "anchor": "CANoe Documentation",
-          "href": "https://www.vector.com/int/en/products/products-a-z/software/canoe/",
+          "href": "https://help.vector.com/CANoeDEFamily/19.2/en/Help/CANoeDEFamily.htm",
           "icon": "book-open-cover"
         },
         {
@@ -734,27 +734,11 @@
     "dark": "/logo/dark.svg"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Vector Support",
-        "href": "https://www.vector.com/int/en/support/"
-      },
-      {
-        "label": "CANoe Product Page",
-        "href": "https://www.vector.com/int/en/products/products-a-z/software/canoe/"
-      }
-    ],
+    "links": [],
     "primary": {
       "type": "button",
       "label": "Download CANoe",
       "href": "https://www.vector.com/int/en/downloads/"
-    }
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/vector_informatik",
-      "linkedin": "https://linkedin.com/company/vector-informatik",
-      "youtube": "https://youtube.com/user/VectorInformatik"
     }
   },
   "openapi": "api-reference/openapi.json"

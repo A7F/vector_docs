@@ -15,8 +15,8 @@
 - [distObjBlueprint *::RemoveAttribute](../Methods/CAPLfunctiondistObjBlueprintRemoveAttribute.md)
 - [distObjBlueprint *::RemoveVirtualNetwork](../Methods/CAPLfunctiondistObjBlueprintRemoveVirtualNetwork.md)
 - [distObjBlueprint *::SetAttribute](../Methods/CAPLfunctiondistObjBlueprintSetAttribute.md)
-- [distObjBlueprint <Interface>::CopyFromObject](../Methods/CAPLfunctiondistObjBlueprintCopyFromObject.md)
-- [distObjBlueprint <Interface>::CreateObject](../Methods/CAPLfunctiondistObjBlueprintCreateObject.md)
+- [distObjBlueprint `<Interface>`::CopyFromObject](../Methods/CAPLfunctiondistObjBlueprintCopyFromObject.md)
+- [distObjBlueprint `<Interface>`::CreateObject](../Methods/CAPLfunctiondistObjBlueprintCreateObject.md)
 
 ## Description
 

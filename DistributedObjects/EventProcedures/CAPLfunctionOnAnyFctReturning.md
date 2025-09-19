@@ -14,7 +14,7 @@ The handler is particularly useful if the answer time is determined by another c
 
 ## Parameters
 
-- **<provided or internal interface method>**: Designates the provided or internal interface method for which the handler shall react.
+- **`<provided or internal interface method>`**: Designates the provided or internal interface method for which the handler shall react.
 
 ## Selectors
 

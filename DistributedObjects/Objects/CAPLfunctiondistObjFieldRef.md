@@ -12,7 +12,7 @@
 
 ## Description
 
-References a distributed object field member. This type cannot be used in declarations. This is a subtype of [distObjMemberRef <Member>](CAPLfunctiondistObjMemberRef.md) and `valueHandle <DataType>`. The referenced value is immutable for consumed members and mutable otherwise.
+References a distributed object field member. This type cannot be used in declarations. This is a subtype of [distObjMemberRef `<Member>`](CAPLfunctiondistObjMemberRef.md) and `valueHandle <DataType>`. The referenced value is immutable for consumed members and mutable otherwise.
 
 ## Parameters
 

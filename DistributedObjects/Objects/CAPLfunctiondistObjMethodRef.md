@@ -15,7 +15,7 @@
 
 ## Description
 
-References a distributed object method member. This type cannot be used in declarations. This is a subtype of [distObjMemberRef <Member>](CAPLfunctiondistObjMemberRef.md).
+References a distributed object method member. This type cannot be used in declarations. This is a subtype of [distObjMemberRef `<Member>`](CAPLfunctiondistObjMemberRef.md).
 
 ## Parameters
 

@@ -23,8 +23,8 @@ Configures the Routing Activation Request Message sent by a tester.
 
 - **mode**  
   0: Do not send a routing activation type  
-  1: Send 1 byte activation type, value must be <= 0xFF (default)  
-  2: Send 2 byte activation type, value must be <= 0xFFFF
+  1: Send 1 byte activation type, value must be `<= 0xFF` (default)  
+  2: Send 2 byte activation type, value must be `<= 0xFFFF`
 
 - **activationType**  
   The value to send if an activation type is configured (i.e. mode is equal to 1 or 2).

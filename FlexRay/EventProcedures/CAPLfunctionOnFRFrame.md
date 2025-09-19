@@ -59,7 +59,7 @@ In this example, the event procedure is only called for specific frames from the
   - The frame was received in this cycle. Write-protected!
 - **FR_PayloadLength**
   - Length of the present payload in 16 Bit words (data type: word). Write-protected!
-- **byte(index), word(index), dword(index), qword(index), char(index), int(index), long(index), int64(index), <signal name>**
+- **byte(index), word(index), dword(index), qword(index), char(index), int(index), long(index), int64(index), `<signal name>`**
   - Direct access to the payload/data of the frame. Write-protected!
 - **FR_Flags**
   - Provides more detailed status information from the frame header, if necessary. Write-protected!

@@ -28,7 +28,7 @@ References a distributed object that is derived from the denoted interface.
 ## Parameters
 
 - **Interface**: The optionally qualified name of a distributed object interface.
-- **reverse<Interface>**: The reverse of a distributed object interface.
+- **`reverse<Interface>`**: The reverse of a distributed object interface.
 
 ## Selectors
 

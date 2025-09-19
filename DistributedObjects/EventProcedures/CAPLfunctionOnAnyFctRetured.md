@@ -12,7 +12,7 @@ This handler is called whenever a method of a distributed object derived from th
 
 ## Parameters
 
-- **<consumed or internal interface method>**: Designates the consumed or internal interface method for which the handler shall react.
+- **`<consumed or internal interface method>`**: Designates the consumed or internal interface method for which the handler shall react.
 
 ## Selectors
 

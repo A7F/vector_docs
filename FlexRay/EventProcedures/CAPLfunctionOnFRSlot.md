@@ -38,7 +38,7 @@ If two frames are received in slot `<slot ID>` (on channel A and B), then the ev
 
 The selectors always reference the contents of the Slot. The **FrameType** selector should be evaluated before further processing.
 
-Value range for n: 1 <= `<slot ID>` <= max. static slot ID of the cluster configuration.
+Value range for n: `1 <= <slot ID> <= max. static slot ID of the cluster configuration`.
 
 An optional channel parameter for event filtering can be assigned to all functions.
 

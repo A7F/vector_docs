@@ -4,9 +4,9 @@
 
 ## Method Syntax
 
-[distObjRef](../Objects/CAPLfunctiondistObjRef.md) <Interface> [distObjInterface](../Objects/CAPLfunctiondistObjInterface.md) <Interface>::CreateObject(distObjBlueprint <Interface> blueprint, char path[]);
+[distObjRef](../Objects/CAPLfunctiondistObjRef.md) `<Interface>` [distObjInterface](../Objects/CAPLfunctiondistObjInterface.md) `<Interface>`::CreateObject(distObjBlueprint `<Interface>` blueprint, char path[]);
 
-[distObjRef](../Objects/CAPLfunctiondistObjRef.md) reverse<<Interface>> [distObjInterface](../Objects/CAPLfunctiondistObjInterface.md) <Interface>::CreateObject(distObjBlueprint reverse<<Interface>> blueprint, char path[]);
+[distObjRef](../Objects/CAPLfunctiondistObjRef.md) `reverse<<Interface>>` [distObjInterface](../Objects/CAPLfunctiondistObjInterface.md) `<Interface>`::CreateObject(distObjBlueprint `reverse<<Interface>>` blueprint, char path[]);
 
 ## Description
 

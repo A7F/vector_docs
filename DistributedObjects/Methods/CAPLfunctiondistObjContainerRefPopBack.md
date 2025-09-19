@@ -12,7 +12,7 @@ long distObjContainerRef <Typedef name>::PopBack();
 
 Removes an element at the end of the container.
 
-It requires that **<Typedef name>** refers to a list type.
+It requires that **`<Typedef name>`** refers to a list type.
 
 ## Parameters
 

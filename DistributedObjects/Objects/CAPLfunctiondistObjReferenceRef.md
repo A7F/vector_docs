@@ -11,7 +11,7 @@
 
 - [distObjReferenceRef *::ResetTarget](../Methods/CAPLfunctiondistObjReferenceRefResetTarget.md)
 - [distObjReferenceRef *::SetTargetByPath](../Methods/CAPLfunctiondistObjReferenceRefSetTargetByPath.md)
-- [distObjReferenceRef <Interface>::SetTarget](../Methods/CAPLfunctiondistObjReferenceRefSetTarget.md)
+- [distObjReferenceRef `<Interface>`::SetTarget](../Methods/CAPLfunctiondistObjReferenceRefSetTarget.md)
 
 ### Description
 

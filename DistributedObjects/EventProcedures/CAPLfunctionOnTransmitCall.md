@@ -18,7 +18,7 @@ If there are multiple handlers for the same member, the measurement will be abor
 
 ## Parameters
 
-- `<Member>`: Consumed method member.
+- **`<Member>`**: Consumed method member.
 
 ## Selectors
 
