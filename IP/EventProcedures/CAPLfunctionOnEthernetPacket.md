@@ -28,7 +28,7 @@ on ethernetPacket *
 ## Parameters
 
 - **msgChannel`<X>`**: Ethernet channel number, range 1..32.
-- **ethernetPort::<NetworkName>::<PortName>**: Ethernet port qualification.
+- **ethernetPort::`<NetworkName>`::`<PortName>`**: Ethernet port qualification.
 
 ## Selectors
 

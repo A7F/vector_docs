@@ -35,11 +35,11 @@ This function returns the ICMP type and code for a packet. The intended use case
 - **`<success>`**: `0x0000<ICMP type><ICMP code>`
   - `0x00000000`: Ping Request received (type = 0; code = 0);
   - `0x00000800`: Echo Reply received (type = 8; code = 0);
-- **<error> -1**: IP protocol is not ICMP
-- **<error> -2**: no ICMP attributes found for `NodeName`
-- **<error> -3**: invalid IP address value
-- **<error> -4**: unsupported ICMP type
-- **<error> -6**: invalid VL value
+- **`<error>` -1**: IP protocol is not ICMP
+- **`<error>` -2**: no ICMP attributes found for `NodeName`
+- **`<error>` -3**: invalid IP address value
+- **`<error>` -4**: unsupported ICMP type
+- **`<error>` -6**: invalid VL value
 
 ## Example
 

@@ -20,7 +20,7 @@ The event procedure is called on the change of the state of an Ethernet PHY or i
 
 ## Parameters
 
-- **ethernetPort::`<NetworkName>`::`<PortName>`**: Ethernet port qualification.
+- **ethernetPort::`<NetworkName>::<PortName>`**: Ethernet port qualification.
 
 ## Selectors
 

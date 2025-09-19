@@ -23,7 +23,7 @@ The a664Message object then allows to retrieve the various runtime parameters li
 ## Parameters
 
 - **`<aPDU>`**: The `<this>` object of the PDU-handler
-- **<aMessage>**: The a664Message object which getting the current message information
+- **`<aMessage>`**: The a664Message object which getting the current message information
 
 ## Return Values
 

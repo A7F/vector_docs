@@ -196,8 +196,8 @@
 
 - **locationOfStoredObjectPools**
   - Description: The VT IL uses this folder for keeping of object pools, i.e. as a storage location for **Store version** message and **Load version** message. On each measurement stop, the folder is cleared. If you use more than one VT IL and have to avoid the VT ILs overwrite the object pools of each other, you can specify an own folder for every VT IL with this property.
-  - Value Range: Any valid path relative to `<%Temp%\CANoeVTILDataTmp>`
-  - Initial Value: <%Temp%\CANoeVTILDataTmp\VTData>
+  - Value Range: Any valid path relative to `` `<%Temp%\CANoeVTILDataTmp>` ``
+  - Initial Value: `` `<%Temp%\CANoeVTILDataTmp\VTData>` ``
   - IL must be stopped: No
 
 - **fontName**

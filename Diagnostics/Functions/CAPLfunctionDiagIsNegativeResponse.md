@@ -26,7 +26,7 @@ Returns value `<> 0` if the object is a negative response to a request.
 
 ### Return Values
 
-0 or <>0
+0 or `<> 0`
 
 ### Example
 

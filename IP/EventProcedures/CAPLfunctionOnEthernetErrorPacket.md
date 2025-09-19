@@ -34,7 +34,7 @@ on ethernetErrorPacket *
 ## Parameters
 
 - **msgChannel`<X>`**: Ethernet channel number, range 1..32.
-- **ethernetPort::<NetworkName>::<PortName>**: Ethernet port qualification.
+- **ethernetPort::`<NetworkName>`::`<PortName>`**: Ethernet port qualification.
 
 ## Selectors
 
@@ -42,7 +42,7 @@ See [ethernetErrorPacket](../Objects/CAPLfunctionEthernetErrorPacket.md)
 
 ## Example
 
-```plaintext
+```c
 on ethernetErrorPacket *
 {
   write("Received Ethernet error packet on Eth%d", this.msgChannel );

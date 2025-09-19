@@ -11,8 +11,8 @@ Replaces `LocalSecurityGenerateSHA256`.
 
 ## Function Syntax
 
-```
-`long SecurityLocalGenerateSHA256(byte data[], dword dataLength, byte sha256[], dword sha256Length)`
+```c
+long SecurityLocalGenerateSHA256(byte data[], dword dataLength, byte sha256[], dword sha256Length)
 ```
 
 ## Description

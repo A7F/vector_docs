@@ -6,7 +6,7 @@
 
 ### Function Syntax
 
-```plaintext
+```c
 dword RS232SetHandshake( dword port, dword handshake, dword XonLimit, dword XoffLimit, dword XonChar, dword XoffChar );
 dword RS232SetHandshake( dword port, dword handshake, dword XonLimit, dword XoffLimit, dword XonChar, dword XoffChar, dword timeout ); // deprecated
 ```

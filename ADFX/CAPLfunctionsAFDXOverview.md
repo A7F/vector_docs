@@ -63,8 +63,8 @@ To use the CAPL functions the [AFDX_IL.DLL](../../CANoeCANalyzer/AFDX/afdxIL/afd
 
 ## Callback Functions [▲ back](#Shortcuts)
 
-- **<OnAfdxError>**: CAPL callback to handle AFDX error events.
-- **<OnAfdxPacket>**: CAPL callback to receive data of AFDX packets.
+- **`<OnAfdxError>`**: CAPL callback to handle AFDX error events.
+- **`<OnAfdxPacket>`**: CAPL callback to receive data of AFDX packets.
 
 ## DB API [▲ back](#Shortcuts)
 

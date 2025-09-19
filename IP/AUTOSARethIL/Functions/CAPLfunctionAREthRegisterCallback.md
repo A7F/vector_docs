@@ -22,7 +22,7 @@ Enables to register/unregister a CAPL callback function for an object which has 
   - Provided events ([`<OnAREthPrepareEvent>`](CAPLfunctionOnAREthPrepareEvent.md))
   - Provided methods ([`<OnAREthMethodRequest>`](CAPLfunctionOnAREthMethodRequest.md))
   - Consumed events ([`<OnAREthEventReceived>`](CAPLfunctionOnAREthEventReceived.md))
-  - Consumed fields ([<OnAREthFieldNotification>](CAPLfunctionOnAREthFieldNotification.md))
+  - Consumed fields ([\<OnAREthFieldNotification>](CAPLfunctionOnAREthFieldNotification.md))
   - Consumed methods ([<OnAREthMethodResponse>](CAPLfunctionOnAREthMethodResponse.md))
 
 - **callbackName**: The name of the new callback function to register. If a callback function was already registered, it is first unregistered and then replaced by the new one.

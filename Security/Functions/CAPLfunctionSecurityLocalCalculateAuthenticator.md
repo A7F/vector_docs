@@ -12,7 +12,7 @@ Replaces `LocalSecurityCalculateAuthenticator`.
 
 ### Function Syntax
 
-```plaintext
+```c
 long SecurityLocalCalculateAuthenticator(dword dataId, byte payload[], dword payloadLength, qword truncatedAuthenticatorHigh, qword truncatedAuthenticator, dword truncatedAuthenticatorBitLength, qword freshness, dword truncatedFreshnessBitLength, dword freshnessValueBitLength, dword freshnessValueId) // form 1
 ```
 

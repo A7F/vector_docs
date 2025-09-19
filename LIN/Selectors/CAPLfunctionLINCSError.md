@@ -73,7 +73,7 @@
   - **Access Limitations**: read only
 
 - **Keyword**: lin_FsmID
-  - **Description**: Identifier of the FSM that transmitted the frame response. Only valid if `lin_FSMState` `<> 255`. Value range: 0..63
+  - **Description**: Identifier of the FSM that transmitted the frame response. Only valid if `lin_FSMState <> 255`. Value range: 0..63
   - **Type**: byte
   - **Access Limitations**: read only
 
@@ -113,7 +113,7 @@
   - **Access Limitations**: read only
 
 - **Keyword**: EOB
-  - **Description**: End of byte time stamp of databyte <i> in ns. Possible indexes: 0..7
+  - **Description**: End of byte time stamp of databyte `<i>` in ns. Possible indexes: 0..7
   - **Type**: int64
   - **Access Limitations**: read only
 

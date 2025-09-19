@@ -17,7 +17,7 @@ This function copies the FlexRay protocol parameters to **`<configuration var>`*
 ## Parameters
 
 - **channel**: FlexRay channel (cluster number).
-- **<configuration var>**: Name of the variable referenced by the configuration object. The variable name was defined when the object was created using [frConfiguration](../Objects/CAPLfunctionFRConfiguration.md).
+- **`<configuration var>`**: Name of the variable referenced by the configuration object. The variable name was defined when the object was created using [frConfiguration](../Objects/CAPLfunctionFRConfiguration.md).
 
 ## Return Values
 

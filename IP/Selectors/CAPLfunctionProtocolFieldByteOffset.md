@@ -2,7 +2,7 @@
 
 # ethernetPacket Selectors: `<protocol>.<field>.byteOffset`
 
-[CAPL Functions](../../CAPLfunctions.md) » [Ethernet](../CAPLEthernetStartPage.md) » [Function Overview](../CAPLfunctionsIPOverview.md) » [ethernetPacket](../Objects/CAPLfunctionEthernetPacket.md) » Selector <protocol>.<field>.byteOffset
+[CAPL Functions](../../CAPLfunctions.md) » [Ethernet](../CAPLEthernetStartPage.md) » [Function Overview](../CAPLfunctionsIPOverview.md) » [ethernetPacket](../Objects/CAPLfunctionEthernetPacket.md) » Selector `<protocol>.<field>.byteOffset`
 
 **Valid for**: CANoe DE • CANoe4SW DE
 

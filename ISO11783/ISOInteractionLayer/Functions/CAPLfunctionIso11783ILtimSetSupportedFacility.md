@@ -27,7 +27,7 @@ You can use [Iso11783IL_TIMResetAllSupportedFunctions](CAPLfunctionIso11783ILtim
 
 - **functionFacilityName**: Name if the function facility.
   - auxiliaryValve`<N>`State (N = 1..32)
-  - auxiliaryValve<N>Flow (N = 1..32)
+  - auxiliaryValve`<N>`Flow (N = 1..32)
   - frontPTODisengagement
   - frontPTOEngagementCounterClockwise
   - frontPTOEngagementClockwise

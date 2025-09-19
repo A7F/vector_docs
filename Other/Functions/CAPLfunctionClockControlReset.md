@@ -29,7 +29,7 @@ The panel is accessed by its individual panel name that is entered in the *Panel
 - **control**: Name of the control, restricted to 128 characters. You can only access the control by its name. If you want to use the name of a symbol (signal or system variable) you have to ensure that the control has **no** name instead of the individual control's name.
 
   - The form for signals is: "Signal:`<signal name>`".
-  - The form for system variables is: "SysVar:<name of system variable>". The namespace must not be used.
+  - The form for system variables is: "SysVar:`<name of system variable>`". The namespace must not be used.
 
   **Note**:
   - Symbol assignment is not case sensitive.

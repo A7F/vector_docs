@@ -16,7 +16,7 @@ long C2xProtocolAnalyzerGetRuleList(long bufferSize, char[] buffer)
 
 This function copies the multiline text representation of the Car2x Protocol Analyzer rules to the variable specified by **buffer** function parameter.
 
-The `` `[x]` `` and `` `[ ]` `` symbols before each single rule or rule group name represent the **active** status. The `` `[o]` `` symbol before a rule group means **partially active**, at least one rule in this rule group was deactivated.
+The `[x]` and `[ ]` symbols before each single rule or rule group name represent the **active** status. The `[o]` symbol before a rule group means **partially active**, at least one rule in this rule group was deactivated.
 
 ## Parameters
 

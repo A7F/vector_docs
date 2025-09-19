@@ -155,11 +155,11 @@ Can be used to create an Ethernet send object. The object data can be manipulate
   Type: long  
   Access Limitation: read-only
 
-- **<protocol>.byteOffset**  
+- **`<protocol>`.byteOffset**  
   Type: long  
   Access Limitation: read-only
 
-- **<protocol>.<field>**  
+- **`<protocol>`.`<field>`**  
   Type: byte, word, dword, qword (depends on field)  
   Access Limitation: —
 

@@ -8,8 +8,8 @@
 
 ## Function Syntax
 
-```plaintext
-`OnMostNetState(long oldstate, long newstate);`
+```c
+OnMostNetState(long oldstate, long newstate);
 ```
 
 ## Description

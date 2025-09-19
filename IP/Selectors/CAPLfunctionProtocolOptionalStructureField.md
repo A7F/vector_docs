@@ -2,7 +2,7 @@
 
 # ethernetPacket Selectors: `<protocol>.<optional-structure>.<field>`
 
-[CAPL Functions](../../CAPLfunctions.md) » [Ethernet](../CAPLEthernetStartPage.md) » [Function Overview](../CAPLfunctionsIPOverview.md) » [ethernetPacket](../Objects/CAPLfunctionEthernetPacket.md) » Selector<protocol>.<optional-structure>. field
+[CAPL Functions](../../CAPLfunctions.md) » [Ethernet](../CAPLEthernetStartPage.md) » [Function Overview](../CAPLfunctionsIPOverview.md) » [ethernetPacket](../Objects/CAPLfunctionEthernetPacket.md) » Selector `<protocol>.<optional-structure>.<field>`
 
 **Valid for**: CANoe DE • CANoe4SW DE
 

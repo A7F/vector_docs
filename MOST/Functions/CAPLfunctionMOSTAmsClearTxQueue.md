@@ -8,8 +8,8 @@
 
 ## Function Syntax
 
-```
-`long mostAmsClearTxQueue(long channel);`
+```c
+long mostAmsClearTxQueue(long channel);
 ```
 
 ## Description

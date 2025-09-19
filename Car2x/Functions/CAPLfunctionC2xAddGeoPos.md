@@ -8,7 +8,7 @@
 
 ## Function Syntax
 
-- `C2xAddGeoPos(double latitude, double longitude, double elevation, double heading, double speed` // form 1
+- `C2xAddGeoPos(double latitude, double longitude, double elevation, double heading, double speed)` // form 1
 - `C2xAddGeoPos(double latitude, double longitude, double elevation, double heading, double speed, double hdop, double vdop, long routeId)` // form 2
 
 ## Description

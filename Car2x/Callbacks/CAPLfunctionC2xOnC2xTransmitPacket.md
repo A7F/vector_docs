@@ -2,7 +2,7 @@
 
 [CAPL Functions](../../CAPLfunctions.md) » [Car2x](../CAPLfunctionsCar2xOverview.md) » `<OnC2xTransmitPacket>`
 
-# <OnC2xTransmitPacket> (Callback)
+# `<OnC2xTransmitPacket>` (Callback)
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
 

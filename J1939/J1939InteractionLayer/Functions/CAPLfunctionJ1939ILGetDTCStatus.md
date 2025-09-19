@@ -10,7 +10,7 @@
 
 ### Function Syntax
 
-```plaintext
+```c
 long J1939ILGetDTCStatus(dword spn, byte fmi, word& state, word& occurrenceCount)` // form 1
 long J1939ILGetDTCStatus(dbNode node, dword spn, byte fmi, word& state, word& occurrenceCount)` // form 2
 ```

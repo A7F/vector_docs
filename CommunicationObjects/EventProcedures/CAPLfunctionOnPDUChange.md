@@ -30,8 +30,8 @@ The event procedure is called whenever the specified PDU is changed, but not if 
   **Type**: int64  
   **Access Limitation**: Read only
 
-- **<SignalName>**: Value of the signal. Must be accessed with `$this`.  
-  **Type**: <data type of the signal>  
+- **`<SignalName>`**: Value of the signal. Must be accessed with `$this`.  
+  **Type**: `<data type of the signal>`  
   **Access Limitation**: Read only
 
 ## Example
