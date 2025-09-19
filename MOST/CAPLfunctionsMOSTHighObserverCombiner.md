@@ -27,8 +27,6 @@ For simulation of a MOST High connection sender and receiver in CAPL the MOST Hi
 
 •  Technical References are only available in English
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)

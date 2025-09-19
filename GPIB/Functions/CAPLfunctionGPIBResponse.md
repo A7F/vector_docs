@@ -46,8 +46,6 @@ GPIBResponse (long deviceDescriptor, char queryString[], char resultString[])
 
 [strncmp](../../Other/Functions/CAPLfunctionStrnCmp.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

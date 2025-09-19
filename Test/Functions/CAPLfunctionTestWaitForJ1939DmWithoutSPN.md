@@ -65,8 +65,6 @@ export testfunction TestWaitForDtcCycle(long sa, dword pgn, dword spn, dword tim
 }
 ```
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

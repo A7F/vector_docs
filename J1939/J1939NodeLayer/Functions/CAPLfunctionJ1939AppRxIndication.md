@@ -42,8 +42,6 @@ dword J1939AppRxIndication( LONG ecuHdl, LONG srcAddr, LONG dstAddr, LONG len, L
 }
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

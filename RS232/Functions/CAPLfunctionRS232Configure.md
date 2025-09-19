@@ -61,6 +61,4 @@ if ( 0!=RS232Configure(1,9600,8,1,0) )
    write("Set typical default at port 1.");
 ```
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

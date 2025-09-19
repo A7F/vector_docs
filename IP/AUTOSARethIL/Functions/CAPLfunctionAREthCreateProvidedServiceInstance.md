@@ -71,8 +71,6 @@ void OnPrepareEvent1(dword eventHandle, dword messageHandle)
 
 **See Also**: [AREthAddEvent](CAPLfunctionAREthAddEvent.md#aanchor12631), [AREthAddEventToEventgroup](CAPLfunctionAREthAddEventToEventgroup.md#aanchor24957), [AREthAddField](CAPLfunctionAREthAddField.md#aanchor27760), [AREthAddMethod](CAPLfunctionAREthAddMethod.md#aanchor7650), [AREthReleaseProvidedServiceInstance](CAPLfunctionAREthReleaseProvidedServiceInstance.md#aanchor18406)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

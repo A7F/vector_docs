@@ -44,8 +44,6 @@ The four control functions have the same Parameter. They only need an ID that re
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

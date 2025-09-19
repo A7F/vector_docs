@@ -85,7 +85,6 @@ testcase _WaitForAnyEvent()
 
 [TestWaitForAllJoinedEvents](CAPLfunctionTestWaitForAllJoinedEvents.md) • [TestJoinMessageEvent](CAPLfunctionTestJoinMessageEvent.md) • [TestJoinAuxEvent](CAPLfunctionTestJoinAuxEvent.md) • [TestJoinTextEvent](CAPLfunctionTestJoinTextEvent.md) • [TestJoinSignalInRange](CAPLfunctionTestJoinSignalInRange.md) • [TestJoinSignalOutsideRange](CAPLfunctionTestJoinSignalOutsideRange.md) • [TestJoinSignalMatch](CAPLfunctionTestJoinSignalMatch.md)
 
-© Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

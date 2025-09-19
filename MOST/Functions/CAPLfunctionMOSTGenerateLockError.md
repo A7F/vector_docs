@@ -42,7 +42,6 @@ See [error codes](../CAPLfunctionsMOSTErrorCodes.md).
 
 [mostGenerateBusloadAsync](CAPLfunctionMOSTGenerateBusloadAsync.md) • [mostGenerateBusloadCtrl](CAPLfunctionMOSTGenerateBusloadCtrl.md) • [mostGenerateLightError](CAPLfunctionMOSTGenerateLightError.md) • [OnMostStress](../EventProcedures/CAPLfunctionOnMOSTStress.md) | [mostGetChannel](CAPLfunctionMOSTGetChannel.md) • [on mostLightLockError](../EventProcedures/CAPLfunctionOnMOSTLightLockError.md) • [mostGenerateBypassToggle](CAPLfunctionMOSTGenerateBypassToggle.md)
 
-© Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

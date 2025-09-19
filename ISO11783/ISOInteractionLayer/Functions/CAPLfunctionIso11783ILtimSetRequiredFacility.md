@@ -64,8 +64,6 @@ You can use [Iso11783IL_TIMResetAllRequiredFunctions](CAPLfunctionIso11783ILtimR
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

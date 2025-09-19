@@ -36,8 +36,6 @@ The callback is called as soon as a **CM_Atten_Char.Rsp** message is received.
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

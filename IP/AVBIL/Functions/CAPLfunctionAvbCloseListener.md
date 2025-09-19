@@ -67,8 +67,6 @@ The function closes the Listener. Upon successful completion the passed Listener
 - [PtpTimeFromSimulationTime](CAPLfunctionPtpTimeFromSimulationTime.md#aanchor10767)
 - [PtpTimeNow](CAPLfunctionPtpTimeNow.md#aanchor20173)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

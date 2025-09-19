@@ -43,8 +43,6 @@ FSIL_ImportFiles("Volume1\MSM1861\VT1", "VT1_Pools\2FB3AAE801840CA0_SprayV0.iop"
 FSIL_ImportFiles("", "Volume1\MSM1861\VT1\VT1_Pools");
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

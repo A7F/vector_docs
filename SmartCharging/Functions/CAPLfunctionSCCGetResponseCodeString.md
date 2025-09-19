@@ -31,8 +31,6 @@ The list of possible response codes you find on page [SCC_SetResponseCode](CAPLf
 ### Example
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

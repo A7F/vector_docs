@@ -30,8 +30,6 @@ See Also
 - [SampleSize](CAPLfunctionSampleSize.md#aanchor13699)
 - [Subtype](CAPLfunctionSubType.md#aanchor20044)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

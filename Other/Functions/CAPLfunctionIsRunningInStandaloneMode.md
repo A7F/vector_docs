@@ -31,8 +31,6 @@ This function is used to get the information whether the CAPL code is executed i
 
 [StandaloneConfigSetDefault](CAPLfunctionStandaloneConfigSetDefault.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

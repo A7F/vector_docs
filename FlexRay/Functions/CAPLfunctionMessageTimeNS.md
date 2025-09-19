@@ -36,8 +36,6 @@ Receive time in nanoseconds since start of message.
 
 For an example see event procedure [on frFrame](../EventProcedures/CAPLfunctionOnFRFrame.md).
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  

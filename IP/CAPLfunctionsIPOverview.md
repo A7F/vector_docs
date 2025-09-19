@@ -22,7 +22,7 @@
 - [Objects](#Objects)
 - [Stress Generator](#StressGenerator)
 
-### Event Procedures 
+### Event Procedures
 
 - [on ethernetErrorPacket](EventProcedures/CAPLfunctionOnEthernetErrorPacket.md): Is called if an erroneous Ethernet packet is received.
 - [on ethernetMacsecStatus](EventProcedures/CAPLfunctionOnethernetMacsecStatus.md): Is called when the Ethernet MACsec connection state of a physical port has changed.
@@ -33,7 +33,7 @@
 - [on serviceSignal](EventProcedures/CAPLfunctionOnServiceSignal.md): Is called if value of received Service Signal has changed.
 - [on serviceSignal_update](EventProcedures/CAPLfunctionOnServiceSignalUpdate.md): Is called if Service Signal is received.
 
-### General Functions 
+### General Functions
 
 - [GetServiceSignal](Functions/CAPLfunctionSomeIpGetServiceSignal.md): Reads the value of a Service Signal.
 - [GetServiceSignalData](Functions/CAPLfunctionSomeIpGetServiceSignalData.md): Reads the data of a Service Signal.
@@ -78,7 +78,7 @@
 - [ethResetStatisticsOfNetwork](Functions/CAPLfunctionEthResetStatisticsOfNetwork.md): Resets the RT statistic values of all ports of the Ethernet network on which the passed port exists.
 - [ethResetStatisticsOfPort](Functions/CAPLfunctionEthResetStatisticsOfPort.md): Resets the RT statistic values of the port.
 
-### Methods 
+### Methods
 
 Information on the protocol and field designators can be found on the [protocol’s help page](../../CANoeCANalyzer/Ethernet/Protocols/Protocol.md).
 
@@ -190,7 +190,7 @@ The methods in this category allow to access a measurement port's MACsec secure 
 - [EthernetMacsecSecureEntity::UpdateMkaICV](Methods/CAPLfunctionUpdateMkaICV.md): Recalculates the integrity check value (ICV) of a MKPDU.
 - [EthernetMacsecSecureEntity::UpdateSecY](Methods/CAPLfunctionUpdateSecY.md): Configures the basic parameters of the secure entity.
 
-### Objects 
+### Objects
 
 - [Eth](Objects/CAPLfunctionEth.md): Access to Ethernet link status and statistics.
 - [ethernetErrorPacket](Objects/CAPLfunctionEthernetErrorPacket.md): Access information in [on ethernetErrorPacket](EventProcedures/CAPLfunctionOnEthernetErrorPacket.md).
@@ -201,14 +201,12 @@ The methods in this category allow to access a measurement port's MACsec secure 
 - [IP_Address](Objects/CAPLfunctionIPAdredress.md): Variable type for IPv4 and IPv6 address.
 - [IP_Endpoint](Objects/CAPLfunctionIPEndpoint.md): Variable type for IP endpoints.
 
-### Stress Generator 
+### Stress Generator
 
 Functions for Ethernet Stress Generator are only available with Vector Ethernet network interfaces.
 
 - [ethStartPacketGenerator](Functions/CAPLfunctionEthStartPacketGenerator.md): Starts Ethernet Stress Generator.
 - [ethStopPacketGenerator](Functions/CAPLfunctionEthStopPacketGenerator.md): Stops Ethernet Stress Generator.
-
-© Vector Informatik GmbH
 
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 

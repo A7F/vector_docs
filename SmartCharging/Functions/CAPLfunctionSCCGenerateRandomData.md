@@ -29,8 +29,6 @@ Fills a buffer with random data, e.g. for use with the test functions.
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

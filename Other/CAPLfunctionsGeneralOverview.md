@@ -30,7 +30,7 @@ Valid for: CANoe DE • CANoe4SW DE • CANoe:lite DE • CANoe4SW:lite DE
 - [Trigonometric and Mathematical Functions](#TrigonometricMathematicalFunctions)
 - [User Interactions](#UserInteractions)
 
-## Access to Hardware 
+## Access to Hardware
 
 - **InterfaceStatus**: The callback occurs when the status of the connection to the interface hardware is changed.
 - **xlAcquireLED**: Acquires the specified LEDs of a hardware device.
@@ -61,7 +61,7 @@ Valid for: CANoe DE • CANoe4SW DE • CANoe:lite DE • CANoe4SW:lite DE
 - **SetMinMax**: Sets the minimum and maximum value of panel controls.
 - **SetPictureBoxImage**: Replaces the image of the Panel Designer Picture Box.
 
-## AUTOSAR PDU 
+## AUTOSAR PDU
 
 These CAPL functions are supported by Windows and Linux. The functionality under Linux has not been fully tested yet.
 
@@ -81,7 +81,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - **GetPDUsTPUDPDstPort**: Requests the UDP destination port.
 - **GetPDUsTPUDPSrcPort**: Requests the UDP source port.
 
-## Byte Swapping (Intel/Motorola) 
+## Byte Swapping (Intel/Motorola)
 
 These CAPL functions are supported by Windows and Linux. The functionality under Linux has not been fully tested yet.
 
@@ -115,7 +115,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - **lookupSysvarLongLong**: Searches for a system variable definition.
 - **lookupSysvarString**: Searches for a system variable definition.
 
-## E2E Protection 
+## E2E Protection
 
 - **ARE2ECalculateCRC**: Calculates the corresponding checksum and the CRC size (in bits) from a PDU.
 - **ARE2EGetDataIDs**: Returns the data IDs of a PDU with E2E protection.
@@ -127,7 +127,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - **Crc_CalculateCRC32P4**: Calculates the corresponding checksum for CRC32P4 based on the data.
 - **Crc_CalculateCRC64**: Calculates the corresponding checksum for CRC64 based on the data.
 
-## FDX Functions 
+## FDX Functions
 
 - **FDXClientHandleTcp**: Creates an FDX client handle for the FDX client with the specified address.
 - **FDXClientHandleUdp**: Creates an FDX client handle for the FDX client with the specified address.
@@ -138,7 +138,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - **FDXSetProtocolVersion**: Configures the version of the FDX protocol that should be used for the communication with the specified client.
 - **FDXTriggerDataGroup**: Triggers the transmission of a data group via CANoe DE product FDX protocol.
 
-## File Functions 
+## File Functions
 
 These CAPL functions are supported by Windows and Linux. The functionality under Linux has not been fully tested yet.
 
@@ -167,7 +167,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - **writeProfileInt**: Opens the file, searches the section and writes the variable.
 - **writeProfileString**: Opens the file, searches the section and writes the variable.
 
-## Flow Control 
+## Flow Control
 
 These CAPL functions are supported by Windows and Linux. The functionality under Linux has not been fully tested yet.
 
@@ -181,7 +181,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - **setStartdelay**: Sets the value of the Start Delay for this network node.
 - **stop**: Programmed interrupt of the ongoing measurement.
 
-## General Functions 
+## General Functions
 
 These CAPL functions are supported by Windows and Linux. The functionality under Linux has not been fully tested yet.
 
@@ -223,7 +223,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - **traceSetEventColors**: Sets the font, and background color for the message display in the Trace Window.
 - **traceWindowClear**: Clears the contents of the Trace Window.
 
-## Graphics Window 
+## Graphics Window
 
 - **graphicsWindowClear**: Temporarily deletes the contents of the CANoe DE product Graphics Window.
 - **graphicsWindowFit**: Scales symbols in a CANoe DE product Graphics Window.
@@ -231,7 +231,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - **graphicsWindowPause**: Pauses and resumes a CANoe DE product Graphics Window.
 - **graphicsWindowTimeInterval**: Sets the time interval that will be displayed in a CANoe DE product Graphics Window.
 
-## Language Support and Debugging 
+## Language Support and Debugging
 
 These CAPL functions are supported by Windows and Linux. The functionality under Linux has not been fully tested yet.
 
@@ -242,7 +242,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - **setWriteDbgLevel**: Sets the priority level for the writeDbgLevel CAPL function.
 - **writeDbgLevel**: Outputs a message to the Write Window with the specified priority.
 
-## Logging Functions 
+## Logging Functions
 
 These CAPL functions are supported by Windows and Linux. The functionality under Linux has not been fully tested yet.
 
@@ -257,7 +257,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - **writeToLog**: Writes an output string to an ASCII logging file.
 - **writeToLogEx**: Writes an output string to an ASCII logging file.
 
-## Offline Functions 
+## Offline Functions
 
 These CAPL functions are supported by Windows and Linux. The functionality under Linux has not been fully tested yet.
 
@@ -266,7 +266,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - **isOfflineFileActive**: Returns whether events of an offline source file are currently replayed.
 - **isOfflineMode**: Gets the information if CANoe DE product is in offline mode.
 
-## Performance Measurement 
+## Performance Measurement
 
 These CAPL functions are supported by Windows and Linux. The functionality under Linux has not been fully tested yet.
 
@@ -283,7 +283,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - **Start**: Starts the profiler time measurement.
 - **Stop**: Stops the profiler time measurement.
 
-## Replay Functions 
+## Replay Functions
 
 - **ReplayResume**: Starts the Replay Block after it is suspended.
 - **ReplayStart**: Starts the Replay Block.
@@ -298,7 +298,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - **StopMacroFile**: Stops the macro from playing.
 - **StopReplayFile**: Stops the replay file from playing.
 
-## Standalone Mode 
+## Standalone Mode
 
 - **IsRunningInStandaloneMode**: Gets the information whether the CAPL code is executed in standalone mode.
 - **StandaloneConfigOpen**: Opens the RTCFG file with the given name as standalone configuration.
@@ -306,7 +306,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - **StandaloneGetCurrentConfig**: Gets the name of the currently loaded configuration in standalone mode.
 - **StandaloneGetDefaultConfig**: Gets the name of the default configuration in standalone mode.
 
-## String Functions 
+## String Functions
 
 These CAPL functions are supported by Windows and Linux. The functionality under Linux has not been fully tested yet.
 
@@ -355,7 +355,7 @@ Note string literals when using the following string functions.
 - **toLower**: Transforms a character or string to lower case.
 - **toUpper**: Transforms a character or string to upper case.
 
-## Time Management 
+## Time Management
 
 These CAPL functions are supported by Windows and Linux. The functionality under Linux has not been fully tested yet.
 
@@ -390,7 +390,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - **timeToElapse**: Returns a value indicating how much more time will elapse before an on timer event procedure is called.
 - **TimeToString**: Converts a timestamp or duration into a string format.
 
-## Trigonometric and Mathematical Functions 
+## Trigonometric and Mathematical Functions
 
 These CAPL functions are supported by Windows and Linux. The functionality under Linux has not been fully tested yet.
 
@@ -412,7 +412,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - **sin**: Calculates the sine.
 - **sqrt**: Calculates the square root.
 
-## User Interactions 
+## User Interactions
 
 These CAPL functions are supported by Windows and Linux. The functionality under Linux has not been fully tested yet.
 
@@ -431,8 +431,6 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - **writeLineEX**: Writes the text into a new line of the specified window or into a page of the Write Window.
 - **writeTextBkgColor**: Sets the color for text background of the specified page in the Write Window.
 - **writeTextColor**: Sets the color for text of the specified page in the Write Window.
-
-© Vector Informatik GmbH
 
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 

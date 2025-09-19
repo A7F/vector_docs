@@ -24,8 +24,6 @@ Applications can use binary streams to hold custom data types. The ASF media sou
 
 [See Also](javascript:void(0);)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -30,8 +30,6 @@ Returns the current measurement index. The measurement index can be set in the g
 
 [Logging File Configuration](../../../CANoeCANalyzer/FunctionBlocks/Logging/LoggingFileFormat.md)
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -81,6 +81,4 @@ TestRemoveCondition(checkId);
 
 [J1939 CAN FD TP Check (Check Description)](../../../TestCommands/CheckDescriptions/CDJ1939CANFDtpCheck.md) • [Test Service Library: Configuration Functions](../CAPLfunctionsTSLConfigurationFunctions.md) • [Test Service Library: Commands to Control Checks](../CAPLfunctionsTSLCheckControlCommands.md)
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

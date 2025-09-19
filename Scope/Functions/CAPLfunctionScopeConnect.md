@@ -50,8 +50,6 @@ else if (res == 1)
 testStep("Initialization","USB connection with the scope hardware is established");
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

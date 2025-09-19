@@ -88,8 +88,6 @@ on preStop
 
 If the test module is inactive, the `on preStart() write` is displayed, `on preStop` will not be executed.
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

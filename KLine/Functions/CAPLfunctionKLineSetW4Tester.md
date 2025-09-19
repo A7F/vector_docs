@@ -31,8 +31,6 @@ On success 0, otherwise a value less than 0.
 
 [KLine_SetW5Tester](CAPLfunctionKLineSetW5Tester.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

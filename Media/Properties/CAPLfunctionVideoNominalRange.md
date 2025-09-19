@@ -38,8 +38,6 @@ H.264/AVC encoder shall treat NominalRange_Unknown as NominalRange_16_235.
 
 H.264/AVC encoder shall reject an output media type when **VideoNominalRange** is set to NominalRange_48_208, NominalRange_64_127, or any other values not defined on NominalRange.
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

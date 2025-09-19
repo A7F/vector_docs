@@ -326,6 +326,11 @@
                 "group": "J1939 Functions",
                 "pages": [
                   "J1939/CAPLfunctionsJ1939StartPage",
+                  "J1939/CAPLfunctionsJ1939Overview",
+                  "J1939/CAPLfunctionsJ1939AccessPGN",
+                  "J1939/CAPLfunctionsJ1939DefinePG",
+                  "J1939/CAPLfunctionsJ1939Limitations",
+                  "J1939/CAPLfunctionJ1939GroupSelectors",
                   {
                     "group": "J1939 Functions",
                     "pages": [
@@ -367,29 +372,263 @@
                       "J1939/Functions/CAPLfunctionJ1939SetPrio",
                       "J1939/Functions/CAPLfunctionJ1939SetSourceAddress"
                     ]
+                  },
+                  {
+                    "group": "J1939 Event Procedures",
+                    "pages": [
+                      "J1939/EventProcedures/CAPLfunctionJ1939OnPG"
+                    ]
+                  },
+                  {
+                    "group": "J1939 Interaction Layer",
+                    "pages": [
+                      "J1939/J1939InteractionLayer/CAPLfunctionsJ1939ILOverview"
+                    ]
+                  },
+                  {
+                    "group": "J1939 Node Layer",
+                    "pages": [
+                      "J1939/J1939NodeLayer/CAPLfunctionsJ1939NLOverview",
+                      "J1939/J1939NodeLayer/CAPLfunctionsJ1939NLErrorCodes"
+                    ]
+                  },
+                  {
+                    "group": "GBT27930 Interaction Layer",
+                    "pages": [
+                      "J1939/GBT27930InteractionLayer/CAPLfunctionsGBT27930ILOverview"
+                    ]
+                  },
+                  {
+                    "group": "GNSS Node Layer",
+                    "pages": [
+                      "J1939/GNSSNodeLayer/CAPLfunctionsGNSSNLOverview",
+                      "J1939/GNSSNodeLayer/CAPLfunctionsGNSSNLErrorCodesAppErrorIndication",
+                      "J1939/GNSSNodeLayer/CAPLfunctionsGNSSNLErrorCodesGetLastError"
+                    ]
                   }
                 ]
               },
+              {
+                "group": "ISO11783 Functions",
+                "pages": [
               "ISO11783/CAPLfunctionsISO11783Overview",
-              "KLine/CAPLfunctionsKLineOverview",
-              "MOST/CAPLfunctionsMOSTOverview"
+                  {
+                    "group": "ISO Interaction Layer",
+                    "pages": [
+                      "ISO11783/ISOInteractionLayer/CAPLfunctionsISOILOverview",
+                      "ISO11783/ISOInteractionLayer/ObjectPoolXMLElements",
+                      "ISO11783/ISOInteractionLayer/TIMComponentClientStates",
+                      "ISO11783/ISOInteractionLayer/TIMComponentServerStates"
+                    ]
+                  },
+                  {
+                    "group": "ISO Interaction Layer FS",
+                    "pages": [
+                      "ISO11783/ISOInteractionLayerFS/CAPLfunctionsISOILFSOverview",
+                      "ISO11783/ISOInteractionLayerFS/CAPLfunctionsISOILFSProperties",
+                      "ISO11783/ISOInteractionLayerFS/CAPLfunctionsISOILFSNetworkProperties"
+                    ]
+                  },
+                  {
+                    "group": "ISO Interaction Layer TC",
+                    "pages": [
+                      "ISO11783/ISOInteractionLayerTC/CAPLfunctionsISOILTCOverview",
+                      "ISO11783/ISOInteractionLayerTC/CAPLfunctionsISOILTCProperties",
+                      "ISO11783/ISOInteractionLayerTC/CAPLfunctionsISOILTCNetworkProperties"
+                    ]
+                  },
+                  {
+                    "group": "ISO Interaction Layer VT",
+                    "pages": [
+                      "ISO11783/ISOInteractionLayerVT/CAPLfunctionsISOILVTOverview",
+                      "ISO11783/ISOInteractionLayerVT/CAPLfunctionsISOILVTProperties",
+                      "ISO11783/ISOInteractionLayerVT/CAPLfunctionsISOILVTNetworkProperties"
+                    ]
+                  },
+                  {
+                    "group": "ISO Node Layer",
+                    "pages": [
+                      "ISO11783/ISONodeLayer/CAPLfunctionsISONLOverview",
+                      "ISO11783/ISONodeLayer/CAPLfunctionsISONLErrorCodes",
+                      "ISO11783/ISONodeLayer/CAPLfunctionsISONLErrorCodesPDDOnError"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "KLine Functions",
+                "pages": [
+                  "KLine/CAPLfunctionsKLineOverview"
+                ]
+              },
+              {
+                "group": "MOST Functions",
+                "pages": [
+                  "MOST/CAPLfunctionsMOSTOverview",
+                  "MOST/CAPLfunctionsMOSTDatabaseSupport",
+                  "MOST/CAPLfunctionsMOSTErrorCodes",
+                  "MOST/CAPLfunctionsMOSTHighObserverCombiner",
+                  "MOST/CAPLfunctionsMOSTHighObserverErrorCodes",
+                  "MOST/CAPLfunctionsMOSTInitializationMessageVariables",
+                  "MOST/CAPLfunctionsMOSTInputAssistant",
+                  "MOST/CAPLfunctionsMOSTSymIDMMessage",
+                  "MOST/CAPLfunctionsMOSTSymIDParam",
+                  "MOST/CAPLfunctionsMOSTXMLSupport",
+                  {
+                    "group": "MOST Event Procedures",
+                    "pages": [
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTAllBypass",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTAllocTable",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTAMSMessage",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTApInstID",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTAsRegistry",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTCriticalUnlock",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTEcl",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTEclSequence",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTEthPkt",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTEthPktFragment",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTFiAmsPreReceive",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTFiAmsPreSend",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTGroupAdr",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTLightLockError",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTMacAdr",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTMessage",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTMHPBlock",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTMHPConnection",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTMHPError",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTMHPPacket",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTMPR",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTMPRDelayed",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTMsgFragment",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTNetOn",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTNetState",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTNodeAdr",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTNPR",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTPkt",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTPktFragment",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTRawMessage",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTReg",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTSBC",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTShutdownFlag",
+                      "MOST/EventProcedures/CAPLfunctionOnMostShutdownReason",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTStableLock",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTStress",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTSyncAudio",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTSyncSpdif",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTSystemLock",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTTimingMode",
+                      "MOST/EventProcedures/CAPLfunctionOnMOSTTXLight"
+                    ]
+                  },
+                  {
+                    "group": "MOST Selectors",
+                    "pages": [
+                      "MOST/Selectors/CAPLfunctionMOSTSelectors"
+                    ]
+                  }
+                ]
+              }
             ]
           },
           {
             "group": "Aviation & Industrial",
             "pages": [
+              {
+                "group": "A429 Functions",
+            "pages": [
               "A429/CAPLfunctionsA429Overview",
+                  "A429/CAPLfunctionsA429ChannelReconfig",
+                  "A429/CAPLfunctionsA429DefineARINCword",
+                  "A429/CAPLfunctionsA429Scheduling",
+                  "A429/CAPLfunctionsA429Selectors",
+                  {
+                    "group": "A429 Event Procedures",
+                    "pages": [
+                      "A429/EventProcedures/CAPLfunctionA429OnA429Error",
+                      "A429/EventProcedures/CAPLfunctionA429OnA429Word",
+                      "A429/EventProcedures/CAPLfunctionA429OnA429WordError"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "AFDX Functions",
+                "pages": [
               "ADFX/CAPLfunctionsAFDXOverview",
+                  "ADFX/CAPLfunctionsAFDXErrorCodes",
+                  "ADFX/CAPLfunctionsAFDXSelectors",
+                  {
+                    "group": "AFDX Event Procedures",
+                    "pages": [
+                      "ADFX/EventProcedures/CAPLfunctionAFDXOnA664Frame",
+                      "ADFX/EventProcedures/CAPLfunctionAFDXOnA664Message",
+                      "ADFX/EventProcedures/CAPLfunctionOnAfdxError",
+                      "ADFX/EventProcedures/CAPLfunctionOnAfdxPacket"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "GPIB Functions",
+                "pages": [
               "GPIB/CAPLfunctionsGPIBOverview",
-              "RS232/CAPLfunctionsRS232Overview"
+                  "GPIB/CAPLfunctionsGPIBErrorCode",
+                  "GPIB/CAPLfunctionsGPIBStatus"
+                ]
+              },
+              {
+                "group": "RS232 Functions",
+                "pages": [
+                  "RS232/CAPLfunctionsRS232Overview",
+                  "RS232/CAPLfunctionsRS232DeprecatedIniFiles"
+                ]
+              }
             ]
           },
           {
             "group": "Specialized Protocols",
             "pages": [
+              {
+                "group": "CANopen Functions",
+            "pages": [
               "CANopen/CAPLfunctionsCANopenOverview",
-              "XCP/CAPLfunctionsXCPOverview",
-              "J1587/CAPLfunctionsJ1587Overview"
+                  {
+                    "group": "CANopen Basic",
+                    "pages": [
+                      "CANopen/CANopenBasic/CAPLfunctionsCANopenBasicOverview"
+                    ]
+                  },
+                  {
+                    "group": "CANopen Node Layer TFS",
+                    "pages": [
+                      "CANopen/NodeLayerTFS/CAPLfunctionsCANopenNLTFSLevelOverview",
+                      "CANopen/NodeLayerTFS/CAPLfunctionsCANopenNLTFSCoTfsOdChkStdEntriesObjects",
+                      "CANopen/NodeLayerTFS/CAPLfunctionsCANopenNLTFSErrorCodes",
+                      "CANopen/NodeLayerTFS/CAPLfunctionsCANopenNLTFSExampleConstants"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "XCP Functions",
+                "pages": [
+                  "XCP/CAPLfunctionsXCPOverview"
+                ]
+              },
+              {
+                "group": "J1587 Functions",
+                "pages": [
+                  "J1587/CAPLfunctionsJ1587Overview",
+                  {
+                    "group": "J1587 Event Handlers",
+                    "pages": [
+                      "J1587/EventHandler/CAPLfunctionOnJ1587ErrorMessage",
+                      "J1587/EventHandler/CAPLfunctionOnJ1587Message",
+                      "J1587/EventHandler/CAPLfunctionOnJ1587Param"
+                    ]
+                  }
+                ]
+              }
             ]
           }
         ]
@@ -400,19 +639,185 @@
           {
             "group": "Communication & Networking",
             "pages": [
+              {
+                "group": "Communication Objects",
+            "pages": [
               "CommunicationObjects/CAPLfunctionsCOOverview",
+                  {
+                    "group": "CO Event Procedures",
+                    "pages": [
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnAbstractEventSubscribed",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnAbstractEventUnsubscribed",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnAbstractFieldSubscribed",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnAbstractFieldUnsubscribed",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnfctCalled",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnfctCalling",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnfctReturned",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnfctReturning",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnPDUChange",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnPDUSubscribed",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnPDUUnsubscribed",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnPDUUpdate",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnSDConnectionEstablished",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnSDConnectionFailed",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnSDConnectionRequested",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnSDConsumerDiscovered",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnSDProviderDiscovered",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnSDServiceDiscovery",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnSOMEIPEventGroupSubscribed",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnSOMEIPEventGroupSubscribedConsumerSide",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnSOMEIPEventGroupUnsubscribed",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnValueChange",
+                      "CommunicationObjects/EventProcedures/CAPLfunctionOnValueUpdate"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Distributed Objects",
+                "pages": [
               "DistributedObjects/CAPLfunctionsDOOverview",
+                  {
+                    "group": "DO Event Procedures",
+                    "pages": [
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnAnyFctCalled",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnAnyFctCalling",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnAnyFctRetured",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnAnyFctReturning",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnAnyMonitoredValueChange ",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnAnyMonitoredValueUpdate",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnAnyValueChange",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnAnyValueUpdate",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnfctCalled",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnfctCalling",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnfctReturned",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnfctReturning",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnTransmitAnnounce",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnTransmitAnyAnnounce",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnTransmitAnyCall",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnTransmitAnyReturn",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnTransmitAnySubscribe",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnTransmitAnyUnannounce",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnTransmitAnyUnsubscribe",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnTransmitAnyValue",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnTransmitCall",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnTransmitReturn",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnTransmitSubscribe",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnTransmitUnannounce",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnTransmitUnsubscribe",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnTransmitValue",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnValueChange",
+                      "DistributedObjects/EventProcedures/CAPLfunctionOnValueUpdate"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "TCP/IP API",
+                "pages": [
               "TCPIPAPI/CAPLfunctionsTCPIPOverview",
-              "TLSAPI/CAPLfunctionsTLSOverview"
+                  "TCPIPAPI/CAPLfunctionsTCPIPSocketOptions",
+                  "TCPIPAPI/CAPLfunctionsTCPIPSocketOptionsIPPROTO_IP",
+                  "TCPIPAPI/CAPLfunctionsTCPIPSocketOptionsIPPROTO_IPV6",
+                  "TCPIPAPI/CAPLfunctionsTCPIPSocketOptionsIPPROTO_TCP",
+                  "TCPIPAPI/CAPLfunctionsTCPIPSocketOptionsIPPROTO_UDP",
+                  "TCPIPAPI/CAPLfunctionsTCPIPSocketOptionsSOL_SOCKET",
+                  "TCPIPAPI/CAPLfunctionsTCPIPSocketOptionsSOL_Vector",
+                  "TCPIPAPI/CAPLfunctionsTCPIPTechnicalDetails",
+                  "TCPIPAPI/CAPLfunctionsTCPIPWinsock2ErrorCodes",
+                  {
+                    "group": "TCP/IP Event Procedures",
+                    "pages": [
+                      "TCPIPAPI/EventProcedures/CAPLfunctionOnIpsecSadbAcquire",
+                      "TCPIPAPI/EventProcedures/CAPLfunctionTCPIPOnIpAddressAdded",
+                      "TCPIPAPI/EventProcedures/CAPLfunctionTCPIPOnIpAddressRemoved",
+                      "TCPIPAPI/EventProcedures/CAPLfunctionTCPIPOnIpGetHostByName",
+                      "TCPIPAPI/EventProcedures/CAPLfunctionTCPIPOnIpReceivePrepare",
+                      "TCPIPAPI/EventProcedures/CAPLfunctionTCPIPOnIpSendPrepare",
+                      "TCPIPAPI/EventProcedures/CAPLfunctionTCPIPOnTcpClose",
+                      "TCPIPAPI/EventProcedures/CAPLfunctionTCPIPOnTcpConnect",
+                      "TCPIPAPI/EventProcedures/CAPLfunctionTCPIPOnTcpListen",
+                      "TCPIPAPI/EventProcedures/CAPLfunctionTCPIPOnTcpReceive",
+                      "TCPIPAPI/EventProcedures/CAPLfunctionTCPIPOnTcpSend",
+                      "TCPIPAPI/EventProcedures/CAPLfunctionTCPIPOnUdpReceiveFrom",
+                      "TCPIPAPI/EventProcedures/CAPLfunctionTCPIPOnUdpSendTo"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "TLS API",
+                "pages": [
+                  "TLSAPI/CAPLfunctionsTLSOverview",
+                  {
+                    "group": "TLS Event Procedures",
+                    "pages": [
+                      "TLSAPI/EventProcedures/CAPLfunctionOnDtlsServerConnect",
+                      "TLSAPI/EventProcedures/CAPLfunctionOnObservedAndDecryptedTlsApplicationData",
+                      "TLSAPI/EventProcedures/CAPLfunctionOnObservedAndDecryptedTlsHandshakeData",
+                      "TLSAPI/EventProcedures/CAPLfunctionOnTlsClose",
+                      "TLSAPI/EventProcedures/CAPLfunctionOnTlsEarlyDataReceived",
+                      "TLSAPI/EventProcedures/CAPLfunctionOnTlsHandshakeComplete"
+                    ]
+                  }
+                ]
+              }
             ]
           },
           {
             "group": "Testing & Analysis",
             "pages": [
-              "Test/CAPLfunctionsTFSOverview",
+              {
+                "group": "Test Functions",
+                "pages": [
               "Test/CAPLfunctionsTSLOverview",
+                  "Test/CAPLfunctionsTSLCheckOverview",
+                  "Test/CAPLfunctionsTSLCheckControlCommands",
+                  "Test/CAPLfunctionsTSLConfigurationFunctions",
+                  "Test/CAPLfunctionsTSLErrorCodes",
+                  "Test/CAPLfunctionsTSLFunctionTypes",
+                  "Test/CAPLfunctionsTSLRampStimulus",
+                  "Test/CAPLfunctionsTSLRequirementStimuli",
+                  "Test/CAPLfunctionsTSLSampleCode",
+                  "Test/CAPLfunctionsTSLStatusReportFunctions",
+                  "Test/CAPLfunctionsTSLStimulusCsvFile",
+                  "Test/CAPLfunctionsTSLStimulusEV",
+                  "Test/CAPLfunctionsTSLStimulusOverview",
+                  "Test/CAPLfunctionsTSLToggleStimulus",
+                  "Test/CAPLfunctionsTFSMostPacketDefinition",
+                  "Test/CAPLfunctionsTFSSymbolicMessageDefinition"
+                ]
+              },
+              {
+                "group": "CAN Disturbance",
+                "pages": [
               "CANDisturbance/CAPLfunctionsCANDisturbanceOverview",
-              "CANstress/CAPLfunctionsCANstressOverview"
+                  "CANDisturbance/CAPLfunctionsClassesOverview",
+                  {
+                    "group": "CAN Disturbance Classes",
+                    "pages": [
+                      "CANDisturbance/Classes/CAPLfunctionCanDisturbanceBitSequence",
+                      "CANDisturbance/Classes/CAPLfunctionCanDisturbanceCombinedFrameTrigger",
+                      "CANDisturbance/Classes/CAPLfunctionCanDisturbanceErrorFrameTrigger",
+                      "CANDisturbance/Classes/CAPLfunctionCanDisturbanceExternalTrigger",
+                      "CANDisturbance/Classes/CAPLfunctionCanDisturbanceFrameSequence",
+                      "CANDisturbance/Classes/CAPLfunctionCanDisturbanceFrameSequenceField",
+                      "CANDisturbance/Classes/CAPLfunctionCanDisturbanceFrameTrigger",
+                      "CANDisturbance/Classes/CAPLfunctionCanDisturbanceSequence",
+                      "CANDisturbance/Classes/CAPLfunctionCanDisturbanceTriggerRepetitions"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "CAN Stress",
+                "pages": [
+                  "CANstress/CAPLfunctionsCANstressOverview",
+                  "CANstress/CAPLfunctionsCANstressAccessMultipleCANstressDevices",
+                  "CANstress/CAPLfunctionsCANstressCANoeRTVN890",
+                  "CANstress/CAPLfunctionsCANstressMainTestFunctionExample"
+                ]
+              }
             ]
           },
           {

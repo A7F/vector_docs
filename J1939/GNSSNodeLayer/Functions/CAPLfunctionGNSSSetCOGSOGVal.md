@@ -38,8 +38,6 @@ This function can be used to change values of the parameter group "COG & SOG, Ra
 GNSSSetCOGSOGVal(0, 1);
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

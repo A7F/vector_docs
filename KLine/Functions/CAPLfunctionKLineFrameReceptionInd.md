@@ -45,8 +45,6 @@ _KLine_FrameReceptionInd(BYTE data[], int64 timestamps[])
 
 [Link to _KLine_ByteReceptionInd](CAPLfunctionKLineByteReceptionInd.md) • [Link to _KLine_ByteTransmissionCon](CAPLfunctionKLineByteTransmissionCon.md) • [Link to _KLine_FrameTransmissionCon](CAPLfunctionKLineFrameTransmissionCon.md)
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -37,8 +37,6 @@ Returns the current secure association key (SAK) of the transmit SA specified by
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

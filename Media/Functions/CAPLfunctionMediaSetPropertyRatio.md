@@ -34,8 +34,6 @@ Sets a ratio as a 64-bit property value. Properties can be set on an object spec
 
 [See Also](javascript:void(0);)
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

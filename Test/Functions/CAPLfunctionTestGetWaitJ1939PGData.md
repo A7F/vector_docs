@@ -41,8 +41,6 @@ See examples of:
 
 [TestWaitForJ1939PG](CAPLfunctionTestWaitForJ1939PG.md) • [TestJoinJ1939PGEvent](CAPLfunctionTestJoinJ1939PGEvent.md) • [TestWaitForJ1939DTC](CAPLfunctionTestWaitForJ1939DTC.md) • [TestJoinJ1939DTCEvent](CAPLfunctionTestJoinJ1939DTCEvent.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

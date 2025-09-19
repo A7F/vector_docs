@@ -89,8 +89,6 @@ Syntax for Database-based Access Paths
 Syntax for Predefined Service Discovery (SD) Access Paths
 ```
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

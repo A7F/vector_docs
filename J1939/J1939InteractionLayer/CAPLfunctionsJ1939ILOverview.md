@@ -23,7 +23,7 @@ Only available with J1939. To use the CAPL functions the node layer [J1939_IL.dl
 - [Other Functions](#Other)
 - [Signal/Message Access](#Signal/M)
 
-## Callback Functions 
+## Callback Functions
 
 - [J1939ILOnAddressClaimConflict](Functions/CAPLfunctionJ1939ILOnAddressClaimConflict.md): Is called if an address conflict is detected.
 - [J1939ILOnAddressViolation](Functions/CAPLfunctionJ1939ILOnAddressViolation.md): Is called if an address violation is detected.
@@ -35,7 +35,7 @@ Only available with J1939. To use the CAPL functions the node layer [J1939_IL.dl
 - [J1939ILOnTxMessage](Functions/CAPLfunctionJ1939ILOnTxMessage.md): Is called if a message was sent successfully.
 - [J1939ILOnTxPrepare](Functions/CAPLfunctionJ1939ILOnTxPrepare.md): Is called before a parameter group is sent.
 
-## DTC Support 
+## DTC Support
 
 - [J1939ILActivateDiagnosticsSupport](Functions/CAPLfunctionJ1939ILActivateDiagnosticsSupport.md): Activates or deactivates the support of J1939 diagnostics by the IL.
 - [J1939ILActivateDTC](Functions/CAPLfunctionJ1939ILActivateDTC.md): Activates a diagnostics trouble code (DTC) and add it to the list of active DTCs.
@@ -46,7 +46,7 @@ Only available with J1939. To use the CAPL functions the node layer [J1939_IL.dl
 - [J1939ILRemoveDTC](Functions/CAPLfunctionJ1939ILRemoveDTC.md): Removes a diagnostics trouble code (DTC) from a diagnostics message.
 - [J1939ILSetLampStatus](Functions/CAPLfunctionJ1939ILSetLampStatus.md): Sets the lamp status of a diagnostics message.
 
-## Fault Injection for Messages 
+## Fault Injection for Messages
 
 - [J1939ILBlockRxMessage](Functions/CAPLfunctionJ1939ILBlockRxMessage.md)
 - [J1939ILResetBlockedRxMessage](Functions/CAPLfunctionJ1939ILResetBlockedRxMessage.md)
@@ -61,7 +61,7 @@ Only available with J1939. To use the CAPL functions the node layer [J1939_IL.dl
 - [J1939ILResetManipulatedMessage](Functions/CAPLfunctionJ1939ILResetManipulatedMessage.md)
 - [J1939ILResetAllManipulatedMessages](Functions/CAPLfunctionJ1939ILResetAllManipulatedMessages.md): Modifies the content of a message generated and sent by the interaction layer.
 
-## Fault Injection for Transport Protocols 
+## Fault Injection for Transport Protocols
 
 - [J1939ILBlockTxTpAbort](Functions/CAPLfunctionJ1939ILBlockTxTpAbort.md)
 - [J1939ILResetBlockedTxTpAbort](Functions/CAPLfunctionJ1939ILResetBlockedTxTpAbort.md): Prevents transmission of TP.Abort message by the Interaction Layer.
@@ -83,7 +83,7 @@ Only available with J1939. To use the CAPL functions the node layer [J1939_IL.dl
 - [J1939ILUnfreezeTp](Functions/CAPLfunctionJ1939ILUnfreezeTp.md)
 - [J1939ILKillTp](Functions/CAPLfunctionJ1939ILKillTp.md): Freezes the current TP connection immediately.
 
-## Message Configuration 
+## Message Configuration
 
 - [J1939ILDisableMsg](Functions/CAPLfunctionJ1939ILDisableMsg.md): Disables the sending of a message.
 - [J1939ILEnableMsg](Functions/CAPLfunctionJ1939ILEnableMsg.md): Re-enables the sending of a disabled message.
@@ -93,7 +93,7 @@ Only available with J1939. To use the CAPL functions the node layer [J1939_IL.dl
 - [J1939ILSetMsgDelayTime](Functions/CAPLfunctionj1939ilsetmsgdelaytime.md): Sets the message delay time.
 - [J1939ILSetMsgPriority](Functions/CAPLfunctionj1939ilsetmsgpriority.md): Sets the message priority.
 
-## Node Control 
+## Node Control
 
 - [J1939ILEnableAddressViolationDetection](Functions/CAPLfunctionJ1939ILEnableAddressViolationDetection.md): Activates detection of address violations by other nodes.
 - [J1939ILAcceptRxPG](Functions/CAPLfunctionJ1939ILAcceptRxPG.md): Checks if the received parameter group is addressed to the J1939 IL.
@@ -107,20 +107,18 @@ Only available with J1939. To use the CAPL functions the node layer [J1939_IL.dl
 - [J1939ILSetNodeProperty](Functions/CAPLfunctionJ1939ILSetNodeProperty.md): Sets the property of a node.
 - [J1939ILGetDeviceName](Functions/CAPLfunctionJ1939ILGetDeviceName.md): Gets the J1939 NAME of the simulated node.
 
-## Other Functions 
+## Other Functions
 
 - [J1939ILGetLastError](Functions/CAPLfunctionJ1939ILGetLastError.md): Returns the value of the last called J1939 IL function.
 - [J1939ILGetLastErrorText](Functions/CAPLfunctionJ1939ILGetLastErrorText.md): Returns the textual description of the value of the last called J1939 IL function.
 - [J1939ILSetVerbosity](Functions/CAPLfunctionJ1939ILSetVerbosity.md): Sets verbosity for writing in Write Window.
 
-## Signal/Message Access 
+## Signal/Message Access
 
 - [J1939ILSetMsgEvent](Functions/CAPLfunctionJ1939ILSetMsgEvent.md): Sends a message immediately.
 - [J1939ILSetMsgRawData](Functions/CAPLfunctionJ1939ILSetMsgRawData.md): Sets the data bytes of the message.
 - [J1939ILSetSignal](Functions/CAPLfunctionJ1939ILSetSignal.md): Sets the physical value of a signal.
 - [J1939ILSetSignalRaw](Functions/CAPLfunctionJ1939ILSetSignalRaw.md): Sets the raw value of a signal.
-
-© Vector Informatik GmbH
 
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 

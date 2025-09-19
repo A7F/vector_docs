@@ -92,7 +92,6 @@ In this context the parameter identification is inserted into the program text a
 
 [Test Feature Set: Symbolic Definition of MOST Messages](../Test/CAPLfunctionsTFSSymbolicMessageDefinition.md) • [Symbolic Identification of Messages](CAPLfunctionsMOSTSymIDMMessage.md)
 
-© Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

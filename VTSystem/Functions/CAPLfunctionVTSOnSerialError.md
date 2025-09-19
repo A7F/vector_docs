@@ -35,8 +35,6 @@ The function is called when an error has occurred in an operation on a serial po
 
 See example [SerialConfigure](CAPLfunctionVTSSerialConfigure.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  

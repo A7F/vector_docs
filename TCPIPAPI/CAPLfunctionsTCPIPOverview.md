@@ -18,7 +18,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - [UDP API](#UDPAPI)
 - [TCP API](#TCPAPI)
 
-## IP API 
+## IP API
 
 The IP API consists of general functions for network information retrieval such as querying for installed network interface cards (NIC), IP addresses, address conversion functions, error handling, and so on. In addition, the IP API has some special functions for socket manipulations such as setting socket options or binding.
 
@@ -76,7 +76,7 @@ The IP API consists of general functions for network information retrieval such 
 - [OnIpReceivePrepare](EventProcedures/CAPLfunctionTCPIPOnIpReceivePrepare.md): It is dispatched before a received packet will be dispatched to the TCP/IP stack.
 - [OnIpSendPrepare](EventProcedures/CAPLfunctionTCPIPOnIpSendPrepare.md): It is called before a packet will be sent by the TCP/IP stack.
 
-## IPsec API 
+## IPsec API
 
 ### Functions
 
@@ -99,7 +99,7 @@ The IP API consists of general functions for network information retrieval such 
 
 - [OnIpsecSadbAcquire](EventProcedures/CAPLfunctionOnIpsecSadbAcquire.md): It is called when ipsec is acquired.
 
-## UDP API 
+## UDP API
 
 The UDP API is used for UDP communications. It provides a high-level interface for implementing connectionless, datagram-oriented communications.
 
@@ -117,7 +117,7 @@ The UDP API is used for UDP communications. It provides a high-level interface f
 - [OnUdpReceiveFrom](EventProcedures/CAPLfunctionTCPIPOnUdpReceiveFrom.md): It is called when an asynchronous receive operation on a UDP socket completes.
 - [OnUdpSendTo](EventProcedures/CAPLfunctionTCPIPOnUdpSendTo.md): It is called when an asynchronous send operation on a UDP socket completes.
 
-## TCP API 
+## TCP API
 
 ### Functions
 
@@ -143,8 +143,6 @@ The UDP API is used for UDP communications. It provides a high-level interface f
 - [OnTcpSend](EventProcedures/CAPLfunctionTCPIPOnTcpSend.md): It is called when an asynchronous send operation on a TCP socket completes.
 
 [Winsock 2 Error Codes](CAPLfunctionsTCPIPWinsock2ErrorCodes.md) • [Technical Details](CAPLfunctionsTCPIPTechnicalDetails.md) • [Socket Options](CAPLfunctionsTCPIPSocketOptions.md)
-
-© Vector Informatik GmbH
 
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 

@@ -32,8 +32,6 @@ Deletes the process data directory and disconnects from the Task Controller.
 Iso11783IL_PDDDelete( );
 ```
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

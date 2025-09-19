@@ -35,8 +35,6 @@ Sets the limit for power. These limits are used in various messages for both AC 
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

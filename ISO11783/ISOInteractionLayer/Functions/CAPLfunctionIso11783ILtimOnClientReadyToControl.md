@@ -41,8 +41,6 @@ Within this callback you can call [Iso11783IL_TIMOperatorAcknowledge](CAPLfuncti
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

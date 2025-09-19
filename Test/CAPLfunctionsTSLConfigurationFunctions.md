@@ -24,8 +24,6 @@ The function [ChkConfig_SetTitle](Functions/CAPLfunctionChkConfigSetTitle.md) pe
 - **[ChkConfig_SetPrecision](Functions/CAPLfunctionChkConfigSetPrecision.md)**: Configures the TSL time basis for the current node.
 - **[ChkConfig_SetTitle](Functions/CAPLfunctionChkConfigSetTitle.md)**: Sets the title of a check.
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

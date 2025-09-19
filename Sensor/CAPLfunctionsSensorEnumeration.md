@@ -76,8 +76,6 @@
   **Enum**: eSentLegacyCrc  
   **Short Description**: Explicitly uses the legacy CRC algorithm to calculate the CRC field content
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  

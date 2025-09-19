@@ -33,8 +33,6 @@ The data length can only be manipulated for frames sent in the dynamic segment!
 
 For an example see function [frUpdateStatFrame](CAPLfunctionFRUpdateStatFrame.md).
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

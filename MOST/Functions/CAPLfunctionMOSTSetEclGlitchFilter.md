@@ -34,8 +34,6 @@ See [error codes](../CAPLfunctionsMOSTErrorCodes.md).
 
 [mostSetEclTermination](CAPLfunctionMOSTSetGetEclTermination.md) • [mostWakeup](CAPLfunctionMOSTWakeup.md) • [OnMostEcl](../EventProcedures/CAPLfunctionOnMOSTEcl.md)
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  

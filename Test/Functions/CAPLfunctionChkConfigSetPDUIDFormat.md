@@ -38,8 +38,6 @@ It may be used if not the default header ID format shall be used. Default:
 
 See [ChkConfig_DisablePDULayer](CAPLfunctionChkConfigDisablePDULayer.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -61,6 +61,4 @@ ret = Iso11783IL_OPConnectSysVar(10100, "ConnectedSysVars::svIntVar"); // connec
 ret = Iso11783IL_OPConnectSysVar(10100, ""); // release
 ```
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

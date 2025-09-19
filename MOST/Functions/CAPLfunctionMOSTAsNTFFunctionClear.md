@@ -36,8 +36,6 @@ See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 [mostAsNtfFunctionCheck](CAPLfunctionMOSTAsNTFFunctionCheck.md) • [mostAsNtfFunctionSet](CAPLfunctionMOSTAsNTFFunctionSet.md) • [mostAsNtfFunctionClearAll](CAPLfunctionMOSTAsNTFFunctionClearAll.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

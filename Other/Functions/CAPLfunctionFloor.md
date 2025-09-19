@@ -33,8 +33,6 @@ x = _floor(3.6); // x == 3.0
 
 [_ceil](CAPLfunctionCeil.md) • [_round](CAPLfunctionRound.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

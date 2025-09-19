@@ -40,8 +40,6 @@ byte sendData[2] = {0x42, 0x21};
 sensorQueueWriteFrame ("SENSOR::I2C::ExampleChannel::ExampleSlave", sendData, 2);
 ```
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -43,8 +43,6 @@ This function is supported by the following device: VN8900 (driver version > 7.5
 
 See [xlAcquireLED](CAPLfunctionxlAcquireLED.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

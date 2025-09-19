@@ -29,8 +29,6 @@ Sets the desired current. These limits are used in various DC messages. If no va
 ### Example
 —
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  

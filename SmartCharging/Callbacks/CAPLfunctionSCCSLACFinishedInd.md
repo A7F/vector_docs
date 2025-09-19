@@ -34,8 +34,6 @@ The vehicle can use the function [SCC_SLAC_GetAttenResults](../Functions/CAPLfun
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -34,8 +34,6 @@ Removes a consumer from a provided field that has been added by [SomeIpProvidedF
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

@@ -31,8 +31,6 @@ See the IEEE802.1AE-2018, chapter 10.7, for thorough explanation of these statis
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

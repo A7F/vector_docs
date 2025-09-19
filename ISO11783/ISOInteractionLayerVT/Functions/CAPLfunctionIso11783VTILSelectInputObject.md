@@ -84,6 +84,4 @@ TestWaitForTimeout(400);
 VTIL_SelectInputObject(VT, 220, 0);    //finish editing
 ```
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

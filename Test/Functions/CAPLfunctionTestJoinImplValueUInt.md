@@ -39,6 +39,4 @@ index = TestWaitForAnyJoinedEvent(2000);
 
 [TestJoinImplValue](CAPLfunctionTestJoinImplValue.md) • [TestJoinImplValueFloat](CAPLfunctionTestJoinImplValueFloat.md) • [TestJoinImplValueSInt](CAPLfunctionTestJoinImplValueSInt.md) • [TestJoinImplValueString](CAPLfunctionTestJoinImplValueString.md)
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

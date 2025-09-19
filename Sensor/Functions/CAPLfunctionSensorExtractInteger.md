@@ -43,8 +43,6 @@ sensorExtractInteger(receivedData, 2, value, 0, 10, 1);
 // value is now 933
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

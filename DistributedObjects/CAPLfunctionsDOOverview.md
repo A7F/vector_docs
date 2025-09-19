@@ -15,7 +15,7 @@ Overview of objects and methods to work with distributed objects.
 - [Methods](#Methods)
 - [Objects](#Objects)
 
-## Event Procedures 
+## Event Procedures
 
 - [on any_fct_called](EventProcedures/CAPLfunctionOnAnyFctCalled.md): Is called whenever a provided method of a distributed object derived from the given interface is called.
 - [on any_fct_calling](EventProcedures/CAPLfunctionOnAnyFctCalling.md): Is called whenever a method of a distributed object derived from the given interface is about to be called.
@@ -46,7 +46,7 @@ Overview of objects and methods to work with distributed objects.
 - [on value_change](EventProcedures/CAPLfunctionOnValueChange.md): Is called when a distributed object value changes.
 - [on value_update](EventProcedures/CAPLfunctionOnValueUpdate.md): Is called when a distributed object value is updated.
 
-## Functions 
+## Functions
 
 - [lookupDistObj](Functions/CAPLfunctionLookupDistObj.md): Obtains an object by using a string.
 - [lookupDistObjContainer](Functions/CAPLfunctionLookupDistObjContainer.md): Obtains a container by using a string.
@@ -56,7 +56,7 @@ Overview of objects and methods to work with distributed objects.
 - [resetDistObjValues](Functions/CAPLfunctionResetDistObjValues.md): Resets all distributed object member values to their initial values.
 - [setAttribute](Functions/CAPLfunctionSetAttribute.md): Writes an attribute value at an attributable object.
 
-## Methods 
+## Methods
 
 - [Binding::AnnouncementStateReceived](Methods/CAPLfunctionBindingAnnouncementStateReceived.md): Sets the announcement state of a provided data, event, or field member value that uses the [CAPL binding](../../CANoeCANalyzer/CommunicationConcept/CCDOCAPLBinding.md) and **PublishSubscribe** communication pattern with announcements.
 - [Binding::CallReceived](Methods/CAPLfunctionBindingCallReceived.md): Sets the in-parameters for a call at a provided method member that uses the [CAPL binding](../../CANoeCANalyzer/CommunicationConcept/CCDOCAPLBinding.md).
@@ -123,7 +123,7 @@ Overview of objects and methods to work with distributed objects.
 - [valueHandle::GetValueState](Methods/CAPLfunctionValueGetValueState.md): Returns the state of the value.
 - [valueHandle::ResetValueState](Methods/CAPLfunctionValueResetValueState.md): Resets the state of the value.
 
-## Objects 
+## Objects
 
 - [attributable](Objects/CAPLfunctionAttributable.md): The type of objects that can have attributes.
 - [attribute](Objects/CAPLfunctionAttribute.md): The types of attributes for distributed objects.

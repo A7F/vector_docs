@@ -36,8 +36,6 @@ Sends a **Screen Capture** command to the Virtual Terminal to request a screen c
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

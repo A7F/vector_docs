@@ -33,8 +33,6 @@ char busName[32];
 Iso11783GetBusName( busHandle, elCount(busName), busName );
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

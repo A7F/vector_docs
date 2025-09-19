@@ -33,6 +33,4 @@ write("Extended remote frame rate on CAN1: %i [fr/s]", canGetExtRemoteRate(1, eC
 
 [Valid for: CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE](../../../Shared/FeatureAvailability.md)
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

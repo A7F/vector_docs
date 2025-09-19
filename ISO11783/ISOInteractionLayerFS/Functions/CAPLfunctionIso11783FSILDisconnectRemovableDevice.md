@@ -40,8 +40,6 @@ After a virtual device is disconnected, the appropriate Windows folder is still 
 
 See: [FSIL_ConnectRemovableDevice](CAPLfunctionIso11783FSILConnectRemovableDevice.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

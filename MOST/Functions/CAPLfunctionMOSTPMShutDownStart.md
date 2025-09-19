@@ -28,8 +28,6 @@ Initiates a shutdown of the system by the MOST PowerMaster (see MOST Specificati
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -55,8 +55,6 @@ The function is only performed successfully if the simulation has not yet been s
 GNSSSetPGSettings( 129025, 0, 255, 3, 1000 );
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

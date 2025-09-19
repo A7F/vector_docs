@@ -67,8 +67,6 @@ The function retrieves the Stream Identifier (ID) of the Listener or Talker.
 - PtpTimeFromSimulationTime
 - PtpTimeNow
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

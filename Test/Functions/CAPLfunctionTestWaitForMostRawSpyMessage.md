@@ -50,8 +50,6 @@ This function waits for the occurrence of the specified MOST raw spy control mes
 
 [TestSendMostRawMessage](CAPLfunctionTestSendMostRawMessage.md) • [TestGetWaitEventMostRawMsgData](CAPLfunctionTestGetWaitEventMostRawMsgData.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

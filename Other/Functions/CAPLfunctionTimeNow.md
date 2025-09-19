@@ -45,8 +45,6 @@ x = timeNow()/100000.0; //current time in seconds
 
 [timeDiff](CAPLfunctionTimeDiff.md) • [timeNowFloat](CAPLfunctionTimeNowFloat.md) • [timeNowNS](CAPLfunctionTimeNowNS.md) • [timeNowInt64](CAPLfunctionTimeNowNS.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

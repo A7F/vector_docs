@@ -41,6 +41,4 @@ To release connection between the system variable and a state, just call the sam
 Iso11783IL_TIMConnectSysVarToState(TIMClient, "sysvarTIMClientState");
 ```
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -22,8 +22,6 @@ dword (treat as a Boolean value)
 
 If this property is **TRUE**, every sample in the stream is the same size (in bytes). Otherwise, samples might vary in size.
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

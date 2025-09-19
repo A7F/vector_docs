@@ -58,8 +58,6 @@ if (Iso11783PDDChangeDesignator( ecuHandle, 1, euroSign, 0 ) == 0) {
 }
 ```
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
 
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -43,8 +43,6 @@ Creates a **VS_PL_Lnk_Status.Cnf** message for sending.
 
 —
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

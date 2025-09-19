@@ -35,8 +35,6 @@ The function locks the screen updates on the Virtual Terminal. A **Lock** comman
 Iso11783OPLock( handle, 1200, 1, 500 );
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

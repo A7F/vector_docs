@@ -26,8 +26,6 @@ If this property is not set, the geometric aperture is assumed to be the entire 
 
 For example, in NTSC television the video frame is 720 × 480 with an active area of 704 × 480 and a 10:11 pixel aspect ratio. The resulting picture has an aspect ratio of (704/480) × (10/11) = 4:3.
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

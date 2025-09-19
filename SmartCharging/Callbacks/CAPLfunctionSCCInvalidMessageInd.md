@@ -37,8 +37,6 @@ The callback is called when a SDP or V2G message is received with an invalid con
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

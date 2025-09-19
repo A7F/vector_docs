@@ -34,8 +34,6 @@ The function returns the lock status of the connected MOST hardware. In contrast
 
 [mostGetChannel](CAPLfunctionMOSTGetChannel.md) • [mostGetLock](CAPLfunctionMOSTGetLock.md) • [OnMostStableLock](../EventProcedures/CAPLfunctionOnMOSTStableLock.md) • [OnMostCriticalUnlock](../EventProcedures/CAPLfunctionOnMOSTCriticalUnlock.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

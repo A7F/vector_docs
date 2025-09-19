@@ -14,14 +14,14 @@
 - [Transmission Behavior API](#TransmissionAPI)
 - [Test Feature Set](#TFS)
 
-## General ADAS API 
+## General ADAS API
 
 **Functions** | **Short Description**
 --- | ---
 [ADASActivateFMU](Functions/CAPLfunctionADASActivateFMU.md) | This method is used to activate or deactivate a specified [FMU](../../CANoeCANalyzer/Interfaces/FMIConfig.md) that has been coupled via the [FMI](../../CANoeCANalyzer/Interfaces/FMI.md).
 [ADASSetOutputData](Functions/CAPLfunctionADASSetOutputData.md) | This method is used to set a byte array as ADAS output.
 
-## Ground Truth API 
+## Ground Truth API
 
 **Functions** | **Short Description**
 --- | ---
@@ -32,7 +32,7 @@
 [HasGroundTruthObjects](Functions/CAPLfunctionHasGroundTruthObject.md) | Checks if a special ground truth object exits.
 [SetHostVehicle](Functions/CAPLfunctionSetHostVehicle.md) | Sets the host vehicle for the ground truth.
 
-## Proj API 
+## Proj API
 
 **Functions** | **Short Description**
 --- | ---
@@ -40,7 +40,7 @@
 [Proj_TransformToGeo](Functions/CAPLfunctionProjTransformToGeo.md) | Transforms an inertial coordinate to a geodetic coordinate.
 [Proj_TransformToInertial](Functions/CAPLfunctionProjTransformToInertial.md) | Transforms a geodetic coordinate to an inertial coordinate.
 
-## Scenario API 
+## Scenario API
 
 **Functions** | **Short Description**
 --- | ---
@@ -56,7 +56,7 @@
 [OnScenarioStateChange](Functions/CAPLfunctionOnScenarioStateChange.md) | This callback is called when the state of the scenario has changed.
 [OnStationAttributeTrigger](Functions/CAPLfunctionOnStationAttributeTrigger.md) | This callback is called is called when the value of an attribute of a station has changed.
 
-## Sensor API 
+## Sensor API
 
 **Functions** | **Short Description**
 --- | ---
@@ -69,7 +69,7 @@
 [RemoveDetectedObject](Functions/CAPLfunctionRemoveDetectedObject.md) | This function can be used to remove a detected object from a sensor with a specific tracking Id.
 [SetDetectedObjectExpirationTime](Functions/CAPLfunctionSetDetectedObjectExpirationTime.md) | Sets a detected object to inactive after a special amount of time (in ms).
 
-## Transmission Behavior API 
+## Transmission Behavior API
 
 **Functions** | **Short Description**
 --- | ---
@@ -80,7 +80,7 @@
 [SetDetectedObjectsCompleted](Functions/CAPLfunctionSetDetectedObjectsCompleted.md) | This method is used to mark that the data of a sensor is completely available.
 [Update](Functions/CAPLfunctionUpdate.md) | A call of this method for a sensor sends all data of the sensor and the detected objects that were marked as completed.
 
-## Test Feature Set 
+## Test Feature Set
 
 **Functions** | **Short Description**
 --- | ---
@@ -95,7 +95,7 @@
 [TestWaitForADASGroundTruthObjectSpeed](Functions/CAPLfunctionTestWaitForADASGroundTruthObjectSpeed.md) | Waits for the occurrence of the first Moving Object matching the speed conditions passed as arguments.
 [TestWaitForADASGroundTruthObjectTimeToCollision](Functions/CAPLfunctionTestWaitForADASGroundTruthObjectTimeToCollision.md) | Waits for the occurrence of the first Moving Object matching the Time To Collision (TTC) conditions passed as arguments.
 
-## Test Service Library Checks 
+## Test Service Library Checks
 
 **Functions** | **Short Description**
 --- | ---

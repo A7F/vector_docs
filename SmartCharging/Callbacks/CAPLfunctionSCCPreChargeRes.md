@@ -32,8 +32,6 @@ The callback is called as soon as a PreCharge Response is received. Further deta
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

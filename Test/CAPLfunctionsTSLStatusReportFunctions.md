@@ -158,6 +158,4 @@ numEvents = ChkQuery_NumEvents_AsyncResult(checkId);
 
 The function `testWaitForCheckQuery` together with `ChkQuery_<function name>_AsyncResult` can also be used when the checks are evaluated synchronously. In this case `testWaitForCheckQuery` returns immediately.
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

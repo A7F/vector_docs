@@ -48,8 +48,6 @@ if((retVal = SomeIpGetLastError()) != 0)
 - [SomeIpSetProperty](CAPLfunctionSomeIpSetProperty.md#aanchor11923)
 - [SomeIpSetVerbosity](CAPLfunctionSomeIpSetVerbosity.md#aanchor2250)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

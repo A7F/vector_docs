@@ -55,8 +55,6 @@ WriteLineEx(0, 1, "This is black text with white background");
 
 [write](CAPLfunctionWrite.md) • [writeCreate](CAPLfunctionWriteCreate.md) • [writeClear](CAPLfunctionWriteClear.md) • [writeDestroy](CAPLfunctionWriteDestroy.md) • [writeEx](CAPLfunctionWriteEx.md) • [writeLineEx](CAPLfunctionWriteLineEx.md) • [writeTextBkgColor](CAPLfunctionWriteTextBkgColor.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

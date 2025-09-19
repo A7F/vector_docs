@@ -24,8 +24,6 @@ dword (treat as a Boolean value)
 - This property is not guaranteed to be set to **TRUE** for all compressed formats, so applications should generally not rely on this property. The most reliable way to determine whether a format is compressed is to maintain a list of known formats. If an application does not recognize a format, as specified in the [Subtype](CAPLfunctionSubType.md) property, it should not assume anything about the compression of the format.
 - To determine whether a format uses temporal compression (meaning that some samples are computed as deltas from earlier samples), check the [AllSamplesIndependent](CAPLfunctionAllSamplesIndependent.md) property.
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

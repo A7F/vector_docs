@@ -89,8 +89,6 @@ The calculation of the duty cycle for a bus system can differ. For e.g. LIN the 
 - [testWaitScopeGetSerialBitAnalysisData](../../Test/Functions/CAPLfunctionTestWaitScopeGetSerialBitAnalysisData.md)
 - [Class: scopeDutyCycleDefinition](CAPLfunctionScopeDutyCycleDefinition.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

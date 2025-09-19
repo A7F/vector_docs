@@ -38,8 +38,6 @@ Use the Null Address (0xFE) to switch the ECU to offline mode. In that explicit 
 Iso11783ECUGoOnline(ecuHdl, 0x06);
 ```
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

@@ -26,8 +26,6 @@
 - **46-0620**: Change of AVTP protocol in established stream
 - **46-0621**: Change of AVTP protocol format in established stream
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

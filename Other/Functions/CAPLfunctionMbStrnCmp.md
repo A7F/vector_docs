@@ -44,8 +44,6 @@ write("%d", mbstrncmp_off(s, 13, "german", 0, 6)); // 0
 
 [strncmp](CAPLfunctionStrnCmp.md) • [mbstrlen](CAPLfunctionMbStrLen.md) • [mbstrncpy](CAPLfunctionMbStrnCpy.md) • [mbstrstr](CAPLfunctionMbStrStr.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -56,6 +56,4 @@ These properties describe the functional properties of a real File Server that i
   - **Initial Value**: 0
   - **IL must be stopped**: No
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

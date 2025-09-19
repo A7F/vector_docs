@@ -38,8 +38,6 @@ The following reason values are defined based on the MOST Specification 3.0:
 
 [mostGetShutdownReason](../Functions/CAPLfunctionMOSTGetShutdownReason.md) • [mostSetShutdownReason](../Functions/CAPLfunctionMOSTSetShutdownReason.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

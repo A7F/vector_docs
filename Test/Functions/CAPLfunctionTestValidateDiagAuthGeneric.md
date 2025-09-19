@@ -36,8 +36,6 @@ On success 0, otherwise [error code](../../Diagnostics/CAPLfunctionsDiagnosticsE
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

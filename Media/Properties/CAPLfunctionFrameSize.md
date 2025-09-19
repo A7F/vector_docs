@@ -24,8 +24,6 @@ qword
 - To set this attribute, use the [MediaSetPropertySize](../Functions/CAPLfunctionMediaSetPropertySize.md) function.
 - To get this attribute, use the [MediaGetPropertySize](../Functions/CAPLfunctionMediaGetPropertySize.md) function.
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

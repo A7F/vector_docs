@@ -35,8 +35,6 @@ Gets the EVSENotification and its maximum delay, if present, from the EVSE statu
 
 —
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

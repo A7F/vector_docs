@@ -43,6 +43,4 @@ LONG version;
 version = Iso11783IL_OPGetProperty( "Version" );
 ```
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

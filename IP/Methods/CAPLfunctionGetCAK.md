@@ -28,8 +28,6 @@ Note that if the EAP-TLS protocol is in use, the CAK and CKN will be determined 
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

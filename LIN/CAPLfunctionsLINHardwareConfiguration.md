@@ -55,8 +55,6 @@ Certain network parameters depend on the used protocol version:
 
 - Settings identical LIN 1.x
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)

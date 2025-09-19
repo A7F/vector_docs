@@ -36,8 +36,6 @@ This function checks the data indication bits of all slave nodes defined in the 
 
 [linGetOEMDataInd](CAPLfunctionLINGetOEMDataInd.md) • [linSetOEMDataInd](CAPLfunctionLINSetOEMDataInd.md) • [linSetOEMDataIndTime](CAPLfunctionLINSetOEMDataIndTime.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -41,8 +41,6 @@ checkId = ChkStart_InconsistentDlc(VehicleMotion);
 result = TestWaitForMeasurementEnd(5000);
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

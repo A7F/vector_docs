@@ -39,8 +39,6 @@ Writes one or several chip registers in the MOST hardware and waits for the resu
 
 [TestMostReadReg](CAPLfunctionTestMostReadReg.md) • [TestMostRegGetData](CAPLfunctionTestMostRegGetData.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

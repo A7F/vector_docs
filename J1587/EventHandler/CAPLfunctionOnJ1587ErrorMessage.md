@@ -27,8 +27,6 @@ For passing this message to other node, `output(this)` must be called inside the
 }
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

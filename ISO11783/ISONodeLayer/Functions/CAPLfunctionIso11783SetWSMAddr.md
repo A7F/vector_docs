@@ -31,8 +31,6 @@ Use this function to set the address of the Working Set Master, if this ECU is a
 Iso11783SetWSMAddr( ecuHdl, 0x06 );
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

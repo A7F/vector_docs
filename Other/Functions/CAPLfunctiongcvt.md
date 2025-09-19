@@ -55,8 +55,6 @@ val2: 271828.182840: s: 2.7183e+005
 
 [atol](CAPLfunctionAtol.md) • [ltoa](CAPLfunctionltoa.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

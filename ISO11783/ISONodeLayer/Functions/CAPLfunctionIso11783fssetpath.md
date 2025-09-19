@@ -30,8 +30,6 @@ This function sets the root directory for the FS file functions of the node laye
 Iso11783FSSetPath("FSRoot");
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

@@ -26,8 +26,6 @@ Node ID of the previous master node. If the return value is 0 (zero), the functi
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

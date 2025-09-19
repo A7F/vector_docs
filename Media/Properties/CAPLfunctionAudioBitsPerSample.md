@@ -24,8 +24,6 @@ If some bits contain padding, set the [AudioValidBitsPerSample](CAPLfunctionAudi
 If the audio contains 8 bits per sample, the audio samples are unsigned values (each audio sample has the range 0–255).  
 If the audio contains 16 bits per sample or higher, the audio samples are signed values.
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  

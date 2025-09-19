@@ -38,8 +38,6 @@ Sets or returns the timeout for Vehicle Identification Requests, connect and rou
 
 —
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

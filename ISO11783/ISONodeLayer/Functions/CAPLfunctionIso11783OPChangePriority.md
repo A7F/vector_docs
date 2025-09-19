@@ -32,8 +32,6 @@ The function changes the priority of an alarm mask. A **Change Priority** comman
 Iso11783OPChangePriority( handle, 1200, 2 );
 ```
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

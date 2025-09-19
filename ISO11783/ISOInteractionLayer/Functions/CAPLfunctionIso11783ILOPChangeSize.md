@@ -35,6 +35,4 @@ The function changes the size of an object. A **Change Size** command to the Vir
 Iso11783IL_OPChangeSize( 1200, 80, 40 );
 ```
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

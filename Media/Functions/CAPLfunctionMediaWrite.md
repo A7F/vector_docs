@@ -36,8 +36,6 @@ Delivers sample data to the sink writer. The buffer can be reused immediately af
 
 [See Also](javascript:void(0);)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

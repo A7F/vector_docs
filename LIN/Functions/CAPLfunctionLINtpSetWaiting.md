@@ -31,8 +31,6 @@ Sets ISO TP waiting state for the node. When waiting has been activated the node
 
 —
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

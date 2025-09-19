@@ -33,8 +33,6 @@ diff = this.time - m100.time; // CANalyzer 2.xx
 
 [timeNow](CAPLfunctionTimeNow.md) • [timeNowFloat](CAPLfunctionTimeNowFloat.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

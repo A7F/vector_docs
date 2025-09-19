@@ -54,8 +54,6 @@ dword
 - [Mpeg4SampleDescription](CAPLfunctionMpeg4SampleDescription.md#aanchor2114)
 - [OriginalWaveFormatTag](CAPLfunctionOriginalWaveFormatTag.md#aanchor16049)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

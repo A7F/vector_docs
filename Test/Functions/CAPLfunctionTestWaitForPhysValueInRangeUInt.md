@@ -42,8 +42,6 @@ This function can only be used for **valueHandles** with an unsigned integer dat
 
 [TestWaitForPhysValueInRangeFloat](CAPLfunctionTestWaitForPhysValueInRangeFloat.md) • [TestWaitForPhysValueInRangeSInt](CAPLfunctionTestWaitForPhysValueInRangeSInt.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

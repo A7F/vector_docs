@@ -31,8 +31,6 @@ This function returns the Security-Validation-State of a received SOME/IP messag
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

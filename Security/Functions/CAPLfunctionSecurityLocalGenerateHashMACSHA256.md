@@ -46,8 +46,6 @@ dword result = 255;
 result = SecurityLocalGenerateHashMACSHA256(key, elCount(key), data, elCount(data), output);
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

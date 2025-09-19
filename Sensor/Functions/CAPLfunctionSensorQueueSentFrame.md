@@ -42,8 +42,6 @@ frame.CrcBits = 0; // Will be set automatically
 sensorQueueSentFrame("SENSOR::SENT::ExampleChannel", frame);
 ```
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

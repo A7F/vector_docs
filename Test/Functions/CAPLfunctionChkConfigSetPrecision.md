@@ -44,8 +44,6 @@ This function allows you to configure the time basis for new checks to be create
 chkConfig_SetPrecision(6);
 ```
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

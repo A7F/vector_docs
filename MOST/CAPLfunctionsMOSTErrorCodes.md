@@ -32,6 +32,4 @@
 - **kMostXML4CAPLParamTypeMismatch = -35**: The function has attempted to read a value that does not have the compatible data type.
 - **kMostXML4CAPLEncodingMismatch = -36**: The function cannot read the string or raw data, since the coding does not match.
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

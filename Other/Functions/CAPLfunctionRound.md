@@ -35,6 +35,4 @@ result = _round(2.5); // result == 3
 result = _round(-3.5); // result == -4
 ```
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

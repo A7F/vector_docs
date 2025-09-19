@@ -47,8 +47,6 @@ The event procedure `OnMostStress()` will be called before the beginning and aft
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

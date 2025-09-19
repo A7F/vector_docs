@@ -37,8 +37,6 @@ If it is false (anlyzLocal is set to 0), value changes are always transmitted to
 sysSetAnalysisOnlyVariable(sysvar::MyNamespace::StringVar, 1);
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

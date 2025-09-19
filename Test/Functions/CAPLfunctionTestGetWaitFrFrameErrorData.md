@@ -33,8 +33,6 @@ For an example see function [TestWaitForFrFrame](CAPLfunctionTestWaitForFrFrame.
 
 [TestWaitForFrFrameError](CAPLfunctionTestWaitForFrFrameError.md) • [TestJoinFrFrameErrorEvent](CAPLfunctionTestJoinFrFrameErrorEvent.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

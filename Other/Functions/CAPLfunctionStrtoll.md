@@ -46,8 +46,6 @@ res = strtoll(s, res, number2);
 write("number2: %I64d, res: %d", number2, res); // output: number2: 255, res: 8
 ```
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
 
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -18,8 +18,6 @@
 - **46-0506**: Operation is only possible if IL is activate
 - **46-0507**: Buffer too small
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  

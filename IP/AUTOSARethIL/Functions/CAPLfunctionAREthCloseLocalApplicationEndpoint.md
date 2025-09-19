@@ -46,8 +46,6 @@ on key 't'
 
 See Also: [AREthCloseLocalApplicationEndpoint](#aanchor3596), [AREthOpenLocalApplicationEndpoint](CAPLfunctionAREthOpenLocalApplicationEndpoint.md#aanchor9093), [AREthTlsAuthenticateAsClientWithConfiguration](CAPLFunctionAREthTlsAuthenticateAsClientWithConfiguration.md#aanchor31467), [AREthTlsAuthenticateAsServerWithConfiguration](CAPLFunctionAREthTlsAuthenticateAsServerWithConfiguration.md#aanchor23311)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

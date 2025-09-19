@@ -30,8 +30,6 @@ This callback is called when a VS_Get_Status.Req message (from a VertexCom PLC c
 
 [SCC_VS_Get_Status_Cnf](CAPLfunctionSCCVSGetStatusCnf.md)
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

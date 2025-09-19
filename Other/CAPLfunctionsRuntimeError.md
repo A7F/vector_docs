@@ -17,8 +17,6 @@ If a runtime error is detected the function [runError](Functions/CAPLfunctionRun
 
 The user can also call the function [runError](Functions/CAPLfunctionRunError.md) directly to generate assertions.
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)

@@ -35,6 +35,4 @@ Creates a Power Delivery Response message for sending, using the AC syntax.
 
 —
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

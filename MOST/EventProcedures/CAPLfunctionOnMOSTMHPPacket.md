@@ -92,7 +92,6 @@ The return value determines whether the MHP packet event is relayed to the next 
 
 [MOST High Protocol: Simulation of Sender and Receiver](../../../CANoeCANalyzer/MOST/MOSTSimulationApplicationSocketLocalFBlockList.md) • [OnMostMHPBlock](CAPLfunctionOnMOSTMHPBlock.md) • [OnMostMHPError](CAPLfunctionOnMOSTMHPError.md) • [mostMHPPacketSetTraceColors](../Functions/CAPLfunctionMOSTMHPPacketSetTraceColors.md) • [MOST High Observer and Combiner](../CAPLfunctionsMOSTHighObserverCombiner.md)
 
-© Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

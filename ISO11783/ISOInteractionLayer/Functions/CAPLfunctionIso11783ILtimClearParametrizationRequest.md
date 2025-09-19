@@ -40,6 +40,4 @@ The function removes all information added by [Iso11783IL_TIMExtendParametrizati
 
 See [Iso11783IL_TIMSendParametrizationRequest](CAPLfunctionIso11783ILtimSendParametrizationRequest.md)
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

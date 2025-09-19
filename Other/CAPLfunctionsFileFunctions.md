@@ -16,8 +16,6 @@ If file functions are used in CAPL programs in the Simulation Setup or test setu
 
 [File Access CAPL Functions](CAPLfunctionsGeneralOverview.md#FileFunctions) • [File Search Procedure](CAPLfunctionsFileSearchProcedure.md) • [Configuration Requirements](../../CANoeCANalyzer/RTSetup/DistributedMode/DistributedModeConfigRequirements.md)
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -76,8 +76,6 @@ on key 's'
 - [SomeIpIsOptional](../../SOMEIPIL/Functions/CAPLfunctionSomeIpIsOptional.md#aanchor16904)
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

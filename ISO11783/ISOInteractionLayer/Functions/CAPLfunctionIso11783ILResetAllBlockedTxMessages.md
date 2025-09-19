@@ -28,8 +28,6 @@ Resets the changes of all [Iso11783IL_BlockTxMessage](CAPLfunctionIso11783ILBloc
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

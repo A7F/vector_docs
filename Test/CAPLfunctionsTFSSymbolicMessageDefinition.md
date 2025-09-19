@@ -75,8 +75,6 @@ In this context, the input assistant permits the description of messages up to p
 
 In the event of an error during parsing and resolution of the message string, all functions show a return value. In this case the function returns immediately without waiting. The error is displayed in the Write Window and recorded in the report.
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

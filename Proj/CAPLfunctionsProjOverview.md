@@ -14,8 +14,6 @@ Functions to convert geodetic to inertial coordinates and vice versa.
 - [Proj_TransformToGeo](Functions/CAPLfunctionProjTransformToGeo.md): Transforms an inertial coordinate to a geodetic coordinate.
 - [Proj_TransformToInertial](Functions/CAPLfunctionProjTransformToInertial.md): Transforms a geodetic coordinate to an inertial coordinate.
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)

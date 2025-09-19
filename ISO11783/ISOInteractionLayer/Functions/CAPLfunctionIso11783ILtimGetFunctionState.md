@@ -59,8 +59,6 @@ If this function is called for a TIM client, the function returns state **0** (A
 
 [Iso11783IL_TIMOnFunctionStateChanged](CAPLfunctionIso11783ILtimOnFunctionStateChanged.md)
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

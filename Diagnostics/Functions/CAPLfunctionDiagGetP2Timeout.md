@@ -55,8 +55,6 @@ write( "Current P2 = %d", diagGetP2Timeout(0));
 write( "Configured P2 = %d", diagGetP2Timeout(2));
 ```
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

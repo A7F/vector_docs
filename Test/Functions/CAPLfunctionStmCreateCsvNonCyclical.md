@@ -89,8 +89,6 @@ Time, StimSig
 
 [Stimulus Generator: CSV File as Data Source](../CAPLfunctionsTSLStimulusCsvFile.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

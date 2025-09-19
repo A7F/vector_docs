@@ -35,8 +35,6 @@ Resets the change of all [Iso11783_DelayRxMessage](CAPLfunctionIso11783ILDelayRx
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

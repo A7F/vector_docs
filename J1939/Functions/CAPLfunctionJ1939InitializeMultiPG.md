@@ -45,8 +45,6 @@ message* myMultiPG;
 J1939InitializeMultiPG(myMultiPG, 6, 0x45, 0x23);
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

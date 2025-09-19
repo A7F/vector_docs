@@ -27,8 +27,6 @@ This structure defines a bitmask for the eye diagram analysis.
   - Type: Long[10]
   - Access Limitations: Read-only
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -22,8 +22,8 @@ Enables to register/unregister a CAPL callback function for an object which has 
   - Provided events ([`<OnAREthPrepareEvent>`](CAPLfunctionOnAREthPrepareEvent.md))
   - Provided methods ([`<OnAREthMethodRequest>`](CAPLfunctionOnAREthMethodRequest.md))
   - Consumed events ([`<OnAREthEventReceived>`](CAPLfunctionOnAREthEventReceived.md))
-  - Consumed fields ([\`<OnAREthFieldNotification>`](CAPLfunctionOnAREthFieldNotification.md))
-  - Consumed methods ([\`<OnAREthMethodResponse>`](CAPLfunctionOnAREthMethodResponse.md))
+  - Consumed fields ([`<OnAREthFieldNotification>`](CAPLfunctionOnAREthFieldNotification.md))
+  - Consumed methods ([`<OnAREthMethodResponse>`](CAPLfunctionOnAREthMethodResponse.md))
 
 - **callbackName**: The name of the new callback function to register. If a callback function was already registered, it is first unregistered and then replaced by the new one.
 
@@ -37,8 +37,6 @@ Enables to register/unregister a CAPL callback function for an object which has 
 —
 
 [See Also](javascript:void(0);)
-
-© Vector Informatik GmbH
 
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 

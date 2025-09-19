@@ -42,6 +42,4 @@ If the **Product identification** message is in the Tx list of the TIM node and 
 Iso11783IL_TIMSetProductIdentification ("1234567890ABC*Brand B*1962i*");
 ```
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

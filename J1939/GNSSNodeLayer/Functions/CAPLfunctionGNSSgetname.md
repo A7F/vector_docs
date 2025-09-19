@@ -32,8 +32,6 @@ char name[8];
 GNSSGetName( 10, name );
 ```
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

@@ -45,8 +45,6 @@ Returns the value of a variable of a 64 bit integer type.
 
 ---
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -32,8 +32,6 @@ If the event procedure should only react to events on channel 1 this is defined 
 
 [mostGetRxLight](../Functions/CAPLfunctionMOSTGetRxLight.md) • [mostGetLock](../Functions/CAPLfunctionMOSTGetLock.md) • [OnMostTxLight](CAPLfunctionOnMOSTTXLight.md) • [mostLightLockError - Selectors](../Selectors/CAPLfunctionMOSTSelectors.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

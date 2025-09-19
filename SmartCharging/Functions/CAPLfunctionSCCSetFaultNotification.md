@@ -30,8 +30,6 @@ Sets the fault code and message for the next V2G message. The fault code is cont
 
 —
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  

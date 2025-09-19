@@ -40,8 +40,6 @@ substr_cpy(s1, s2, 0, 6, elcount(s1)); // s1: Vector
 
 [strstr](CAPLfunctionStrStr.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

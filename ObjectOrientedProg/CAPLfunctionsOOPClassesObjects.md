@@ -26,8 +26,6 @@ In CAPL predefined data types are available that can be used like classes in obj
 
 [Detailed Description about Classes and Objects in CAPL](../../Shared/CAPL/General/ClassesAndObjects.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)

@@ -35,8 +35,6 @@ Queries the Light Status at the Fiber Optical Transmitter (FOR).
 
 [mostSetTxLight](CAPLfunctionMOSTSetTxLight.md) • [mostGetRxLight](CAPLfunctionMOSTGetRxLight.md) • [mostGetChannel](CAPLfunctionMOSTGetChannel.md) • [OnMostTxLight](../EventProcedures/CAPLfunctionOnMOSTTXLight.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

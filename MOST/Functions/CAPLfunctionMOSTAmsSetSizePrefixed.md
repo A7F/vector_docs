@@ -46,8 +46,6 @@ Activate special size prefix length for AMS messages with more than 200 bytes pa
 mostAmsSetSizePrefixed(1, 200);
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -32,8 +32,6 @@ This function sets the value of an environment variable.
 Iso11783SetEnvDbl( "EvFrictionForce", 1, 33.12 );
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

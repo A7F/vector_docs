@@ -43,8 +43,6 @@ Write("Result: %d, Output: %s", res, output);
 
 [StringToBytes](CAPLfunctionStringToBytes.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

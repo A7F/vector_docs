@@ -25,7 +25,7 @@ To use the CAPL functions the **ISO11783_TC_IL.dll** i.e. [Task Controller Inter
 
 ---
 
-#### Callback Functions 
+#### Callback Functions
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -39,7 +39,7 @@ To use the CAPL functions the **ISO11783_TC_IL.dll** i.e. [Task Controller Inter
 | [TCIL_OnTxMessage](Functions/CAPLfunctionIso11783TCILOnTxMessage.md) | Is called if a message was sent successfully. |
 | [TCIL_OnTxPrepare](Functions/CAPLfunctionIso11783TCILOnTxPrepare.md) | Is called before a parameter group is sent. |
 
-#### DTC Support 
+#### DTC Support
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -49,7 +49,7 @@ To use the CAPL functions the **ISO11783_TC_IL.dll** i.e. [Task Controller Inter
 | [TCIL_DeactivateDTC](Functions/CAPLfunctionIso11783TCILDeactivateDTC.md) | Deactivates a diagnostics trouble code (DTC) and removes it from the list of active DTCs. |
 | [TCIL_GetDTCStatus](Functions/CAPLfunctionIso11783TCILGetDTCStatus.md) | Returns the current occurrence count of a diagnostics trouble code (DTC). |
 
-#### Node Control 
+#### Node Control
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -64,7 +64,7 @@ To use the CAPL functions the **ISO11783_TC_IL.dll** i.e. [Task Controller Inter
 | [TCIL_SetNodeProperty](Functions/CAPLfunctionIso11783TCILSetNodeProperty.md) | Changes an internal property of the node. |
 | [TCIL_GetDeviceName](Functions/CAPLfunctionIso11783TCILGetDeviceName.md) | Gets the NAME as reported on the bus. |
 
-#### Other Functions 
+#### Other Functions
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -72,7 +72,7 @@ To use the CAPL functions the **ISO11783_TC_IL.dll** i.e. [Task Controller Inter
 | [TCIL_GetLastErrorText](Functions/CAPLfunctionIso11783TCILGetLastErrorText.md) | Returns the textual description of the value of the last called TC IL function. |
 | [TCIL_SetVerbosity](Functions/CAPLfunctionIso11783TCILSetVerbosity.md) | Set verbosity for writing in Write Window. |
 
-#### Signal/Message Access 
+#### Signal/Message Access
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -81,7 +81,7 @@ To use the CAPL functions the **ISO11783_TC_IL.dll** i.e. [Task Controller Inter
 | [TCIL_SetSignal](Functions/CAPLfunctionIso11783TCILSetSignal.md) | Sets the physical value of a signal. |
 | [TCIL_SetSignalRaw](Functions/CAPLfunctionIso11783TCILSetSignalRaw.md) | Sets the raw value of a signal. |
 
-#### TC – Client Control 
+#### TC – Client Control
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -98,7 +98,7 @@ To use the CAPL functions the **ISO11783_TC_IL.dll** i.e. [Task Controller Inter
 | [TCIL_ValueCommandRaw](Functions/CAPLfunctionIso11783TCILValueCommandRawPhysical.md) | Sets the value of a data entity (using the raw value) and sends the value to the client with **Value command**. |
 | [TCIL_ValueCommandPhysical](Functions/CAPLfunctionIso11783TCILValueCommandRawPhysical.md) | Sets the value of a data entity (using the physical value) and sends the value to the client with **Value command**. |
 
-#### TC – Fault Injection for Messages 
+#### TC – Fault Injection for Messages
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -119,7 +119,7 @@ To use the CAPL functions the **ISO11783_TC_IL.dll** i.e. [Task Controller Inter
 | [TCIL_SetTCStatus](Functions/CAPLfunctionIso11783TCILSetTCStatus.md) | Changes the content and cycle time of the TC Status message. |
 | [TCIL_ResetTCStatus](Functions/CAPLfunctionIso11783TCILResetTCStatus.md) |  |
 
-#### TC – Fault Injection for Transport Protocols 
+#### TC – Fault Injection for Transport Protocols
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -147,7 +147,7 @@ To use the CAPL functions the **ISO11783_TC_IL.dll** i.e. [Task Controller Inter
 | [TCIL_UnfreezeTp](Functions/CAPLfunctionIso11783TCILUnfreezeTp.md) |  |
 | [TCIL_KillTp](Functions/CAPLfunctionIso11783TCILKillTp.md) |  |
 
-#### TC – Other Functions 
+#### TC – Other Functions
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -162,7 +162,7 @@ To use the CAPL functions the **ISO11783_TC_IL.dll** i.e. [Task Controller Inter
 | [TCIL_MakeDdopAvailable](Functions/CAPLfunctionIso11783TCILMakeDdopAvailable.md) | Enables a device descriptor object pool (DDOP) to be loaded by Object-pool Activate message. |
 | [TCIL_RemoveAllDdops](Functions/CAPLfunctionIso11783TCILRemoveAllDdops.md) | Removes the device descriptor object pools of all Task Controller clients. |
 
-#### TC – Peer Control 
+#### TC – Peer Control
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -173,7 +173,7 @@ To use the CAPL functions the **ISO11783_TC_IL.dll** i.e. [Task Controller Inter
 | [TCIL_UnassignReceiver](Functions/CAPLfunctionIso11783TCILUnassignReceiver.md) | Sends an **Unassign Receiver** message to the **setpoint value user** device. |
 | [TCIL_UnassignTransmitter](Functions/CAPLfunctionIso11783TCILUnassignTransmitter.md) | Sends an **Unassign Transmitter** message to the **setpoint value source** device. |
 
-#### TC – Value Access 
+#### TC – Value Access
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -186,7 +186,6 @@ To use the CAPL functions the **ISO11783_TC_IL.dll** i.e. [Task Controller Inter
 
 [IL Error Codes](../../CAPLfunctionsISOj1939ErrorCodes.md) • [TC IL Functional Properties](CAPLfunctionsISOILTCProperties.md) • [TC IL Network Properties](CAPLfunctionsISOILTCNetworkProperties.md)
 
-© Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

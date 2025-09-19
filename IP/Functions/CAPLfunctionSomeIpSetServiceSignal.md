@@ -36,8 +36,6 @@ Sets the value of a Service Signal.
 
 [SetServiceSignalData](CAPLfunctionSomeIpSetServiceSignalData.md) • [SetServiceSignalString](CAPLfunctionSomeIpSetServiceSignalString.md) • [GetServiceSignal](CAPLfunctionSomeIpGetServiceSignal.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -31,8 +31,6 @@ Interrupt of a transfer that has previously been started with [Iso11783TxReqPG()
 Iso11783TxAbort(ecuHdl, 0xFE09)
 ```
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

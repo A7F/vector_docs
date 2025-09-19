@@ -77,8 +77,6 @@ If the media type uses color primaries that are not identified by the above valu
 - [VideoRotation](CAPLfunctionVideoRotation.md#aanchor20469)
 - [YuvMatrix](CAPLfunctionYuvMatrix.md#aanchor18492)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

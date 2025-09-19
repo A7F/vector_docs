@@ -42,8 +42,6 @@ Sets the Light Status at the Fiber Optical Transmitter (FOT).
 
 [mostGetRxLight](CAPLfunctionMOSTGetRxLight.md) • [mostGetTxLight](CAPLfunctionMOSTGetTxLight.md) • [mostSetTxLightPower](CAPLfunctionMOSTSetTxLightPower.md) • [mostGetChannel](CAPLfunctionMOSTGetChannel.md) • [OnMostTxLight](../EventProcedures/CAPLfunctionOnMOSTTXLight.md) • [mostShutDown](CAPLfunctionMOSTShutDown.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

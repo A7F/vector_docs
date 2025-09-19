@@ -47,7 +47,6 @@ Generates and sends an error message directly based on a received command messag
 
 [on mostAMSMessage](../EventProcedures/CAPLfunctionOnMOSTAMSMessage.md) • [output(mostAMSMessage * msg)](CAPLfunctionMOSToutput.md) • [mostPrepareReport](CAPLfunctionMOSTPrepareReport.md)
 
-© Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

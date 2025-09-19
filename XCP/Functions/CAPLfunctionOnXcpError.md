@@ -30,8 +30,6 @@ Whenever the XCP slaves answers with a negative response (i.e. not 0xFF) the OnX
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

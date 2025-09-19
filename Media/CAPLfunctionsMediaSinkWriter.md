@@ -20,8 +20,6 @@ The application passes audio/video data to the sink writer as input. It does not
 
 [Media Concepts](CAPLfunctionsMediaConcept.md) • [Media Formats](CAPLfunctionsMediaFormats.md) • [Source Reader](CAPLfunctionsMediaSouceReader.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -32,8 +32,6 @@ In this context, the input assistant permits the description of messages up to O
 
 [mostAMSOutput](Functions/CAPLfunctionMOSTAmsOutput.md) • [mostMsgSet](Functions/CAPLfunctionMOSTMsgSet.md) • [Symbolic Identification of Parameters](CAPLfunctionsMOSTSymIDParam.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)

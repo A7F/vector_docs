@@ -61,8 +61,6 @@ return = TestWaitForValueInput("Test Text", "Test Caption", "Test Value Input Ti
 write("Result: %f", TestGetValueInput());
 ```
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

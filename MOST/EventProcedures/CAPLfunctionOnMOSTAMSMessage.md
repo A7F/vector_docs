@@ -47,8 +47,6 @@ The following examples show various modes of the event procedure `on mostAMSMess
 - `on mostAMSMessage 0x22104C,0x312010-0x31201F`  
   React to messages `0x22104C` and `0x31201c` through `0x31201F`.
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  

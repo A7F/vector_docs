@@ -50,8 +50,6 @@ if (testWaitForScopeEvent(eScopeTriggered, 50000) != 1)
 testStep("Initialization","Scope hardware triggered successfully");
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

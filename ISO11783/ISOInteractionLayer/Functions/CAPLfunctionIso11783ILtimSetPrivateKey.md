@@ -31,8 +31,6 @@ Loads an ECC private key file which is used for TIM authentication. If there is 
 
 —
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)  

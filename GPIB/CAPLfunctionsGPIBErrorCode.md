@@ -38,8 +38,6 @@ Integer, Range: 0..28
 - **27**: The event notification was cancelled due to a reset of the interface
 - **28**: CANoe spec.: no GPIB Bus available
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  

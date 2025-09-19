@@ -30,8 +30,6 @@ On success 0, otherwise a value less than 0.
 
 •  Technical References are only available in English
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

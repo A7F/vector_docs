@@ -33,8 +33,6 @@ Waits for the occurrence of a received valid message. Should the message not occ
 
 [TestWaitForDiagKLineFrameTransmitted](CAPLfunctionTestWaitForDiagKLineFrameTransmitted.md) • [TestGetWaitKLineEventFrame](CAPLfunctionTestGetWaitEventKLineFrame.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -38,7 +38,6 @@ This function shows no effect if the StressNIC is not set to slave mode. For tha
 
 [mostGenerateBusloadCtrl](CAPLfunctionMOSTGenerateBusloadCtrl.md) • [mostGenerateLightError](CAPLfunctionMOSTGenerateLightError.md) • [mostGenerateLockError](CAPLfunctionMOSTGenerateLockError.md) • [mostConfigureBusloadAsync](CAPLfunctionMOSTConfigureBusloadAsync.md) • [outputMostPkt](CAPLfunctionMOSTOutputMostPkt.md) • [OnMostStress](../EventProcedures/CAPLfunctionOnMOSTStress.md)
 
-© Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -29,8 +29,6 @@ Checks if the parameter group number (PGN) contained in the CAN ID has the [PDU 
 
 [J1939IsPDU1](CAPLfunctionJ1939IsPDU1.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

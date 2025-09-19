@@ -40,7 +40,6 @@ You can enter the single parts of a function address in numeric or symbolic nota
 
 [General Tips on XML Function Catalog Support in CAPL](CAPLfunctionsMOSTXMLSupport.md)
 
-© Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

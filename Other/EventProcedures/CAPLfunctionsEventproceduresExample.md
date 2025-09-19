@@ -14,8 +14,6 @@ When one of the following events occurs (Message with ID 100 is received, key a 
 
 In doing so, an appropriate text is always output to the Write Window by the [write](../Functions/CAPLfunctionWrite.md) function.
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

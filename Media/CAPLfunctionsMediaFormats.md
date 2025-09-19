@@ -127,7 +127,6 @@ Supported media formats (by Microsoft Media Foundation; additional formats can b
   - Encoder: Windows Media Video 9 encoder, Windows Media Video 9 Screen encoder, Windows Media Video 7/8 encoder
   - Requirements: Windows Vista
 
-© Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

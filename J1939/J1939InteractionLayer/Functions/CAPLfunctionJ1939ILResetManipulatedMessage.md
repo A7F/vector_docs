@@ -34,6 +34,4 @@ Resets the change of a single [J1939ILManipulateMessage](CAPLfunctionJ1939ILMani
 
 See example of [J1939ILManipulateMessage](CAPLfunctionJ1939ILManipulateMessage.md).
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

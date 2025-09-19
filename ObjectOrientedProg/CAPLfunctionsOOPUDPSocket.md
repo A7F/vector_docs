@@ -22,8 +22,6 @@ This class is used to implement UDP network communications.
 
 [More on TCP/IP API](../TCPIPAPI/CAPLfunctionsTCPIPOverview.md)
 
-© Vector Informatik GmbH
-
 **Version:** CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)

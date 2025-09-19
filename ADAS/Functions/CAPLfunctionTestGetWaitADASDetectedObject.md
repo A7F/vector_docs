@@ -46,8 +46,6 @@ if(TestWaitForADASDistance(kUnderThreshold,30, 1000))
 }
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

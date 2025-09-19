@@ -21,7 +21,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - [Structs of System Variables](#FunctionsValueElements)
 - [Variable Filters](#FunctionsVariableFilters)
 
-## Define Variables 
+## Define Variables
 
 - [sysDefineVariableData](Functions/CAPLfunctionSysDefineVariableData.md): Defines a variable of the data type.
 - [sysDefineVariableFloat](Functions/CAPLfunctionSysDefineVariableFloat.md): Defines a variable of the float type.
@@ -31,13 +31,13 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - [sysDefineVariableLongLong](Functions/CAPLfunctionSysDefineVariableLongLong.md): Defines a variable of the Int64 type.
 - [sysDefineVariableString](Functions/CAPLfunctionSysDefineVariableString.md): Defines a variable of the String (char[]) type.
 
-## General Functions 
+## General Functions
 
 - [sysDefineNamespace](Functions/CAPLfunctionSysDefineNameSpace.md): Defines a namespace.
 - [sysUndefineNamespace](Functions/CAPLfunctionSysUndefineNameSpace.md): Deletes a namespace.
 - [sysUndefineVariable](Functions/CAPLfunctionSysUndefineVariable.md): Deletes a variable.
 
-## Return Data of a Variable 
+## Return Data of a Variable
 
 - [SysGetOrigTimeNS](Functions/CAPLfunctionSysGetOrigTimeNS.md): Returns the original time stamp of the last update to the variable value.
 - [sysGetVariableArrayLength](Functions/CAPLfunctionSysGetVariableArrayLength.md): Returns the length of an array system variable.
@@ -59,7 +59,7 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - [sysGetVariableValueForDescription](Functions/CAPLfunctionSysGetVariableValueForDescription.md): Retrieves the value for a value description of a system variable of type long or long array.
 - [sysIsVariableTypeSigned](Functions/CAPLfunctionSysIsVariableTypeSigned.md): Returns whether the data type of a system variable is signed.
 
-## Set the Value of a Variable 
+## Set the Value of a Variable
 
 - [sysResetValue](Functions/CAPLfunctionSysResetValue.md): Resets a system variable to its initial value.
 - [sysResetValues](Functions/CAPLfunctionSysResetValues.md): Resets all system variables in a namespace to their initial values.
@@ -77,14 +77,14 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - [sysSetVariableQWord](Functions/CAPLfunctionSysSetVariableQWord.md): Sets the value of a variable of the qword type.
 - [sysSetVariableString](Functions/CAPLfunctionSysSetVariableString.md): Sets the value of a variable of the string (char[]) type.
 
-## Structs of System Variables 
+## Structs of System Variables
 
 - [sysBeginVariableStructUpdate](Functions/CAPLfunctionSysBeginVariableStructUpdate.md): Starts the update of several elements of a system variable of type struct or generic array.
 - [sysEndVariableStructUpdate](Functions/CAPLfunctionSysEndVariableStructUpdate.md): Ends the update of several elements of a system variable of type struct or generic array.
 - [sysGetVariableMemberPhys](Functions/CAPLfunctionSysGetVariableMemberPhys.md): Retrieves the physical value of a specific element of a variable of type struct or generic array.
 - [sysSetVariableMemberPhys](Functions/CAPLfunctionSysSetVariableMemberPhys.md): Sets the physical value of a specific element of a variable of type struct or generic array.
 
-## Variable Filters 
+## Variable Filters
 
 - [sysCreateVariableFilter](Functions/CAPLfunctionSysCreateVariableFilter.md): Creates a new variable filter behind the node calling the function.
 - [sysFilterAddNamespace](Functions/CAPLfunctionSysFilterAddNamespace.md): Adds a namespace to the variable filter.
@@ -94,8 +94,6 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - [sysSetVariableFilterActive](Functions/CAPLfunctionSysSetVariableFilterActive.md): Activates or deactivates a variable filter.
 
 [System Variables](../../Shared/SystemVariables/SysVar.md) • [Direct Access to Values from System Variables](../../Shared/CAPL/SignalOrientedProgramming/SOPAccessSystemVariable.md)
-
-© Vector Informatik GmbH
 
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 

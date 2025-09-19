@@ -54,8 +54,6 @@ on message 101
 
 [Access to signal values using this](../../CAN/EventProcedures/CAPLfunctionOnMessage.md) • [Selectors](../../../Shared/CAPL/General/SelectorsOverview.md)
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -32,8 +32,6 @@ The callback is called as soon as a `VS_Host_Action.Ind` message is received. Th
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

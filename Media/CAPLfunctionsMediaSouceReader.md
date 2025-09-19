@@ -24,8 +24,6 @@ The source reader is not recommended in the following situations:
 
 [Media Concepts](CAPLfunctionsMediaConcept.md) • [Media Formats](CAPLfunctionsMediaFormats.md) • [Sink Writer](CAPLfunctionsMediaSinkWriter.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)

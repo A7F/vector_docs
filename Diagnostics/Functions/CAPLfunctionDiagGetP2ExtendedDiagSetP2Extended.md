@@ -53,8 +53,6 @@ write("Current P2 = %d", diagGetP2Extended(0));
 write("Original value at interface = %d", diagGetP2Extended(1));
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

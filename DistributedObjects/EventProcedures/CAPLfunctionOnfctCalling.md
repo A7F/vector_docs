@@ -80,6 +80,4 @@ on fct_calling MirrorAdjustment[all,LeftMirror].Adjust
 
 [Programming with the Communication Concept (C#, Python and CAPL)](../../../CANoeCANalyzer/CommunicationConcept/Programming/CCP.md) • [on fct_Called](CAPLfunctionOnfctCalled.md) • [on fct_Returning](CAPLfunctionOnfctReturning.md)
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

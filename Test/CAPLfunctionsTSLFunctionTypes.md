@@ -25,8 +25,6 @@ Types of arguments (defined in CAPL) that can be handed over.
 - **Duration**: Length of an interval with the unit of the current precision. (Default: milliseconds)
 - **Check**: Reference-ID of a check (type "dword"), returned on check creation.
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)

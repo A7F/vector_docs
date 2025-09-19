@@ -62,8 +62,6 @@ The value of this property is one of the following:
 - [VideoRotation](CAPLfunctionVideoRotation.md#aanchor20469)
 - [YuvMatrix](CAPLfunctionYuvMatrix.md#aanchor18492)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -71,7 +71,6 @@ Sets the name of the logging file. If a valid extension is given it also changes
 - `setLogFileName( "newlog.notSupportedExtension" );`  
   Does nothing //filename extension not valid
 
-© Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

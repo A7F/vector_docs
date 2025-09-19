@@ -46,8 +46,6 @@ This callback is dispatched when an asynchronous read operation on a source read
 
 [See Also](javascript:void(0);)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -41,6 +41,4 @@ To release connection between the system variable, just call the same method aga
 Iso11783IL_TIMConnectSysVarToSynchronizationPoint (TIMClient, "Server::SynchPoint");
 ```
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

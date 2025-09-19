@@ -29,8 +29,6 @@ Draws a map object in the Map Window with the configured parameters. Function mu
 
 See [Map Window API example](../CAPLfunctionMapWindowAPI.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

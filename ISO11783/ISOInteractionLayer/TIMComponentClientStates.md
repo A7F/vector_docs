@@ -170,8 +170,6 @@ The following table contains the states of a connection from the TIM client to t
 
 [TIM Component](../../../CANoeCANalyzer/ISO11783/ISO11783IL/TIMComponent/TIMComponent.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

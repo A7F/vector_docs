@@ -29,8 +29,6 @@ Stops the charging session when inside the charge loop, by starting a regular sh
 
 —
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  

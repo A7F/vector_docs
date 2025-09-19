@@ -35,8 +35,6 @@ These test steps are subject to the common test step report filtering as configu
 
 [Test Feature Set CAPL Functions](../CAPLfunctionsTFSOverview.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -54,8 +54,6 @@ on key F2 {
 
 [Class: Timer, MS Timer](../../ObjectOrientedProg/CAPLfunctionsOOPTimer.md) • [setTimer](CAPLfunctionSetTimer.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

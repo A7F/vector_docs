@@ -50,8 +50,6 @@ Note: This function is only valid during a `SCC_MessageTxInd()` callback with Me
 
 [SCC_MessageTxInd](../Callbacks/CAPLfunctionSCCMessageTxInd.md) • [Message ID](../Callbacks/SCC_MessageID.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

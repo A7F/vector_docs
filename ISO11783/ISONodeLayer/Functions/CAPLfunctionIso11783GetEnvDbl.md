@@ -31,8 +31,6 @@ Value of the environment variable or 0.0 if it does not exist
 value = Iso11783GetEnvDbl( "EvFrictionForce", 1 );
 ```
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

@@ -34,8 +34,6 @@ Calling this function before the measurement start is not necessary, since the s
 
 [linStopScheduler](CAPLfunctionLINStopScheduler.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -61,8 +61,6 @@ mostParamSetString(msg, "TextA", 0x00, "abc");
 - [General Tips on XML Function Catalog Support in CAPL](../CAPLfunctionsMOSTXMLSupport.md)
 - [Symbolic Identification of Parameters](../CAPLfunctionsMOSTSymIDParam.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

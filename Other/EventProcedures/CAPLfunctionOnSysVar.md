@@ -34,7 +34,6 @@ Starting with CANoe DE version **7.1 SP4**, you can also define handlers for sev
 
 Since version **7.2**, you can retrieve the name of the system variable as a string constant with **this.name** and its namespace with **this.namespace**.
 
-© Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -18,8 +18,6 @@ Function to create the Stimulus Generator: [StmCreate_EnvVar](Functions/CAPLfunc
 
 2024-10-8T21:20:34
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)

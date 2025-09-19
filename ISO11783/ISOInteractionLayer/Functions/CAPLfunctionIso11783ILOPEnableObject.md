@@ -36,8 +36,6 @@ The function activates or deactivates an input object. A **Enable Object** comma
 Iso11783IL_OPEnableObject( 1200, 1 );
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

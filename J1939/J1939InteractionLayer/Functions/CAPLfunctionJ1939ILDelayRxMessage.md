@@ -40,6 +40,4 @@ To revert this command you can use [J1939ILResetDelayedRxMessage](CAPLfunctionJ1
 
 —
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -37,8 +37,6 @@ A LightLock event with a "no Light & no Lock" state is generated when the hardwa
 
 [TestWaitForMostCriticalUnlock](CAPLfunctionTestWaitForMostCriticalUnlock.md) • [TestWaitForMostShortUnlock](CAPLfunctionTestWaitForMostShortUnlock.md) • [TestWaitForMostStableLock](CAPLfunctionTestWaitForMostStableLock.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

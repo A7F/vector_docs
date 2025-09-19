@@ -35,8 +35,6 @@ Return of the node address, group address, alternative packet address or node po
 
 [mostGetChannel](CAPLfunctionMOSTGetChannel.md) • [mostSetNodeAdr, mostSetGroupAdr, mostSetAltPktAdr, mostSetOwnAdr](CAPLfunctionMOSTSetNodeAdr.md) • [OnMostNodeAdr](../EventProcedures/CAPLfunctionOnMOSTNodeAdr.md) • [OnMostGroupAdr](../EventProcedures/CAPLfunctionOnMOSTGroupAdr.md) • [OnMostNPR](../EventProcedures/CAPLfunctionOnMOSTNPR.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

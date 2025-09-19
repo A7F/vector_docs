@@ -32,8 +32,6 @@ Defines if a map object will raise the callback [OnMapObjectClick](../Callbacks/
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

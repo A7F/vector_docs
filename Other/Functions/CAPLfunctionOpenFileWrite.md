@@ -36,8 +36,6 @@ The return value is the file handle that must be used for write operations. If a
 
 See [File Functions](CAPLfunctionsExapmleFileFunctions.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  

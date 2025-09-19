@@ -30,8 +30,6 @@ Variable of type mostMessage, mostAmsMessage or mostRawMessge.
 
 [mostAMSOutput](CAPLfunctionMOSTAmsOutput.md) • [Initialization of Message Variables](../CAPLfunctionsMOSTInitializationMessageVariables.md) • [outputMostPkt](CAPLfunctionMOSTOutputMostPkt.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -52,8 +52,6 @@ on start
 
 **See Also**: [ethSetLinkStatus](../Functions/CAPLfunctionEthSetLinkStatus.md) • [ethGetLinkStatus](../Functions/CAPLfunctionEthGetLinkStatus.md) • [on ethernetStatus](../EventProcedures/CAPLfunctionOnEthernetStatus.md)
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

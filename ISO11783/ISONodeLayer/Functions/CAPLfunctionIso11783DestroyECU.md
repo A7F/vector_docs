@@ -35,8 +35,6 @@ You should avoid allowing this function to be called within a CAPL callback func
 Iso11783DestroyECU(ecuHandle);
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)  

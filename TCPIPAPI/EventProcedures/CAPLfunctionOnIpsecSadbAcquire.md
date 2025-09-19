@@ -86,8 +86,6 @@ void OnIpsecSadbAcquire(ip_Endpoint source, ip_Endpoint destination, long policy
 }
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

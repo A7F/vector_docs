@@ -24,8 +24,6 @@ dword (treat as a long value)
 - Stride is positive for top-down images, and negative for bottom-up images.
 - This property gives the stride for a contiguous representation of the image in memory; that is, a representation with no additional padding bytes after each row.
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

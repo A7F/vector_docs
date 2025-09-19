@@ -38,8 +38,6 @@ The length of the elements of a qualifier path from the CANdela description file
 
 [Connection of the Communication Layer](CAPLfunctionsDiagnosticsConnectionCommunicationLayer.md) • [Basic CAPL Procedure for a Tester Implementation](CAPLfunctionsDiagnosticsTestImplementation.md) • [Expanded Functions in CAPL](CAPLfunctionsDiagnosticsExpandedFunctions.md)
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

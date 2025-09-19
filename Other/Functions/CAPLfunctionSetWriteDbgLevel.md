@@ -41,8 +41,6 @@ writeDbgLevel (9, "This is not shown: d= %ld",i);
 
 [write](CAPLfunctionWrite.md) • [writeDbgLevel](CAPLfunctionWriteDbgLevel.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -26,7 +26,7 @@ To use the CAPL functions the [SomeIP_IL.vmodule](../../../CANoeCANalyzer/Ethern
 - [TCP Handling](#TCP)
 - [Value Access](#ValueAccess)
 
-## Callback Functions 
+## Callback Functions
 
 - [`<OnSomeIpEventReceived>`](Functions/CAPLfunctionOnSomeIpEventReceived.md): CAPL handler to receive events.
 - [`<OnSomeIpFieldNotification>`](Functions/CAPLfunctionOnSomeIpFieldNotification.md): CAPL handler to receive field change notifications.
@@ -48,7 +48,7 @@ To use the CAPL functions the [SomeIP_IL.vmodule](../../../CANoeCANalyzer/Ethern
 - [OnSomeIpSDServerEventGroupStatusChanged](Functions/CAPLfunctionOnSomeIpSDServerEventGroupStatusChanged.md): CAPL handler to be called when a Client executes the Require Service or Release Service.
 - [OnSomeIpSDServerEventGroupStatusChangedIPv6](Functions/CAPLfunctionOnSomeIpSDServerEventGroupStatusChanged.md): CAPL handler to be called when a Client executes the Require Service or Release Service.
 
-## Client-Side API 
+## Client-Side API
 
 - [SomeIpAddConsumedEventGroup](Functions/CAPLfunctionSomeIpAddConsumedEventGroup.md): Adds an Event Group to a Consumed Service Instance
 - [SomeIpCallMethod](Functions/CAPLfunctionSomeIpCallMethod.md): Sends a request to the server.
@@ -62,7 +62,7 @@ To use the CAPL functions the [SomeIP_IL.vmodule](../../../CANoeCANalyzer/Ethern
 - [SomeIpRemoveFieldConsumer](Functions/CAPLfunctionSomeIpRemoveFieldConsumer.md): Deletes a Field Consumer.
 - [SomeIpRemoveMethodCall](Functions/CAPLfunctionSomeIpRemoveMethodCall.md): Deletes a method call.
 
-## Control API 
+## Control API
 
 - [SomeIpILControlGetStatus](Functions/CAPLfunctionSomeIpILControlGetStatus.md): Returns current status of SOME/IP IL.
 - [SomeIpILControlInit](Functions/CAPLfunctionSomeIpILControlInit.md): Initializes the SOME/IP IL.
@@ -71,14 +71,14 @@ To use the CAPL functions the [SomeIP_IL.vmodule](../../../CANoeCANalyzer/Ethern
 - [SomeIpILControlStop](Functions/CAPLfunctionSomeIpILControlStop.md): Stops the SOME/IP IL.
 - [SomeIpILControlWait](Functions/CAPLfunctionSomeIpILControlWait.md): Stops sending cyclic messages.
 
-## Endpoints 
+## Endpoints
 
 - [SomeIpCloseLocalApplicationEndpoint](Functions/CAPLfunctionSomeIpCloseLocalApplicationEndpoint.md): Closes an application endpoint.
 - [SomeIpOpenLocalApplicationEndpoint](Functions/CAPLfunctionSomeIpOpenLocalApplicationEndpoint.md): Opens an endpoint for SOME/IP.
 - [SomeIpTlsAuthenticateAsServerWithConfiguration](Functions/CAPLFunctionSomeIpTlsAuthenticateAsServerWithConfiguration.md): Starts the (D)TLS authentication handshake as server.
 - [SomeIpTlsAuthenticateAsClientWithConfiguration](Functions/CAPLFunctionSomeIpTlsAuthenticateAsClientWithConfiguration.md): Starts the (D)TLS authentication handshake as client.
 
-## General Functions 
+## General Functions
 
 - [SomeIpGetLastError](Functions/CAPLfunctionSomeIpGetLastError.md): Interface to retrieve the last error which occurs in the SOME/IP IL.
 - [SomeIpGetLastErrorText](Functions/CAPLfunctionSomeIpGetLastErrorText.md): Interface to retrieve the last error that occurred in the SOME/IP IL as string.
@@ -86,20 +86,20 @@ To use the CAPL functions the [SomeIP_IL.vmodule](../../../CANoeCANalyzer/Ethern
 - [SomeIpSetProperty](Functions/CAPLfunctionSomeIpSetProperty.md): Sets a property of the SOME/IP IL.
 - [SomeIpSetVerbosity](Functions/CAPLfunctionSomeIpSetVerbosity.md): Sets the verbosity level of the SOME/IP IL.
 
-## Low-level API 
+## Low-level API
 
 - [SomeIpCreateMessage](Functions/CAPLfunctionSomeIpCreateMessage.md): Creates a SOME/IP message.
 - [SomeIpOutputMessage](Functions/CAPLfunctionSomeIpOutputMessage.md): Sends a SOME/IP message.
 - [SomeIpPostMessage](Functions/CAPLfunctionSomeIpPostMessage.md): Posts a SOME/IP message.
 - [SomeIpReleaseMessage](Functions/CAPLfunctionSomeIpReleaseMessage.md): Deletes a SOME/IP message.
 
-## Raw Data Access 
+## Raw Data Access
 
 - [SomeIpGetData](Functions/CAPLfunctionSomeIpGetData.md): Queries the raw data of a SOME/IP message.
 - [SomeIpSerializeMessage](Functions/CAPLfunctionSomeIpSerializeMessage.md): Serializes the SOME/IP message including the header into a buffer.
 - [SomeIpSetData](Functions/CAPLfunctionSomeIpSetData.md): Sets the raw data of a SOME/IP message.
 
-## Server-Side API 
+## Server-Side API
 
 - [SomeIpAddEvent](Functions/CAPLfunctionSomeIpAddEvent.md): Adds an event to a Provided Service Instance.
 - [SomeIpAddEventToEventgroup](Functions/CAPLfunctionSomeIpAddEventToEventgroup.md): Assigns an event to an Event Group.
@@ -118,7 +118,7 @@ To use the CAPL functions the [SomeIP_IL.vmodule](../../../CANoeCANalyzer/Ethern
 - [SomeIpRemoveProvidedEventGroup](Functions/CAPLfunctionSomeIpRemoveProvidedEventGroup.md): Removes an Event Group from a Provided Service Instance.
 - [SomeIpTriggerEvent](Functions/CAPLfunctionSomeIpTriggerEvent.md): Triggers sending of an event.
 
-## Service Discovery 
+## Service Discovery
 
 - [SomeIpSDDesubscribeEventGroup](Functions/CAPLfunctionSomeIpSDDesubscribeEventGroup.md): Informs the Remote-SD that Event Group is no longer needed.
 - [SomeIpSDReleaseService](Functions/CAPLfunctionSomeIpSDReleaseService.md): Informs the local SD that the Remote Service is no longer needed.
@@ -126,7 +126,7 @@ To use the CAPL functions the [SomeIP_IL.vmodule](../../../CANoeCANalyzer/Ethern
 - [SomeIpSDSetServiceStatus](Functions/CAPLfunctionSomeIpSDSetServiceStatus.md): Informs the Service Discovery of the current status of a provided Service Instance.
 - [SomeIpSDSubscribeEventGroup](Functions/CAPLfunctionSomeIpSDSubscribeEventGroup.md): Sends a Subscribe message.
 
-## Static Configuration 
+## Static Configuration
 
 - [SomeIpProvidedEventGroupAddConsumer](Functions/CAPLfunctionSomeIpProvidedEventGroupAddConsumer.md): Adds a consumer to a provided event group
 - [SomeIpProvidedEventGroupRemoveConsumer](Functions/CAPLfunctionSomeIpProvidedEventGroupRemoveConsumer.md): Removes a consumer from a provided event group
@@ -139,19 +139,19 @@ To use the CAPL functions the [SomeIP_IL.vmodule](../../../CANoeCANalyzer/Ethern
 - [SomeIpSetMulticastReceiverEndpoints](Functions/CAPLfunctionSomeIpSetMulticastReceiverEndpoints.md): Sets the multicast endpoint of a consumed event group
 - [SomeIpSetProviderEndpoints](Functions/CAPLfunctionSomeIpSetProviderEndpoints.md): Sets the remote endpoints of a consumed service instance
 
-## Symbolic Database Access 
+## Symbolic Database Access
 
 - [SomeIpGetConsumedObjectHandle](Functions/CAPLfunctionSomeIpGetConsumedObjectHandle.md): Enables to search for a consumed object which has been created separately.
 - [SomeIpGetProvidedObjectHandle](Functions/CAPLfunctionSomeIpGetProvidedObjectHandle.md): Enables to search for a provided object which has been created separately.
 - [SomeIpRegisterCallback](Functions/CAPLfunctionSomeIpRegisterCallback.md): Enables to register/unregister a CAPL callback function for an object which has been created separately.
 
-## TCP Handling 
+## TCP Handling
 
 - [SomeIpCloseEstablishedTCPConnection](Functions/CAPLfunctionSomeIpCloseEstablishedTCPConnection.md): Closes one or multiple database defined TCP connection(s).
 - [SomeIpEstablishTCPConnection](Functions/CAPLfunctionSomeIpEstablishTCPConnection.md): Establishes one or multiple database defined TCP connection(s).
 - [SomeIpTCPListen](Functions/CAPLfunctionSomeIpTCPListen.md): Listen on application endpoint
 
-## Value Access 
+## Value Access
 
 - [SomeIpFillValues](Functions/CAPLfunctionSomeIpFillValues.md): Fills the fields of SOME/IP events, methods and fields with increasing values for test purposes.
 - [SomeIpGetDestinationAddress](Functions/CAPLfunctionSomeIpGetDestinationAddress.md): Returns the IPv4 destination address.
@@ -185,7 +185,6 @@ To use the CAPL functions the [SomeIP_IL.vmodule](../../../CANoeCANalyzer/Ethern
 - [SomeIpSetValueQWord](Functions/CAPLfunctionSomeIpSetValueQWord.md): Sets the parameters of a SOME/IP message.
 - [SomeIpSetValueString](Functions/CAPLfunctionSomeIpSetValueString.md): Sets the string parameters of a SOME/IP message.
 
-© Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

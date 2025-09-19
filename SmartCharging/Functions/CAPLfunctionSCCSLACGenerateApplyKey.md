@@ -29,8 +29,6 @@ Immediately sends a **CM_Set_Key.Req** message with a new NMK and NID. If a NMK 
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

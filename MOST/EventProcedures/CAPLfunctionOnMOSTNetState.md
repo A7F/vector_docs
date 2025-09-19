@@ -48,8 +48,6 @@ In the Simulation Setup event procedures are only called if the event occurs on 
 
 [mostGetNetState](../Functions/CAPLfunctionMOSTGetNetState.md) • [OnMostNetOn](CAPLfunctionOnMOSTNetOn.md) • [OnMostStableLock](CAPLfunctionOnMOSTStableLock.md) • [OnMostCriticalUnlock](CAPLfunctionOnMOSTCriticalUnlock.md) • [mostGetLockEx](../Functions/CAPLfunctionMOSTGetLockEx.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

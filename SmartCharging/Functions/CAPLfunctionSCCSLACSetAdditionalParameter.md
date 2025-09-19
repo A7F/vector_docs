@@ -35,8 +35,6 @@ Sets an additional parameter after creating a message, thus overwriting a value 
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

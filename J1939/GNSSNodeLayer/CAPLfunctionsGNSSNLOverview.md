@@ -23,7 +23,7 @@
 - [Simulation](#Simulati)
 - [Waypoints](#Waypoints)
 
-## Events 
+## Events
 
 | Function | Short Description |
 |----------|-------------------|
@@ -34,7 +34,7 @@
 | [GNSSOnSetSpeed](Functions/CAPLfunctionGNSSonsetspeed.md) | Is called if the speed of the simulation has been changed. |
 | [GNSSOnWpBeforeLastReached](Functions/CAPLfunctionGNSSonwpbeforelastreached.md) | Is called when the next-to-last waypoint of the waypoint list has been reached. |
 
-## Node Control 
+## Node Control
 
 | Function | Short Description |
 |----------|-------------------|
@@ -45,14 +45,14 @@
 | [GNSSStartUp](Functions/CAPLfunctionGNSSstartup.md) | Sets up a logical node within a CANoe network node. |
 | [GNSSUpdateTable](Functions/CAPLfunctionGNSSupdatetable.md) | Updates the network table. |
 
-## Other Functions 
+## Other Functions
 
 | Function | Short Description |
 |----------|-------------------|
 | [GNSSGetAbsFilePath](Functions/CAPLfunctionGNSSGetAbsFilePath.md) | Gets the absolute path of a file. |
 | [GNSSGetLastError](Functions/CAPLfunctionGNSSgetlasterror.md) | Returns the error status of the last executed function. |
 
-## Settings 
+## Settings
 
 | Function | Short Description |
 |----------|-------------------|
@@ -63,7 +63,7 @@
 | [GNSSSetPosDataVal](Functions/CAPLfunctionGNSSsetposdataval.md) | Changes the value of the parameter group **GNSS Position Data**. |
 | [GNSSSetUnits](Functions/CAPLfunctionGNSSsetunits.md) | Determines the system of measurement units. |
 
-## Simulation 
+## Simulation
 
 | Function | Short Description |
 |----------|-------------------|
@@ -77,7 +77,7 @@
 | [GNSSStartSimulation](Functions/CAPLfunctionGNSSstartsimulation.md) | Starts the simulation. |
 | [GNSSStopSimulation](Functions/CAPLfunctionGNSSstopsimulation.md) | Stops the simulation. |
 
-## Waypoints 
+## Waypoints
 
 | Function | Short Description |
 |----------|-------------------|
@@ -98,8 +98,6 @@
 | [GNSSSetRefPoint](Functions/CAPLfunctionGNSSsetrefpoint.md) | Defines reference points. |
 
 [Error Codes GNSSAppErrorIndication](CAPLfunctionsGNSSNLErrorCodesAppErrorIndication.md) • [Error Codes GNSSGetLastError](CAPLfunctionsGNSSNLErrorCodesGetLastError.md)
-
-© Vector Informatik GmbH
 
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 

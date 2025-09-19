@@ -28,8 +28,6 @@ Configures the hardware to transmit the specified PDU. All relevant slots are su
 
 For an example see function [frUpdatePDU](CAPLfunctionFRUpdatePDU.md).
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  

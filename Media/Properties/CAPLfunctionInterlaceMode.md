@@ -31,8 +31,6 @@ The value of this property is one of the following:
 - VideoInterlace_MixedInterlaceOrProgressive = 7,
 - VideoInterlace_Last, MFVideoInterlace_ForceDWORD = 0x7FFFFFFF
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  

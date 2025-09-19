@@ -16,7 +16,7 @@ Valid for:  CANoe DE
 
 ---
 
-## Callbacks 
+## Callbacks
 
 | Functions                                                                 | Short Description                                      |
 |---------------------------------------------------------------------------|--------------------------------------------------------|
@@ -31,7 +31,7 @@ Valid for:  CANoe DE
 | [_KLine_FrameReceptionInd](Functions/CAPLfunctionKLineFrameReceptionInd.md) | Is called when a frame has been received.              |
 | [_KLine_FrameTransmissionCon](Functions/CAPLfunctionKLineFrameTransmissionCon.md) | Is called when a frame has been transmitted.           |
 
-## Configuring and Controlling a K-Line ECU Simulation 
+## Configuring and Controlling a K-Line ECU Simulation
 
 | Functions                                                                 | Short Description                                      |
 |---------------------------------------------------------------------------|--------------------------------------------------------|
@@ -45,7 +45,7 @@ Valid for:  CANoe DE
 | [KLine_SetP2max](Functions/CAPLfunctionKLineSetP2max.md)                 | Sets the maximum time between the client request and the server response, or between 2 server responses. |
 | [KLine_SetP3max](Functions/CAPLfunctionKLineSetP3max.md)                 | Sets the maximum time between the end of the server response and start of a new client request. |
 
-## Configuring and Controlling a K-Line Tester 
+## Configuring and Controlling a K-Line Tester
 
 | Functions                                                                 | Short Description                                      |
 |---------------------------------------------------------------------------|--------------------------------------------------------|
@@ -68,7 +68,7 @@ Valid for:  CANoe DE
 | [KLine_SuppressAutomaticStopCommunication](Functions/CAPLfunctionKLineSuppressAutomaticStopCommunication.md) | For a fast init ECU, automatic sending of a Stop communication command will be suppressed after closing the channel or a S3 timeout. |
 | [KLine_UseDefaultHeader](Functions/CAPLfunctionKLineUseDefaultHeader.md) | The header format specified in the diagnostic description file will be used. |
 
-## Controlling a Diagnostic Channel 
+## Controlling a Diagnostic Channel
 
 These functions are not restricted to K-Line only.
 
@@ -79,7 +79,7 @@ These functions are not restricted to K-Line only.
 | [DiagDisconnectChannel](../Diagnostics/Functions/CAPLfunctionDiagDisconnectChannel.md) | Disconnects a channel.                                 |
 | [DiagIsChannelConnected](../Diagnostics/Functions/CAPLfunctionDiagIsChannelConnected.md) | Checks if a channel is already in state **Connected**. |
 
-## Test Feature Set for K-Line 
+## Test Feature Set for K-Line
 
 | Functions                                                                 | Short Description                                      |
 |---------------------------------------------------------------------------|--------------------------------------------------------|
@@ -93,8 +93,6 @@ These functions are not restricted to K-Line only.
 | [TestWaitForDiagKLineFrameTransmitted](../Test/Functions/CAPLfunctionTestWaitForDiagKLineFrameTransmitted.md) | Waits for the occurrence of a transmitted valid message. |
 
 ---
-
-© Vector Informatik GmbH
 
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 

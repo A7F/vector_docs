@@ -26,8 +26,6 @@ Returns the MACsec capability of the secure entity. Usually, this will be `MACSE
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

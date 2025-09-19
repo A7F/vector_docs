@@ -19,7 +19,7 @@ To use the CAPL functions the [AVB_IL.vmodule](../../../CANoeCANalyzer/Ethernet/
 - [Listener/Talker Functions](#ListenerTalker)
 - [Talker](#Talker)
 
-## Callback Functions 
+## Callback Functions
 
 - [OnAvbConnect](Functions/CAPLfunctionOnAvbConnect.md): Is dispatched when an asynchronous connection operation completes.
 - [OnAvbListen](Functions/CAPLfunctionOnAvbListen.md): Is dispatched when a connection request for the specified Listener is received.
@@ -36,7 +36,7 @@ To use the CAPL functions the [AVB_IL.vmodule](../../../CANoeCANalyzer/Ethernet/
 - [AvbILControlStop](Functions/CAPLfunctionAvbILControlStop.md): Stops the AVB IL.
 - [AvbILControlWait](Functions/CAPLfunctionAvbILControlWait.md): Stops sending AVB/TSN related messages.
 
-## General Functions 
+## General Functions
 
 - [AvbGetLastError](Functions/CAPLfunctionAvbGetLastError.md): Checks whether the last called function of AVB IL has been successfully executed.
 - [AvbGetLastErrorText](Functions/CAPLfunctionAvbGetLastErrorText.md): Retrieves the last error which occurs in the AVB IL as string.
@@ -47,7 +47,7 @@ To use the CAPL functions the [AVB_IL.vmodule](../../../CANoeCANalyzer/Ethernet/
 - [PtpTimeFromSimulationTime](Functions/CAPLfunctionPtpTimeFromSimulationTime.md): Returns the global PTP time corresponding to the simulation time.
 - [PtpTimeNow](Functions/CAPLfunctionPtpTimeNow.md): Returns the current global PTP time.
 
-## Listener Functions 
+## Listener Functions
 
 - [AvbAccept](Functions/CAPLfunctionAvbAccept.md): Accepts an incoming connection request on the specified Listener resulting in a new Listener.
 - [AvbCloseListener](Functions/CAPLfunctionAvbCloseListener.md): Closes the Listener.
@@ -55,7 +55,7 @@ To use the CAPL functions the [AVB_IL.vmodule](../../../CANoeCANalyzer/Ethernet/
 - [AvbOpenListener](Functions/CAPLfunctionAvbOpenListener.md): Creates a Listener for use in connection-based, message-oriented communications.
 - [AvbReceive](Functions/CAPLfunctionAvbReceive.md): Receives data into the specified buffer.
 
-## Listener/Talker Functions 
+## Listener/Talker Functions
 
 - [AvbGetMediaType](Functions/CAPLfunctionAvbGetMediaType.md): Gets the media type for a Listener or a Talker.
 - [AvbGetProtocol](Functions/CAPLfunctionAvbGetProtocol.md): Retrieves the bit depth of an AAF sample in the stream received by the Listener or originated by the Talker.
@@ -63,7 +63,7 @@ To use the CAPL functions the [AVB_IL.vmodule](../../../CANoeCANalyzer/Ethernet/
 - [AvbGetStreamSourceAddress](Functions/CAPLfunctionAvbGetStreamSourceAddress.md): Retrieves the stream’s Source Address of the Listener or Talker.
 - [AvbGetStreamUniqueId](Functions/CAPLfunctionAvbGetStreamUniqueId.md): Retrieves the stream’s Unique Identifier (ID) of the Listener or Talker as part of the Stream Identifier (ID).
 
-## Talker 
+## Talker
 
 - [AvbCloseTalker](Functions/CAPLfunctionAvbCloseTalker.md): Closes the Talker.
 - [AvbConnect](Functions/CAPLfunctionAvbConnect.md): Establishes a connection with the specified location.
@@ -73,8 +73,6 @@ To use the CAPL functions the [AVB_IL.vmodule](../../../CANoeCANalyzer/Ethernet/
 - [AvbSetProtocol](Functions/CAPLfunctionAvbSetProtocol.md): Sets the AVTP protocol of the Talker.
 
 [Media API](../../Media/CAPLfunctionsMediaOverview.md)
-
-© Vector Informatik GmbH
 
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 

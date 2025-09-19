@@ -24,8 +24,6 @@ ASF files can contain streams with binary data. The **ArbitraryHeader** property
 
 In addition to the **ArbitraryHeader** property, the media type for an ASF binary stream contains the properties [MajorType](CAPLfunctionMajorType.md) and [ArbitraryFormat](CAPLfunctionArbitraryFormat.md).
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -32,8 +32,6 @@ This function can be used to poll whether the CAPL node is registered as a funct
 
 [mostApRegister](CAPLfunctionMOSTApRegister.md) • [mostApUnregister](CAPLfunctionMOSTApUnregister.md) • [mostApGetInstId](CAPLfunctionMOSTApGetInstID.md) • [mostApGetFBlockId](CAPLfunctionMOSTApGetFBlockID.md) • [mostApIsRegisteredEx](CAPLfunctionMOSTApIsRegisteredEx.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

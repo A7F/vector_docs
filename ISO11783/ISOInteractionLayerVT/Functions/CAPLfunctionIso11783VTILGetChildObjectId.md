@@ -52,8 +52,6 @@ if (VTIL_GetNumberOfChildObjects(VT, Loader, 1000, numberOfChildObjects) == 0)
 }
 ```
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

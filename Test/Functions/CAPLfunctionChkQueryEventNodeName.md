@@ -45,8 +45,6 @@ Stores the name of the node, for which the event has been sent, in the buffer an
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -62,7 +62,6 @@ write("VerificationResult result %ld", verify);
 
 [SecurityLocalVerifyEd25519](CAPLfunctionSecurityLocalVerifyEd25519.md)
 
-© Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

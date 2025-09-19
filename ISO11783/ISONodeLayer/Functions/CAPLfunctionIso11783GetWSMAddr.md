@@ -30,8 +30,6 @@ Address of the Working Set Master for this ECU or the Null-Address (0xFE)
 addr = Iso11783GetWSMAddr( ecuHdl );
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

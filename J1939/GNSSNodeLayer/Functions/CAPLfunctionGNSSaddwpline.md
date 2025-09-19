@@ -44,8 +44,6 @@ The unit of the parameters `altitude1` and `altitude2` depends on the system of 
 GNSSAddWpLine(54.0, 8.0, 0.0, 54.2, 7.9, 0.0, 1);
 ```
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

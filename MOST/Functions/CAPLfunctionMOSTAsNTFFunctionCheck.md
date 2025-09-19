@@ -36,8 +36,6 @@ Checks whether a notification client (deviceID) is registered in the notificatio
 
 [mostAsNtfFunctionListGetSize, mostAsNtfFunctionListGetFunction](CAPLfunctionMOSTAsNTFFunctionListGetSize.md) • [mostAsNtfDeviceIDListGetSize, mostAsNtfDeviceIDListGetDeviceID](CAPLfunctionMOSTAsNTFDeviceIDListGetSize.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

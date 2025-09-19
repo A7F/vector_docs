@@ -51,8 +51,6 @@ res = Iso11783TxReqPG(ecuHdl, 0xFE45, 0xFF, 4, 14, data);
 res = Iso11783TxReqPG(ecuHdl, 0xE600, 0x09, 4, 14, data);
 ```
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

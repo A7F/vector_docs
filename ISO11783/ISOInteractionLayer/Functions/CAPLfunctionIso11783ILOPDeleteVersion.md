@@ -36,8 +36,6 @@ Iso11783IL_OPDeleteVersion( "Planter 12.0.34 en" ); // results in a Extended Del
 
 [Iso11783IL_OPStoreVersion](CAPLfunctionIso11783ILOPStoreVersion.md) • [Iso11783IL_OPLoadVersion](CAPLfunctionIso11783ILOPLoadVersion.md) • [Iso11783IL_OPGetVersion](CAPLfunctionIso11783ILOPGetVersion.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

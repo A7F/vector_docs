@@ -34,8 +34,6 @@ The CAPL functions that require a filename also accept a path preceding the file
 
 CAPL functions [setFilePath](Functions/CAPLfunctionSetFilePath.md), [setWritePath](Functions/CAPLfunctionSetWritePath.md) and [getAbsFilePath](Functions/CAPLfunctionGetAbsFilePath.md) are not available in case of a distributed environment.
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)

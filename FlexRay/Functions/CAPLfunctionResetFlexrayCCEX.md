@@ -56,7 +56,6 @@ on key 'w'
 **Example 2**  
 In order to prevent the suspension during the call of `ResetFlexRayCCEx` the reset can be executed asynchronously by manipulating the **Protocol Operation Control** (POC) state machine of the FlexRay Communication Controller directly. See [Reset of the CC by its POC](../../../CANoeCANalyzer/FlexRay/CAPL_Functions/FlexRay_CAPL_Reset_FlexRay-CC_by_POC.md).
 
-© Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

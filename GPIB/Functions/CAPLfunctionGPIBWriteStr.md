@@ -31,8 +31,6 @@ Writes **cmdStr** to the device. The function returns immediately and does not w
 
 Setting of a voltage of 1.23 V: `GPIBWriteStr(myDev, "V 1.23")`
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

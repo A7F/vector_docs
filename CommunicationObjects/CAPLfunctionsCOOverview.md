@@ -9,7 +9,7 @@
 - [Methods](#Methods)
 - [Objects](#Objects)
 
-## [Event Procedures](../../Shared/CAPL/General/EventProceduresOverview.md) 
+## [Event Procedures](../../Shared/CAPL/General/EventProceduresOverview.md)
 
 - [on Abstract_EventSubscribed](EventProcedures/CAPLfunctionOnAbstractEventSubscribed.md): Is called when an event is subscribed at a provider.
 - [on Abstract_EventUnsubscribed](EventProcedures/CAPLfunctionOnAbstractEventUnsubscribed.md): Is called when an event is unsubscribed at a provider.
@@ -35,7 +35,7 @@
 - [on value_change](EventProcedures/CAPLfunctionOnValueChange.md): Is called when a communication object value changes.
 - [on value_update](EventProcedures/CAPLfunctionOnValueUpdate.md): Is called when a communication object value is updated.
 
-## Functions 
+## Functions
 
 - [Abstract_CreateAddress](Functions/CAPLfunctionAbstractCreateAddress.md): Creates a pseudo-address for abstract binding.
 - [Abstract_GetConsumerId](Functions/CAPLfunctionAbstractGetConsumerId.md): Gets an Id for a consumer with an abstract binding pseudo-address.
@@ -97,7 +97,7 @@
 
 **Test functions** see [Test Feature Set CAPL Functions](../Test/CAPLfunctionsTFSOverview.md#BMCommunicationConcept)
 
-## Methods 
+## Methods
 
 - [callcontext::CreatePermanentHandle](Methods/CAPLfunctionCallcontextCreatePermanentHandle.md): Creates a permanent handle for a call context.
 - [callcontext::DeferAnswer](Methods/CAPLfunctionCallcontextDeferAnswer.md): Defers the answer for a function call indefinitely.
@@ -164,7 +164,7 @@
 - [valueHandle::GetValueState](Methods/CAPLfunctionValueGetValueState.md): Returns the state of the value.
 - [valueHandle::ResetValueState](Methods/CAPLfunctionValueResetValueState.md): Resets the state of the value.
 
-## Objects 
+## Objects
 
 - [callContext](Objects/CAPLfunctionCallContext.md): Contains data of a function call.
 - [consumedEventRef](Objects/CAPLfunctionConsumedEventRef.md): References a consumed event endpoint.

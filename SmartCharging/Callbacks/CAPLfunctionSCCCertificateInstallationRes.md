@@ -39,6 +39,4 @@ Further details that are transmitted in this response can be queried with the fo
 
 —
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

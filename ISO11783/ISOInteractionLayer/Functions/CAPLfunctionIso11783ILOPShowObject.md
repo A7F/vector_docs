@@ -36,6 +36,4 @@ The function shows or hides an object. The **Show Object** command is sent to th
 Iso11783IL_OPShowObject( 1200, 1 );
 ```
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

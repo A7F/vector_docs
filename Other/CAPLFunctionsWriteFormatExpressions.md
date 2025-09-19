@@ -84,8 +84,6 @@ The type field depends on the data type of the expression that shall be printed,
 
 **Note**: The `%n` format is invalid and must not be used.
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)

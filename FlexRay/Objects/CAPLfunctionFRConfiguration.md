@@ -94,8 +94,6 @@ The [frGetConfiguration](../Functions/CAPLfunctionFRGetConfiguration.md) or [frS
 
 For an example see functions [frGetConfiguration](../Functions/CAPLfunctionFRGetConfiguration.md) and [frSetConfiguration](../Functions/CAPLfunctionFRSetConfiguration.md).
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

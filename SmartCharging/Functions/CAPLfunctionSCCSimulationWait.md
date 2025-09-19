@@ -29,8 +29,6 @@ This function pauses/resumes the SCC simulation. This functionality can be used 
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

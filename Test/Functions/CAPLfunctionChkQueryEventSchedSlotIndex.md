@@ -42,8 +42,6 @@ Retrieves slot index of a schedule table for which the event has been sent.
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

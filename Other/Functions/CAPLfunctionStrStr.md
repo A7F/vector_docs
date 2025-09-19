@@ -40,6 +40,4 @@ pos = strstr(s1, s2); // pos = 7
 
 [strlen](CAPLfunctionStrLen.md) • [strncat](CAPLfunctionStrnCat.md) • [strncpy](CAPLfunctionStrnCpy.md) • [String Literal](../CAPLfunctionsStringLiteral.md)
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

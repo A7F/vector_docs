@@ -32,8 +32,6 @@ Class: Information |
 | -11           | Data was queried but not yet received from asynchronous evaluation. |
 | -12           | Data was used later than it was requested. Data may be outdated. |
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  

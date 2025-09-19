@@ -32,8 +32,6 @@ See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 [mostMsgDecodeRLE](CAPLfunctionMOSTMsgDecodeRLE.md) • [mostMsgSet](CAPLfunctionMOSTMsgSet.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

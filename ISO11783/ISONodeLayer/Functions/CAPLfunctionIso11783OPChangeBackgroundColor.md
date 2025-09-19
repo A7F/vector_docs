@@ -33,8 +33,6 @@ This function changes the background color of an object. The **Change Background
 Iso11783OPChangeBackgroundColor( handle, 1200, 5 );
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

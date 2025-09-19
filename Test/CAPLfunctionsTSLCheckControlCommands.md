@@ -59,6 +59,4 @@ For the check control there are the following functions to influence. These func
 - [ChkControl_Reset](Functions/CAPLfunctionChkControlReset.md): Initializes the status of the check.
 - [ChkControl_Destroy](Functions/CAPLfunctionChkControlDestroy.md): Destroys the check.
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

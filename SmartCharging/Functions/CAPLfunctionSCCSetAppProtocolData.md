@@ -43,6 +43,4 @@ SCC_SetAppProtocolData(0, 2, 1);
 SCC_SendPreparedMessage();
 ```
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

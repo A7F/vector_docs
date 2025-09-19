@@ -34,8 +34,6 @@ Sets a description for a particular value of a system variable of type Integer o
 sysSetVariableDescriptionForValue("Dynamic", "IntVar", 0, "Zero");
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

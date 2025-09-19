@@ -31,8 +31,6 @@ The function selects a color map object. A **Select Color Map** command is sent 
 Iso11783OPSelectColorMap( handle, 1400 );
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

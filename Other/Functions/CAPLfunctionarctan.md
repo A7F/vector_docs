@@ -34,8 +34,6 @@ x = arctan(1); // result PI/4
 
 [arccos](CAPLfunctionarccos.md) • [arcsin](CAPLfunctionarcsin.md)
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

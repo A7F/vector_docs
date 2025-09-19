@@ -31,8 +31,6 @@ The value of this property is one of the following:
 
 This property provides a hint to the application. It is not used to enforce copy protection or to specify the copy protection mechanism.
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

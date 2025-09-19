@@ -38,8 +38,6 @@ if ( 1==RS232Open(1) ) write("It works with port 1.");
 
 [RS232 CAPL Functions: Deprecated INI File](../CAPLfunctionsRS232DeprecatedIniFiles.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

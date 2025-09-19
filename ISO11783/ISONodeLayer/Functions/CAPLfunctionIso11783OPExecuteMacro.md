@@ -31,6 +31,4 @@ The function executes a macro object. An **Execute Macro** command is sent to th
 Iso11783OPExecuteMacro( handle, 1200 );
 ```
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

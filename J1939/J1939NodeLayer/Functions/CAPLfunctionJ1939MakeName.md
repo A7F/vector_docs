@@ -33,8 +33,6 @@ char name[8];
 J1939MakeName( name, 1, 2, 3, 4, 5, 6, 7, 8, 9);
 ```
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

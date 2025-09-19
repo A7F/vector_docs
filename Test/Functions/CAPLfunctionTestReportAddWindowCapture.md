@@ -58,8 +58,6 @@ TestReportAddWindowCapture("Graphics", "ABSdata::CarSpeed;Gear", "Screenshot of 
 
 [Test Report: Window Capture](../../../CANoeCANalyzer/Test/TestReport/TestReportWindowCapture.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

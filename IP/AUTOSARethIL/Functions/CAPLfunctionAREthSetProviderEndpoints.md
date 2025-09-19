@@ -34,8 +34,6 @@ Sets the UDP and TCP endpoint that is used for the consumed service instance to 
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

@@ -23,7 +23,7 @@ To use the CAPL functions the **ISO11783_VT_IL.dll** i.e. [Virtual Terminal Inte
 - [VT - Other Functions](#VTOtherFunctions)
 - [VT - Value Request](#VTValueRequest)
 
-## Callback Functions 
+## Callback Functions
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -37,7 +37,7 @@ To use the CAPL functions the **ISO11783_VT_IL.dll** i.e. [Virtual Terminal Inte
 | [VTIL_OnTxMessage](Functions/CAPLfunctionIso11783VTILOnTxMessage.md) | Is called if a message was sent successfully. |
 | [VTIL_OnTxPrepare](Functions/CAPLfunctionIso11783VTILOnTxPrepare.md) | Is called before a parameter group is sent. |
 
-## DTC Support 
+## DTC Support
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -47,7 +47,7 @@ To use the CAPL functions the **ISO11783_VT_IL.dll** i.e. [Virtual Terminal Inte
 | [VTIL_DeactivateDTC](Functions/CAPLfunctionIso11783VTILDeactivateDTC.md) | Deactivates a diagnostics trouble code (DTC) and removes it from the list of active DTCs. |
 | [VTIL_GetDTCStatus](Functions/CAPLfunctionIso11783VTILGetDTCStatus.md) | Returns the current occurrence count of a diagnostics trouble code (DTC). |
 
-## Node Control 
+## Node Control
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -62,7 +62,7 @@ To use the CAPL functions the **ISO11783_VT_IL.dll** i.e. [Virtual Terminal Inte
 | [VTIL_SetNodeProperty](Functions/CAPLfunctionIso11783VTILSetNodeProperty.md) | Changes an internal property of the node. |
 | [VTIL_GetDeviceName](Functions/CAPLfunctionIso11783VTILGetDeviceName.md) | Gets the NAME as reported on the bus. |
 
-## Other Functions 
+## Other Functions
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -70,7 +70,7 @@ To use the CAPL functions the **ISO11783_VT_IL.dll** i.e. [Virtual Terminal Inte
 | [VTIL_GetLastErrorText](Functions/CAPLfunctionIso11783VTILGetLastErrorText.md) | Returns the textual description of the value of the last called VT IL function. |
 | [VTIL_SetVerbosity](Functions/CAPLfunctionIso11783VTILSetVerbosity.md) | Set verbosity for writing in Write Window. |
 
-## Signal/Message Access 
+## Signal/Message Access
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -79,7 +79,7 @@ To use the CAPL functions the **ISO11783_VT_IL.dll** i.e. [Virtual Terminal Inte
 | [VTIL_SetSignal](Functions/CAPLfunctionIso11783VTILSetSignal.md) | Sets the physical value of a signal. |
 | [VTIL_SetSignalRaw](Functions/CAPLfunctionIso11783VTILSetSignalRaw.md) | Sets the raw value of a signal. |
 
-## VT – Fault Injection for Messages 
+## VT – Fault Injection for Messages
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -90,7 +90,7 @@ To use the CAPL functions the **ISO11783_VT_IL.dll** i.e. [Virtual Terminal Inte
 | [VTIL_SetResponseContent](Functions/CAPLfunctionIso11783VTILSetResponseContent.md) | Changes the content of the next VT response. |
 | [VTIL_SetVTStatus](Functions/CAPLfunctionIso11783VTILSetVTStatus.md) | Changes the content and cycle time of the VT Status message. |
 
-## VT – Fault Injection for Transport Protocols 
+## VT – Fault Injection for Transport Protocols
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -106,7 +106,7 @@ To use the CAPL functions the **ISO11783_VT_IL.dll** i.e. [Virtual Terminal Inte
 | [VTIL_DelayTxTpEoma](Functions/CAPLfunctionIso11783VTILDelayTxTpEoma.md) | Delays transmission of (E)TP.EoMA message by the Interaction Layer. |
 | [VTIL_FreezeTp](Functions/CAPLfunctionIso11783VTILFreezeTp.md) | Freezes the current (E)TP connection immediately. |
 
-## VT – Handling 
+## VT – Handling
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -127,7 +127,7 @@ To use the CAPL functions the **ISO11783_VT_IL.dll** i.e. [Virtual Terminal Inte
 | [VTIL_SelectInputObject](Functions/CAPLfunctionIso11783VTILSelectInputObject.md) | Sends the VT Select Input Object message. |
 | [VTIL_Touch](Functions/CAPLfunctionIso11783VTILTouch.md) | Simulates touching into the Data Mask. |
 
-## VT – Handling (User-Layout Mask) 
+## VT – Handling (User-Layout Mask)
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -137,7 +137,7 @@ To use the CAPL functions the **ISO11783_VT_IL.dll** i.e. [Virtual Terminal Inte
 | [VTIL_RemoveKeyGroup](Functions/CAPLfunctionIso11783VTILRemoveKeyGroup.md) | Removes a Key Group from a User-Layout Soft Key Mask of the Virtual Terminal. |
 | [VTIL_RemoveWindowMask](Functions/CAPLfunctionIso11783VTILRemoveWindowMask.md) | Removes a Window Mask from a User-Layout Data Mask of the Virtual Terminal. |
 
-## VT – Other Functions 
+## VT – Other Functions
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -154,7 +154,7 @@ To use the CAPL functions the **ISO11783_VT_IL.dll** i.e. [Virtual Terminal Inte
 | [VTIL_SaveAsImage](Functions/CAPLfunctionIso11783VTILSaveAsImage.md) | Saves the current Data/Alarm Mask or one of the current Soft Keys as an image. |
 | [VTIL_SetNextTAN](Functions/CAPLfunctionIso11783VTILSetNextTAN.md) | Sets the TAN to be used in the next activation message. |
 
-## VT – Value Request 
+## VT – Value Request
 
 | Functions | Short Description |
 |-----------|-------------------|
@@ -166,7 +166,6 @@ To use the CAPL functions the **ISO11783_VT_IL.dll** i.e. [Virtual Terminal Inte
 
 [IL Error Codes](../../CAPLfunctionsISOj1939ErrorCodes.md) • [VT IL Properties](CAPLfunctionsISOILVTProperties.md) • [VT IL Network Properties](CAPLfunctionsISOILVTNetworkProperties.md)
 
-© Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

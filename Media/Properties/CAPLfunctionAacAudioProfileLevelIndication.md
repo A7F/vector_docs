@@ -54,8 +54,6 @@ This property contains the value of the **audioProfileLevelIndication** field, a
 - Mpeg4SampleDescription
 - OriginalWaveFormatTag
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -34,8 +34,6 @@ if(rpm < 0) runError(1001,1);
 
 [elCount](CAPLfunctionElCount.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

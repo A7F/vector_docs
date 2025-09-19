@@ -24,8 +24,6 @@ This property applies to the media type for image streams in ASF. If the value i
 
 In addition to the **ImageLossTolerant** property, the media type for an ASF image stream contains the properties [MajorType](CAPLfunctionMajorType.md) and [FrameSize](CAPLfunctionFrameSize.md).
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

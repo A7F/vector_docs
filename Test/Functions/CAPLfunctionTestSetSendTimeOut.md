@@ -32,8 +32,6 @@ With the specification of a timeout value of 0, a wait of any length for the Tx 
 
 [TestSendMostAMSMessage](CAPLfunctionTestSendMostAmsMessage.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

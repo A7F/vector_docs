@@ -75,8 +75,6 @@ public void PerformMinMaxMeasurement()
 
 [ResetMinMax](CAPLfunctionVTSResetMinMax.md)
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

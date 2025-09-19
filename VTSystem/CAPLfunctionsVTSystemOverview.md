@@ -21,7 +21,7 @@ The methods/functions listed on this site can only be called in connection with 
 - [VT7001 related Methods/Functions](#VT7001)
 - [VT8006/VT8012 related Functions](#VT8006)
 
-## General Methods/Functions 
+## General Methods/Functions
 
 - [SetTransferCycle](Functions/CAPLfunctionVTSSetTransferCycle.md)
 - [vtsSetTransferCycle](Functions/CAPLfunctionVTSvtsSetTransferCycle.md)
@@ -30,7 +30,7 @@ The methods/functions listed on this site can only be called in connection with 
 - [TestWaitForVTSStateRestore](../Test/Functions/CAPLfunctionTestWaitForVTSStateRestore.md)
   - Restores the default or start state of VT System channels.
 
-## Trigger Methods/Function 
+## Trigger Methods/Function
 
 - [SetTriggerParams](Functions/CAPLfunctionVTSSetTriggerParams.md)
 - [vtsSetTriggerParams](Functions/CAPLfunctionVTSvtsSetTriggerParams.md)
@@ -44,7 +44,7 @@ The methods/functions listed on this site can only be called in connection with 
 - [vtsStartTrigger](Functions/CAPLfunctionVTSvtsStartTrigger.md)
   - Starts the specified trigger. It also resets the event counter system variable that is associated to the trigger to 0.
 
-## VT1004/VT1104 related Methods/Functions 
+## VT1004/VT1104 related Methods/Functions
 
 - [ResetMinMax](Functions/CAPLfunctionVTSResetMinMax.md)
 - [vtsResetMinMax](Functions/CAPLfunctionVTSvtsResetMinMax.md)
@@ -78,7 +78,7 @@ The methods/functions listed on this site can only be called in connection with 
 - [vtsSetIntegrationTime](Functions/CAPLfunctionVTSvtsSetIntegrationTime.md)
   - Sets the integration time for average and RMS values.
 
-## VT2004 related Methods/Functions 
+## VT2004 related Methods/Functions
 
 - [LoadWFResistance](Functions/CAPLfunctionVTSLoadWFResistance.md)
 - [vtsLoadWFResistance](Functions/CAPLfunctionVTSvtsLoadWFResistance.md)
@@ -132,7 +132,7 @@ The methods/functions listed on this site can only be called in connection with 
 - [vtsSetWFParams](Functions/CAPLfunctionVTSvtsSetWFParams.md)
   - Configures the parameters for the output of a voltage or resistance curve.
 
-## VT2516 Methods/Functions 
+## VT2516 Methods/Functions
 
 - [LoadWFBitStream](Functions/CAPLfunctionVTSLoadWFBitStream.md)
 - [vtsLoadWFBitStream](Functions/CAPLfunctionVTSvtsLoadWFBitStream.md)
@@ -186,7 +186,7 @@ The methods/functions listed on this site can only be called in connection with 
 - [vtsStopStimulation](Functions/CAPLfunctionVTSvtsStopStimulation.md)
   - Stops stimulation output.
 
-## VT2808 related Methods/Functions 
+## VT2808 related Methods/Functions
 
 - [ResetMinMax](Functions/CAPLfunctionVTSResetMinMax.md)
 - [vtsResetMinMax](Functions/CAPLfunctionVTSvtsResetMinMax.md)
@@ -196,7 +196,7 @@ The methods/functions listed on this site can only be called in connection with 
 - [vtsSetMinCurrentMeasurementRange](Functions/CAPLfunctionVTSvtsSetMinCurrentMeasurementRange.md)
   - Sets the current measurement range that should be used from the automatic measuring range changeover of the VT2808 module.
 
-## VT2816 related Methods/Functions 
+## VT2816 related Methods/Functions
 
 - [LoadWFVoltage](Functions/CAPLfunctionVTSLoadWFVoltage.md)
 - [vtsLoadWFVoltage](Functions/CAPLfunctionVTSvtsLoadWFVoltage.md)
@@ -234,13 +234,13 @@ The methods/functions listed on this site can only be called in connection with 
 - [vtsStopStimulation](Functions/CAPLfunctionVTSvtsStopStimulation.md)
   - Stops stimulation output.
 
-## VT2832 related Methods/ Functions 
+## VT2832 related Methods/ Functions
 
 - [SetOutputMask](Functions/CAPLfunctionVTSSetOutputMask.md)
 - [vtsSetOutputMask](Functions/CAPLfunctionVTSvtsSetOutputMask.md)
   - Activates the requested rows of a switch matrix module for dynamic stimulation.
 
-## VT2848 related Methods/Functions 
+## VT2848 related Methods/Functions
 
 - [LoadWFBitStream](Functions/CAPLfunctionVTSLoadWFBitStream.md)
 - [vtsLoadWFBitStream](Functions/CAPLfunctionVTSvtsLoadWFBitStream.md)
@@ -286,7 +286,7 @@ The methods/functions listed on this site can only be called in connection with 
 - [vtsStopStimulation](Functions/CAPLfunctionVTSvtsStopStimulation.md)
   - Stops stimulation output.
 
-## VT7001 related Methods/Functions 
+## VT7001 related Methods/Functions
 
 - [`<OnSerialError>`](Functions/CAPLfunctionVTSOnSerialError.md)
   - Is called when an error has occurred in an operation on a serial port.
@@ -369,14 +369,12 @@ The methods/functions listed on this site can only be called in connection with 
 - [vtsStopStimulation](Functions/CAPLfunctionVTSvtsStopStimulation.md)
   - Stops stimulation output.
 
-## VT8006/VT8012 related Functions 
+## VT8006/VT8012 related Functions
 
 - [vtsSetBackplaneRelay](Functions/CAPLfunctionVTSvtsSetBackplaneRelay.md)
   - Closes/opens the auxiliary relay on a connected VT backplane.
 
 [VT System](../../CANoeCANalyzer/VTSystem/VTSystem.md) • [Enumeration](CAPLfunctionsVTSystemEnumeration.md)
-
-© Vector Informatik GmbH
 
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 

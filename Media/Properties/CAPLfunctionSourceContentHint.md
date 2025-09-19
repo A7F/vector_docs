@@ -26,8 +26,6 @@ The value of this property is one of the following:
 - VideoSrcContentHintFlag_16x9 = 1
 - VideoSrcContentHintFlag_235_1 = 2
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -36,8 +36,6 @@ A **Set Label** command is sent to the Virtual Terminal.
 Iso11783IL_OPSetLabel( 1200, 1250, 1, 1260 );
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

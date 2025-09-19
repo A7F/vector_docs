@@ -34,8 +34,6 @@ Gets the configured addresses and ports for the SCC node. These values may origi
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

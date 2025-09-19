@@ -26,8 +26,6 @@ The socket options are grouped to different socket option levels. The following 
 - [SOL_VECTOR](CAPLfunctionsTCPIPSocketOptionsSOL_Vector.md)
   - Special socket option. Only available if the CANoe DE product global or node network stack is used.
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  

@@ -38,6 +38,4 @@ Sets the fill color of a map object or the text color of a text object.
 
 See [Map Window API example](../CAPLfunctionMapWindowAPI.md).
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -15,8 +15,6 @@ In this special case the cycle time is exactly half as large as the period T of 
 - [StmCreate_Toggle](Functions/CAPLfunctionStmCreateToggleDatabase.md) (limits taken from database)
 - [StmCreate_Toggle](Functions/CAPLfunctionStmCreateToggleUserDefined.md) (limits user-defined)
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

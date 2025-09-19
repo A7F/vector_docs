@@ -67,8 +67,6 @@ testcase tcTFS_waitForLINResponse(int frameId)
 
 [TestGetWaitLinReceiveErrData](CAPLfunctionTestGetWaitLinReceiveErrData.md) • [TestWaitForLinReceiveError](CAPLfunctionTestWaitForLinReceiveError.md) • [TestWaitForAllJoinedEvents](CAPLfunctionTestWaitForAllJoinedEvents.md) • [TestWaitForAnyJoinedEvent](CAPLfunctionTestWaitForAnyJoinedEvent.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -37,8 +37,6 @@ char buffer[100];
 Iso11783OPGetStringValue( handle, 1000, elCount(buffer), buffer );
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

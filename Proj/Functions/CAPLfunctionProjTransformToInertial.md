@@ -63,8 +63,6 @@ void proj_convert_to_inertial() {
 - **32-Bit**: ✔
 - **64-Bit**: ✔
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

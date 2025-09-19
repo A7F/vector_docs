@@ -30,8 +30,6 @@ Sets the index of a bitmap in a multi bitmap file for a map object of the type b
 
 See example of C2xSetMapObjectBmpFilePath.
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

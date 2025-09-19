@@ -38,8 +38,6 @@ The parameter **setExtendedBit** defines whether the most significant bit of the
 
 [J1939 General Functions](../CAPLfunctionsJ1939Overview.md#General)
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

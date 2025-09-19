@@ -39,8 +39,6 @@ result = ChkQuery_EventTimeStampInt64(checkId);
 
 [ChkQuery_EventTimeStamp](CAPLfunctionChkQueryEventTimeStamp.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -80,6 +80,4 @@ Completes the current set of **joined events** with the transmitted event. This 
 
 [TestWaitForEthernetPacket](CAPLfunctionTestWaitForEthernetPacket.md) • [testGetWaitEthernetPacketData](CAPLfunctionTestGetWaitEthernetPacketData.md)
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

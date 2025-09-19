@@ -83,8 +83,6 @@ on key 't'
 - [SomeIpRemoveProvidedEventGroup](CAPLfunctionSomeIpRemoveProvidedEventGroup.md#aanchor3761)
 - [SomeIpTriggerEvent](CAPLfunctionSomeIpTriggerEvent.md#aanchor8579)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

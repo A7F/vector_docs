@@ -34,8 +34,6 @@ float result;
 result = _min(1.0, _min(-3.0, 5.2)); // result == -3.0
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

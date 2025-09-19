@@ -41,8 +41,6 @@ GNSSSetUnits( 1 );
 GNSSAddWpRect( 48.46, 9.11, 225, 400, 200, 100 );
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

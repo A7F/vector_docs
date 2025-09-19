@@ -25,8 +25,6 @@ qword
 - To get this property, use the [MediaGetPropertyRatio](../Functions/CAPLfunctionMediaGetPropertyRatio.md) function.
 - The pixel aspect ratio describes the shape of the pixels in the displayed video image. Set this property if the image has non-square pixels. To display correctly on a display device with square pixels, the image must be scaled by the inverse of the image's pixel aspect ratio.
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

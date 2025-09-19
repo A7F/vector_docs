@@ -22,8 +22,6 @@ dword
 
 For PCM audio formats, the block alignment is equal to the number of audio channels multiplied by the number of bytes per audio sample.
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

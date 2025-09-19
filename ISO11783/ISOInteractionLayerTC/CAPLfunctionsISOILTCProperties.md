@@ -75,6 +75,4 @@ These properties describe the functional properties of a real Task Controller th
   - **Initial Value**: -1
   - **IL must be stopped**: Yes
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

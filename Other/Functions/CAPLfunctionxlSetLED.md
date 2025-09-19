@@ -54,8 +54,6 @@ Note that for every successful call of **xlAcquireLED** on a specific LED, you h
 
 See [xlAcquireLED](CAPLfunctionxlAcquireLED.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

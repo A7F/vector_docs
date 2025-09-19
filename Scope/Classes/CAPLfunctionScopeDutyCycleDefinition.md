@@ -42,7 +42,6 @@ This structure defines the threshold levels for the duty cycle measurement.
 - [testWaitScopeGetSerialBitAnalysisData](../../Test/Functions/CAPLfunctionTestWaitScopeGetSerialBitAnalysisData.md)  
 - Class: scopeDutyCycleDefinition
 
-© Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

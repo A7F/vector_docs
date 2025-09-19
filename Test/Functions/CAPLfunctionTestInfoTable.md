@@ -38,8 +38,6 @@ Handle to the newly created table. This handle must be passed to other related f
 
 **Technical References are only available in English**
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

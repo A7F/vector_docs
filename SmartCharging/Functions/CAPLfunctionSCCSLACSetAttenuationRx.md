@@ -29,8 +29,6 @@ Sets the attenuation of the Rx path, which is subtracted from the AAG values. Th
 
 —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

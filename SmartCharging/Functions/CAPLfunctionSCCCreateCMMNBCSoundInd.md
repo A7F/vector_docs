@@ -47,6 +47,4 @@ Creates a **CM_MNBC_Sound.Ind** message for sending.
 
 —
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

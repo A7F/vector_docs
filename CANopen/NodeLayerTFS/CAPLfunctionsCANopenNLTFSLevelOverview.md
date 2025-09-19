@@ -35,26 +35,26 @@ To use the CAPL functions the node layer **CANopenTfsNl.dll** must be included. 
   - [Parameter Control](#ParameterControl)
   - [Test Configurator](#TestConfiguratorFunctions)
 
-## Level 1 
+## Level 1
 
 Enable the generation of CANopen protocol errors at any point and the exploitation of limit cases. The user is responsible for the communication here and can also write complete tests himself. Of course the mixing of the functions of the individual test levels is also possible.
 
 This section contains a brief listing of all Level 1 functions that are made available by the CANopen Test Feature Set node layer.
 
-### Guarding 
+### Guarding
 
 - [coTfsGuardingRequest](Functions/CAPLfunctionCoTfsGuardingRequest.md): Sends an user-definable guarding request.
 
-### Heartbeat 
+### Heartbeat
 
 - [coTfsHeartbeatProducerCheckIfActive](Functions/CAPLfunctionCoTfsHeartbeatProducerCheckIfActive.md): Returns the current status of the heartbeat producer of the selected node. If this is switched on, the time settings are checked (passive test).
 
-### NMT 
+### NMT
 
 - [coTfsNMTRequest](Functions/CAPLfunctionCoTfsNmtRequest.md): NMT request
 - [coTfsNmtGetCurrentState](Functions/CAPLfunctionCoTfsNmtGetCurrentState.md): Returns the current device state.
 
-### SDO 
+### SDO
 
 - [coTfsSDOCalcCrc](Functions/CAPLfunctionCoTfsSdoCalcCrc.md): Calculates the CRC checksum for a block transfer.
 - [coTfsSDOGetBlockSize](Functions/CAPLfunctionCoTfsSdoGetBlockSize.md): Returns the block size that is used for a block transfer.
@@ -72,30 +72,30 @@ This section contains a brief listing of all Level 1 functions that are made ava
 - [coTfsSDOInjectRawMsg](Functions/CAPLfunctionCoTfsSdoInjectRawMsg.md): Inserts a CAN message to the following command.
 - [coTfsSDOInjectAbortMsg](Functions/CAPLfunctionCoTfsSdoInjectAbortMsg.md): Inserts a SDO abort message to the following command.
 
-## Level 2 
+## Level 2
 
 Offer the experienced user the setting of some more complex tests. General data access is possible here.
 
 This section contains a brief listing of all Level 2 functions that are made available by the CANopen Test Feature Set node layer.
 
-### EMCY 
+### EMCY
 
 - [coTfsEmcySendMessage](Functions/CAPLfunctionCoTfsEmcySendMessage.md): Sends an emergency message.
 - [coTfsEmcyResetList](Functions/CAPLfunctionCoTfsEmcyResetList.md): Removes all entries (of a node) from the internally-stored list.
 - [coTfsEmcyWaitForMessage](Functions/CAPLfunctionCoTfsEmcyWaitForMessage.md): Waits for an emergency message of a particular node.
 - [coTfsEmcyGetErrorCode](Functions/CAPLfunctionCoTfsEmcyGetErrorCode.md): Returns received emergency messages (of a node).
 
-### Guarding 
+### Guarding
 
 - [coTfsNodeGuarding](Functions/CAPLfunctionCoTfsNodeGuarding.md): Starts a node guarding test.
 - [coTfsLifeGuarding](Functions/CAPLfunctionCoTfsLifeGuarding.md): Starts a life guarding test.
 
-### Heartbeat 
+### Heartbeat
 
 - [coTfsHeartbeatConsumer](Functions/CAPLfunctionCoTfsHeartbeatConsumer.md): A test is executed for a heartbeat consumer.
 - [coTfsHeartbeatProducer](Functions/CAPLfunctionCoTfsHeartbeatProducer.md): The heartbeat producer of a CANopen® device is checked.
 
-### Monitoring 
+### Monitoring
 
 - [coTfsMonitorActivate](Functions/CAPLfunctionCoTfsMonitorActivate.md): Activates the passive communication monitor.
 - [coTfsMonitorDeactivate](Functions/CAPLfunctionCoTfsMonitorDeactivate.md): Deactivates the passive communication monitor.
@@ -113,7 +113,7 @@ This section contains a brief listing of all Level 2 functions that are made ava
 - [coTfsCheckAndCompareGenericMonitorMessage](Functions/CAPLfunctionCoTfsCheckAndCompareGenericMonitorMessage.md): Checks if the expected message data are received during a generic message monitoring.
 - [coTfsMonitorGetStatistics](Functions/CAPLfunctionCoTfsMonitorGetStatistics.md): Returns statistics information.
 
-### NMT 
+### NMT
 
 - [coTfsNMTEnterPreOperational](Functions/CAPLfunctionCoTfsNmtEnterPreOperational.md): The DUT is set to state "Pre-Operational".
 - [coTfsNMTResetCommunication](Functions/CAPLfunctionCoTfsNmtResetCommunication.md): The DUT is commanded to execute a "Reset Communication".
@@ -122,7 +122,7 @@ This section contains a brief listing of all Level 2 functions that are made ava
 - [coTfsNMTStopNode](Functions/CAPLfunctionCoTfsNmtStopNode.md): The DUT is set to state "Stopped".
 - [coTfsNmtWaitForBootupMessage](Functions/CAPLfunctionCoTfsNmtWaitForBootupMessage.md): The DUT waits for a NMT boot-up message.
 
-### Object Dictionary 
+### Object Dictionary
 
 - [coTfsODAddEntry](Functions/CAPLfunctionCoTfsOdAddEntry.md): Adds a single object to the internal list of test objects.
 - [coTfsODAddEntryIndexRange](Functions/CAPLfunctionCoTfsOdAddEntryIndexRange.md): Adds a list of object entries to the internal list, which only differ in the given index.
@@ -136,7 +136,7 @@ This section contains a brief listing of all Level 2 functions that are made ava
 - [coTfsODChk](Functions/CAPLfunctionCoTfsOdChk.md): Executes an user defined object dictionary test considering access type, data type and default values.
 - [coTfsODSetErrorHandling](Functions/CAPLfunctionCoTfsOdSetErrorHandling.md): Controls the abort behavior of the test module.
 
-### SDO 
+### SDO
 
 - [coTfsSDOBlockDownload](Functions/CAPLfunctionCoTfsSdoBlockDownload.md): Executes a complete SDO block download.
 - [coTfsSDOBlockUpload](Functions/CAPLfunctionCoTfsSdoBlockUpload.md): Executes a complete SDO block upload.
@@ -149,7 +149,7 @@ This section contains a brief listing of all Level 2 functions that are made ava
 - [coTfsSDOAbortTest](Functions/CAPLfunctionCoTfsSdoAbortTest.md): Stops a test after a specified number of CAN messages.
 - [coTfsSdoChkEntryExists](Functions/CAPLfunctionCoTfsSdoChkEntryExists.md): Checks if an object is readable.
 
-### SDO Abort 
+### SDO Abort
 
 - [coTfsSDOWaitForAbortCode](Functions/CAPLfunctionCoTfsSdoWaitForAbortCode.md): Waits for the occurrence of a SDO abort message from a particular node.
 - [coTfsSDOWaitForSpecificAbortCode](Functions/CAPLfunctionCoTfsSdoWaitForSpecificAbortCode.md): Wait for specific SDO abort codes.
@@ -158,17 +158,17 @@ This section contains a brief listing of all Level 2 functions that are made ava
 - [coTfsSDOAbortCodeOccured](Functions/CAPLfunctionCoTfsSdoAbortCodeOccured.md): Checks for successful execution of a SDO command with a valid SDO abort code.
 - [coTfsSdoChkForUnexpectedAbort](Functions/CAPLfunctionCoTfsSdoChkForUnexpectedAbort.md): Checks for unexpected SDO abort codes.
 
-### SYNC 
+### SYNC
 
 - [coTfsSyncProducerDetail](Functions/CAPLfunctionCoTfsSyncProducerDetail.md): Starts a freely-configurable SYNC producer test. This test requires the existence of the optional sync counter.
 
-### TPDO 
+### TPDO
 
 - [coTfsTPDOGetDataBySyncCyclic](Functions/CAPLfunctionCoTfsTpdoGetDataBySyncCyclic.md): Configures a TPDO as cyclic and starts a virtual sync producer. Checks the transmit performance of the test node.
 - [coTfsTPDOGetDataByEventTimer](Functions/CAPLfunctionCoTfsTpdoGetDataByEventTimer.md): Configures the event timer of the TPDO and check the transmit cycle.
 - [coTfsTPDOGetDataByRTR](Functions/CAPLfunctionCoTfsTpdoGetDataByRtr.md): Gets the COB-ID and transmit the TPDO data read with a remote frame.
 
-### LSS 
+### LSS
 
 - [coTfsLssSendSwitchStateModeGlobalRequest](Functions/CAPLfunctionCoTfsLssSendSwitchStateModeGlobalMsg.md): Sends a Switch state global LSS mode message.
 - [coTfsLssWaitForSwitchStateModeGlobalRequest](Functions/CAPLfunctionCoTfsLssWaitForSwitchStateModeGlobalMsgReq.md): Waits for a Switch state global LSS mode message.
@@ -219,44 +219,44 @@ This section contains a brief listing of all Level 2 functions that are made ava
 - [coTfsLssAddMasterResponseIdentifyFastscan](Functions/CAPLfunctionCoTfsLssAddMasterResponseIdentifyFastscan.md): Adds a LSS Master request wait condition to the internal list.
 - [coTfsLssSetMasterResponseIdentifyRemoteSlaveMask](Functions/CAPLfunctionCoTfsLssSetMasterResponseIdentifyRemoteSlaveMask.md): Sets the bitmasks for using the function [coTfsLssAddMasterResponseIdentifyNonConfRemoteSlv](Functions/CAPLfunctionCoTfsLssAddMasterResponseIdentifyNonConfRemoteSlv.md).
 
-## Level 3 
+## Level 3
 
 Can be implemented very easily and require only a little CANopen knowledge. With these tests, it is possible to check the absolute basic functionality of the DUT in the simplest way.
 
 This section contains a brief listing of all Level 3 functions that are made available by the CANopen Test Feature Set node layer.
 
-### Guarding 
+### Guarding
 
 - [coTfsGuarding](Functions/CAPLfunctionCoTfsGuarding.md): Executes a simple guarding test.
 
-### Heartbeat 
+### Heartbeat
 
 - [coTfsHeartbeat](Functions/CAPLfunctionCoTfsHeartBeat.md): Executes a complete heartbeat producer and heartbeat consumer test with different time settings.
 
-### NMT 
+### NMT
 
 - [coTfsNMT](Functions/CAPLfunctionCoTfsNmt.md): Executes a simple NMT test.
 
-### Object Dictionary 
+### Object Dictionary
 
 - [coTfsODCheckStdEntries](Functions/CAPLfunctionCoTfsOdChkStdEntries.md): Checks standard entries of the object dictionary.
 
-### SDO 
+### SDO
 
 - [coTfsSDO](Functions/CAPLfunctionCoTfsSdo.md): Executes an expedited/segmented/block download/upload test.
 
-### SYNC 
+### SYNC
 
 - [coTfsSyncProducer](Functions/CAPLfunctionCotfsSyncProducer.md): Starts a SYNC producer test.
 
-## Test Control 
+## Test Control
 
 Make help functionality available to the user in order to describe the desired tests more easily and quickly.
 
 - This section offers a brief overview of the additional functions for test control of the CANopen TFS node layer.
 - This section offers a brief overview of the additional functions for test control of the CANopen TFS node layer.
 
-### Check 
+### Check
 
 - [coTfsActivateGuardingReqMonitor](Functions/CAPLfunctionCoTfsActivateGuardingReqMonitor.md): Checks the temporally correct occurrence of guarding RTRs and controls the corresponding callback functions.
 - [coTfsActivateHeartbeatMonitor](Functions/CAPLfunctionCoTfsActivateHeartbeatMonitor.md): Checks the temporally correct occurrence of the heartbeat producer message and calls the corresponding callback functions.
@@ -267,13 +267,13 @@ Make help functionality available to the user in order to describe the desired t
 - [coTfsDeactivateSyncMonitor](Functions/CAPLfunctionCoTfsDeactivateSyncMonitor.md): Switches off the checking of the SYNC messages.
 - [coTfsDeactivateSyncPdoMonitor](Functions/CAPLfunctionCoTfsDeactivateSyncPdoMonitor.md): Switches off the checking of the SYNC PDO messages.
 
-### Parameter Control 
+### Parameter Control
 
 - [coTfsGetNodeId](Functions/CAPLfunctionCoTfsGetNodeId.md): Transfers the internally-stored node-ID.
 - [coTfsSetNodeId](Functions/CAPLfunctionCoTfsSetNodeId.md): Sets the internally-stored node-ID.
 - [coTfsSetSdoCANid](Functions/CAPLfunctionCoTfsSetsDocAnId.md): Sets the CAN identifier to be used for the SDO tests.
 
-### Test Configurator 
+### Test Configurator
 
 - InitializeTestSystem: This function can be used to set common test settings by calling simple test functions as follows.
   - The functions [coTfsSDOResetAbortList](Functions/CAPLfunctionCoTfsSdoResetAbortList.md), [coTfsSDOResetAccAbortList](Functions/CAPLfunctionCoTfsSdoResetAccAbortList.md), [coTfsEmcyResetList](Functions/CAPLfunctionCoTfsEmcyResetList.md), and [coTfsODClearAllEntries](Functions/CAPLfunctionCoTfsOdClearAllEntries.md) are executed if this function is called.

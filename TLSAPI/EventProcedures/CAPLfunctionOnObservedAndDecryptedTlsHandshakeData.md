@@ -60,8 +60,6 @@ void OnObservedAndDecryptedTlsHandshakeData(IP_Endpoint sourceEndpoint, IP_Endpo
 }
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

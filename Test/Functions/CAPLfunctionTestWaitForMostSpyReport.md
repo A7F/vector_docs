@@ -48,8 +48,6 @@ Waits for the occurrence of the spy response message (report, op-type > 8) of th
 
 [TestWaitForMostAMSSpyReport](CAPLfunctionTestWaitForMostAMSSpyReport.md) • [TestWaitForMostReport](CAPLfunctionTestWaitForMostReport.md) • [TestJoinMostSpyReportEvent](CAPLfunctionTestJoinMostSpyReportEvent.md) • [TestWaitForMostSpyMessage](CAPLfunctionTestWaitForMostSpyMessage.md) • [TestGetWaitEventMsgData](CAPLfunctionTestGetWaitEventMsgData.md) • [Symbolic definition of MOST messages](../CAPLfunctionsTFSSymbolicMessageDefinition.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

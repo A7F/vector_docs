@@ -59,7 +59,6 @@ result = testWaitForJoinedEvent(handle1, 0, stopHandle, 500);
 
 [TestWaitForAllJoinedEvents](CAPLfunctionTestWaitForAllJoinedEvents.md) • [TestWaitForAnyJoinedEvent](CAPLfunctionTestWaitForAnyJoinedEvent.md) • [TestJoinAnd](CAPLfunctionTestJoinAnd.md) • [TestJoinOr](CAPLfunctionTestJoinOr.md)
 
-© Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

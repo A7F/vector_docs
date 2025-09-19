@@ -63,8 +63,6 @@ Configures the hardware for sending the specified message. The call must take pl
 
 For an example see function [frUpdateStatFrame](CAPLfunctionFRUpdateStatFrame.md).
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -58,6 +58,4 @@ By default, the request counter is set to **15** (request counter is not used). 
 
 —
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

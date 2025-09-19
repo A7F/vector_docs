@@ -38,6 +38,4 @@ If parameter **maskType** is not used the mask type is determined by the mask ob
 Iso11783IL_OPChangeSoftKeyMask( 1000, 1050 );
 ```
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

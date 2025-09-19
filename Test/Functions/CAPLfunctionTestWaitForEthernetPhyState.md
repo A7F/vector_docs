@@ -41,8 +41,6 @@ Waits for the occurrence of the specified Ethernet PHY state. Should the Etherne
 
 [TestJoinEthernetPhyState](CAPLfunctionTestJoinEthernetPhyState.md) • [ethGetPhyState](../../IP/Functions/CAPLfunctionEthGetPhyState.md) • [ethSetPhyState](../../IP/Functions/CAPLfunctionEthSetPhyState.md) • [on ethernetPhyState](../../IP/EventProcedures/CAPLfunctionOnEthernetPhyState.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -30,8 +30,6 @@ Returns the dominant timeout of the LINpiggy or zero, if the transceiver does no
 
 [linSetGlobalTimeoutPrevention](CAPLfunctionLINSetGlobalTimeoutPrevention.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

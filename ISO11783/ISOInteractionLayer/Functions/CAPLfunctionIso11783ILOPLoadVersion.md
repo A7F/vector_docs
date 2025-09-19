@@ -34,8 +34,6 @@ The function loads an object pool, which is stored on the Virtual Terminal. A **
 Iso11783IL_OPLoadVersion("POOL01A");
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

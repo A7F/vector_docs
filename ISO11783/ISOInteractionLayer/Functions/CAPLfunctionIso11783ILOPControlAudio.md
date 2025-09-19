@@ -36,8 +36,6 @@ The function plays an acoustic signal on the Virtual Terminal. A **Control Audio
 Iso11783IL_OPControlAudio( 2, 2000, 100, 50 );
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

@@ -49,8 +49,6 @@ result = TestWaitForRawSignalMatch(Node_SUT::Velocity, 80, 1000);
 
 [TestWaitForSignalMatch](CAPLfunctionTestWaitForSignalMatch.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

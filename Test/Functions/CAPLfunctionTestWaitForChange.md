@@ -44,8 +44,6 @@ ret = testWaitForChange(anEvent, 200);
 
 [Programming with the Communication Concept (C#, Python and CAPL)](../../../CANoeCANalyzer/CommunicationConcept/Programming/CCP.md) • [TestWaitForChangeFlag](CAPLfunctionTestWaitForChangeFlag.md) • [TestWaitForUpdate](CAPLfunctionTestWaitForUpdate.md) • [TestWaitForUpdateCountGreater](CAPLfunctionTestWaitForUpdateCountGreater.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

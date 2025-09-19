@@ -33,8 +33,6 @@ The function changes the soft key mask of a data mask. A **Change Soft Key Mask*
 Iso11783OPChangeSoftKeyMask( handle, 1000, 1050 );
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -35,8 +35,6 @@ See example [vtsSetThreshold1_8](CAPLfunctionVTSvtsSetThreshold18.md)
 
 [SetThreshold9_16](CAPLfunctionVTSSetThreshold916.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

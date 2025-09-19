@@ -31,6 +31,4 @@ The function stores the current object pool on the Virtual Terminal. A **Store V
 Iso11783OPStoreVersion( handle, "POOL01A" );
 ```
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

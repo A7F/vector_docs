@@ -42,8 +42,6 @@ Allows the simulated node to tolerate variations in the address of the other par
 
 Example: —
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)

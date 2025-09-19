@@ -54,8 +54,6 @@ If **-1** is given, the corresponding field can get any value. This is also the 
 
 [TestWaitForMostPkt](CAPLfunctionTestWaitForMostPkt.md) • [TestJoinMostPktEvent](CAPLfunctionTestJoinMostPktEvent.md) • [TestJoinMostSpyPktEvent](CAPLfunctionTestJoinMostSpyPktEvent.md) • [TestGetWaitEventMostPkt](CAPLfunctionTestGetWaitEventMostPkt.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

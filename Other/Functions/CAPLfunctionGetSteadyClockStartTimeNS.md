@@ -39,8 +39,6 @@ Write("Since measurement start, %I64d nanoseconds have elapsed in realtime",
 
 [GetSteadyClockStartDurationNS](CAPLfunctionGetSteadyClockStartDurationNS.md) • [GetSteadyClockCurrentTimeNS](CAPLfunctionGetSteadyClockCurrentTimeNS.md) • [GetMeasurementStartTime](CAPLfunctionGetMeasurementStartTime.md)
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

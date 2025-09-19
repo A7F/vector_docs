@@ -57,6 +57,4 @@ Waits for the occurrence of the specified MOST AMS spy message. This may deal wi
 
 [**TestWaitForMostSpyMessage**](CAPLfunctionTestWaitForMostSpyMessage.md) • [**TestWaitForMostAMSMessage**](CAPLfunctionTestWaitForMostAMSMessage.md) • [**TestJoinMostAMSSpyMessageEvent**](CAPLfunctionTestJoinMostAMSSpyMessageEvent.md) • [**TestWaitForMostAMSSpyReport**](CAPLfunctionTestWaitForMostAMSSpyReport.md) • [**TestGetWaitEventMostAMSMsgData**](CAPLfunctionTestGetWaitEventMostAmsMsgData.md) • [**Symbolic definition of MOST messages**](../CAPLfunctionsTFSSymbolicMessageDefinition.md) • [**Input assistance**](../../MOST/CAPLfunctionsMOSTInputAssistant.md)
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

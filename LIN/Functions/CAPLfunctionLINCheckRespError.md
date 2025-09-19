@@ -32,8 +32,6 @@ Queries the **response_error** flags of all Slave nodes defined in the LIN netwo
 
 [linGetRespError](CAPLfunctionLINGetRespError.md) • [linSetRespError](CAPLfunctionLINSetRespError.md) • [linActivateGlobalNetworkManagement](CAPLfunctionLINActivateGlobalNetworkManagement.md) • [linActivateSlaveNetworkManagement](CAPLfunctionLINActivateSlaveNetworkManagement.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

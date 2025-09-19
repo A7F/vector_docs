@@ -34,8 +34,6 @@
 - **46-0136**: The token cannot be added or deleted
 - **46-0138**: Function can only be used in bus context of type Ethernet
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)

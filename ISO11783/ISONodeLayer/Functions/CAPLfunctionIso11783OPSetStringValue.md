@@ -39,7 +39,6 @@ The functions set the string value of an object in the object pool. The object m
 Iso11783OPSetStringValue( handle, 1000, "Hello World" );
 ```
 
-© Vector Informatik GmbH  
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)  
 [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

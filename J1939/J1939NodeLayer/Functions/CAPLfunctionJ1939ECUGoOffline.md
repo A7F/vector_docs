@@ -32,6 +32,4 @@ Use the function [J1939ECUGoOnline](CAPLfunctionJ1939ECUGoOnline.md) to start th
 J1939ECUGoOffline(ecuHdl);
 ```
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

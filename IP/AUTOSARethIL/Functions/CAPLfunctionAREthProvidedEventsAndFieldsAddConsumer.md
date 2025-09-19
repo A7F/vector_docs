@@ -34,6 +34,4 @@ Adds a consumer to a provided service instance. Afterwards all event/field notif
 
 —
 
-© Vector Informatik GmbH
-
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -52,8 +52,6 @@ _KLine_DataInd(byte data[]) // Receive a request
 
 [_KLine_DataCon](CAPLfunctionKLineDataCon.md)
 
-© Vector Informatik GmbH
-
 **CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

@@ -41,8 +41,6 @@ ret = testWaitForUpdateCountGreater(anEvent, anEvent.GetUpdateCount() + 3, 200);
 
 [Programming with the Communication Concept (C#, Python and CAPL)](../../../CANoeCANalyzer/CommunicationConcept/Programming/CCP.md) • [TestWaitForUpdateFlag](CAPLfunctionTestWaitForUpdateFlag.md) • [TestWaitForUpdate](CAPLfunctionTestWaitForUpdate.md) • [TestWaitForChange](CAPLfunctionTestWaitForChange.md)
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)

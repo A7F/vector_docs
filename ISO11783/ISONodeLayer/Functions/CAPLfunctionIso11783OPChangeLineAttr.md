@@ -34,8 +34,6 @@ The function changes the properties of a line attribute object. A **Change Line*
 Iso11783OPChangeLineAttribute( handle, 1100, 10, 3, 0xaa );
 ```
 
-© Vector Informatik GmbH
-
 CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
 
 [Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)
