@@ -4,16 +4,16 @@
 
 ### Function Syntax
 
-```plaintext
-long diagIsNegativeResponse (diagResponse obj)
+```c
+long diagIsNegativeResponse(diagResponse obj);
 ```
 
 ### Method Syntax
 
 [Method](../../../Shared/CAPL/General/ClassesAndObjects.md) Syntax
 
-```plaintext
-diagResponse::IsNegativeResponse ()
+```c
+diagResponse::IsNegativeResponse();
 ```
 
 ### Description

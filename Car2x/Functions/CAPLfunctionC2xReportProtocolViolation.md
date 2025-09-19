@@ -8,7 +8,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long C2xReportProtocolViolation(long packet, long severity, char[] scope, long ruleId, char[] ruleName, char[] violationDescription, char[] ruleDescription)
 ```
 

@@ -4,21 +4,25 @@
 
 ### Function Syntax
 
-- `long DiagGetAbsolutePosition( diagRequest request, char parameterPath[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 1`
-- `long DiagGetAbsolutePosition( diagResponse response, char parameterPath[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 2`
-- `long DiagGetAbsolutePositionResp( diagRequest request, char parameterPath[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 3`
-- `long DiagGetAbsolutePosition( diagRequest request, char complexParam[], dword iteration, char leafParameter[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 4`
-- `long DiagGetAbsolutePosition( diagResponse response, char complexParam[], dword iteration, char leafParameter[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 5`
-- `long DiagGetAbsolutePositionResp( diagRequest request, char complexParam[], dword iteration, char leafParameter[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 6`
+```c
+long DiagGetAbsolutePosition(diagRequest request, char parameterPath[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 1
+long DiagGetAbsolutePosition(diagResponse response, char parameterPath[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 2
+long DiagGetAbsolutePositionResp(diagRequest request, char parameterPath[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 3
+long DiagGetAbsolutePosition(diagRequest request, char complexParam[], dword iteration, char leafParameter[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 4
+long DiagGetAbsolutePosition(diagResponse response, char complexParam[], dword iteration, char leafParameter[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 5
+long DiagGetAbsolutePositionResp(diagRequest request, char complexParam[], dword iteration, char leafParameter[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 6
+```
 
 ### Method Syntax
 
-- `long diagRequest::GetAbsolutePosition( char parameterPath[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 1`
-- `long diagResponse::GetAbsolutePosition( char parameterPath[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut);  // form 2`
-- `long diagRequest::GetAbsolutePositionResp( char parameterPath[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 3`
-- `long diagRequest::GetAbsolutePosition( char complexParam[], dword iteration, char leafParameter[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 4`
-- `long diagResponse::GetAbsolutePosition( char complexParam[], dword iteration, char leafParameter[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 5`
-- `long diagRequest::GetAbsolutePositionResp( char complexParam[], dword iteration, char leafParameter[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 6`
+```c
+long diagRequest::GetAbsolutePosition(char parameterPath[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 1
+long diagResponse::GetAbsolutePosition(char parameterPath[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 2
+long diagRequest::GetAbsolutePositionResp(char parameterPath[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 3
+long diagRequest::GetAbsolutePosition(char complexParam[], dword iteration, char leafParameter[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 4
+long diagResponse::GetAbsolutePosition(char complexParam[], dword iteration, char leafParameter[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 5
+long diagRequest::GetAbsolutePositionResp(char complexParam[], dword iteration, char leafParameter[], dword& bytePosOut, dword& bitPosOut, dword& bitConsumptionOut); // form 6
+```
 
 ### Description
 

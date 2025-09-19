@@ -8,15 +8,19 @@
 
 ## Function Syntax
 
-- `long diagCheckValidNegResCode( diagRequest obj, dword negResCode);`
-- `long diagCheckValidNegResCode( diagResponse obj, dword negResCode);`
-- `long diagCheckValidNegResCode( diagResponse obj);`
+```c
+long diagCheckValidNegResCode(diagRequest obj, dword negResCode);
+long diagCheckValidNegResCode(diagResponse obj, dword negResCode);
+long diagCheckValidNegResCode(diagResponse obj);
+```
 
 ## Method Syntax
 
-- `long diagRequest::CheckValidNegResCode(dword negResCode);`
-- `long diagResponse::CheckValidNegResCode(dword negResCode);`
-- `long diagResponse::CheckValidNegResCode();`
+```c
+long diagRequest::CheckValidNegResCode(dword negResCode);
+long diagResponse::CheckValidNegResCode(dword negResCode);
+long diagResponse::CheckValidNegResCode();
+```
 
 ## Description
 

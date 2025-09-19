@@ -38,7 +38,7 @@ errCode = C2xSecCertificateGetName( certificateHandle, elCount(certName), certNa
 
 [See Also](javascript:void(0);)
 
-- [<OnC2xPacket>](../Callbacks/CAPLfunctionC2xOnC2xPacket.md#aanchor23975)
+- [\<OnC2xPacket>](../Callbacks/CAPLfunctionC2xOnC2xPacket.md#aanchor23975)
 - [C2xAddToken](CAPLfunctionC2xAddToken.md#aanchor432)
 - [C2xAssignNodeToStation](CAPLfunctionC2xAssignNodeToStation.md#aanchor31711)
 - [C2xCompletePacket](CAPLfunctionC2xCompletePacket.md#aanchor17662)

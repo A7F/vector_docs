@@ -8,8 +8,8 @@
 
 ## Function Syntax
 
-```plaintext
-long diagIsValidValue( diagResponse response, char[] parameterQualifier, long[] errorLevelOut);
+```c
+long diagIsValidValue(diagResponse response, char[] parameterQualifier, long[] errorLevelOut);
 ```
 
 ## Description

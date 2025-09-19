@@ -8,17 +8,21 @@
 
 ## Function Syntax
 
-- `long diagInitialize( diagResponse object, char serviceQualifier[]); // form 1`
-- `long diagInitialize( diagResponse object, char serviceQualifier[], char primitiveQualifier[]); // form 2`
-- `long diagInitialize( diagRequest object, char serviceQualifier[]); // form 3`
-- `long DiagInitialize(diagRequest object); // form 4`
-- `long DiagInitialize(diagResponse object); // form 5`
+```c
+long diagInitialize(diagResponse object, char serviceQualifier[]); // form 1
+long diagInitialize(diagResponse object, char serviceQualifier[], char primitiveQualifier[]); // form 2
+long diagInitialize(diagRequest object, char serviceQualifier[]); // form 3
+long DiagInitialize(diagRequest object); // form 4
+long DiagInitialize(diagResponse object); // form 5
+```
 
 ## Method Syntax
 
-- `diagResponse::Initialize( char serviceQualifier[]);`
-- `diagResponse::Initialize( char serviceQualifier[], char primitiveQualifier[]);`
-- `diagRequest::Initialize( char serviceQualifier[]);`
+```c
+diagResponse::Initialize(char serviceQualifier[]);
+diagResponse::Initialize(char serviceQualifier[], char primitiveQualifier[]);
+diagRequest::Initialize(char serviceQualifier[]);
+```
 
 ## Description
 

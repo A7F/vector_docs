@@ -8,7 +8,7 @@
 
 ## Function Syntax
 
-```
+```c
 long C2xProtocolAnalyzerGetRuleList(long bufferSize, char[] buffer)
 ```
 

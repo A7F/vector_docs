@@ -8,11 +8,11 @@
 
 ## Function Syntax
 
-```
-long diagGetParameterCoded(diagResponse obj, char parameterName[], byte* buffer, dword bufferSize)
-long diagGetParameterCoded(diagRequest obj, char parameterName[], byte* buffer, dword bufferSize)
-long diagSetParameterCoded(diagResponse obj, char parameterName[], byte* buffer, dword bufferSize)
-long diagSetParameterCoded(diagRequest obj, char parameterName[], byte* buffer, dword bufferSize)
+```c
+long diagGetParameterCoded(diagResponse obj, char parameterName[], byte* buffer, dword bufferSize);
+long diagGetParameterCoded(diagRequest obj, char parameterName[], byte* buffer, dword bufferSize);
+long diagSetParameterCoded(diagResponse obj, char parameterName[], byte* buffer, dword bufferSize);
+long diagSetParameterCoded(diagRequest obj, char parameterName[], byte* buffer, dword bufferSize);
 ```
 
 ## Description

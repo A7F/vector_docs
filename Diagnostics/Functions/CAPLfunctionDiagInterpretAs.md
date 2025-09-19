@@ -8,16 +8,16 @@
 
 ## Function Syntax
 
-```plaintext
-long diagInterpretAs( diagResponse response, char primitiveQualifier[]);
+```c
+long diagInterpretAs(diagResponse response, char primitiveQualifier[]);
 ```
 
 ## Method Syntax
 
 [Method Syntax](../../../Shared/CAPL/General/ClassesAndObjects.md)
 
-```plaintext
-diagResponse::InterpretAs( char primitiveQualifier[]);
+```c
+diagResponse::InterpretAs(char primitiveQualifier[]);
 ```
 
 ## Description

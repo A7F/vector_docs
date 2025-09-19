@@ -53,19 +53,19 @@ References a consumed service endpoint, which means a specific combination of co
   **Type**: `dword`  
   **Access Limitation**: Read only
 
-- **<eventName>**:  
+- **`<eventName>`**:  
   **Type**: `consumedEventRef`  
   **Access Limitation**: Read only
 
-- **<fieldName>**:  
+- **`<fieldName>`**:  
   **Type**: `consumedFieldRef`  
   **Access Limitation**: Read only
 
-- **<pduName>**:  
+- **`<pduName>`**:  
   **Type**: `consumedPDURef`  
   **Access Limitation**: Read only
 
-- **<methodName>**:  
+- **`<methodName>`**:  
   **Type**: `consumedMethodRef`  
   **Access Limitation**: Read only
 

@@ -13,9 +13,9 @@ After basic configuration of a diagnostic test module has been completed (the Ta
 
 After a request has been sent the following phases are run through:
 
-1. The request is sent to the ECU. Execution of the TestCase can be synchronized to the entire sending of the request using the function [testWaitForDiagRequestSent( diagRequest request, dword timeout)](../Test/Functions/CAPLfunctionTestWaitForDiagRequestSent.md);
-2. The ECU begins to send a response to the tester, i.e. a "FirstFrame" (ISO TP) announces the arrival of the Response Primitive. Waiting for this event is executed using the function [testWaitForDiagResponseStart(diagRequest request, dword timeout)](../Test/Functions/CAPLfunctionTestWaitForDiagResponseStart.md); This function is also called if the entire response has arrived at once, i.e. a "SingleFrame" (ISO TP) contains the entire response.
-3. The entire response has arrived at the tester, i.e. transmission of the entire response primitive has been completed. The function [testWaitForDiagResponse( diagRequest request, dword timeout)](../Test/Functions/CAPLfunctionTestWaitForDiagResponse.md); returns.
+1. The request is sent to the ECU. Execution of the TestCase can be synchronized to the entire sending of the request using the function [`testWaitForDiagRequestSent(diagRequest request, dword timeout)`](../Test/Functions/CAPLfunctionTestWaitForDiagRequestSent.md);
+2. The ECU begins to send a response to the tester, i.e. a "FirstFrame" (ISO TP) announces the arrival of the Response Primitive. Waiting for this event is executed using the function [`testWaitForDiagResponseStart(diagRequest request, dword timeout)`](../Test/Functions/CAPLfunctionTestWaitForDiagResponseStart.md); This function is also called if the entire response has arrived at once, i.e. a "SingleFrame" (ISO TP) contains the entire response.
+3. The entire response has arrived at the tester, i.e. transmission of the entire response primitive has been completed. The function [`testWaitForDiagResponse(diagRequest request, dword timeout)`](../Test/Functions/CAPLfunctionTestWaitForDiagResponse.md); returns.
 
 **Note**  
 CANoe assumes the automatic handling of "Response Pending" (negative response with error code 0x78) responses of the ECU, i.e. this function does not return until another negative or positive response arrives, or until the timeout expires.

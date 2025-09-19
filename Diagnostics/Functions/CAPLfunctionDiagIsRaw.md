@@ -8,16 +8,16 @@
 
 ## Function Syntax
 
-```
-long diagIsRaw( diagRequest request);
-long diagIsRaw( diagResponse response);
+```c
+long diagIsRaw(diagRequest request);
+long diagIsRaw(diagResponse response);
 ```
 
 ## Method Syntax
 
 [Method](../../../Shared/CAPL/General/ClassesAndObjects.md) Syntax
 
-```
+```c
 diagRequest::IsRaw();
 diagResponse::IsRaw();
 ```

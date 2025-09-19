@@ -8,18 +8,18 @@
 
 ## Function Syntax
 
-```
-long diagIsParameterDefault (diagResponse obj, char parameterName[])
-long diagIsParameterDefault (diagRequest obj, char parameterName[])
+```c
+long diagIsParameterDefault(diagResponse obj, char parameterName[]);
+long diagIsParameterDefault(diagRequest obj, char parameterName[]);
 ```
 
 ## Method Syntax
 
 [Method](../../../Shared/CAPL/General/ClassesAndObjects.md) Syntax
 
-```
-diagResponse::IsParameterDefault (char* parameterName)
-diagRequest::IsParameterDefault (char parameterName[])
+```c
+diagResponse::IsParameterDefault(char* parameterName);
+diagRequest::IsParameterDefault(char parameterName[]);
 ```
 
 ## Description

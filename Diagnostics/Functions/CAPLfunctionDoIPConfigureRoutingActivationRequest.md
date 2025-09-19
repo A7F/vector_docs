@@ -15,7 +15,7 @@ The following DoIP CAPL function is only available with the modeling library **D
 
 ## Function Syntax
 
-```plaintext
+```c
 void DoIP_ConfigureRoutingActivationRequest(long mode, dword activationType, dword valueReserved);
 ```
 

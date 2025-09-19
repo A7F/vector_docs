@@ -8,16 +8,16 @@
 
 ## Function Syntax
 
-```
-long diagIsPositiveResponse (diagResponse obj)
+```c
+long diagIsPositiveResponse(diagResponse obj);
 ```
 
 ## Method Syntax
 
 [Method Syntax](../../../Shared/CAPL/General/ClassesAndObjects.md)
 
-```
-diagResponse::IsPositiveResponse ()
+```c
+diagResponse::IsPositiveResponse();
 ```
 
 ## Description

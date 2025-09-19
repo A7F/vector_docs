@@ -16,7 +16,7 @@ Returns the subscribed consumer with the specified index.
 
 ## Parameters
 
-- **index**: Index of the consumer. The condition 0 <= index < [pduProviderRef::GetNrOfSubscribedConsumers](CAPLfunctionPduProviderRefGetNrOfSubscribedConsumers.md) must be true.
+- **index**: Index of the consumer. The condition `0 <= index < [pduProviderRef::GetNrOfSubscribedConsumers](CAPLfunctionPduProviderRefGetNrOfSubscribedConsumers.md)` must be true.
 
 ## Return Values
 

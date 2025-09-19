@@ -38,7 +38,7 @@ References a provided service endpoint, which means a specific combination of co
 - **Path**: Full path of the provided endpoint (including namespaces) (Type: `char[]`, Access: Read only)
 - **IsConsistent**: Returns whether the object refers to an existing endpoint. (Type: `dword`, Access: Read only)
 - **IsValid**: Returns whether **IsConsistent** is true and the endpoint is accessible (it’s not set to **Remote** state for example). (Type: `dword`, Access: Read only)
-- **<eventName>**: (Type: `providedEventRef`, Access: Read only)
+- **`<eventName>`**: (Type: `providedEventRef`, Access: Read only)
 - **<fieldName>**: (Type: `providedFieldRef`, Access: Read only)
 - **<pduName>**: (Type: `providedPDURef`, Access: Read only)
 - **<methodName>**: (Type: `providedMethodRef`, Access: Read only)

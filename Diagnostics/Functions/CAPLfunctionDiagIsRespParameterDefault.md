@@ -8,16 +8,16 @@
 
 ## Function Syntax
 
-```
-long diagIsRespParameterDefault (diagRequest obj, char parameterName[])
+```c
+long diagIsRespParameterDefault(diagRequest obj, char parameterName[]);
 ```
 
 ## Method Syntax
 
 [Method](../../../Shared/CAPL/General/ClassesAndObjects.md) Syntax
 
-```
-diagRequest::IsRespParameterDefault (char parameterName[])
+```c
+diagRequest::IsRespParameterDefault(char parameterName[]);
 ```
 
 ## Description

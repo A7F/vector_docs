@@ -20,7 +20,7 @@ Sends a message and automatically updates the payload with the current Tx-signal
 
 - There are conceptually two distinct ways to apply send specific signal values:
   - Use the Signal API methods to set the payload within the frame itself.
-  - Use the Signal Server content to get the frame payload set (by this method or use [AfdxInitPacket](CAPLfunctionAfdxInitPacket.md) with <initSignals> set to true).
+  - Use the Signal Server content to get the frame payload set (by this method or use [AfdxInitPacket](CAPLfunctionAfdxInitPacket.md) with `<initSignals>` set to true).
 - During PreStart-phase the SignalServer is not yet initialized.
 
 ## Parameters

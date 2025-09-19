@@ -20,7 +20,7 @@ A heartbeat consumer is configured on the DUT (object 0x1016, subindex 1). The t
 
 - **virtProducerId**: This "virtual" node emulates the necessary heartbeat producer, this node number may not be assigned in the system to be tested.
 - **consumerTime**: Heartbeat consumer time in ms.
-- **tolerance**: Permissible tolerance (x - (tolerance/2) <= x <= x + (tolerance/2)) for the receipt of the emergency message.
+- **tolerance**: Permissible tolerance (`x - (tolerance/2) <= x <= x + (tolerance/2)`) for the receipt of the emergency message.
 
 ## Return Values
 

@@ -23,12 +23,12 @@ This function applies values to multiple path history tokens in the packet. The 
 ## Parameters
 
 - **packet**: Handle of a packet that has been created with C2xInitPacket or was provided as callback function parameter.
-- **latitude**: New station latitude in degrees, -90.0° < latitude < 90.0°.
-- **longitude**: New station longitude in degrees, -180.0° <= longitude <= 180.0°.
-- **elevation (optional)**: New station altitude in meters, -1000.0m <= elevation <= 8000.0m. Set the elevation parameter to a value outside of the valid range to indicate that the elevation is not provided / is unused.
-- **maxDistance**: Maximal length in meters of the path history. 0.0m < maxDistance < 1000.0m. Set values below 1000 (m) to limit the geographical length of the station path history applied by this function.
+- **latitude**: New station latitude in degrees, `-90.0° < latitude < 90.0°`.
+- **longitude**: New station longitude in degrees, `-180.0° <= longitude <= 180.0°`.
+- **elevation (optional)**: New station altitude in meters, `-1000.0m <= elevation <= 8000.0m`. Set the elevation parameter to a value outside of the valid range to indicate that the elevation is not provided / is unused.
+- **maxDistance**: Maximal length in meters of the path history. `0.0m < maxDistance < 1000.0m`. Set values below 1000 (m) to limit the geographical length of the station path history applied by this function.
 - **maxPtCount**: Maximal count of path history points applied by this function. It is limited by the allowed maximal length of path history sequence token in the database for concrete packet (CAM, DENM, BasicSafetyMessage).
-- **routeId**: Unique integer number which identifies the path history data storage from where the position data will be used. The path history data source here are previous periodic calls to the CAPL Function C2xAddGeoPos with the same value of routeId parameter. Valid value range: routeId > 0.
+- **routeId**: Unique integer number which identifies the path history data storage from where the position data will be used. The path history data source here are previous periodic calls to the CAPL Function C2xAddGeoPos with the same value of routeId parameter. Valid value range: `routeId > 0`.
 
 ## Return Values
 

@@ -8,8 +8,10 @@
 
 ## Function Syntax
 
-- `long diagGetConfiguredVariant(char configuredVariantOut[], DWORD bufferLen);` // form 1
-- `long diagGetConfiguredVariant(char ecuQualifier[], char configuredVariantOut[], DWORD bufferLen);` // form 2
+```c
+long diagGetConfiguredVariant(char configuredVariantOut[], DWORD bufferLen); // form 1
+long diagGetConfiguredVariant(char ecuQualifier[], char configuredVariantOut[], DWORD bufferLen); // form 2
+```
 
 ## Description
 

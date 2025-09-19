@@ -69,7 +69,7 @@ References a consumed PDU endpoint, which means a specific combination of consum
   Type: `enum`  
   Access Limitation: Read only
 
-- **<SignalName>**: Accesses the specified signal on the PDU.  
+- **`<SignalName>`**: Accesses the specified signal on the PDU.  
   Type: `<Data type of the signal>`
 
 ### Example

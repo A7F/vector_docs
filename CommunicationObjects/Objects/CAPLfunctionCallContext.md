@@ -67,13 +67,13 @@ Contains data of a function call, in particular the parameter values.
   - Type: int64
   - Access Limitation: Read only
 
-- **<Parameter Name>**: Value of the named parameter. Note that parameters are not accessible or read-only depending on the side and state of the call, e.g. you cannot access out-parameters in state Initial and cannot change in-parameters in state **Returned**.
-  - Type: <data type of the parameter>
-  - Access Limitation: <depends on side and state>
+- **`<Parameter Name>`**: Value of the named parameter. Note that parameters are not accessible or read-only depending on the side and state of the call, e.g. you cannot access out-parameters in state Initial and cannot change in-parameters in state **Returned**.
+  - Type: `<data type of the parameter>`
+  - Access Limitation: `<depends on side and state>`
 
 - **Result**: Return value of the function (if the function return type is not void).
-  - Type: <data type of the return value>
-  - Access Limitation: <depends on side and state>
+  - Type: `<data type of the return value>`
+  - Access Limitation: `<depends on side and state>`
 
 ## Example
 

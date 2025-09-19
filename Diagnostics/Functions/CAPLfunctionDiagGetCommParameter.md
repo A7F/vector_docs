@@ -8,10 +8,12 @@
 
 ## Function Syntax
 
-- `long diagGetCommParameter (char paramName[]); // form 1`
-- `long diagGetCommParameter( char paramName[], dword index, char buffer[], dword bufferLen); // form 2`
-- `long DiagGetCommParameter(char ecuQualifier[], long isTester, char paramName[]); // form 3`
-- `long DiagGetCommParameter(char ecuQualifier[], long isTester, char paramName[], dword index, char buffer[], dword bufferLen); // form 4`
+```c
+long diagGetCommParameter(char paramName[]); // form 1
+long diagGetCommParameter(char paramName[], dword index, char buffer[], dword bufferLen); // form 2
+long DiagGetCommParameter(char ecuQualifier[], long isTester, char paramName[]); // form 3
+long DiagGetCommParameter(char ecuQualifier[], long isTester, char paramName[], dword index, char buffer[], dword bufferLen); // form 4
+```
 
 ## Description
 
