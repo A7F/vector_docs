@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xGetStationSubAttributeInt64.md)
-
 # C2xGetStationSubAttributeInt64
 
 [CAPL Functions](../../CAPLfunctions.md) » [Car2x](../CAPLfunctionsCar2xOverview.md) » C2xGetStationSubAttributeInt64
@@ -40,10 +38,3 @@ void OnStartScenario()
   write("OnStartScenario - Station Sub Attribute = %d", C2xGetStationSubAttributeInt64("Station1", "Events_EEBL1", " CauseCode"));
 }
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CAN/Functions/CAPLfunctionCanGetMinSendDistance.md)
-
-**CAPL Functions** » **CAN** » **canGetMinSendDistance**
-
 # canGetMinSendDistance
 
 **Valid for**: CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -29,11 +25,3 @@ Minimum distance between two consecutive frames in milliseconds, if CAN statisti
 ```plaintext
 write("Minimum send distance on CAN1: %i [ms]", canGetMinSendDistance(1));
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

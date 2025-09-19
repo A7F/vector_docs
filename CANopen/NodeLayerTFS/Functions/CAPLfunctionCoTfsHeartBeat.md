@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANopen/NodeLayerTFS/Functions/CAPLfunctionCoTfsHeartBeat.md)
-
-**CAPL Functions** » **CANopen** » **Test Feature Set Node Layer** » **coTfsHeartbeat**
-
 # coTfsHeartbeat (Level 3)
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE
@@ -37,9 +33,3 @@ if ( coTfsHeartbeat( 2 ) != 1) {
   write ( "heartbeat test failed" );
 }
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

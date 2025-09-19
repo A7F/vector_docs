@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CommunicationObjects/EventProcedures/CAPLfunctionOnfctCalling.md)
-
-## CAPL Functions » Communication Objects » on fct_calling
-
 # on fct_calling (obsolete)
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -41,9 +37,3 @@ on fct_calling MirrorAdjustment[all,LeftMirror].Adjust
 ```
 
 [Programming with the Communication Concept (C#, Python and CAPL)](../../../CANoeCANalyzer/CommunicationConcept/Programming/CCP.md) • [on fct_Called](CAPLfunctionOnfctCalled.md) • [on fct_Returning](CAPLfunctionOnfctReturning.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

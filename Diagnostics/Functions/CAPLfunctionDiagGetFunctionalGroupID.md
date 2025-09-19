@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagGetFunctionalGroupID.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » diagGetFunctionalGroupId
-
 # diagGetFunctionalGroupId
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -32,11 +28,3 @@ CAN ID of the requests, or 0xFFFFFFFF if no functional group has been set.
 —
 
 [Processing Functional Diagnostic Requests in ECU Simulations](../CAPLfunctionsDiagnosticsProcessingDiagnosticRequests.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagStartVariantIdentification.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » diagStartVariantIdentification
-
 # diagStartVariantIdentification
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -36,11 +32,3 @@ Unlock ECU after pressing `<u>`.
 [Example](../CAPLfunctionsExampleAutomaticVariantIdentification.md)
 
 [Automatic Variant Identification](../../../CANoeCANalyzer/Diagnostics/Test/DiagnosticsAutomaticVariantIdentification.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

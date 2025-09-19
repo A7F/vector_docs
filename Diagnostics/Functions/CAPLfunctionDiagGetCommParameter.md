@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagGetCommParameter.md)
-
 # diagGetCommParameter
 
 [CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » diagGetCommParameter
@@ -73,7 +71,3 @@ K-Line (form 1, all timing parameters in microseconds):
 You can find examples for this function in the CAPL callback interface (CCI) reference implementations. See [Diagnostics: Connection of the Communication Layer](../CAPLfunctionsDiagnosticsConnectionCommunicationLayer.md) for details.
 
 [Connection of the Communication Layer / Reference Implementations](../CAPLfunctionsDiagnosticsConnectionCommunicationLayer.md) • [Expanded Functions in CAPL](../CAPLfunctionsDiagnosticsExpandedFunctions.md)
-
-© Vector Informatik GmbH
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

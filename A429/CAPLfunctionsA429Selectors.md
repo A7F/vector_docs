@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/A429/CAPLfunctionsA429Selectors.md)
-
-**CAPL Functions** » **A429** » **ARINC Word Selectors**
-
 # ARINC Word Selectors
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -110,9 +106,3 @@ The offsets used together with the selector address the following parts of the A
 [Meaning](../../CANoeCANalyzer/A429/basicsA429/A429basics.md): Parity + SSM + Data, Data, Data + SDI, ARINC-Label
 
 **Bit number**: 32, 25, 24, 17, 16, 9, 8, 1
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

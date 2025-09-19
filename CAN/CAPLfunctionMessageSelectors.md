@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CAN/CAPLfunctionMessageSelectors.md)
-
-[CAPL Functions](../CAPLfunctions.md) » [CAN](CAPLfunctionsCANOverview.md) » CAN Message Selectors
-
 # CAN Message Selectors
 
 [Valid for](../../Shared/FeatureAvailability.md):  CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -94,8 +90,3 @@ To achieve independence from the actual coding of DIR and RTR the following symb
 - **TXREQUESTDATA**: Transmission request was set for data message ((DIR == TXREQUEST) && !RTR)
 
 [Defining Parameter Groups](../J1939/CAPLfunctionsJ1939DefinePG.md)
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

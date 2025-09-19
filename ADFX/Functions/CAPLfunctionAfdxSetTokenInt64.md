@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionAfdxSetTokenInt64.md)
-
-**CAPL Functions** » **AFDX** » **AfdxSetTokenInt64**
-
 # AfdxSetTokenInt64
 
 **Valid for**: CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -39,11 +35,3 @@ This function sets the specified token‘s data to a new 64-bit integer value. W
 ## Example
 
 See example of [AfdxInitPacket](CAPLfunctionAfdxInitPacket.md).
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

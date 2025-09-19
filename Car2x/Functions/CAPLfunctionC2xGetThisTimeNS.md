@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xGetThisTimeNS.md)
-
-**CAPL Functions** » **Car2x** » **C2xGetThisTimeNS**
-
 # C2xGetThisTimeNS
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -48,5 +44,3 @@ void OnC2xPacket( long channel, long dir, long radioChannel, long signalStrength
   write("Received packet at %f [ns]", t );
 }
 ```
-
-[See Also](javascript:void(0);)

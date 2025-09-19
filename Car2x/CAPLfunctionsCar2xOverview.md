@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/CAPLfunctionsCar2xOverview.md)
-
-[CAPL Functions](../CAPLfunctions.md) » Car2x CAPL Functions
-
 # Car2x CAPL Functions
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE
@@ -194,9 +190,3 @@
 - **C2xGetITSTimeStamp**: [Returns the time in milliseconds since 1.1.1970 00:00:00 to measurement start plus the simulation time.](Functions/CAPLfunctionC2xGetITSTimeStamp.md)
 
 [Car2x Error Codes](CAPLfunctionsCar2xErrorCodes.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

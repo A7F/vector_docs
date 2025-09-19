@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagvFlashTestWaitForvFlashStopped.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » TestWaitForvFlashStopped
-
 # TestWaitForvFlashStopped
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -38,9 +34,3 @@ other: please refer to `enum vFlashStatusCode` in `Reusable\CAPL_Includes\vFlash
 —
 
 [TestWaitForvFlashReprogrammed](CAPLfunctionDiagvFlashTestWaitForvFlashReprogrammed.md)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

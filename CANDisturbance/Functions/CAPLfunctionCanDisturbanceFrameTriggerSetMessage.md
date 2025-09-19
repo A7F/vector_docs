@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANDisturbance/Functions/CAPLfunctionCanDisturbanceFrameTriggerSetMessage.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [CAN Disturbance Interface](../CAPLfunctionsCANDisturbanceOverview.md) » canDisturbanceFrameTrigger::SetMessage
-
 # canDisturbanceFrameTrigger::SetMessage
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -58,8 +54,3 @@ Sets the frame for the trigger condition. The mask is filled automatically with 
 - [canDisturbanceTriggerEnable (Frame and Frame Sequence)](CAPLfunctionCanDisturbanceTriggerEnable.md#FrameFrameSequence)
 - [canDisturbanceTriggerEnable (Multiple Frames and Sequence)](CAPLfunctionCanDisturbanceTriggerEnable.md#MultipleFrameSequence)
 - [canDisturbanceTriggerEnable (Multiple Frames and Frame Sequence)](CAPLfunctionCanDisturbanceTriggerEnable.md#MultipleFrameFrameSequence)
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

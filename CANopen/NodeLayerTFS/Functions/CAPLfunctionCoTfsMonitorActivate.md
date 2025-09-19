@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANopen/NodeLayerTFS/Functions/CAPLfunctionCoTfsMonitorActivate.md)
-
-**CAPL Functions** » **CANopen** » **Test Feature Set Node Layer** » **coTfsMonitorActivate**
-
 # coTfsMonitorActivate (Level 2)
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE
@@ -46,7 +42,3 @@ if (coTfsMonitorDeactivate() != 1) { // deactivate monitoring and add results to
   TestStepPass("Monitoring", "All monitored responses were received in time");
 }
 ```
-
-© Vector Informatik GmbH
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

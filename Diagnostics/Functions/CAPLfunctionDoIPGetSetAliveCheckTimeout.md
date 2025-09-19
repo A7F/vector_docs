@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPGetSetAliveCheckTimeout.md)
-
-**CAPL Functions » Diagnostics » DoIP_GetAliveCheckTimeout, DoIP_SetAliveCheckTimeout**
-
 # DoIP_GetAliveCheckTimeout, DoIP_SetAliveCheckTimeout
 
 [CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » DoIP_GetAliveCheckTimeout, DoIP_SetAliveCheckTimeout
@@ -46,11 +42,3 @@ This value can also be configured in the DoIP.INI file.
 // Set T_TCP_Alive_Check to 3s
 DoIP_SetAliveCheckTimeout( 3000);
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

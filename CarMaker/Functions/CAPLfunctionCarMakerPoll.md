@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CarMaker/Functions/CAPLfunctionCarMakerPoll.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [CarMaker Interface](../CAPLfunctionsCarMakerOverview.md) » CarMaker_Poll
-
 # CarMaker_Poll
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -34,11 +30,3 @@ The function can also be used to get the current APO return code.
 // get the current error status
 gErrorState = CarMaker_Poll();
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionAfdxOutput.md)
-
 # output (AFDX)
 
 [CAPL Functions](../../CAPLfunctions.md) » [AFDX »](../CAPLfunctionsAFDXOverview.md) output AFDX
@@ -42,5 +40,3 @@ on a664Frame * {
   #endif
 }
 ```
-
-[See Also](javascript:void(0);)

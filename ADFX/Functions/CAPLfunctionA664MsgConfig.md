@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionA664MsgConfig.md)
-
-**CAPL Functions** » [AFDX](../CAPLfunctionsAFDXOverview.md) » A664MsgConfig
-
 # A664MsgConfig
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -53,5 +49,3 @@ Configure the Tx parameters for a given a664Frame or a664Message.
   a664MsgConfig(myMsg, 0, 3, 2);  // overwrite doFrag and SubVL
   a664TriggerMessage(myMsg, 2);  // start cyclic transmission
 ```
-
-[See Also](javascript:void(0);)

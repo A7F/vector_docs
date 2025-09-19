@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/CAPLfunctionsDiagnosticsEventHandlerAnalysisBranch.md)
-
-**CAPL Functions** » [Diagnostics](CAPLfunctionsDiagnosticsOverview.md) » Diagnostic Event Handlers in Measurement Setup
-
 # Diagnostic Event Handlers in Measurement Setup
 
 [Valid for](../../Shared/FeatureAvailability.md):  CANoe DE
@@ -63,7 +59,3 @@ On diagResponse Sessions::*
   output(this);
 }
 ```
-
-© Vector Informatik GmbH
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

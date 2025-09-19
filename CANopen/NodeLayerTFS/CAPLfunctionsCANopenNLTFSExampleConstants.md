@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANopen/NodeLayerTFS/CAPLfunctionsCANopenNLTFSExampleConstants.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [CANopen](../CAPLfunctionsCANopenOverview.md) » [Test Feature Set Node Layer](CAPLfunctionsCANopenNLTFSLevelOverview.md) » Constants Used in the CAPL Examples
-
 # Constants Used in the CAPL Examples
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe:lite DE • CANoe4SW DE
@@ -95,11 +91,3 @@
 - const int kErrorHandling_RunAllTests = 0;
 - const int kErrorHandling_StopOnFirstFailedTest = 1;
 - const int kErrorHandling_StopOnFirstPassedTest = 2;
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

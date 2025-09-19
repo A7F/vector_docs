@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagGetParameterSizeRaw.md)
-
-**CAPL Functions** » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » diagGetParameterSizeRaw
-
 # diagGetParameterSizeRaw
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -32,8 +28,3 @@ If > 0 the number bits, otherwise an [error code](../CAPLfunctionsDiagnosticsErr
 ## Example
 
 —
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

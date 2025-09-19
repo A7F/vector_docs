@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionA664InitICMP.md)
-
 # A664InitICMP
 
 **CAPL Functions** » **AFDX »** A664InitICMP

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANoeIL/CAPLfunctionsCANoeILOverviewExecContext.md)
-
-[CAPL Functions](../CAPLfunctions.md) » [CANoe IL](CAPLfunctionsCANoeILOverview.md) » Functions in the Execution Context
-
 # Functions in the Execution Context
 
 [Valid for](../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -44,11 +40,3 @@ Various control and disturbance functions are provided for implementing tests in
   - [TestSetMsgCycleTime](../Test/Functions/CAPLfunctionTestSetMsgCycleTime.md)
 - [ILSetMsgEvent](Functions/CAPLfunctionILSetMsgEvent.md)
   - [TestSetMsgEvent](../Test/Functions/CAPLfunctionTestSetMsgEvent.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

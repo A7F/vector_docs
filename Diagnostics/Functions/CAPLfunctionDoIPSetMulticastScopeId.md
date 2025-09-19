@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPSetMulticastScopeId.md)
-
-**CAPL Functions** » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » DoIP_SetMulticastScopeId
-
 # DoIP_SetMulticastScopeId
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -72,7 +68,3 @@ dword scopeId;
 scopeId = GetTCPIPAdapterScopeId(testerIPaddr);
 DoIP_SetMulticastScopeId(scopeId);
 ```
-
-© Vector Informatik GmbH
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

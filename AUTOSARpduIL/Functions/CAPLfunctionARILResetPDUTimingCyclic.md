@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/AUTOSARpduIL/Functions/CAPLfunctionARILResetPDUTimingCyclic.md)
-
-**CAPL Functions** » [AUTOSAR PDU IL](../CAPLfunctionsAUTOSARpduILOverview.md) » ARILResetPDUTimingCyclic
-
 # ARILResetPDUTimingCyclic
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -34,11 +30,3 @@ Resets the **cyclic-timing** to the values from the database. Possibly two timin
 —
 
 •  Technical References are only available in English
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADAS/Functions/CAPLfunctionIsScenarioStarted.md)
-
-**CAPL Functions** » **ADAS** » **IsScenarioStarted**
-
 # IsScenarioStarted
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -52,8 +48,3 @@ int result = ScenarioManager.IsScenarioStarted.Call();
 ```csharp
 bool result = ScenarioManager.IsScenarioStarted.Call();
 ```
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

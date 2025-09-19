@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagGetParameterPath.md)
-
-**CAPL Functions** » **Diagnostics** » diagGetParameterPath, diagGetRespParameterPath
-
 # diagGetParameterPath, diagGetRespParameterPath
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -39,11 +35,3 @@ Returns the full qualifier path of the parameter at the given position in the pr
 See [diagGetObjectPath](CAPLfunctionDiagGetObjectPath.md)
 
 [diagGetParameterLongName, diagGetRespParameterLongName](CAPLfunctiondiagGetParameterLongName.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

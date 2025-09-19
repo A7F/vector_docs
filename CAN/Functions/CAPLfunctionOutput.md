@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CAN/Functions/CAPLfunctionOutput.md)
-
-**CAPL Functions** » **CAN** » **output (CAN)**
-
 # output (CAN)
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -52,11 +48,3 @@ on CAN2.errorFrame {
 ```
 
 Except for the first channel for all other channels the key word **errorFrame** has to be qualified with the number of the CAN channel.
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

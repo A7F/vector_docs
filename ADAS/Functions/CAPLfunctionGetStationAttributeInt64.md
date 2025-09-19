@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADAS/Functions/CAPLfunctionGetStationAttributeInt64.md)
-
-**CAPL Functions** » **ADAS** » **GetStationAttributeInt64**
-
 # GetStationAttributeInt64
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -60,8 +56,3 @@ int64 userDef = ScenarioManager.GetStationAttributeInt64.Call("DuT", "UserDefine
 ```plaintext
 int64 userDef = ScenarioManager.GetStationAttributeInt64.Call("DuT", "UserDefinedInt64Val");
 ```
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

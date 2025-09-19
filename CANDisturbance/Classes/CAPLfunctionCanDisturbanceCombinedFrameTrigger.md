@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANDisturbance/Classes/CAPLfunctionCanDisturbanceCombinedFrameTrigger.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [CAN Disturbance Interface](../CAPLfunctionsCANDisturbanceOverview.md) » [Classes » ](../CAPLfunctionsClassesOverview.md)Class: CanDisturbanceCombinedFrameTrigger
-
 # Class: CanDisturbanceCombinedFrameTrigger
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -22,9 +18,3 @@ You can access control information of a **CanDisturbanceCombinedFrameTrigger** o
 - **CountOfFrameTrigger**: Number of configured frame triggers. Maximum number: 32. Type: dword. Access Limitations: read-only.
 - **TriggerFieldType**: The CAN frame field that will cause the trigger to start sending the configured sequence. The [system variable](../../../CANoeCANalyzer/Interfaces/CANDisturbance/SysVarDisturbance.md) `sysvar::CanDisturbanceInterace::Enums::FieldType` contains an enumeration of possible values. Type: dword.
 - **TriggerFieldOffset**: The offset in the CAN frame field configured by **TriggerFieldType**. If the offset is outside the trigger field, the offset is set to the maximum number of bits this field contains. If the trigger field **EndOfFrame** is used, the offset is extended up to 26. The reason is that in this case an IFS or a Bus Idle trigger can also be configured. Type: dword.
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

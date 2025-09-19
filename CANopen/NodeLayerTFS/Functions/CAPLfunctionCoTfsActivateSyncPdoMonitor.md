@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANopen/NodeLayerTFS/Functions/CAPLfunctionCoTfsActivateSyncPdoMonitor.md)
-
-**CAPL Functions** » **CANopen** » **Test Feature Set Node Layer** » **coTfsActivateSyncPdoMonitor**
-
 # coTfsActivateSyncPdoMonitor
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE
@@ -45,11 +41,3 @@ coTfsDeactivateSyncPDOMonitor(0x181); // disables one sync pdo callback
 coTfsDeactivateSyncPDOMonitor(); // remove all checks
 coTfsDeactivateSyncMonitor(); // disable sync check
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

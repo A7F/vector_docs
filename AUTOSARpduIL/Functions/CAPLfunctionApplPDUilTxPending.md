@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/AUTOSARpduIL/Functions/CAPLfunctionApplPDUilTxPending.md)
-
-**CAPL Functions** » **AUTOSAR PDU IL** » **applPDUILTxPending**
-
 # applPDUILTxPending
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -61,9 +57,3 @@ dword applPDUILTxPending (dword busContext, dword shortID, dword longID, char na
   return 1; // don't prevent sending of the PDU
 }
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

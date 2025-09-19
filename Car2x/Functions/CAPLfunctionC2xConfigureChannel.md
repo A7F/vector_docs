@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xConfigureChannel.md)
-
 # C2xConfigureChannel
 
 [CAPL Functions](../../CAPLfunctions.md) » Car2x » C2xConfigureChannel
@@ -90,7 +88,3 @@ void configureChannel()
   if (errFlag != 0) Write("C2xConfigureChannel #2 failed with err=%d", errFlag);
 }
 ```
-
-© Vector Informatik GmbH
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

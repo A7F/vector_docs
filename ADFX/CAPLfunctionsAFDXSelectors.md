@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/CAPLfunctionsAFDXSelectors.md)
-
 # AFDX Selectors
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -115,9 +113,3 @@ More information about [A664Messages Versus A664Frames](../../CANoeCANalyzer/AFD
 - **read-only<sup>4</sup>** - The value may be modified with the function [A664VLConfig](Functions/CAPLfunctionA664VLConfig.md) or [A664MsgConfig](Functions/CAPLfunctionA664MsgConfig.md).
 - **read-only<sup>5</sup>** - The value may be modified with the function [A664InitMessage](Functions/CAPLfunctionA664InitMessage.md) or [A664InitICMP](Functions/CAPLfunctionA664InitICMP.md).
 - **read-only<sup>6</sup>** - The value may be modified with the function [A664MsgConfig](Functions/CAPLfunctionA664MsgConfig.md).
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

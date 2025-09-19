@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xSecCertificateCreate.md)
-
-**CAPL Functions** » [Car2x](../CAPLfunctionsCar2xOverview.md) » C2xSecCertificateCreate
-
 # C2xSecCertificateCreate
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -49,5 +45,3 @@ newPcaCertHdl = C2xSecCertificateCreate(pcaCertHdl, 60*60*24);
 // use the new pca certificate as signer of the new its certificate
 newItsCertHdl = C2xSecCertificateCreate(itsCertHdl, 60*60, newPcaCertHdl);
 ```
-
-[See Also](javascript:void(0);)

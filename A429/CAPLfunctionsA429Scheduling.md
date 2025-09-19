@@ -61,9 +61,3 @@ on timer myTimer {
 ```
 
 If you want to schedule ARINC words with just the minimum allowed gap phase in between, you have to use the function [a429Transmit](Functions/CAPLfunctionA429Transmit.md).
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

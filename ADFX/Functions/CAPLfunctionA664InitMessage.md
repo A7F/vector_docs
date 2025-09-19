@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionA664InitMessage.md)
-
-**CAPL Functions** » **AFDX** » **A664InitMessage**
-
 # A664InitMessage
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -47,7 +43,6 @@ A664InitMessage (myAfdxMsg2,  // a664Message to be initialized
 myAfdxMsg2.msgChannel = 2;
 ```
 
-[See Also](javascript:void(0);)
 - [OnAfdxError](../EventProcedures/CAPLfunctionOnAfdxError.md#aanchor8275)
 - [OnAfdxPacket](../EventProcedures/CAPLfunctionOnAfdxPacket.md#aanchor29844)
 - [A664CloseProxyPort](CAPLfunctionA664CloseProxyPort.md#aanchor6697)
@@ -121,11 +116,3 @@ myAfdxMsg2.msgChannel = 2;
 - [on a664Message](../EventProcedures/CAPLfunctionAFDXOnA664Message.md#aanchor17424)
 - [output (AFDX)](CAPLfunctionAfdxOutput.md#aanchor9808)
 - [Use The Right Operating Mode (AFDX)](../../../CANoeCANalyzer/AFDX/procedures/afdxUseOperatingModes.md#aanchor17028)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

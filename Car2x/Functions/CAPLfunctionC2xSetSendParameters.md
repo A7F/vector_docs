@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xSetSendParameters.md)
-
-**CAPL Functions » Car2x » C2xSetSendParameters**
-
 # C2xSetSendParameters
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -52,7 +48,3 @@ on key '1'
   C2xSetSendParameters(1, 10, 2, 9, -1);
 }
 ```
-
-© Vector Informatik GmbH
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

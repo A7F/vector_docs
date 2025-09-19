@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xSecCertificateGetHashedId8.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Car2x](../CAPLfunctionsCar2xOverview.md) » C2xSecCertificateGetHashedId8
-
 # C2xSecCertificateGetHashedId8
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -38,5 +34,3 @@ void OnC2xPacket( long channel, long dir, long radioChannel, long signalStrength
   C2xSecCertificateGetHashedId8(certificateHandle, hashedId8);
 }
 ```
-
-[See Also](javascript:void(0);)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANopen/NodeLayerTFS/Functions/CAPLfunctionCoTfsLssWaitForIdentifyRemoteSlaveSeq.md)
-
-[CAPL Functions](../../../CAPLfunctions.md) » [CANopen](../../CAPLfunctionsCANopenOverview.md) » [Test Feature Set Node Layer](../CAPLfunctionsCANopenNLTFSLevelOverview.md) » coTfsLssWaitForIdentifyRemoteSlaveSequence
-
 # coTfsLssWaitForIdentifyRemoteSlaveSequence (Level 2)
 
 [Valid for](../../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe:lite DE • CANoe4SW DE
@@ -45,7 +41,3 @@ if (coTfsLssWaitForIdentifyRemoteSlaveSequence( pVendorId, pProductCode, pRevNoL
   /* received values can be found in pVendorId, pProductCode, pRevNoLowBound, pRevNoHighBound, pSerialNoLowBound, pSerialNoHighBound */
 }
 ```
-
-© Vector Informatik GmbH
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

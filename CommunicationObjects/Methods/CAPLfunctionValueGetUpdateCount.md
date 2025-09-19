@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CommunicationObjects/Methods/CAPLfunctionValueGetUpdateCount.md)
-
-## CAPL Functions » Communication Objects » valueHandle::GetUpdateCount
-
 # valueHandle::GetUpdateCount (obsolete)
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -33,9 +29,3 @@ write("Updates during the last second: %d", MirrorAdjustment.consumerSide[CANoe,
 ```
 
 [Programming with the Communication Concept (C#, Python and CAPL)](../../../CANoeCANalyzer/CommunicationConcept/Programming/CCP.md) • [valueHandle::GetChangeCount](CAPLfunctionValueGetChangeCount.md) • [valueHandle::ResetValueState](CAPLfunctionValueResetValueState.md)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

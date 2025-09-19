@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagGetComplexParameterRaw.md)
-
-**CAPL Functions** » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » diagGetComplexParameterRaw, diagSetComplexParameterRaw
-
 # diagGetComplexParameterRaw, diagSetComplexParameterRaw
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE

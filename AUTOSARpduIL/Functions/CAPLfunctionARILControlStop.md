@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/AUTOSARpduIL/Functions/CAPLfunctionARILControlStop.md)
-
-**CAPL Functions** » **AUTOSAR PDU IL** » **ARILControlStop**
-
 # ARILControlStop
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -33,8 +29,3 @@ Stops sending of PDUs.
 —
 
 [ARILControlInit](CAPLfunctionARILControlInit.md) • [ARILControlStart](CAPLfunctionARILControlStart.md)
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

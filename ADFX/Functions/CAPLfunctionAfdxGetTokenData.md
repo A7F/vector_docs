@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionAfdxGetTokenData.md)
-
-**CAPL Functions** » **AFDX** » **AfdxGetTokenData**
-
 # AfdxGetTokenData
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -63,12 +59,3 @@ void OnAfdxPacket( long dir, long line, int64 timestamp, long bag, long afdxFlag
 }
 ```
 
-[See Also](javascript:void(0);)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

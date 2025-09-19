@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CommunicationObjects/Methods/CAPLfunctionSetService.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Communication Objects](../CAPLfunctionsCOOverview.md) » SetService
-
 # SetService (obsolete)
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -33,11 +29,3 @@ Sets the referred-to service for the CO reference.
 consumedServiceRef Services::IMirrors csr;
 csr.SetService(Services::Mirrors);
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

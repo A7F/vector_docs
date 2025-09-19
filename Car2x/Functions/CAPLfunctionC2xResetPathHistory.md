@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xResetPathHistory.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Car2x](../CAPLfunctionsCar2xOverview.md) » C2xResetPathHistory
-
 # C2xResetPathHistory
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -36,7 +32,3 @@ By starting a scenario for this station the previous path history will be cleare
 ## Example
 
 —
-
-© Vector Informatik GmbH
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xProtocolAnalyzerGetRuleList.md)
-
-**CAPL Functions** » **Car2x** » **C2xProtocolAnalyzerGetRuleList**
-
 # C2xProtocolAnalyzerGetRuleList
 
 [Valid for CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -53,5 +49,3 @@ void TestReportAddProtocolAnalyzerRuleList()
   }
 }
 ```
-
-[See Also](javascript:void(0);)

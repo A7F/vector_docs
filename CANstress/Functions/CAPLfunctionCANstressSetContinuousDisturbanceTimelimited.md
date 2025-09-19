@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANstress/Functions/CAPLfunctionCANstressSetContinuousDisturbanceTimelimited.md)
-
-**CAPL Functions** » **CANstresss** » **CANstressSetContinuousDisturbanceTimeLimited**
-
 # CANstressSetContinuousDisturbanceTimeLimited
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -28,11 +24,3 @@ Sets the **Continuous disturbance (time limited)** mode. If the disturbance has 
 ## Example
 
 —
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

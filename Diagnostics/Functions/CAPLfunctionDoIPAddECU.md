@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPAddECU.md)
-
-**CAPL Functions** » **Diagnostics** » **DoIP_AddECU**
-
 # DoIP_AddECU
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -37,9 +33,3 @@ Adds a valid DoIP ECU address to the DoIP layer.
 DoIP_AddECU( 0x200);
 DoIP_AddECU( 0x201);
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

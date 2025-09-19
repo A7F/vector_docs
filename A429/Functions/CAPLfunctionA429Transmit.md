@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/A429/Functions/CAPLfunctionA429Transmit.md)
-
-**CAPL Functions** » **A429** » **a429Transmit**
-
 # a429Transmit
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -83,8 +79,3 @@ on key 's' {
 - **32-Bit**: ✔
 - **64-Bit**: ✔
 
-[See Also](javascript:void(0);)
-
-© Vector Informatik GmbH
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

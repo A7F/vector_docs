@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xSetTokenInt.md)
-
-**CAPL Functions** » **Car2x** » **C2xSetTokenInt**
-
 # C2xSetTokenInt
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -38,12 +34,3 @@ This function sets the integer value of a token. Form 2 with byte offset sets a 
 
 See example of [C2xInitPacket](CAPLfunctionC2xInitPacket.md).
 
-[See Also](javascript:void(0);)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

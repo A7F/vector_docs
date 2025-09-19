@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANDisturbance/Functions/CAPLfunctionCanDisturbanceFrameSequenceSetMessage.md)
-
-**CAPL Functions** » [CAN Disturbance Interface](../CAPLfunctionsCANDisturbanceOverview.md) » canDisturbanceFrameSequence::SetMessage
-
 # canDisturbanceFrameSequence::SetMessage
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -39,9 +35,3 @@ All **CanDisturbanceBitSequence** objects in all fields of this frame sequence a
 - [canDisturbanceTriggerEnable (Multiple Frames and Frame Sequence)](CAPLfunctionCanDisturbanceTriggerEnable.md#MultipleFrameFrameSequence)
 - [canDisturbanceTriggerEnable (External Trigger and Frame Sequence)](CAPLfunctionCanDisturbanceTriggerEnable.md#ExternalTriggerFrameSequence)
 - [canDisturbanceTriggerEnable (Error Frame and Frame Sequence)](CAPLfunctionCanDisturbanceTriggerEnable.md#ErrorFrameFrameSequence)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

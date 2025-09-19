@@ -123,5 +123,3 @@ void OnAfdxPacket( long dir, long line, int64 time, long bag, long afdxFlags, lo
   }
 }
 ```
-
-[See Also](javascript:void(0);)

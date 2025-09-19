@@ -38,8 +38,6 @@ This function sets the value of a Boolean signal.
 
 —
 
-[See Also](javascript:void(0);)
-
 - [OnAfdxError](../EventProcedures/CAPLfunctionOnAfdxError.md#aanchor8275)
 - [OnAfdxPacket](../EventProcedures/CAPLfunctionOnAfdxPacket.md#aanchor29844)
 - [A664CloseProxyPort](CAPLfunctionA664CloseProxyPort.md#aanchor6697)

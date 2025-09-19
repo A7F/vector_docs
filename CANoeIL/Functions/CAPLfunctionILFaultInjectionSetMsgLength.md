@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANoeIL/Functions/CAPLfunctionILFaultInjectionSetMsgLength.md)
-
-**CAPL Functions** » **CANoe IL** » **ILFaultInjectionSetMsgLength**
-
 # ILFaultInjectionSetMsgLength
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md) • CANoe4SW DE
@@ -31,9 +27,3 @@ Assigns a new message length (in bytes) to the message. To set the message lengt
 ## Example
 
 —
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

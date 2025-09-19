@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANstress/CAPLfunctionsCANstressOverview.md)
-
-[CAPL Functions](../CAPLfunctions.md) » CANstress CAPL Functions
-
 # CANstress CAPL Functions
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE
@@ -46,9 +42,3 @@ To use the CAPL functions the [CANstress_NL.dll](../../CANoeCANalyzer/Interfaces
 - **CANstressWaitForPending**: Waits until the CANstress hardware is in the state **Pending**.
 
 [Access Multiple CANstress Devices from a Single Test Module](CAPLfunctionsCANstressAccessMultipleCANstressDevices.md) • [CANstress and Distributed Mode](CAPLfunctionsCANstressCANoeRTVN890.md) • [CANstress: Main Test Function Example](CAPLfunctionsCANstressMainTestFunctionExample.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

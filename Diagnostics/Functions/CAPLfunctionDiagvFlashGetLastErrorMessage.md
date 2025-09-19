@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagvFlashGetLastErrorMessage.md)
-
-**CAPL Functions** » **Diagnostics** » **vFlashGetLastErrorMessage**
-
 # vFlashGetLastErrorMessage
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -42,9 +38,3 @@ void vFlashErrorMessage(char errorMsg[])
   write("Error %s", errorMsg);
 }
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

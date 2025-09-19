@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionA664VLConfig.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [AFDX »](../CAPLfunctionsAFDXOverview.md) A664VLConfig
-
 # A664VLConfig
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -58,5 +54,3 @@ Configure a Virtual-Link for a given a664Frame or a664Message.
 ## Example
 
 See [A664MsgConfig](CAPLfunctionA664MsgConfig.md).
-
-[See Also](javascript:void(0);)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/DistributedObjects/EventProcedures/CAPLfunctionOnAnyFctRetured.md)
-
-**CAPL Functions** » **Distributed Objects** » **on any_fct_returned**
-
 # on any_fct_returned
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -59,11 +55,3 @@ on any_fct_returned SomeInterface.SomeMethod
   write("SomeMethod is returned at object %s with value %d", this.object.Path, this.context.Result);
 }
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

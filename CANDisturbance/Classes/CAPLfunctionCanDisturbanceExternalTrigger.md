@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANDisturbance/Classes/CAPLfunctionCanDisturbanceExternalTrigger.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [CAN Disturbance Interface](../CAPLfunctionsCANDisturbanceOverview.md) » [Classes »](../CAPLfunctionsClassesOverview.md) Class: CanDisturbanceExternalTrigger
-
 # Class: CanDisturbanceExternalTrigger
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -33,11 +29,3 @@ You can access control information of a **CanDisturbanceExternalTrigger** object
     - 3: Falling Edge
   - Type: dword
   - Access Limitations: —
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

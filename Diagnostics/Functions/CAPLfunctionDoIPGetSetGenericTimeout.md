@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPGetSetGenericTimeout.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » DoIP_GetGenericTimeout, DoIP_SetGenericTimeout
-
 # DoIP_GetGenericTimeout, DoIP_SetGenericTimeout
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -41,8 +37,3 @@ This value can also be configured in the DoIP.INI file.
 // Set T_TCP_Generic_Inactivity to 30s
 DoIP_SetGenericTimeout( 30000);
 ```
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

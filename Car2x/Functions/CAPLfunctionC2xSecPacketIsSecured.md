@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xSecPacketIsSecured.md)
-
-**CAPL Functions** » [Car2x](../CAPLfunctionsCar2xOverview.md) » C2xSecPacketIsSecured
-
 # C2xSecPacketIsSecured
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -39,5 +35,3 @@ void OnC2xPacket (long channel, long dir, long radioChannel, long signalStrength
   }
 }
 ```
-
-[See Also](javascript:void(0);)

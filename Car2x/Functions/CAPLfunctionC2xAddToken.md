@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xAddToken.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Car2x](../CAPLfunctionsCar2xOverview.md) » C2xAddToken
-
 # C2xAddToken
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -38,5 +34,3 @@ C2xAddToken(packetHandle, "wsmp", "channelNumber");
 C2xCompletePacket(packetHandle);
 C2xOutputPacket(packetHandle);
 ```
-
-[See Also](javascript:void(0);)

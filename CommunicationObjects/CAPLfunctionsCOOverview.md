@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CommunicationObjects/CAPLfunctionsCOOverview.md)
-
-[CAPL Functions](../CAPLfunctions.md) » Communication Objects CAPL Functions
-
 # Communication Objects CAPL Functions (obsolete)
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE
@@ -201,9 +197,3 @@
 - [txSignalRef](Objects/CAPLfunctionTxSignalRef.md): References a tx signal endpoint.
 
 [Communication Concept](../../CANoeCANalyzer/CommunicationConcept/CC.md) • [Programming with Communication Concept](../../CANoeCANalyzer/CommunicationConcept/Programming/CCP.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

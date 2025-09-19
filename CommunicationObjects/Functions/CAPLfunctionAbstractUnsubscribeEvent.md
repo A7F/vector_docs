@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CommunicationObjects/Functions/CAPLfunctionAbstractUnsubscribeEvent.md)
-
-## CAPL Functions » Communication Objects » Abstract_UnsubscribeEvent
-
 # Abstract_UnsubscribeEvent (obsolete)
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -34,9 +30,3 @@ Abstract_UnsubscribeEvent(MirrorAdjustment.consumerSide[0,0].Position);
 ```
 
 [Programming with the Communication Concept (C#, Python and CAPL)](../../../CANoeCANalyzer/CommunicationConcept/Programming/CCP.md) • [Abstract_SubscribeEvent](CAPLfunctionAbstractSubscribeEvent.md) • [SOMEIP_UnsubscribeEventGroup](CAPLfunctionSOMEIPUnsubscribeEventGroup.md)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

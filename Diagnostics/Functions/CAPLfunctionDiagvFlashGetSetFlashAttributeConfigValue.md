@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagvFlashGetSetFlashAttributeConfigValue.md)
-
-**CAPL Functions** » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » vFlashGetFlashAttributeConfigValue, vFlashGetFlashAttributeLastRunValue, vFlashSetFlashAttribute
-
 # vFlashGetFlashAttributeConfigValue, vFlashGetFlashAttributeLastRunValue, vFlashSetFlashAttribute
 
 Valid for: CANoe DE
@@ -54,8 +50,3 @@ vFlashGetFlashAttributeLastRunValue(attributeName, valueOut, elcount(valueOut));
 ```
 
 [vFlashGetCustomActionAttributeConfigValue, vFlashGetCustomActionAttributeLastRunValue, vFlashSetCustomActionAttribute](CAPLfunctionDiagvFlashGetGetSetCustomActionAttribute.md)
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

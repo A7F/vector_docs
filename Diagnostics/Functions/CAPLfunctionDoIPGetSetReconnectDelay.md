@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPGetSetReconnectDelay.md)
-
-**CAPL Functions** » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » DoIP_GetReconnectDelay, DoIP_SetReconnectDelay
-
 # DoIP_GetReconnectDelay, DoIP_SetReconnectDelay
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -43,8 +39,3 @@ This value can also be configured in the DoIP.INI file.
 See [DoIP_GetReconnectInterval](CAPLfunctionDoIPGetSetReconnectInterval.md).
 
 [DoIP_GetReconnectInterval](CAPLfunctionDoIPGetSetReconnectInterval.md) • [DoIP_SetReconnectInterval](CAPLfunctionDoIPGetSetReconnectInterval.md)
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

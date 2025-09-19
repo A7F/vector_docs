@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/A429/Functions/CAPLfunctionA429GetErrorPosition.md)
-
-**CAPL Functions** » **A429** » **a429GetErrorPosition**
-
 # a429GetErrorPosition
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md) • CANoe4SW DE
@@ -28,5 +24,3 @@ For every [Rx error](../CAPLfunctionsA429Selectors.md) an error position is prov
 ## Example
 
 —
-
-[See Also](javascript:void(0);)

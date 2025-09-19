@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPGetSetInitialTimeout.md)
-
-**CAPL Functions** » **Diagnostics** » **DoIP_GetInitialTimeout, DoIP_SetInitialTimeout**
-
 # DoIP_GetInitialTimeout, DoIP_SetInitialTimeout
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -46,10 +42,3 @@ This value can also be configured in the DoIP.INI file.
 // Set T_TCP_Initial_Inactivity to 3s
 DoIP_SetInitialTimeout( 3000);
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

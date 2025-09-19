@@ -45,5 +45,3 @@ void OnC2xPacket( long channel, long dir, long radioChannel, long signalStrength
   }
 }
 ```
-
-[See Also](javascript:void(0);)

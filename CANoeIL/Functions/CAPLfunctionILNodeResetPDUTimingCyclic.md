@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANoeIL/Functions/CAPLfunctionILNodeResetPDUTimingCyclic.md)
-
-**CAPL Functions** » [CANoe IL](../CAPLfunctionsCANoeILOverview.md) » ILNodeResetPDUTimingCyclic
-
 # ILNodeResetPDUTimingCyclic
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -44,11 +40,3 @@ Resets the cyclic-timing to the values from the database. Possibly two timings (
 ## Example
 
 —
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

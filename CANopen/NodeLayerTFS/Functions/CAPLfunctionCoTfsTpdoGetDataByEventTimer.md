@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANopen/NodeLayerTFS/Functions/CAPLfunctionCoTfsTpdoGetDataByEventTimer.md)
-
-[CAPL Functions](../../../CAPLfunctions.md) » [CANopen](../../CAPLfunctionsCANopenOverview.md) » [Test Feature Set Node Layer](../CAPLfunctionsCANopenNLTFSLevelOverview.md) » coTfsTPDOGetDataByEventTimer
-
 # coTfsTPDOGetDataByEventTimer (Level 2)
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE
@@ -55,7 +51,3 @@ if (coTfsTPDOGetDataByEventTimer(0x1800, outLength, outValueBuf, 8) != 1) {
   write("could not retrieve data");
 } // if
 ```
-
-© Vector Informatik GmbH
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

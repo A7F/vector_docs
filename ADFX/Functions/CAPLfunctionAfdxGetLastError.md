@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionAfdxGetLastError.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [AFDX](../CAPLfunctionsAFDXOverview.md) » AfdxGetLastError
-
 # AfdxGetLastError
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -42,5 +38,3 @@ else
   write("Error: %s", error);
 }
 ```
-
-[See Also](javascript:void(0);)

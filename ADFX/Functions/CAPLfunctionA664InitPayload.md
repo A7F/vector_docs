@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionA664InitPayload.md)
-
-**CAPL Functions** » [AFDX](../CAPLfunctionsAFDXOverview.md) » A664InitPayload
-
 # A664InitPayload
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -34,8 +30,6 @@ a664Message TESTMSG_ALLTYPES testMsg = { msgChannel = 1};
 a664InitPayload (testMsg);  // set payload to last known signal values
 a664TriggerMessage(testMsg, 1);
 ```
-
-[See Also](javascript:void(0);)
 
 - [OnAfdxError](../EventProcedures/CAPLfunctionOnAfdxError.md#aanchor8275)
 - [OnAfdxPacket](../EventProcedures/CAPLfunctionOnAfdxPacket.md#aanchor29844)
@@ -113,9 +107,3 @@ a664TriggerMessage(testMsg, 1);
 - [Use The Right Operating Mode (AFDX)](../../../CANoeCANalyzer/AFDX/procedures/afdxUseOperatingModes.md#aanchor17028)
 
 • Technical References are only available in English
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

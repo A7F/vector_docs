@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANopen/NodeLayerTFS/Functions/CAPLfunctionCoTfsTpdoGetDataByRtr.md)
-
-**CAPL Functions** » **CANopen** » **Test Feature Set Node Layer** » **coTfsTPDOGetDataByRTR**
-
 # coTfsTPDOGetDataByRTR (Level 2)
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE
@@ -54,9 +50,3 @@ if (coTfsTPDOGetDataByRTR(0x1800, outLength, outValueBuf, 8) != 1) {
   write("could not retrieve data");
 }
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

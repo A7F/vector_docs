@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/A429/EventProcedures/CAPLfunctionA429OnA429Word.md)
-
-**CAPL Functions** » **A429** » **on a429word**
-
 # on a429word
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -40,9 +36,3 @@ The event procedure `on a429word` is called on every event, related to an error 
 | `on a429word 2, 0x30..0x38`  | Event with label = 2, 48..56                                 |
 | `on a429word MsgChannel7.LBL_103` | Event with label from assigned database on channel 7    |
 
-[See Also](javascript:void(0);)
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

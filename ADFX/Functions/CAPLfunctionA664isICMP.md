@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionA664isICMP.md)
-
-CAPL Function Overview » [AFDX »](../CAPLfunctionsAFDXOverview.md) A664isICMP
-
 # A664isICMP
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -44,5 +40,3 @@ This function returns the ICMP type and code for a packet. The intended use case
 ## Example
 
 —
-
-[See Also](javascript:void(0);)

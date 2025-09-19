@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPSendPDUCombination.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » DoIP_SendPDUCombination
-
 # DoIP_SendPDUCombination
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -65,11 +61,3 @@ DoIP_SendPDUCombination();
 ```
 
 [DoIP_AddCombinedPDU](CAPLfunctionDoIPAddCombinedPDU.md) • [DoIP_CreatePDUCombination](CAPLfunctionDoIPCreatePDUCombination.md) • [DoIP_TCPSend](CAPLfunctionDoIPTCPSend.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

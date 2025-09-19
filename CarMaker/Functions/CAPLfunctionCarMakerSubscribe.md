@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CarMaker/Functions/CAPLfunctionCarMakerSubscribe.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [CarMaker Interface](../CAPLfunctionsCarMakerOverview.md) » CarMaker_Subscribe
-
 # CarMaker_Subscribe
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -31,11 +27,3 @@ Subscribes a group of CarMaker quantities as CANoe system variables. The CANoe s
 // subscribe to quantities of CarMaker
 gErrorState = CarMaker_Subscribe("TC1_Group", gFreq_Hz);
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

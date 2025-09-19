@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagRequestDone.md)
-
-**CAPL Functions** » **Diagnostics** » **diag_RequestDone**
-
 # diag_RequestDone
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -32,8 +28,3 @@ on timer tP2
   diag_RequestDone(gCurrentECU);
 }
 ```
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

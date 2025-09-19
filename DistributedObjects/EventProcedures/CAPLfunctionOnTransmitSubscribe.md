@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/DistributedObjects/EventProcedures/CAPLfunctionOnTransmitSubscribe.md)
-
-**CAPL Functions** » **Distributed Objects** » **on transmit_subscribe**
-
 # on transmit_subscribe
 
 **Valid for**: CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -103,9 +99,3 @@ on transmit_value Provider.SomeData {
     Binding::ValueReceived(Consumer.SomeData, $this);
 }
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

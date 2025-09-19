@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagIsRespParameterDefault.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » diagIsRespParameterDefault
-
 # diagIsRespParameterDefault
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -47,9 +43,3 @@ testfunction MainTest()
    write("IsDefault(P3) = %d", diagIsRespParameterDefault(req, "P3"));
 }
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

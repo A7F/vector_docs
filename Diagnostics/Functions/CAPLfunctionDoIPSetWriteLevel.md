@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPSetWriteLevel.md)
-
-**CAPL Functions** » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » DoIP_SetWriteLevel
-
 # DoIP_SetWriteLevel
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -39,11 +35,3 @@ Sets the amount of messages written to the CANoe Write Window by the DoIP implem
 ## Example
 
 —
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/DistributedObjects/CAPLfunctionsDOOverview.md)
-
-[CAPL Functions](../CAPLfunctions.md) » Distributed Objects CAPL Functions
-
 # Distributed Objects CAPL Functions
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE • CANoe:lite DE • CANoe4SW:lite DE
@@ -156,9 +152,3 @@ Overview of objects and methods to work with distributed objects.
 - [virtNet](Objects/CAPLfunctionvirtNet.md): References a virtual network.
 
 [Communication Concept](../../CANoeCANalyzer/CommunicationConcept/CC.md) • [Programming with Communication Concept](../../CANoeCANalyzer/CommunicationConcept/Programming/CCP.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

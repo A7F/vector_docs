@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPRoutingActivationRequest.md)
-
-CAPL Functions » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » _DoIP_RoutingActivationRequest
-
 # _DoIP_RoutingActivationRequest
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE

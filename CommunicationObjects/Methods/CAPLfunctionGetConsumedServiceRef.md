@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CommunicationObjects/Methods/CAPLfunctionGetConsumedServiceRef.md)
-
-**CAPL Functions** » [Communication Objects](../CAPLfunctionsCOOverview.md) » GetConsumedServiceRef
-
 # GetConsumedServiceRef (obsolete)
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -30,11 +26,3 @@ A reference to the enclosing service. An invalid reference if the object is inva
 —
 
 - Technical References are only available in English
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

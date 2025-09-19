@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPSetRoutingActivationType.md)
-
-**CAPL Functions** » **Diagnostics** » **DoIP_SetRoutingActivationType**
-
 # DoIP_SetRoutingActivationType
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -75,8 +71,3 @@ testcase TryRoutingType()
 ```
 
 [_DoIP_RoutingActivationRequest](CAPLfunctionDoIPRoutingActivationRequest.md) • [DoIP_ConfigureRoutingActivationResponse](CAPLfunctionDoIPConfigureRoutingActivationResponse.md)
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

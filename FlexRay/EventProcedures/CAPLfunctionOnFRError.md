@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/FlexRay/EventProcedures/CAPLfunctionOnFRError.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [FlexRay](../CAPLfunctionsFlexrayOverview.md) » on frError
-
 # on frError
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -215,7 +211,3 @@ int getFRErrorName (word code, word nameSize, char name[])
     return r;
 }
 ```
-
-© Vector Informatik GmbH
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

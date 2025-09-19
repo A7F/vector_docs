@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CommunicationObjects/Methods/CAPLfunctionClear.md)
-
-**CAPL Functions** » [Communication Objects](../CAPLfunctionsCOOverview.md) » Clear
-
 # Clear (obsolete)
 
 **Valid for**: CANoe DE
@@ -48,11 +44,3 @@ Clears the CO reference. Afterward, the reference is invalid and can only be use
 —
 
 • Technical References are only available in English
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

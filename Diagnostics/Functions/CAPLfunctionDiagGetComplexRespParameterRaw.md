@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagGetComplexRespParameterRaw.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » diagGetComplexRespParameterRaw
-
 # diagGetComplexRespParameterRaw
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -44,9 +40,3 @@ This function offers access to parameters contained in a received response objec
 [Using Diagnostics Functions in Test Cases](../CAPLfunctionsDiagnosticsUsingFunctionTestCase.md)
 
 [diagGetComplexParameterRaw](CAPLfunctionDiagGetComplexParameterRaw.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

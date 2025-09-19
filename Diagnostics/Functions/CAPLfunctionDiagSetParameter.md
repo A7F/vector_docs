@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagSetParameter.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » diagSetParameter
-
 # diagSetParameter
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -173,11 +169,3 @@ on key 'c'
   req.SendRequest(); // Parameter will be transmitted as 0x00 0xAB 0xCD 0xEF both for 32bit little endian parameters (Intel) and 32bit big endian parameters (Motorola)
 }
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

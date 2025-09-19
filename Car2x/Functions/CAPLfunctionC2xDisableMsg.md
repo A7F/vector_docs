@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xDisableMsg.md)
-
 # C2xDisableMsg
 
 [CAPL Functions](../../CAPLfunctions.md) » Car2x » C2xDisableMsg
@@ -38,9 +36,3 @@ C2xDisableMsg(packetHdl);
 C2xDisableMsg("BasicNode",packetHdl);
 ```
 
-[See Also](javascript:void(0);)
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

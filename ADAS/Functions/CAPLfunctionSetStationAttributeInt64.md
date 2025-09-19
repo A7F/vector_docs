@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADAS/Functions/CAPLfunctionSetStationAttributeInt64.md)
-
 # SetStationAttributeInt64
 
 [CAPL Functions](../../CAPLfunctions.md) » [ADAS](../CAPLfunctionsADASOverview.md) » SetStationAttributeInt64
@@ -57,8 +55,3 @@ int result = ScenarioManager.SetStationAttributeInt64.Call("DuT", "UserDefinedIn
 // Set the UserDefinedInt64Val for the station DuT to the value 5 for the 3rd keypoint
 bool result = ScenarioManager.SetStationAttributeInt64.Call("DuT", "UserDefinedInt64Val", 2, 5);
 ```
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

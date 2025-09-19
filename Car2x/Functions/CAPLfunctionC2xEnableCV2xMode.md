@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xEnableCV2xMode.md)
-
-**CAPL Functions** » Car2x » C2xEnableCV2xMode
-
 # C2xEnableCV2xMode
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -37,11 +33,3 @@ on preStart()
   C2xEnableCV2xMode (1);
 }
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

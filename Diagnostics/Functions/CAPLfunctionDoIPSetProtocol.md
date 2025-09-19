@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPSetProtocol.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » DoIP_SetProtocol
-
 # DoIP_SetProtocol
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -43,8 +39,3 @@ This value can also be configured globally on the diagnostics configuration dial
 // Use early draft version of the protocol
 DoIP_SetProtocol(1);
 ```
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

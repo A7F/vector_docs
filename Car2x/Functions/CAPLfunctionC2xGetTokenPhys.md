@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xGetTokenPhys.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Car2x](../CAPLfunctionsCar2xOverview.md) » C2xGetTokenPhys
-
 # C2xGetTokenPhys
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -40,7 +36,3 @@ void OnPreTxDENM(LONG packet)
   write("DENM event positition latitude %f°", C2xGetTokenPhys(packet, "DENM" "denm.management.eventPosition.latitude"));
 }
 ```
-
-© Vector Informatik GmbH
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

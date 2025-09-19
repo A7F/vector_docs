@@ -1,7 +1,3 @@
-[AfdxSetSignalStatus](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionAfdxSetSignalStatus.md)
-
-**CAPL Functions** » **AFDX** » **AfdxSetSignalStatus**
-
 # AfdxSetSignalStatus
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -59,7 +55,6 @@ AfdxSetSignalStatus(packet, 5, 3);
 AfdxOutputPacket(packet);
 ```
 
-[See Also](javascript:void(0);)
 ```markdown
 - [OnAfdxError](../EventProcedures/CAPLfunctionOnAfdxError.md#aanchor8275)
 - [OnAfdxPacket](../EventProcedures/CAPLfunctionOnAfdxPacket.md#aanchor29844)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPTransportLayerStatusInd.md)
-
-**CAPL Functions** » **Diagnostics** » _DoIP_TransportLayerStatusInd
-
 # _DoIP_TransportLayerStatusInd
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -43,8 +39,3 @@ void _DoIP_TransportLayerStatusInd(byte tpStatusType, byte tpStatusCode, byte ap
   write("Transport layer status information from source address 0x%x for service $%x received with status type 0x%x and status code 0x%x", sourceAddress, applicationLayerService, tpStatusType, tpStatusCode);
 }
 ```
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

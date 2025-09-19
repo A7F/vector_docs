@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/CAPLfunctionsDiagnosticsExpandedFunctions.md)
-
-**CAPL Functions** » [Diagnostics](CAPLfunctionsDiagnosticsOverview.md) » Expanded Functions in CAPL
-
 # Diagnostics: Expanded Functions in CAPL
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE
@@ -35,11 +31,3 @@ The qualifier of a complex parameter can be found in CANdelaStudio with the Prop
 - In order to assign an object with a variable number of parameters, proceed as follows: if the parameter list is defined in CANdelaStudio as iterative parameters with a number, then first this parameter (e.g., "NUMBER_OF_DTC") must be set. Then call `DiagResize(response)`, which makes space for the actual parameters. These can be set with the `DiagSetComplexParameter` functions.
 
 **Note:** The length of the elements of a qualifier path from the CANdela description file is limited to 50 characters in the CAPL Compiler. Longer names may exceed this limit, but the CAPL program cannot be compiled. Nevertheless, it is possible to specify the qualifier path as a text string in quotation marks: "`<Qualifier Path>`". In this case, the qualifier path may be up to 255 characters in length.
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

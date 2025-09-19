@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionAfdxRemoveToken.md)
-
-**CAPL Functions** » **AFDX** » **AfdxRemoveToken**
-
 # AfdxRemoveToken
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -30,5 +26,3 @@ This function removes a token from a protocol header.
 ## Example
 
 —
-
-[See Also](javascript:void(0);)

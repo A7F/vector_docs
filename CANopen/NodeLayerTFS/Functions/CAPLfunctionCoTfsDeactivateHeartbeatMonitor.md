@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANopen/NodeLayerTFS/Functions/CAPLfunctionCoTfsDeactivateHeartbeatMonitor.md)
-
-**CAPL Functions** » **CANopen** » **Test Feature Set Node Layer** » **coTfsDeactivateHeartbeatMonitor**
-
 # coTfsDeactivateHeartbeatMonitor
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE
@@ -31,9 +27,3 @@ coTfsActivateHeartbeatMonitor(0x1,100.20);
 TestWaitForTimeout(2000);
 coTfsDeactivateHeartbeatMonitor(0x1);
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

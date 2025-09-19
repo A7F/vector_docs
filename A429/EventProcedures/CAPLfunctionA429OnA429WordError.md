@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/A429/EventProcedures/CAPLfunctionA429OnA429WordError.md)
-
-**CAPL Functions** » **A429** » **on a429worderror**
-
 # on a429worderror
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md) • CANoe4SW DE
@@ -25,7 +21,6 @@ ARINC word errors are also monitored with [statistics system variables](../../..
 | on a429worderror *               | error with any label                      |
 | on a429worderror MsgChannel7.*   | error with any label on channel 7         |
 
-[See Also](javascript:void(0);)
 - A429 CAPL Functions
 - [a429CalcBitLength](../Functions/CAPLfunctionA429CalcBitLength.md#aanchor32119)
 - [a429CheckParity](../Functions/CAPLfunctionA429CheckParity.md#aanchor28518)
@@ -47,11 +42,3 @@ ARINC word errors are also monitored with [statistics system variables](../../..
 - [output (A429)](../Functions/CAPLfunctionA429output.md#aanchor10655)
 - [Reconfigure a Channel (A429)](../CAPLfunctionsA429ChannelReconfig.md#aanchor870)
 - [Scheduling an ARINC Word (A429)](../CAPLfunctionsA429Scheduling.md#aanchor1455)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

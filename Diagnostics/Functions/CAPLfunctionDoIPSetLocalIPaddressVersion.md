@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPSetLocalIPaddressVersion.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » DoIP_SetLocalIPaddressVersion
-
 # DoIP_SetLocalIPaddressVersion
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -45,8 +41,3 @@ DoIP_SetLocalIPaddressVersion( 6);
 ```
 
 [DoIP_SetLocalIPaddress](CAPLfunctionDoIPSetLocalIPaddress.md) • [DoIP_SetTesterAdapter](CAPLfunctionDoIPSetTesterAdapter.md) • [DoIP_SetVehicleAdapter](CAPLfunctionDoIPSetVehicleAdapter.md)
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xGetTokenInt.md)
-
-**CAPL Functions** » **Car2x** » **C2xGetTokenInt**
-
 # C2xGetTokenInt
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -68,5 +64,4 @@ void OnC2xPacket( long channel, long dir, long radioChannel, long signalStrength
 }
 ```
 
-[See Also](javascript:void(0);)
 ```markdown

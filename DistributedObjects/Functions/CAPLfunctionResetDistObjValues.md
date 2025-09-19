@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/DistributedObjects/Functions/CAPLfunctionResetDistObjValues.md)
-
-**CAPL Functions** » **Distributed Objects** » **resetDistObjValues**
-
 # resetDistObjValues
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -64,9 +60,3 @@ namespace myNamespace {
 ```
 
 [sysResetValues](../../SystemVariables/Functions/CAPLfunctionSysResetValues.md) • [TestResetNamespaceDistObjValues](../../Test/Functions/CAPLfunctionTestResetNamespaceDistObjValues.md)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

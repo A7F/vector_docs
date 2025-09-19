@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xGetStationHandle.md)
-
-**CAPL Functions » Car2x » C2xGetStationHandle**
-
 # C2xGetStationHandle
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -39,8 +35,6 @@ void OnC2xPacket (LONG channel, LONG dir, LONG radioChannel, LONG signalStrength
   dbStationHdl = C2xGetStationHandle("nodename");
 }
 ```
-
-[See Also](javascript:void(0);)
 
 - [OnC2xPacket](../Callbacks/CAPLfunctionC2xOnC2xPacket.md#aanchor23975)
 - [OnC2xTransmitPacket](../Callbacks/CAPLfunctionC2xOnC2xTransmitPacket.md#aanchor26889)
@@ -130,11 +124,3 @@ void OnC2xPacket (LONG channel, LONG dir, LONG radioChannel, LONG signalStrength
 - [SetStationSpeed](../../ADAS/Functions/CAPLfunctionSetStationSpeed.md#aanchor28451)
 
 ---
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPRoutingActivationResponseInd.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » _DoIP_RoutingActivationResponseInd
-
 # _DoIP_RoutingActivationResponseInd
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -49,7 +45,3 @@ long _DoIP_RoutingActivationResponseInd(byte isSecureConnection, dword testerLog
   return 0;
 }
 ```
-
-© Vector Informatik GmbH  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

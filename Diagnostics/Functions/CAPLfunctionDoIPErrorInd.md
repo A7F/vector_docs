@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPErrorInd.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » DoIP_ErrorInd
-
 # DoIP_ErrorInd
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -59,11 +55,3 @@ void DoIP_ErrorInd( int error)
 ```
 
 [Diag_ErrorInd](CAPLfunctionDiagErrorInd.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

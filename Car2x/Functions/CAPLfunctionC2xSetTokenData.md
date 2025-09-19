@@ -39,8 +39,3 @@ This function sets the data or a part of data of a token. It does not resize the
 See example of [C2xInitPacket](CAPLfunctionC2xInitPacket.md).
 
 **See Also**: [Various CAPL Functions](javascript:void(0);)
-
-© Vector Informatik GmbH
-- CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-- [Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-- [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

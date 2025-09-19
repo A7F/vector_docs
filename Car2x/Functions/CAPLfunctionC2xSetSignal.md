@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xSetSignal.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Car2x](../CAPLfunctionsCar2xOverview.md) » C2xSetSignal
-
 # C2xSetSignal
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -41,7 +37,6 @@ void OnTxBSM(LONG packet)
 }
 ```
 
-[See Also](javascript:void(0);)
 ```markdown
 <OnC2xPacket>|../Callbacks/CAPLfunctionC2xOnC2xPacket.htm#aanchor23975
 <OnC2xTransmitPacket>|../Callbacks/CAPLfunctionC2xOnC2xTransmitPacket.htm#aanchor26889
@@ -131,11 +126,3 @@ OnStationAttributeTrigger|../Callbacks/CAPLfunctionC2xOnStationAttributeTrigger.
 OnStationAttributeTriggerAll|../Callbacks/CAPLfunctionC2xOnStationAttributeTriggerAll.htm#aanchor21716
 SetStationSpeed|../../ADAS/Functions/CAPLfunctionSetStationSpeed.htm#aanchor28451
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

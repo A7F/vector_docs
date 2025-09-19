@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/AssociativeFields/Functions/CAPLfunctionRemove.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Associative Fields »](../CAPLfunctionsAssociativeFieldOverview.md) remove
-
 # remove
 
 **Valid for**: CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -35,9 +31,3 @@ O(log(N))
 ```plaintext
 m.remove(3);
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

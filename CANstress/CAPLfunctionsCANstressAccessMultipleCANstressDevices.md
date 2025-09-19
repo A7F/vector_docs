@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANstress/CAPLfunctionsCANstressAccessMultipleCANstressDevices.md)
-
-**CAPL Functions** » **CANstress** » Access Multiple CANstress Devices from a Single Test Module
-
 # Access Multiple CANstress Devices from a Single Test Module
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE
@@ -45,9 +41,3 @@ CANstressSetDevice(deviceId1);
 // The following commands are executed on "cstCAN1"
 CANstressOpen(".\\CANstress\\EngineData_BusOff.cst");
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

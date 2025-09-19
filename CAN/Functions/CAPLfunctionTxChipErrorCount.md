@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CAN/Functions/CAPLfunctionTxChipErrorCount.md)
-
-**CAPL Functions** » **CAN** » **TxChipErrorCount**
-
 # TxChipErrorCount
 
 **Valid for**: CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -39,11 +35,3 @@ Current number of errors in the CAN receiver of channel **x**.
 ```plaintext
 write ("Number of Tx errors in receiver of CAN1 = %d", CAN1.TxChipErrorCount);
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

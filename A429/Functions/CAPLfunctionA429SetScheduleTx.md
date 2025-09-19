@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/A429/Functions/CAPLfunctionA429SetScheduleTx.md)
-
-**CAPL Functions** » [A429](../CAPLfunctionsA429Overview.md) » a429SetScheduleTx
-
 # a429SetScheduleTx
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -33,5 +29,3 @@ Prepare an ARINC word to be transmitted cyclically by means of the hardware sche
 ## Example
 
 —
-
-[See Also](javascript:void(0);)

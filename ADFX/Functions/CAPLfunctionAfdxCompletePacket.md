@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionAfdxCompletePacket.md)
-
-**CAPL Functions** » **AFDX** » **AfdxCompletePacket**
-
 # AfdxCompletePacket
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -30,9 +26,3 @@ A frame needs to be completed prior to transmission. This is the case when one o
 ## Example
 
 See example of [AfdxResizeToken](CAPLfunctionAfdxResizeToken.md).
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionA664ResizeMessage.md)
-
-**CAPL Functions** » [AFDX](../CAPLfunctionsAFDXOverview.md) » A664ResizeMessage
-
 # A664ResizeMessage
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -40,5 +36,3 @@ if (result == 0) {
     writeEx (-3,3,"resize DEMOMSG_ALLTYPES to payload size 512 succeeded!");
 }
 ```
-
-[See Also](javascript:void(0);)

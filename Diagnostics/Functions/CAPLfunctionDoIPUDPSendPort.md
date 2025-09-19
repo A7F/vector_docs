@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPUDPSendPort.md)
-
-**CAPL Functions** » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » DoIP_UDPSendPort
-
 # DoIP_UDPSendPort
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -86,8 +82,3 @@ DoIP_UDPSendPort( "169.254.123.45", 13401 /* non standard */, rawData, elcount( 
 ```
 
 [DoIP_UDPSend](CAPLfunctionDoIPUDPSend.md) • [DoIP_TCPSend](CAPLfunctionDoIPTCPSend.md)
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

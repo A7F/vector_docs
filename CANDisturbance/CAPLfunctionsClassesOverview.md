@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANDisturbance/CAPLfunctionsClassesOverview.md)
-
-[CAPL Functions](../CAPLfunctions.md) » [CAN Disturbance Interface](CAPLfunctionsCANDisturbanceOverview.md) » Classes
-
 # Classes
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE
@@ -25,9 +21,3 @@
 - **[CanDisturbanceTriggerRepetitions](Classes/CAPLfunctionCanDisturbanceTriggerRepetitions.md)**: Can be used to configure repetitions and cycles for a frame trigger in combination with a sequence or only a sequence.
 
 [Classes in CAPL](../ObjectOrientedProg/CAPLfunctionsOOPClassesObjects.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

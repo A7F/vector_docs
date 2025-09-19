@@ -37,5 +37,3 @@ This function sets the specified token‘s data to a new integer value. With add
 ## Example
 
 See example of [AfdxInitPacket](CAPLfunctionAfdxInitPacket.md)
-
-[See Also](javascript:void(0);)

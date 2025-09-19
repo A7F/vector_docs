@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANoeIL/Functions/CAPLfunctionILNodeSetPDUAsrTxMode.md)
-
-**CAPL Functions** » **CANoe IL** » **ILNodeSetPDUAsrTxMode**
-
 # ILNodeSetPDUAsrTxMode
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -42,11 +38,3 @@ Overrides the current valid transmission mode of the PDU. The transmission mode 
 ## Example
 
 —
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

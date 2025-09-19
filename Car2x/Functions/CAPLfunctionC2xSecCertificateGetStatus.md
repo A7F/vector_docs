@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xSecCertificateGetStatus.md)
-
-**CAPL Functions** » **Car2x** » **C2xSecCertificateGetStatus**
-
 # C2xSecCertificateGetStatus
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -69,5 +65,3 @@ switch (C2xSecCertificateGetStatus(certificateHandle) & 0xF000)
     break;
 }
 ```
-
-[See Also](javascript:void(0);)

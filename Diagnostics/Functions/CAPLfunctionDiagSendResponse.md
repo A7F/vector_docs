@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagSendResponse.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » diagSendResponse, diagSendPositiveResponse
-
 # diagSendResponse, diagSendPositiveResponse
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -40,11 +36,3 @@ Sends the response object back to the tester. Can only be called in the ECU simu
 ## Example
 
 See [on diagRequest](../EventProcedures/CAPLfunctionOnDiagRequest.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

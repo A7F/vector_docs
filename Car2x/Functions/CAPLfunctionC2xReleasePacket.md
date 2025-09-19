@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xReleasePacket.md)
-
-**CAPL Functions** » **Car2x** » **C2xReleasePacket**
-
 # C2xReleasePacket
 
 **Valid for**: CANoe DE
@@ -28,8 +24,6 @@ This function deletes a packet created with [C2xInitPacket](CAPLfunctionC2xInitP
 ## Example
 
 See example of [C2xInitPacket](CAPLfunctionC2xInitPacket.md).
-
-[See Also](javascript:void(0);)
 
 - [OnC2xPacket](../Callbacks/CAPLfunctionC2xOnC2xPacket.md#aanchor23975)
 - [OnC2xTransmitPacket](../Callbacks/CAPLfunctionC2xOnC2xTransmitPacket.md#aanchor26889)
@@ -120,9 +114,3 @@ See example of [C2xInitPacket](CAPLfunctionC2xInitPacket.md).
 - [SetStationSpeed](../../ADAS/Functions/CAPLfunctionSetStationSpeed.md#aanchor28451)
 
 ---
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

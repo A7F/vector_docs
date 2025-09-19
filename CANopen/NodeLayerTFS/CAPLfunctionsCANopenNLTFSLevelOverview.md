@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANopen/NodeLayerTFS/CAPLfunctionsCANopenNLTFSLevelOverview.md)
-
-**CAPL Functions** » [CANopen](../CAPLfunctionsCANopenOverview.md) » Test Feature Set Node Layer
-
 # CANopen Test Feature Set Node Layer CAPL Functions
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE
@@ -291,9 +287,3 @@ Make help functionality available to the user in order to describe the desired t
 - WriteTextInReport: This function writes the given text into report.
 
 [Test Feature Set Error Codes](CAPLfunctionsCANopenNLTFSErrorCodes.md) • [Constants Used in the CAPL Examples](CAPLfunctionsCANopenNLTFSExampleConstants.md) • [Checked Objects](CAPLfunctionsCANopenNLTFSCoTfsOdChkStdEntriesObjects.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

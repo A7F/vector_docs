@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADAS/Functions/CAPLfunctionProjTransformToInertial.md)
-
 # Proj_TransformToInertial (ADAS)
 
 [CAPL Functions](../../CAPLfunctions.md) » [ADAS](../CAPLfunctionsADASOverview.md) » Proj_TransformToInertial (ADAS)
@@ -73,8 +71,3 @@ geoPos.altitude.ImplValue = 445.773842805044;
 
 _ADAS.DataModel.ProjAccess.Proj_TransformToInertial.Call(geoPos, out result);
 ```
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

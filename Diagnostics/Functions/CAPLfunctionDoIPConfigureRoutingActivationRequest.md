@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPConfigureRoutingActivationRequest.md)
-
-**CAPL Functions** » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » DoIP_ConfigureRoutingActivationRequest
-
 # DoIP_ConfigureRoutingActivationRequest
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -48,8 +44,3 @@ You can also configure these values in the DoIP.INI file.
 // Send the 2 byte activation type 0x1234, and set the reserved field
 DoIP_ConfigureRoutingActivationRequest( 2, 0x1234, 0x76543210);
 ```
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

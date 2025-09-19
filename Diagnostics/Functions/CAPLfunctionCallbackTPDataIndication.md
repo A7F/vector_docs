@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionCallbackTPDataIndication.md)
-
-**CAPL Functions** » **Diagnostics** » **CallbackTPDataIndication**
-
 # CallbackTPDataIndication
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -41,11 +37,3 @@ Indicates the transmission of an ISO TP data packet on a CAN channel where the I
 ## Example
 
 See [Filter Diagnostic Objects using CAPL Filter in the Measurement Setup](../../../CANoeCANalyzer/Diagnostics/Analysis/DiagnosticsFeaturesAnlyzDisplay.md)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

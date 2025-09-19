@@ -97,8 +97,3 @@ This function copies up to **bufSize** characters of an AFDX string to the speci
 - [on a664Message](../EventProcedures/CAPLfunctionAFDXOnA664Message.md)
 - [output (AFDX)](CAPLfunctionAfdxOutput.md)
 - [Use The Right Operating Mode (AFDX)](../../../CANoeCANalyzer/AFDX/procedures/afdxUseOperatingModes.md)
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

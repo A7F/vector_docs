@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionAfdxSetErrorHandler.md)
-
-**CAPL Functions** » **AFDX** » **AfdxSetErrorHandler**
-
 # AfdxSetErrorHandler
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -47,5 +43,3 @@ void OnAfdxError( int64 time, long channel, long errorType, char errorText[], ch
   }
 }
 ```
-
-[See Also](javascript:void(0);)

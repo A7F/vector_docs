@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CommunicationObjects/Methods/CAPLfunctionSetSignal.md)
-
-**CAPL Functions** » [Communication Objects](../CAPLfunctionsCOOverview.md) » SetSignal
-
 # SetSignal (obsolete)
 
 [Feature availabilty for your product](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -30,11 +26,3 @@ Sets the referred signal object for the CO reference.
 ## Example
 
 —
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CommunicationObjects/EventProcedures/CAPLfunctionOnSDConnectionFailed.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Communication Objects](../CAPLfunctionsCOOverview.md) » on SD_connection_failed
-
 # on SD_connection_failed (obsolete)
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -44,9 +40,3 @@ on SD_connection_failed Mirrors::MirrorAdjustment.consumerSide[CANoe]
 ```
 
 [Programming with the Communication Concept (C#, Python and CAPL)](../../../CANoeCANalyzer/CommunicationConcept/Programming/CCP.md) • [SD_ConnectAsync](../Functions/CAPLfunctionSDConnectAsync.md) • [on SD_connection_requested](CAPLfunctionOnSDConnectionRequested.md) • [on SD_connection_established](CAPLfunctionOnSDConnectionEstablished.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

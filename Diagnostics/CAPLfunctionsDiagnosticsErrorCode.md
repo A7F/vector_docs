@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/CAPLfunctionsDiagnosticsErrorCode.md)
-
 # Return Values
 
 [CAPL Functions](../CAPLfunctions.md) » [Diagnostics](CAPLfunctionsDiagnosticsOverview.md) » Error Codes
@@ -68,8 +66,3 @@ The following values can be returned:
 - **-175**: Unexpected response.
 
 Note: For the following return values please check the security add-on and the configuration of the Security Manager.
-
-© Vector Informatik GmbH
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

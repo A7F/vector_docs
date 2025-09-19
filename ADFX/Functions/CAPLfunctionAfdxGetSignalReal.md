@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionAfdxGetSignalReal.md)
-
-**CAPL Functions** » **AFDX** » **AfdxGetSignalReal**
-
 # AfdxGetSignalReal
 
 **Valid for**: CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -81,5 +77,3 @@ void OnPacket( long dir, long line, int64 timestamp, long bag, long afdxFlags, l
   len = AfdxGetSignalOpaque( packet, "TEST_OPAQUE14_IDENT", 16, oVal );
 }
 ```
-
-[See Also](javascript:void(0);)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/EventProcedures/CAPLfunctionAFDXOnA664Message.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [AFDX](../CAPLfunctionsAFDXOverview.md) » on a664Message
-
 # on a664Message
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -63,10 +59,3 @@ Calling conventions for the **on a664Message** handler
 - `on a664Message MsgChannel1.0x30e40021`: event with Id 0x30e40021 (hexadecimal) on channel 1
 - `on a664Message MsgChannel1.123423`: event with Id 123423 (decimal) on channel 1
 - `on a664Message MsgChannel1.MSG_INT3`: event with Id from assigned database on channel 1
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

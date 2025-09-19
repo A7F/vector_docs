@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANopen/NodeLayerTFS/Functions/CAPLfunctionCoTfsSetTestmoduleNodeId.md)
-
-**CAPL Functions** » **CANopen** » **Test Feature Set Node Layer** » **coTfsSetTestModuleNodeId**
-
 # coTfsSetTestModuleNodeId
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE
@@ -32,8 +28,3 @@ The function set the node-ID of the tester. This is particularly necessary for t
 ```plaintext
 coTfsSetTestModuleNodeId(15); // set node-ID to 15
 ```
-
-© Vector Informatik GmbH  
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**  
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

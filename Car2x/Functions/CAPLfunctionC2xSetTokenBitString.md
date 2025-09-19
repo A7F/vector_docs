@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xSetTokenBitString.md)
-
-**CAPL Functions** » [Car2x](../CAPLfunctionsCar2xOverview.md) » C2xSetTokenBitString
-
 # C2xSetTokenBitString
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -41,5 +37,3 @@ void accelCtrl(long packet, byte value)
   C2xSetTokenBitString(packet, "CAM", "cam.camParameters.highFrequencyContainer.basicVehicleContainerHighFrequency.accelerationControl", 7, accelerationControl);
 }
 ```
-
-[See Also](javascript:void(0);)

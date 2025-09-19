@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/A429/Functions/CAPLfunctionA429CalcBitLength.md)
-
-**CAPL Functions** » **A429** » **a429CalcBitLength**
-
 # a429CalcBitLength
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -31,5 +27,3 @@ For every channel there is a relation between a bit time and the length of a bit
 ## Example
 
 —
-
-[See Also](javascript:void(0);)

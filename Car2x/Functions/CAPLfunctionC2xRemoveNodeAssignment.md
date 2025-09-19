@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xRemoveNodeAssignment.md)
-
-**CAPL Functions** » **Car2x** » **C2xRemoveNodeAssignment**
-
 # C2xRemoveNodeAssignment
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -38,5 +34,3 @@ on key 'c'
     C2xRemoveNodeAssignment(stationHdl);
 }
 ```
-
-[See Also](javascript:void(0);)

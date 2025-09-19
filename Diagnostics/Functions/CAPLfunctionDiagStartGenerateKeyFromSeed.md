@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagStartGenerateKeyFromSeed.md)
-
-**CAPL Functions** » **Diagnostics** » **diagStartGenerateKeyFromSeed**
-
 # diagStartGenerateKeyFromSeed
 
 **Valid for:** CANoe DE
@@ -71,9 +67,3 @@ on key 'u' // unlock
 ```
 
 [Seed & Key DLL / Security Access](../../../CANoeCANalyzer/Diagnostics/Special/DiagSecurityDLLAccess.md) • [_Diag_GenerateKeyResult](CAPLfunctionDiagGenerateKeyResult.md) • [diagGenerateKeyFromSeed](CAPLfunctionDiagGenerateKeyFromSeed.md) • [TestWaitForGenerateKeyFromSeed](../../Test/Functions/CAPLfunctionTestWaitForGenerateKeyFromSeed.md)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xReportProtocolViolation.md)
-
-**CAPL Functions** » **Car2x** » **C2xReportProtocolViolation**
-
 # C2xReportProtocolViolation
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -48,5 +44,3 @@ on key ‘x’
     "expected behavior"); // expected behavior
 }
 ```
-
-[See Also](javascript:void(0);)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionAfdxSetVerbosity.md)
-
-**CAPL Functions** » **AFDX** » **AfdxSetVerbosity**
-
 # AfdxSetVerbosity
 
 **Valid for**: CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -35,5 +31,3 @@ This function sets the verbosity level of the AFDX IL. The default setting is th
 // do not print AFDX IL messages to Write Window
 AfdxSetVerbosity( 0 );
 ```
-
-[See Also](javascript:void(0);)

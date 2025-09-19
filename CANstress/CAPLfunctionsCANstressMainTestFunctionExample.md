@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANstress/CAPLfunctionsCANstressMainTestFunctionExample.md)
-
-**CAPL Functions** » [CANstress](CAPLfunctionsCANstressOverview.md) » Main Test Function Example
-
 # Main Test Function Example
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE
@@ -52,11 +48,3 @@ MainTest ()
 ```
 
 - Technical References are only available in English
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

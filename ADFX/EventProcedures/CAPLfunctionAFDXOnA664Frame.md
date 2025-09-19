@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/EventProcedures/CAPLfunctionAFDXOnA664Frame.md)
-
-**CAPL Functions** » [AFDX](../CAPLfunctionsAFDXOverview.md) » on a664Frame
-
 # on a664Frame
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -56,10 +52,3 @@ Calling conventions for the **on a664Frame** handler.
 - `on a664Frame ICMP`: ICMP Event on any channel.
 - `on a664Frame MsgChannel1.ICMP`: ICMP Event on channel 1.
 
-[See Also](javascript:void(0);)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/A429/CAPLfunctionsA429ChannelReconfig.md)
-
 # Reconfigure a Channel
 
 [CAPL Functions](../CAPLfunctions.md) » [A429](CAPLfunctionsA429Overview.md) » Reconfigure a Channel
@@ -73,5 +71,3 @@ on key 'c' {
   a429ResetEx (1);
 }
 ```
-
-[See Also](javascript:void(0);)

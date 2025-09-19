@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xGetStationSubAttributeDouble.md)
-
-**CAPL Functions** » [Car2x](../CAPLfunctionsCar2xOverview.md) » C2xGetStationSubAttributeDouble
-
 # C2xGetStationSubAttributeDouble
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -38,9 +34,3 @@ void OnStartScenario()
   write("OnStartScenario - Station Sub Attribute = %f", C2xGetStationSubAttributeDouble("Station1","MyAttribute", "MySubAttribute"));
 }
 ```
-
-© Vector Informatik GmbH
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

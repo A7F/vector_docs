@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CAN/CAPLfunctionsCANOverview.md)
-
-[CAPL Functions](../CAPLfunctions.md) » CAN CAPL Functions
-
 # CAN CAPL Functions
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -119,11 +115,3 @@
 - **[StandardFrameRate](Functions/CAPLfunctionStandardFrameRate.md):** Returns the current rate of standard CAN messages on a channel.
 - **[StandardRemoteFrameRate](Functions/CAPLfunctionStandardRemoteFrameRate.md):** Returns the current rate of standard CAN messages on a channel.
 - **[TxChipErrorCount](Functions/CAPLfunctionTxChipErrorCount.md):** Returns the current number of Tx errors in the CAN receiver of a channel.
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANopen/NodeLayerTFS/Functions/CAPLfunctionCoTfsSetFailControl.md)
-
-**CAPL Functions** » **CANopen** » **Test Feature Set Node Layer** » **coTfsSetFailControl**
-
 # coTfsSetFailControl
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE
@@ -42,11 +38,3 @@ coTfsSetFailControl (1); // invert report behavior
 
 coTfsSetFailControl (0); // switch back to normal behavior
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

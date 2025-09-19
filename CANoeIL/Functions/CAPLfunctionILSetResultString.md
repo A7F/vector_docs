@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANoeIL/Functions/CAPLfunctionILSetResultString.md)
-
-**CAPL Functions** » **CANoe IL** » **ILSetResultString**
-
 # ILSetResultString
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -32,9 +28,3 @@ Converts the transferred [error code](../../../CANoeCANalyzer/LibrariesPackages/
 —
 
 [ILErrno](CAPLfunctionILErrno.md)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/A429/Functions/CAPLfunctionA429CheckParity.md)
-
-**CAPL Functions** » **A429** » **a429CheckParity**
-
 # a429CheckParity
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -32,7 +28,6 @@ Checks the parity over 32 bits of the specified ARINC word.
 
 —
 
-[See Also](javascript:void(0);)
 - A429 CAPL Functions
 - a429CalcBitLength
 - a429CheckParity
@@ -54,9 +49,3 @@ Checks the parity over 32 bits of the specified ARINC word.
 - output (A429)
 - Reconfigure a Channel (A429)
 - Scheduling an ARINC Word (A429)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

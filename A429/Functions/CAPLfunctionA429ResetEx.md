@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/A429/Functions/CAPLfunctionA429ResetEx.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [A429](../CAPLfunctionsA429Overview.md) » a429ResetEx
-
 # a429ResetEx
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -47,5 +43,3 @@ on key 'r'
   }
 }
 ```
-
-[See Also](javascript:void(0);)

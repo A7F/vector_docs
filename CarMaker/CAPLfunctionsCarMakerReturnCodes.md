@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CarMaker/CAPLfunctionsCarMakerReturnCodes.md)
-
-**CAPL Functions** » **CarMaker Interface** » Return Codes
-
 # CarMaker Return Codes
 
 *(Only available with CarMaker Interface & CANoe!)*
@@ -41,11 +37,3 @@ The following return codes are defined by the CarMaker APO interface:
 - **-26**: ApoErrZlib
 - **-27**: ApoErrClientIndex
 - **-28**: ApoErrServerVer
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

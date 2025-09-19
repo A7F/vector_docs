@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CAN/Functions/CAPLfunctionChipState.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [CAN](../CAPLfunctionsCANOverview.md) » ChipState
-
 # ChipState
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE
@@ -49,11 +45,3 @@ A description of the chip states can also be found here: [Bus Statistics Window]
 ```
 write ("Chip state of CAN1 = %d", CAN1.ChipState);
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/CAPLfunctionsDiagnosticsDescriptionsOverloadResponses.md)
-
-[CAPL Functions](../CAPLfunctions.md) » [Diagnostics](CAPLfunctionsDiagnosticsOverview.md) » Diagnostic Descriptions with Overloaded Responses
-
 # Diagnostic Descriptions with Overloaded Responses
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE
@@ -24,9 +20,3 @@ The following use cases exist:
   - [diagCheckValidRespPrimitive](Functions/CAPLfunctionDiagCheckValidRespPrimitive.md)
 - **Initializing a diagnostic object using a specific primitive definition:** In CAPL you can initialize diagnostic objects by specifying a service qualifier. This will initialize the object with the first primitive defined, i.e. if the service defines several primitives, the program has to select one of them explicitly. This can be achieved by using this function:
   - [diagInitialize](Functions/CAPLfunctionDiagInitialize.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

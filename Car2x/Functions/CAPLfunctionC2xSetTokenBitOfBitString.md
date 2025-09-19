@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xSetTokenBitOfBitString.md)
-
-**CAPL Functions** » **Car2x** » **C2xSetTokenBitOfBitString**
-
 # C2xSetTokenBitOfBitString
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -54,5 +50,3 @@ else
   //other error
 }
 ```
-
-[See Also](javascript:void(0);)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/AUTOSARpduIL/Functions/CAPLfunctionARILFaultInjectionDisturbChecksum.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [AUTOSAR PDU IL](../CAPLfunctionsAUTOSARpduILOverview.md) » ARILFaultInjectionDisturbChecksum
-
 # ARILFaultInjectionDisturbChecksum
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -43,11 +39,3 @@ Use the ARILFaultInjectionDisturbChecksum64 functions for 64-bit CRC values (e.g
 ## Example
 
 —
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

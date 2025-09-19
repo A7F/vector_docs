@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/DistributedObjects/Functions/CAPLfunctionLookupDistObjContainer.md)
-
-**CAPL Functions** » [Distributed Objects](../CAPLfunctionsDOOverview.md) » lookupDistObjContainer
-
 # lookupDistObjContainer
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -49,11 +45,3 @@ on key 'a' {
   x = (__type_of(x))lookupDistObjContainer("SomeNamespace::Container");
 }
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

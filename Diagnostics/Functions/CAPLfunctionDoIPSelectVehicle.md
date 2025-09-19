@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPSelectVehicle.md)
-
-**CAPL Functions** » **Diagnostics** » **DoIP_SelectVehicle**
-
 # DoIP_SelectVehicle
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -64,8 +60,3 @@ TestCase TC_AccessVehicle1
   diagCloseChannel();
 }
 ```
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

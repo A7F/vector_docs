@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/A429/Functions/CAPLfunctionA429SetParity.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [A429](../CAPLfunctionsA429Overview.md) » a429SetParity
-
 # a429SetParity
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -35,5 +31,3 @@ This function sets the selector [parity](../CAPLfunctionsA429Selectors.md) of an
 ## Example
 
 —
-
-[See Also](javascript:void(0);)

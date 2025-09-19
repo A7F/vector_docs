@@ -1,7 +1,3 @@
-[AUTOSAR PDU IL CAPL Functions](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/AUTOSARpduIL/CAPLfunctionsAUTOSARpduILOverview.md)
-
-**CAPL Functions** » **AUTOSAR PDU IL CAPL Functions**
-
 # AUTOSAR PDU IL CAPL Functions
 
 **Valid for:** CANoe DE • CANoe4SW DE
@@ -97,9 +93,3 @@ The functions are available with the AUTOSAR PDU Interaction Layer (AUTOSAR PDU 
 | [ARILSetPDUTimingEvent](Functions/CAPLfunctionARILSetPDUTimingEvent.md) | Overrides the defined **event-timing** from the database. |
 
 [AUTOSAR PDU Interaction Layer](../../CANoeCANalyzer/LibrariesPackages/AUTOSARpduIL/AUTOSARpduIL.md) • [Return Codes](../../CANoeCANalyzer/LibrariesPackages/AUTOSARpduIL/AUTOSARpduILReturnCodes.md) • [Test Feature Set CAPL Functions](../Test/CAPLfunctionsTFSOverview.md#OEMPackageFaultInjection)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

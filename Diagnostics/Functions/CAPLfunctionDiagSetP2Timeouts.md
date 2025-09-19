@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagSetP2Timeouts.md)
-
-**CAPL Functions** » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » diagSetP2Timeouts
-
 # diagSetP2Timeouts
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE

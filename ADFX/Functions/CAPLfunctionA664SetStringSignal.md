@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionA664SetStringSignal.md)
-
 # A664SetStringSignal
 
 **CAPL Functions** » **AFDX »** A664SetStringSignal
@@ -43,9 +41,3 @@ testMsg.VFG_OIL_TEMP_AB_32 = 86;
 a664SetStringSignal(TEST_STRING14_CITY, "STR126", testMsg);
 a664TriggerMessage(testMsg, 1);
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

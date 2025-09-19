@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionA664GetFunctionalStatus.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [AFDX »](../CAPLfunctionsAFDXOverview.md) A664GetFunctionalStatus
-
 # A664GetFunctionalStatus
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -31,5 +27,3 @@ on PDU * {
   writeEx(-3,1, "FS of received PDU %s: %d", this.name, fs);
 }
 ```
-
-[See Also](javascript:void(0);)

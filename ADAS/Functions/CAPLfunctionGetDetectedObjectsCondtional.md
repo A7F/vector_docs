@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADAS/Functions/CAPLfunctionGetDetectedObjectsCondtional.md)
-
-**CAPL Functions » ADAS » GetDetectedObjectsCondtional**
-
 # GetDetectedObjectsCondtional
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -77,11 +73,3 @@ if (detObjNames.Length == 1)
   Output.WriteLine("An ADAS Object with a Distance lesser than 70.0m has been detected");
 }
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

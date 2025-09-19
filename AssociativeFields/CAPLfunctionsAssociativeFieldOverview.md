@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/AssociativeFields/CAPLfunctionsAssociativeFieldOverview.md)
-
 # Associative Fields CAPL Functions
 
 [CAPL Functions](../CAPLfunctions.md) » Associative Fields CAPL Functions
@@ -18,9 +16,3 @@ These CAPL functions are supported by Windows and Linux.
 - [size](Functions/CAPLfunctionSize.md): Returns the number of elements in the field.
 
 [Classes and Objects in CAPL](../../Shared/CAPL/General/ClassesAndObjects.md) • [Associative Fields](../../Shared/CAPL/General/AssociativeFields.md)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

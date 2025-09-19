@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagGetTesterPresentState.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » diagGetTesterPresentState
-
 # diagGetTesterPresentState
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -35,9 +31,3 @@ Returns the state of autonomous/cyclical Tester Present requests from CANoe to t
 —
 
 [diagStartTesterPresent](CAPLfunctionDiagStartTesterPresent.md) • [diagStopTesterPresent](CAPLfunctionDiagStopTesterPresent.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

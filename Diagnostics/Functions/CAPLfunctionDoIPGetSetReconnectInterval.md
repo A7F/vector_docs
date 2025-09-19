@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPGetSetReconnectInterval.md)
-
-**CAPL Functions** » **Diagnostics** » **DoIP_GetReconnectInterval, DoIP_SetReconnectInterval**
-
 # DoIP_GetReconnectInterval, DoIP_SetReconnectInterval
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -64,8 +60,3 @@ void Configure_DoIP()
 ```
 
 [DoIP_GetReconnectDelay](CAPLfunctionDoIPGetSetReconnectDelay.md) • [DoIP_SetReconnectDelay](CAPLfunctionDoIPGetSetReconnectDelay.md)
-
-© Vector Informatik GmbH  
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

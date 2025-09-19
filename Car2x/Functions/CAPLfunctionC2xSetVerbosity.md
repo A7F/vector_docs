@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xSetVerbosity.md)
-
-**CAPL Functions** » **Car2x** » **C2xSetVerbosity**
-
 # C2xSetVerbosity
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -35,5 +31,3 @@ This function sets the verbosity level of the Car2x IL. The default setting is t
 // do not print Car2x IL messages to Write Window
 C2xSetVerbosity( 0 );
 ```
-
-[See Also](javascript:void(0);)

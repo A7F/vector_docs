@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xGetNumberOfRoutePoints.md)
-
-**CAPL Functions** » [Car2x](../CAPLfunctionsCar2xOverview.md) » C2xGetNumberOfRoutePoints
-
 # C2xGetNumberOfRoutePoints
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE

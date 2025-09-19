@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPSetIdentificationRequestEIDVIN.md)
-
-**CAPL Functions** » **Diagnostics** » **DoIP_SetIdentificationRequestEID, DoIP_SetIdentificationRequestVIN**
-
 # DoIP_SetIdentificationRequestEID, DoIP_SetIdentificationRequestVIN
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -49,11 +45,3 @@ DoIP_SetIdentificationRequestVIN( "VECT0RVEH1CLE1234");
 // Do not address a specific vehicle, i.e. all vehicles shall respond
 DoIP_SetIdentificationRequestVIN( "");
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

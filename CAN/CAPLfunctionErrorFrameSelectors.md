@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CAN/CAPLfunctionErrorFrameSelectors.md)
-
-[CAPL Functions](../CAPLfunctions.md) » [CAN](CAPLfunctionsCANOverview.md) » CAN Error Frame Selectors
-
 # CAN Error Frame Selectors
 
 [Valid for](../../Shared/FeatureAvailability.md):  CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -117,8 +113,3 @@ You can access information of the error frame object using the following selecto
 
 - **double(x)**: Message data interpreted as IEEE double (64 bit); possible values for x*: 0…56  
   Type: double
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

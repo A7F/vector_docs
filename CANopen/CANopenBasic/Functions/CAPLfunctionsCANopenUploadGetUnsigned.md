@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANopen/CANopenBasic/Functions/CAPLfunctionsCANopenUploadGetUnsigned.md)
-
-**CAPL Functions** » **CANopen** » **Basic Functions** » **CANopenUploadGetUnsigned**
-
 # CANopenUploadGetUnsigned
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE
@@ -44,9 +40,3 @@ void OnCANopenUploadResponse ( dword nodeId, dword index, dword subIndex, dword 
   write( "Upload response data: %I64u", value );
 }
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADAS/Functions/CAPLfunctionGetOrCreateGroundTruthObject.md)
-
-**CAPL Functions** » [ADAS](../CAPLfunctionsADASOverview.md) » GetOrCreateGroundTruthObject
-
 # GetOrCreateGroundTruthObject
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -89,11 +85,3 @@ public void CKeyPress(char c)
   moveableObject.moving_object.baseInfo.dimension.height.PhysValue = 3;
 }
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

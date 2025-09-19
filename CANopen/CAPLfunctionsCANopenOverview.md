@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANopen/CAPLfunctionsCANopenOverview.md)
-
-**CAPL Functions** » **CANopen**
-
 # CANopen
 
 **Valid for:** CANoe DE • CANoe:lite DE • CANoe4SW DE
@@ -49,11 +45,3 @@ The Test Feature Set test module for CANopen can be assigned to any test module 
 - PDO tests
 - Object dictionary tests
 - SDO timing tests
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionAfdxGetTokenReal.md)
-
-CAPL Functions » [AFDX](../CAPLfunctionsAFDXOverview.md) » AfdxGetTokenReal
-
 # AfdxGetTokenReal
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -51,7 +47,6 @@ void OnAfdxPacket(long channel, long dir, long flags, long bag, long packet )
 }
 ```
 
-[See Also](javascript:void(0);)
 ```markdown
 - <OnAfdxError> | ../EventProcedures/CAPLfunctionOnAfdxError.htm#aanchor8275
 - <OnAfdxPacket> | ../EventProcedures/CAPLfunctionOnAfdxPacket.htm#aanchor29844
@@ -128,11 +123,3 @@ void OnAfdxPacket(long channel, long dir, long flags, long bag, long packet )
 - output (AFDX) | CAPLfunctionAfdxOutput.htm#aanchor9808
 - Use The Right Operating Mode (AFDX) | ../../../CANoeCANalyzer/AFDX/procedures/afdxUseOperatingModes.htm#aanchor17028
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

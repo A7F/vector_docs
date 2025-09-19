@@ -1,7 +1,3 @@
-[TestWaitForADASDetectedObjectDistance](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADAS/Functions/CAPLfunctionTestWaitForADASDetectedObjectDistance.md)
-
-**CAPL Functions » ADAS » TestWaitForADASDetectedObjectDistance**
-
 # TestWaitForADASDetectedObjectDistance
 
 **Valid for:** CANoe DE
@@ -75,9 +71,3 @@ if (TestWaitForADASDetectedObjectDistance(kOverThreshold, 50, -4, -2, 3 , 1000))
 ```
 
 [TestWaitForADASDetectedObjectSpeed](CAPLfunctionTestWaitForADASDetectedObjectSpeed.md) • [TestGetWaitADASDetectedObject](CAPLfunctionTestGetWaitADASDetectedObject.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

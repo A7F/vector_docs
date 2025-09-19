@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADAS/Functions/CAPLfunctionTestWaitForADASDetectedObjectSpeed.md)
-
 # TestWaitForADASDetectedObjectSpeed
 
 [CAPL Functions](../../CAPLfunctions.md) » [ADAS](../CAPLfunctionsADASOverview.md) » TestWaitForADASDetectedObjectSpeed
@@ -73,9 +71,3 @@ if(TestWaitForADASDetectedObjectSpeed(kUnderThreshold, -9, 2, 4, 3 , 1000))
   // Detected Object with trackingId 3 and relative speed less than –9 m/s and a lateral Offset to the host vehicle between 2 m and 4 m detected.
 }
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

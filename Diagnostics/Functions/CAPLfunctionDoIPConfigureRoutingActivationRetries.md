@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPConfigureRoutingActivationRetries.md)
-
-**CAPL Functions** » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » DoIP_ConfigureRoutingActivationRetries
-
 # DoIP_ConfigureRoutingActivationRetries
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -47,9 +43,3 @@ DeactivateRetries()
 ```
 
 [DoIP_ConfigureRoutingActivationRequest](CAPLfunctionDoIPConfigureRoutingActivationRequest.md) • [DoIP_ConfigureRoutingActivationResponse](CAPLfunctionDoIPConfigureRoutingActivationResponse.md) • [_DoIP_RoutingActivationRequest](CAPLfunctionDoIPRoutingActivationRequest.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

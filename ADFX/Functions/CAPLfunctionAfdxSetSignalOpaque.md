@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionAfdxSetSignalOpaque.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [AFDX](../CAPLfunctionsAFDXOverview.md) » AfdxSetSignalOpaque
-
 # AfdxSetSignalOpaque
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -68,5 +64,3 @@ AfdxSetSignalOpaque( packet, "TEST_OPAQUE14_IDENT", 3, "123" );
 
 AfdxOutputPacket( packet );
 ```
-
-[See Also](javascript:void(0);)

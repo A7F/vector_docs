@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/EventProcedures/CAPLfunctionOnAfdxPacket.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [AFDX](../CAPLfunctionsAFDXOverview.md) » `<OnAfdxPacket>`
-
 # `<OnAfdxPacket>` (Callback)
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -76,5 +72,3 @@ void OnAfdxPacket(long dir, long line, int64 time, long bag, long afdxFlags, lon
   } // if
 }
 ```
-
-[See Also](javascript:void(0);)

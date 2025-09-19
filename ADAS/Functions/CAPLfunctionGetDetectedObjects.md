@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADAS/Functions/CAPLfunctionGetDetectedObjects.md)
-
 # GetDetectedObjects
 
 [CAPL Functions](../../CAPLfunctions.md) » [ADAS](../CAPLfunctionsADASOverview.md) » GetDetectedObjects
@@ -48,10 +46,3 @@ countDetObj = elCount(detectedObjectNames);
 _ADAS.DataModel.DetectedObject_List detObjNames = radar.GetDetectedObjects.Call();
 int countDetObj = detObjNames.Length;
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

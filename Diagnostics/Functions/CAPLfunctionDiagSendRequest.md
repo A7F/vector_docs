@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagSendRequest.md)
-
-**CAPL Functions** » **Diagnostics** » **diagSendRequest**
-
 # diagSendRequest
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -40,10 +36,3 @@ Note: If [diagConnectChannel](CAPLfunctionDiagConnectChannel.md) was called befo
 ## Example
 
 See [diagGenerateKeyFromSeed](CAPLfunctionDiagGenerateKeyFromSeed.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

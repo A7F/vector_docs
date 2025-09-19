@@ -88,9 +88,3 @@ Returns the value of a numeric/textual communication parameter of the given or c
 **Example**: You can find examples for this function in the CAPL callback interface (CCI) reference implementations. See [Diagnostics: Connection of the Communication Layer](../CAPLfunctionsDiagnosticsConnectionCommunicationLayer.md) for details.
 
 ---
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

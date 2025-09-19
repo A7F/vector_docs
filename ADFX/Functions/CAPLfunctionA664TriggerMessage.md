@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionA664TriggerMessage.md)
-
 # A664TriggerMessage
 
 [CAPL Functions](../../CAPLfunctions.md) » [AFDX »](../CAPLfunctionsAFDXOverview.md) A664TriggerMessage
@@ -47,9 +45,3 @@ myMsg.VFG_OIL_TEMP_AB_32 = 33;  // overwrite signal value within the message
 myMsg.FS_FDS_1_HSMU_DEMO_ALLTYPES = 3;  // set FS within the message
 a664TriggerMessage(myMsg, 2);  // send cyclic with 100msec period
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

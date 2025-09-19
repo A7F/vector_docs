@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/DTI/CAPLfunctionsDTIOverview.md)
-
-[CAPL Functions](../CAPLfunctions.md) » DTI CAPL Functions
-
 # DTI CAPL Functions
 
 [Valid for](../../Shared/FeatureAvailability.md):  CANoe DE
@@ -30,10 +26,3 @@
 
 - [DtiWasTxDelayed](Functions/CAPLfunctionDtiWasTxDelayed.md)  
   The function returns true if the provided packet could not be sent at the specified timestamp.
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANopen/NodeLayerTFS/Functions/CAPLfunctionCoTfsEmcyGetErrorCode.md)
-
-**CAPL Functions** » **CANopen** » **Test Feature Set Node Layer** » **coTfsEmcyGetErrorCode**
-
 # coTfsEmcyGetErrorCode (Level 2)
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE
@@ -47,9 +43,3 @@ if (coTfsEmcyGetErrorCode(nodeId, pOutCANID, pTimeStamp, pEmcyCode, pErrorReg, p
   write("manufacturer specific code = 0x%X %X %X %X %X", pMsgCode[0], pMsgCode[1], pMsgCode[2], pMsgCode[3], pMsgCode[4]);
 }
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

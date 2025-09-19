@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CommunicationObjects/Methods/CAPLfunctionEventProviderRefGetNrOfSubscribedConsumers.md)
-
-**CAPL Functions** » **Communication Objects** » **eventProviderRef::GetNrOfSubscribedConsumers**
-
 # eventProviderRef::GetNrOfSubscribedConsumers (obsolete)
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -41,9 +37,3 @@ for (i = 0; i < nrOfConsumers; ++i)
 ```
 
 [Programming with the Communication Concept (C#, Python and CAPL)](../../../CANoeCANalyzer/CommunicationConcept/Programming/CCP.md) • [eventProviderRef::GetSubscribedConsumer](CAPLfunctionEventProviderRefGetSubscribedConsumer.md)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

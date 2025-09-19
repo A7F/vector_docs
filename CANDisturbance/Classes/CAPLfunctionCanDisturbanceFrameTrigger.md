@@ -52,9 +52,3 @@ You can access control information of a **CanDisturbanceFrameTrigger** object wi
 - **AckSlot**: The acknowledge slot. Type: `char`
 - **AckDelimiter**: The acknowledge delimiter. Type: `char`
 - **EndOfFrame**: The End Of Frame (EOF). Type: `char[7]`
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

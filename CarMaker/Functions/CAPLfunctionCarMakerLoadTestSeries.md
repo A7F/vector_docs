@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CarMaker/Functions/CAPLfunctionCarMakerLoadTestSeries.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [CarMaker Interface](../CAPLfunctionsCarMakerOverview.md) » CarMaker_LoadTestSeries
-
 # CarMaker_LoadTestSeries
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -30,11 +26,3 @@ Loads a test series with the given name within CarMaker. Although [CarMaker_Load
 // load the test series into CarMaker
 gErrorState = CarMaker_LoadTestSeries("Examples/Powertrain/DrivingCycles/DrivingCycles.ts");
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

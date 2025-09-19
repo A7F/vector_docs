@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xGetTokenOidElement.md)
-
-**CAPL Functions** » **Car2x** » **C2xGetTokenOidElement**
-
 # C2xGetTokenOidElement
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -37,5 +33,3 @@ void OnRxIVIM(long channel, long dir, long radioChannel, long signalStrength, lo
   long elementValue = C2xGetTokenOidElement(packet, "IVIM", "ivi.optional[0].isc[0].infrastructureSupport.baseOid", 1);
 }
 ```
-
-[See Also](javascript:void(0);)

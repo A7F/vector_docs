@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagGetRespPrimitiveByte.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » diagGetRespPrimitiveByte
-
 # diagGetRespPrimitiveByte
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -39,9 +35,3 @@ Reads one byte of the response stored for the request.
 —
 
 [diagGetPrimitiveByte](CAPLfunctionDiagGetPrimitiveByte.md) • [diagSetPrimitiveByte](CAPLfunctionDiagSetPrimitiveByte.md) • [diagSetRespPrimitiveByte](CAPLfunctionDiagSetRespPrimitiveByte.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagGetDescriptionVersion.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » diagGetDescriptionVersion
-
 # diagGetDescriptionVersion
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -44,9 +40,3 @@ DiagSetTarget("ECU1");
 DiagGetDescriptionVersion(buffer, elcount(buffer));
 // returns "1.3"
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADAS/Functions/CAPLfunctionTestWaitForADASDetectedObjectTimeToCollision.md)
-
-**CAPL Functions** » **ADAS** » **TestWaitForADASDetectedObjectTimeToCollision**
-
 # TestWaitForADASDetectedObjectTimeToCollision
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -83,7 +79,3 @@ else
     testStepFail("Timeout");
 }
 ```
-
-© Vector Informatik GmbH
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

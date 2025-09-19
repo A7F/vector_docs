@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xAssignNodeToStation.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Car2x](../CAPLfunctionsCar2xOverview.md) » C2xAssignNodeToStation
-
 # C2xAssignNodeToStation
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -41,5 +37,3 @@ on key 'c'
     C2xAssignNodeToStation(stationHdl, "EU_ApplMsg", "Car1");
 }
 ```
-
-[See Also](javascript:void(0);)

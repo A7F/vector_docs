@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANopen/NodeLayerTFS/Functions/CAPLfunctionCoTfsSdoBlockUploadSegmentResponse.md)
-
-**CAPL Functions** » **CANopen** » **Test Feature Set Node Layer** » **coTfsSDOBlockUploadSegmentResponse**
-
 # coTfsSDOBlockUploadSegmentResponse (Level 1)
 
 **Valid for**: CANoe DE • CANoe:lite DE • CANoe4SW DE
@@ -35,9 +31,3 @@ This function waits for a SDO segmented [upload](../../../../CANoeCANalyzer/CANo
 ## Example
 
 See example of [coTfsSDOBlockInit](CAPLfunctionCoTfsSdoBlockInit.md)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**  
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

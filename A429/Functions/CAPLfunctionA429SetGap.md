@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/A429/Functions/CAPLfunctionA429SetGap.md)
-
-**CAPL Functions** » **A429** » **a429SetGap**
-
 # a429SetGap
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md) • CANoe4SW DE
@@ -32,12 +28,3 @@ This function sets the selector [gap](../CAPLfunctionsA429Selectors.md) of an AR
 
 —
 
-[See Also](javascript:void(0);)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

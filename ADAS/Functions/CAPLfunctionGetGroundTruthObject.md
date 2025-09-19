@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADAS/Functions/CAPLfunctionGetGroundTruthObject.md)
-
 # GetGroundTruthObject
 
 [CAPL Functions](../../CAPLfunctions.md) » [ADAS](../CAPLfunctionsADASOverview.md) » GetGroundTruthObject
@@ -52,11 +50,3 @@ string groundTruthObjectName = GroundTruthAccess.GetGroundTruthObject.Call(42);
 // The Ground Truth object (IEnvironmentObject) can be retrieved from DORegistry-interface
 _ADAS.DataModel.IEnvironmentObject envObject = DORegistry.LookupDistributedObject<_ADAS.DataModel.IEnvironmentObject>(groundTruthObject, "ADAS");
 ```
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

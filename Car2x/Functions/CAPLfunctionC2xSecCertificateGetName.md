@@ -36,8 +36,6 @@ long errCode;
 errCode = C2xSecCertificateGetName( certificateHandle, elCount(certName), certName );
 ```
 
-[See Also](javascript:void(0);)
-
 - [\<OnC2xPacket>](../Callbacks/CAPLfunctionC2xOnC2xPacket.md#aanchor23975)
 - [C2xAddToken](CAPLfunctionC2xAddToken.md#aanchor432)
 - [C2xAssignNodeToStation](CAPLfunctionC2xAssignNodeToStation.md#aanchor31711)
@@ -124,9 +122,3 @@ errCode = C2xSecCertificateGetName( certificateHandle, elCount(certName), certNa
 - [OnStationAttributeTrigger](../Callbacks/CAPLfunctionC2xOnStationAttributeTrigger.md#aanchor28915)
 - [OnStationAttributeTriggerAll](../Callbacks/CAPLfunctionC2xOnStationAttributeTriggerAll.md#aanchor21716)
 - [SetStationSpeed](../../ADAS/Functions/CAPLfunctionSetStationSpeed.md#aanchor28451)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

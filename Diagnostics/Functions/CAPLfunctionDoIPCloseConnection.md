@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPCloseConnection.md)
-
-**CAPL Functions** » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » DoIP_CloseConnection
-
 # DoIP_CloseConnection
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -36,9 +32,3 @@ Closes the TCP connection to the peer.
 —
 
 [DoIP_ConnectToVehicle](CAPLfunctionDoIPConnectToVehicle.md) • [DoIP_ConnectionClosedInd](CAPLfunctionDoIPConnectionClosedInd.md)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

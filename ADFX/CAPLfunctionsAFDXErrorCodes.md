@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/CAPLfunctionsAFDXErrorCodes.md)
-
-[CAPL Functions](../CAPLfunctions.md) » [AFDX](CAPLfunctionsAFDXOverview.md) » AFDX Error Codes
-
 # AFDX Error Codes
 
 [Valid for](../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -41,11 +37,3 @@
 - **46-0136**: The token cannot be added or deleted
 - **46-0137**: Operation is pending and will complete later
 - **46-0138**: Function can only be used in bus context of type Ethernet
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

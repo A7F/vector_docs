@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/DistributedObjects/Methods/CAPLfunctiondistObjBlueprintRemoveVirtualNetwork.md)
-
-**CAPL Functions** » [Distributed Objects](../CAPLfunctionsDOOverview.md) » distObjBlueprint::RemoveVirtualNetwork
-
 # distObjBlueprint::RemoveVirtualNetwork
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -48,7 +44,3 @@ on key 'a' {
   bp.RemoveVirtualNetwork(SomeNetwork);
 }
 ```
-
-© Vector Informatik GmbH
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

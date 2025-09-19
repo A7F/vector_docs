@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPAnnounceVehicle.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » DoIP_AnnounceVehicle
-
 # DoIP_AnnounceVehicle
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -40,10 +36,3 @@ The number of messages sent and the time between sends can be configured in the 
 // Start broadcasting Vehicle Announcement Messages
 DoIP_AnnounceVehicle();
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

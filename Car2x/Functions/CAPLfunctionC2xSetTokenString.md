@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xSetTokenString.md)
-
-**CAPL Functions** » **Car2x** » **C2xSetTokenString**
-
 # C2xSetTokenString
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -49,5 +45,3 @@ C2xOutputPacket( packetHandle );
 // release packet
 C2xReleasePacket( packetHandle );
 ```
-
-[See Also](javascript:void(0);)

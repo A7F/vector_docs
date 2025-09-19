@@ -69,7 +69,3 @@ on key 'g'
           radioChannel, layout, txPower, maxTxPower, dataRate, bandWidth, txAntenna, rxAntenna);
 }
 ```
-
-© Vector Informatik GmbH
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

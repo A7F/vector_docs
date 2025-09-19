@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/CAPLfunctionCar2xTestServiceLibrary.md)
-
-[CAPL Functions](../CAPLfunctions.md) » [Car2x CAPL Functions](CAPLfunctionsCar2xOverview.md) » Car2x Test Service Library
-
 # Car2x Test Service Library
 
 [Valid for](../../Shared/FeatureAvailability.md):  CANoe DE
@@ -15,11 +11,3 @@ The Car2x Test Service Library contains Wait Functions for Car2x messages and fo
 - **[C2xTestWaitForMessage](Functions/CAPLfunctionC2xTestWaitForMessage.md)**: Waits for a Car2x message.
 - **[C2xTestWaitForSignalInRange](Functions/CAPLfunctionC2xTestWaitForSignalInRange.md)**: Waits for a Car2X message which has a signal that is inside or equals the given limits.
 - **[C2xTestWaitForSignalMatch](Functions/CAPLfunctionC2xTestWaitForSignalMatch.md)**: Waits for a Car2X message which has a signal that matches the given value.
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

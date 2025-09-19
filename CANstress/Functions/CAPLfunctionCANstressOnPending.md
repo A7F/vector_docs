@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CANstress/Functions/CAPLfunctionCANstressOnPending.md)
-
-**CAPL Functions** » [CANstresss](../CAPLfunctionsCANstressOverview.md) » CANstressOnPending
-
 # CANstressOnPending
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -36,11 +32,3 @@ Registers a CAPL function as callback that is called if CANstress is switched in
 ## Example
 
 —
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

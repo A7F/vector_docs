@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xGetTokenSubString.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Car2x](../CAPLfunctionsCar2xOverview.md) » C2xGetTokenSubString
-
 # C2xGetTokenSubString
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -66,5 +62,3 @@ void OnC2xPacket( long channel, long dir, long radioChannel, long signalStrength
   }
 }
 ```
-
-[See Also](javascript:void(0);)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/CAPLfunctionsCar2xErrorCodes.md)
-
-**CAPL Functions** » [Car2x](CAPLfunctionsCar2xOverview.md) » Car2x Error Codes
-
 # Car2x Error Codes
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE
@@ -46,11 +42,3 @@
 - **46-0145**: Car2x Security: No private key found for signing or decrypting
 - **46-0146**: Car2x Security: Protocol type|version mismatch.
 - **46-0147**: Car2x Security: Certificate "`<Name>|<HashedId8>`" not allowed to sign messages.
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

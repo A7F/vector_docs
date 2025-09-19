@@ -1,9 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xTestWaitForSignalMatch.md)
-
-**Valid for**: CANoe DE
-
-[CAPL Functions](../../CAPLfunctions.md) » [Car2x](../CAPLfunctionsCar2xOverview.md) » C2xTestWaitForSignalMatch
-
 # C2xTestWaitForSignalMatch
 
 **Valid for**: CANoe DE
@@ -74,9 +68,3 @@ C2xTestJoinSignalMatch("CAM", "cam.camParameters.lowFrequencyContainer.basicVehi
 ```
 
 [C2xTestJoinSignalInRange](CAPLfunctionC2xTestJoinSignalInRange.md) • [C2xTestJoinSignalMatch](CAPLfunctionC2xTestJoinSignalMatch.md) • [C2xTestWaitForSignalInRange](CAPLfunctionC2xTestWaitForSignalInRange.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

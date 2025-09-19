@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/DTI/Functions/CAPLfunctionDtiIsValid.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [DTI](../CAPLfunctionsDTIOverview.md) » DtiIsValid
-
 # DtiIsValid
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -44,11 +40,3 @@ void openPipe()
     write("Failed to open the pipe!");
 }
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

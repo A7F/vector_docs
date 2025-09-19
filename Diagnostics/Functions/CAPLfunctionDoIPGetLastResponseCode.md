@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPGetLastResponseCode.md)
-
-**CAPL Functions** » **Diagnostics** » **DoIP_GetLastResponseCode**
-
 # DoIP_GetLastResponseCode
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -44,9 +40,3 @@ void DoIP_ErrorInd( int error)
 ```
 
 [DoIP_ErrorInd](CAPLfunctionDoIPErrorInd.md)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

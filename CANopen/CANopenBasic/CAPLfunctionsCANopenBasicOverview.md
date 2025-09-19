@@ -51,7 +51,3 @@ This section offers an overview of the CANopen basic CAPL functions.
 - [TestSetMsgEvent](../../Test/Functions/CAPLfunctionTestSetMsgEvent.md): Sends the message once.
 - [TestSetMsgDlc](../../Test/Functions/CAPLfunctionTestSetSetMsgDlc.md): Assigns a new DLC to the message.
 - [TestResetAllFaultInjections](../../Test/Functions/CAPLfunctionTestResetAllFaultInjections.md): Reset all fault injection settings.
-
-© Vector Informatik GmbH
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

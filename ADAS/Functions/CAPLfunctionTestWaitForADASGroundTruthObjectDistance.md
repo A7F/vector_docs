@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADAS/Functions/CAPLfunctionTestWaitForADASGroundTruthObjectDistance.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [ADAS](../CAPLfunctionsADASOverview.md) » TestWaitForADASGroundTruthObjectDistance
-
 # TestWaitForADASGroundTruthObjectDistance
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -60,11 +56,3 @@ else
   testStepFail("Timeout");
 }
 ```
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

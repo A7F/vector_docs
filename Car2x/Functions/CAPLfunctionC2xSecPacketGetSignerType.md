@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xSecPacketGetSignerType.md)
-
-**CAPL Functions** » **Car2x** » C2xSecPacketGetSignerType
-
 # C2xSecPacketGetSignerType
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -49,5 +45,3 @@ switch (C2xSecPacketGetSignerType(packetHandle))
         break;
 }
 ```
-
-[See Also](javascript:void(0);)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPUDPInd.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » _DoIP_UDPInd
-
 # _DoIP_UDPInd
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -58,8 +54,3 @@ long _DoIP_UDPInd( char IPaddress[], WORD port, BYTE data[])
 ```
 
 [_DoIP_UDPDataInd](CAPLfunctionDoIPUDPDataInd.md) • [DoIP_UDPSend](CAPLfunctionDoIPUDPSend.md) • [DoIP_UDPSendPort](CAPLfunctionDoIPUDPSendPort.md)
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

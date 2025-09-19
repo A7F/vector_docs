@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Callbacks/CAPLfunctionC2xOnStationAttributeTriggerAll.md)
-
-**CAPL Functions** » **Car2x** » **OnStationAttributeTriggerAll**
-
 # OnStationAttributeTriggerAll (Callback)
 
 **Valid for**: CANoe DE
@@ -54,12 +50,3 @@ void OnStationAttributeTriggerAll(char stationName[], char attributeName[])
 }
 ```
 
-[See Also](javascript:void(0);)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

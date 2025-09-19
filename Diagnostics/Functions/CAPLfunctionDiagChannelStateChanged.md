@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDiagChannelStateChanged.md)
-
-**CAPL Functions** » **Diagnostics** » _Diag_ChannelStateChanged
-
 # _Diag_ChannelStateChanged
 
 **Valid for**: CANoe DE
@@ -52,8 +48,3 @@ _Diag_ChannelStateChanged(char target[], long newState)
 ```
 
 [diagCloseChannel](CAPLfunctionDiagCloseChannel.md) • [diagConnectChannel](CAPLfunctionDiagConnectChannel.md) • [diagDisconnectChannel](CAPLfunctionDiagDisconnectChannel.md) • [diagIsChannelConnected](CAPLfunctionDiagIsChannelConnected.md)
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

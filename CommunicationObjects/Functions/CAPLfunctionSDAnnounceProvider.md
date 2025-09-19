@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CommunicationObjects/Functions/CAPLfunctionSDAnnounceProvider.md)
-
-## CAPL Functions » Communication Objects » SD_AnnounceProvider
-
 # SD_AnnounceProvider (obsolete)
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -35,9 +31,3 @@ SD_AnnounceProvider(newProvider);
 ```
 
 [Programming with the Communication Concept (C#, Python and CAPL)](../../../CANoeCANalyzer/CommunicationConcept/Programming/CCP.md) • [SD_UnannounceProvider](CAPLfunctionSDUnannounceProvider.md)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

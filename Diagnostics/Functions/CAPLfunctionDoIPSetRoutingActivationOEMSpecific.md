@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPSetRoutingActivationOEMSpecific.md)
-
-**CAPL Functions** » **Diagnostics** » **DoIP_SetRoutingActivationOEMSpecific**
-
 # DoIP_SetRoutingActivationOEMSpecific
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -45,8 +41,3 @@ The message can also be configured from the DoIP.INI file
 // Send a constant in the RAR message
 DoIP_SetRoutingActivationOEMSpecific( 1, 0x31425927);
 ```
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

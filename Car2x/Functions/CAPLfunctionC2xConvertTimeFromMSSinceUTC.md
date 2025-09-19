@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xConvertTimeFromMSSinceUTC.md)
-
-**CAPL Functions** » **Car2x** » **C2xConvertTimeFromMSSinceUTC**
-
 # C2xConvertTimeFromMSSinceUTC
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -63,8 +59,3 @@ if (C2xConvertTimeFromMSSinceUTC(itsTS2004, en2004, elcount(utcTime), utcTime) =
   write("Time stamp %d-%02d-%02dT%02d:%02d:%02d.%03d UTC", 1900+utcTime[6], utcTime[5]+1, utcTime[4], utcTime[3], utcTime[2], utcTime[1], utcTime[0]);
 }
 ```
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

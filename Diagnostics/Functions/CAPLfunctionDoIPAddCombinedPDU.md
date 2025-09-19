@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPAddCombinedPDU.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » DoIP_AddCombinedPDU
-
 # DoIP_AddCombinedPDU
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -39,8 +35,3 @@ Append another well-formed PDU to the PDU combination buffer for later sending w
 See [DoIP_SendPDUCombination](CAPLfunctionDoIPSendPDUCombination.md)
 
 [DoIP_CreatePDUCombination](CAPLfunctionDoIPCreatePDUCombination.md) • [DoIP_SendPDUCombination](CAPLfunctionDoIPSendPDUCombination.md)
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

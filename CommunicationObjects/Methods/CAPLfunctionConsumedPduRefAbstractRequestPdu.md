@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/CommunicationObjects/Methods/CAPLfunctionConsumedPduRefAbstractRequestPdu.md)
-
-**CAPL Functions** » **Communication Objects** » **consumedPduRef::AbstractRequestPdu**
-
 # consumedPduRef::AbstractRequestPdu (obsolete)
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -30,9 +26,3 @@ MirrorAdjustment.consumerSide[CANoe,LeftMirror].StatusPDU.AbstractRequestPDU();
 ```
 
 [Programming with the Communication Concept (C#, Python and CAPL)](../../../CANoeCANalyzer/CommunicationConcept/Programming/CCP.md) • [consumedPduRef::AbstractReleasePdu](CAPLfunctionConsumedPduRefAbstractReleasePdu.md)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

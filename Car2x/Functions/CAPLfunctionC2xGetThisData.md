@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Functions/CAPLfunctionC2xGetThisData.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Car2x](../CAPLfunctionsCar2xOverview.md) » C2xGetThisData
-
 # C2xGetThisData
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -55,11 +51,3 @@ void OnC2xPacket( long channel, long dir, long radioChannel, long signalStrength
 }
 ```
 
-[See Also](javascript:void(0);)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/CAPLfunctionsDiagnosticsAccessMode.md)
-
-**CAPL Functions** » [Diagnostics](CAPLfunctionsDiagnosticsOverview.md) » Access Mode
-
 # Diagnostics: Access Mode
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE
@@ -31,9 +27,3 @@ Parameter values depending on access mode:
 - Coded: 66051.0 (decimal value of byte sequence [00 01 02 03] interpreted as 4 byte integer).
 
 [diagGetComplexParameter](Functions/CAPLfunctionDiagGetComplexParameter.md) • [diagGetComplexRespParameter](Functions/CAPLfunctionDiagGetComplexRespParameter.md) • [diagGetParameter](Functions/CAPLfunctionDiagGetParameter.md) • [diagGetRespParameter](Functions/CAPLfunctionDiagGetRespParameter.md) • [diagSetComplexParameter](Functions/CAPLfunctionDiagSetComplexParameter.md) • [diagSetParameter](Functions/CAPLfunctionDiagSetParameter.md)
-
-© Vector Informatik GmbH
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

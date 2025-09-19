@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Car2x/Callbacks/CAPLfunctionC2xOnProtocolViolation.md)
-
 # OnProtocolViolation (Callback)
 
 [CAPL Functions](../../CAPLfunctions.md) » [Car2x](../CAPLfunctionsCar2xOverview.md) » OnProtocolViolation
@@ -59,5 +57,3 @@ char violationDescription[], char ruleDescription[])
   write("OnProtocolViolation: %s", ruleDescription);
 }
 ```
-
-[See Also](javascript:void(0);)

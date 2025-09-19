@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/Functions/CAPLfunctionDoIPPowerModeInformationResponse.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../CAPLfunctionsDiagnosticsOverview.md) » _DoIP_PowerModeInformationResponse
-
 # _DoIP_PowerModeInformationResponse
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -37,8 +33,3 @@ The tester received a response for a Power Mode Information Request. The vehicle
 See [DoIP_SendPowerModeInformationRequest](CAPLfunctionDoIPSendPowerModeInformationRequest.md)
 
 [DoIP_SendPowerModeInformationRequest](CAPLfunctionDoIPSendPowerModeInformationRequest.md) • [DoIP_SetPowerModeInformation](CAPLfunctionDoIPSetPowerModeInformation.md)
-
-© Vector Informatik GmbH  
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionAfdxDeregisterReceiveCallback.md)
-
-**CAPL Functions** » **AFDX** » **AfdxDeregisterReceiveCallback**
-
 # AfdxDeregisterReceiveCallback
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -28,5 +24,3 @@ Use this function to deregister a CAPL callback that has been registered with [A
 ## Example
 
 —
-
-[See Also](javascript:void(0);)

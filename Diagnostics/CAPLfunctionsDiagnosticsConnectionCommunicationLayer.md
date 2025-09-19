@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Diagnostics/CAPLfunctionsDiagnosticsConnectionCommunicationLayer.md)
-
-**CAPL Functions** » **Diagnostics** » Connection of the Communication Layer
-
 # Diagnostics: Connection of the Communication Layer
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE
@@ -93,10 +89,3 @@ on diagRequest TesterPresent_Process
 ```
 
 [Expanded Functions in CAPL](CAPLfunctionsDiagnosticsExpandedFunctions.md) • [Basic CAPL Procedure for an ECU Implementation](CAPLfunctionsDiagnosticsECUImplementation.md) • [Basic CAPL Procedure for a Tester Implementation](CAPLfunctionsDiagnosticsTestImplementation.md)
-
-© Vector Informatik GmbH
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ADFX/Functions/CAPLfunctionAfdxIsReceiveCallbackRegistered.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [AFDX](../CAPLfunctionsAFDXOverview.md) » AfdxIsReceiveCallbackRegistered
-
 # AfdxIsReceiveCallbackRegistered
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -29,5 +25,3 @@ Use this function to check if a callback with this name is already installed wit
 ## Example
 
 —
-
-[See Also](javascript:void(0);)
