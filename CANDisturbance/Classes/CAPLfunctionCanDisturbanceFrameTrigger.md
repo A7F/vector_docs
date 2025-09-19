@@ -47,7 +47,7 @@ You can access control information of a **CanDisturbanceFrameTrigger** object wi
 - **DLC**: The Data Length Code (DLC) for CAN/CAN FD frames. Type: `char[4]`
 - **Payload**: The payload data of a CAN/CAN FD frame. CAN frames up to 64 bits possible, CAN FD frames up to 512 bits possible. Type: `char[512]`
 - **StuffCount**: The stuff count field for CAN FD frames. Includes the parity bit. (not usable for CAN frames). Type: `char[4]`
-- **CRC**: The CRC value of CAN/CAN FD frames. CAN frames up to 15 bits, CAN FD frames DLC < 10 up to 17 bits, CAN FD Frames DLC >= 10 up to 21 bits. Type: `char[21]`
+- **CRC**: The CRC value of CAN/CAN FD frames. CAN frames up to 15 bits, CAN FD frames DLC `< 10 up to 17 bits, CAN FD Frames DLC >`= 10 up to 21 bits. Type: `char[21]`
 - **CRCDelimiter**: The CRC delimiter for CAN / CAN FD frames. Type: `char`
 - **AckSlot**: The acknowledge slot. Type: `char`
 - **AckDelimiter**: The acknowledge delimiter. Type: `char`

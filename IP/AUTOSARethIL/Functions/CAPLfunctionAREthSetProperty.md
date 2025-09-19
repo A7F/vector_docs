@@ -123,6 +123,7 @@ dword appEndpointHandle;
   appEndpointHandle = SomeIpOpenLocalApplicationEndpoint(kUDP, 30501);
   serviceHandle = SomeIpCreateConsumedServiceInstance(appEndpointHandle, 1 /*serviceId*/, 1 /*instanceId*/);
   AREthSetProperty(serviceHandle, "SDConfigurationString","test123");
+
   ```
 
 - **Example form 4**:
@@ -137,6 +138,7 @@ AREthSetProperty("SDMulticastIpv6", buffer);
   ```c
   Byte buffer[16] = {0xFF, 0x14, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x04, 0x00, 0x01};
   AREthSetProperty("SDMulticastIpv6", 16, buffer);
+
 ```
 
 - **Example form 6**:

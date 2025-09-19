@@ -23,13 +23,13 @@ This function allows you to configure the time basis for new checks to be create
 - **aPrecision**: Describes the decimal power of the precision  
   Value range: 2 < aPrecision < 10
 
-  - 3: 10`<sup>`–3</sup> seconds = ms (default)
-  - 4: 10`<sup>`–4</sup> seconds
-  - 5: 10`<sup>`–5</sup> seconds = 10 us: e.g. used in trace export
-  - 6: 10`<sup>`–6</sup> seconds = us
-  - 7: 10`<sup>`–7</sup> seconds
-  - 8: 10`<sup>`–8</sup> seconds
-  - 9: 10`<sup>`–9</sup> seconds = ns
+  - 3: 10`<sup>`–3`</sup>` seconds = ms (default)
+  - 4: 10`<sup>`–4`</sup>` seconds
+  - 5: 10`<sup>`–5`</sup>` seconds = 10 us: e.g. used in trace export
+  - 6: 10`<sup>`–6`</sup>` seconds = us
+  - 7: 10`<sup>`–7`</sup>` seconds
+  - 8: 10`<sup>`–8`</sup>` seconds
+  - 9: 10`<sup>`–9`</sup>` seconds = ns
 
 ## Return Values
 

@@ -23,7 +23,7 @@ More information about [A664Messages Versus A664Frames](../../CANoeCANalyzer/AFD
 
 | Keyword   | Description                                                                                                                | a664 Frame | a664 Message | Type   | Access Limitations |
 |-----------|----------------------------------------------------------------------------------------------------------------------------|------------|--------------|--------|---------------------|
-| BAG       | Bandwidth allocation GAP. Unit: milliseconds. Value range: 1 …128 (initialization value).                                   | x          | x            | byte   | [read-only](#Read-Only)`<sup>`3</sup> |
+| BAG       | Bandwidth allocation GAP. Unit: milliseconds. Value range: 1 …128 (initialization value).                                   | x          | x            | byte   | [read-only](#Read-Only)`<sup>`3`</sup>` |
 | Data      | Complete raw content of the object. Value range: Initialized with 0.                                                        | x          | x            | byte[] | read-only           |
 | DIR       | Direction related to the corresponding event. Value range: Rx = 0 (default), Tx = 1.                                       | x          | x            | byte   | read-only           |
 | Distance  | Measured timely distance between two AFDX messages on the same virtual link (VL). Unit: microseconds.                       | x          | x            | word   | read-only           |
@@ -33,7 +33,7 @@ More information about [A664Messages Versus A664Frames](../../CANoeCANalyzer/AFD
 | msgChannel| Transmission channel (output) or the channel which triggered an event handler. Value range: 1..16.                          | x          | x            | word   | -                   |
 | name      | Message name from an assigned database (DBC). Value range: \0 or valid name.                                                | x          | x            | char[] | read-only           |
 | SIMULATED | Specifies whether the event was caused by your CANoe DE product or not. Value range: 0 (real event), 1 (simulated event).   | x          | x            | byte   | read-only           |
-| SkewMax   | Maximum timely difference between a transmission on line A and B. Unit: microseconds. Value range: 0 … 65635.               | x          | x            | dword  | [read-only](#Read-Only)`<sup>`3</sup> |
+| SkewMax   | Maximum timely difference between a transmission on line A and B. Unit: microseconds. Value range: 0 … 65635.               | x          | x            | dword  | [read-only](#Read-Only)`<sup>`3`</sup>` |
 | time      | Time stamp of the event. Unit: 10 µs.                                                                                       | x          | x            | dword  | read-only           |
 | time_ns   | Time stamp of the event. Unit: nanoseconds.                                                                                 | x          | x            | int64  | read-only           |
 | TxCycle   | Transmission cycle of an AFDX message. Unit: Milliseconds.                                                                  |            | x            | dword  | -                   |
@@ -64,21 +64,21 @@ More information about [A664Messages Versus A664Frames](../../CANoeCANalyzer/AFD
 | Keyword       | Description                                                                                      | a664 Frame | a664 Message | Type     | Access Limitations |
 |---------------|--------------------------------------------------------------------------------------------------|------------|--------------|----------|---------------------|
 | AfdxSeqNr     | AFDX sequence number.                                                                            | x          | x            | byte     | read-only           |
-| EthAdrDst     | Destination MAC address. Constructed from EthAdrDstConst and EthVlId.                            | x          | x            | byte[6]  | [read-only](#Read-Only)`<sup>`1</sup> |
+| EthAdrDst     | Destination MAC address. Constructed from EthAdrDstConst and EthVlId.                            | x          | x            | byte[6]  | [read-only](#Read-Only)`<sup>`1`</sup>` |
 | EthAdrDstConst| Constant part of destination MAC address.                                                        | x          | x            | dword    | -                   |
-| EthAdrSrc     | Source MAC address. Created from EthAdrSrcConst and IpAdrSrc.                                    | x          | x            | byte[6]  | [read-only](#Read-Only)`<sup>`1</sup> |
+| EthAdrSrc     | Source MAC address. Created from EthAdrSrcConst and IpAdrSrc.                                    | x          | x            | byte[6]  | [read-only](#Read-Only)`<sup>`1`</sup>` |
 | EthAdrSrcConst| Constant part of destination MAC address.                                                        | x          | x            | byte[3]  | -                   |
 | EthUserId     | Identifies a specific address part of the source MAC address.                                    | x          | x            | word     | -                   |
-| EthVlId       | AFDX Virtual Link Identifier.                                                                    | x          | x            | word     | [read-only](#Read-Only)`<sup>`1</sup> |
+| EthVlId       | AFDX Virtual Link Identifier.                                                                    | x          | x            | word     | [read-only](#Read-Only)`<sup>`1`</sup>` |
 
 ## Selectors on IP Level
 
 | Keyword       | Description                                                                                      | a664 Frame | a664 Message | Type     | Access Limitations |
 |---------------|--------------------------------------------------------------------------------------------------|------------|--------------|----------|---------------------|
-| IpLength      | Length of an IP frame including 20 bytes of header information.                                  | x          | x            | word     | [read-only](#Read-Only)`<sup>`2</sup> |
-| IpAdrDst      | IP destination address.                                                                          | x          | x            | dword    | [read-only](#Read-Only)`<sup>`5</sup> |
-| IpAdrSrc      | IP source address.                                                                               | x          | x            | dword    | [read-only](#Read-Only)`<sup>`5</sup> |
-| IpFragAllowed | Set the fragmentation attribute for messages to be transmitted over a VL.                        | x          | x            | byte     | [read-only](#Read-Only)`<sup>`4</sup> |
+| IpLength      | Length of an IP frame including 20 bytes of header information.                                  | x          | x            | word     | [read-only](#Read-Only)`<sup>`2`</sup>` |
+| IpAdrDst      | IP destination address.                                                                          | x          | x            | dword    | [read-only](#Read-Only)`<sup>`5`</sup>` |
+| IpAdrSrc      | IP source address.                                                                               | x          | x            | dword    | [read-only](#Read-Only)`<sup>`5`</sup>` |
+| IpFragAllowed | Set the fragmentation attribute for messages to be transmitted over a VL.                        | x          | x            | byte     | [read-only](#Read-Only)`<sup>`4`</sup>` |
 | IpPayload     | IP payload area. Limited by IpLength.                                                            | x          |              | byte[]   | -                   |
 | IpProtocol    | Value of IP protocol field.                                                                      | x          |              | byte     | -                   |
 | IpFragOffset  | Fragmentation offset.                                                                            | x          |              | word     | -                   |
@@ -88,28 +88,28 @@ More information about [A664Messages Versus A664Frames](../../CANoeCANalyzer/AFD
 
 | Keyword    | Description                                                                                      | a664 Frame | a664 Message | Type   | Access Limitations |
 |------------|--------------------------------------------------------------------------------------------------|------------|--------------|--------|---------------------|
-| UdpDstPort | UDP destination Port.                                                                            | x          | x            | word   | [read-only](#Read-Only)`<sup>`1</sup> |
-| UdpLength  | Length of the UDP payload (AfdxLength + 8).                                                      | x          | x            | word   | [read-only](#Read-Only)`<sup>`2</sup> |
-| UdpSrcPort | UDP Source Port.                                                                                 | x          | x            | word   | [read-only](#Read-Only)`<sup>`1</sup> |
+| UdpDstPort | UDP destination Port.                                                                            | x          | x            | word   | [read-only](#Read-Only)`<sup>`1`</sup>` |
+| UdpLength  | Length of the UDP payload (AfdxLength + 8).                                                      | x          | x            | word   | [read-only](#Read-Only)`<sup>`2`</sup>` |
+| UdpSrcPort | UDP Source Port.                                                                                 | x          | x            | word   | [read-only](#Read-Only)`<sup>`1`</sup>` |
 
 ## Selectors on AFDX Level
 
 | Keyword      | Description                                                                                      | a664 Frame | a664 Message | Type   | Access Limitations |
 |--------------|--------------------------------------------------------------------------------------------------|------------|--------------|--------|---------------------|
 | AfdxPayload  | Payload area of AFDX message.                                                                    | x          | x            | byte[] | -                   |
-| AfdxLength   | Length of the AFDX payload.                                                                      | x          | x            | word   | [read-only](#Read-Only)`<sup>`2</sup> |
-| IntChk       | Integrity check for VL.                                                                          | x          | x            | byte   | [read-only](#Read-Only)`<sup>`3</sup> |
-| RMA          | Redundancy management.                                                                           | x          | x            | byte   | [read-only](#Read-Only)`<sup>`3</sup> |
-| LineSelect   | Determine the used line A and/or B.                                                              | x          | x            | byte   | [read-only](#Read-Only)`<sup>`3</sup> |
-| MaxFrameSize | Define the maximum frame size for a VL.                                                          | x          | x            | dword  | [read-only](#Read-Only)`<sup>`3</sup> |
-| SubVLNr      | Sub VL number range.                                                                             | x          | x            | byte   | [read-only](#Read-Only)`<sup>`3</sup> |
-| SubVLid      | Used sub VL identifier.                                                                          | x          | x            | byte   | [read-only](#Read-Only)`<sup>`6</sup> |
+| AfdxLength   | Length of the AFDX payload.                                                                      | x          | x            | word   | [read-only](#Read-Only)`<sup>`2`</sup>` |
+| IntChk       | Integrity check for VL.                                                                          | x          | x            | byte   | [read-only](#Read-Only)`<sup>`3`</sup>` |
+| RMA          | Redundancy management.                                                                           | x          | x            | byte   | [read-only](#Read-Only)`<sup>`3`</sup>` |
+| LineSelect   | Determine the used line A and/or B.                                                              | x          | x            | byte   | [read-only](#Read-Only)`<sup>`3`</sup>` |
+| MaxFrameSize | Define the maximum frame size for a VL.                                                          | x          | x            | dword  | [read-only](#Read-Only)`<sup>`3`</sup>` |
+| SubVLNr      | Sub VL number range.                                                                             | x          | x            | byte   | [read-only](#Read-Only)`<sup>`3`</sup>` |
+| SubVLid      | Used sub VL identifier.                                                                          | x          | x            | byte   | [read-only](#Read-Only)`<sup>`6`</sup>` |
 
 ### Read-Only Notes
 
-- **read-only`<sup>`1</sup>** - The value may be modified with the function [A664InitMessage](Functions/CAPLfunctionA664InitMessage.md).
-- **read-only`<sup>`2</sup>** - The value may be modified with the function [A664InitMessage](Functions/CAPLfunctionA664InitMessage.md) or [A664ResizeMessage](Functions/CAPLfunctionA664ResizeMessage.md).
-- **read-only`<sup>`3</sup>** - The value may be modified with the function [A664VLConfig](Functions/CAPLfunctionA664VLConfig.md).
-- **read-only`<sup>`4</sup>** - The value may be modified with the function [A664VLConfig](Functions/CAPLfunctionA664VLConfig.md) or [A664MsgConfig](Functions/CAPLfunctionA664MsgConfig.md).
-- **read-only`<sup>`5</sup>** - The value may be modified with the function [A664InitMessage](Functions/CAPLfunctionA664InitMessage.md) or [A664InitICMP](Functions/CAPLfunctionA664InitICMP.md).
-- **read-only`<sup>`6</sup>** - The value may be modified with the function [A664MsgConfig](Functions/CAPLfunctionA664MsgConfig.md).
+- **read-only`<sup>`1`</sup>`** - The value may be modified with the function [A664InitMessage](Functions/CAPLfunctionA664InitMessage.md).
+- **read-only`<sup>`2`</sup>`** - The value may be modified with the function [A664InitMessage](Functions/CAPLfunctionA664InitMessage.md) or [A664ResizeMessage](Functions/CAPLfunctionA664ResizeMessage.md).
+- **read-only`<sup>`3`</sup>`** - The value may be modified with the function [A664VLConfig](Functions/CAPLfunctionA664VLConfig.md).
+- **read-only`<sup>`4`</sup>`** - The value may be modified with the function [A664VLConfig](Functions/CAPLfunctionA664VLConfig.md) or [A664MsgConfig](Functions/CAPLfunctionA664MsgConfig.md).
+- **read-only`<sup>`5`</sup>`** - The value may be modified with the function [A664InitMessage](Functions/CAPLfunctionA664InitMessage.md) or [A664InitICMP](Functions/CAPLfunctionA664InitICMP.md).
+- **read-only`<sup>`6`</sup>`** - The value may be modified with the function [A664MsgConfig](Functions/CAPLfunctionA664MsgConfig.md).

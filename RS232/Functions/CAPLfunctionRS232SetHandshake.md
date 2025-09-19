@@ -22,9 +22,9 @@ Sets handshake parameters on serial port.
 - **port**: A number between 1 and 255 identifying a serial port.
 - **handshake**: Sets variant of handshake to use. Allowed values:
   - **0**: no handshake at all
-  - **1**: hardware handshake, use DTR<->DSR
-  - **2**: hardware handshake, use RTS<->CTS
-  - **3**: hardware handshake, use RTS<->CTS, use "toggle" variant
+  - **1**: hardware handshake, use DTR`<->`DSR
+  - **2**: hardware handshake, use RTS`<->`CTS
+  - **3**: hardware handshake, use RTS`<->`CTS, use "toggle" variant
   - **4**: software handshake, use Xon and Xoff characters
 
   DTR: Data-Terminal-Ready (from sender).  
