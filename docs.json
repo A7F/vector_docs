@@ -814,21 +814,6 @@
               "GPIB/Functions/CAPLfunctionGPIBWriteNum",
               "GPIB/Functions/CAPLfunctionGPIBWriteStr"
             ]
-          },
-          {
-            "group": "RS232 Functions",
-            "pages": [
-              "RS232/Functions/CAPLfunctionRS232Close",
-              "RS232/Functions/CAPLfunctionRS232Configure",
-              "RS232/Functions/CAPLfunctionRS232OnError",
-              "RS232/Functions/CAPLfunctionRS232OnReceive",
-              "RS232/Functions/CAPLfunctionRS232OnSend",
-              "RS232/Functions/CAPLfunctionRS232Open",
-              "RS232/Functions/CAPLfunctionRS232Receive",
-              "RS232/Functions/CAPLfunctionRS232Send",
-              "RS232/Functions/CAPLfunctionRS232SetHandshake",
-              "RS232/Functions/CAPLfunctionRS232SetSignalLine"
-            ]
           }
         ]
       },
@@ -877,6 +862,115 @@
               "J1587/EventHandler/CAPLfunctionOnJ1587ErrorMessage",
               "J1587/EventHandler/CAPLfunctionOnJ1587Message",
               "J1587/EventHandler/CAPLfunctionOnJ1587Param"
+            ]
+          },
+          {
+            "group": "RS232 Functions",
+            "pages": [
+              "RS232/Functions/CAPLfunctionRS232Close",
+              "RS232/Functions/CAPLfunctionRS232Configure",
+              "RS232/Functions/CAPLfunctionRS232OnError",
+              "RS232/Functions/CAPLfunctionRS232OnReceive",
+              "RS232/Functions/CAPLfunctionRS232OnSend",
+              "RS232/Functions/CAPLfunctionRS232Open",
+              "RS232/Functions/CAPLfunctionRS232Receive",
+              "RS232/Functions/CAPLfunctionRS232Send",
+              "RS232/Functions/CAPLfunctionRS232SetHandshake",
+              "RS232/Functions/CAPLfunctionRS232SetSignalLine"
+            ]
+          },
+          {
+            "group": "VT System Functions",
+            "pages": [
+              "VTSystem/Functions/CAPLfunctionVTSystemOverview",
+              "VTSystem/Functions/CAPLfunctionVTSystemConfiguration",
+              "VTSystem/Functions/CAPLfunctionVTSystemControl",
+              "VTSystem/Functions/CAPLfunctionVTSystemMeasurement",
+              "VTSystem/Functions/CAPLfunctionVTSystemSimulation"
+            ]
+          },
+          {
+            "group": "TLS API Functions",
+            "pages": [
+              "TLSAPI/Functions/CAPLfunctionTLSOverview",
+              "TLSAPI/Functions/CAPLfunctionTLSSecurity",
+              "TLSAPI/Functions/CAPLfunctionTLSCommunication",
+              "TLSAPI/Functions/CAPLfunctionTLSCertificate",
+              "TLSAPI/Functions/CAPLfunctionTLSConfiguration"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Test Functions",
+        "groups": [
+          {
+            "group": "Test Functions",
+            "pages": [
+              "Test/Functions/CAPLfunctionTestOverview",
+              "Test/Functions/CAPLfunctionTestExecution",
+              "Test/Functions/CAPLfunctionTestReporting",
+              "Test/Functions/CAPLfunctionTestValidation",
+              "Test/Functions/CAPLfunctionTestAutomation"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "CAPL Basics",
+        "groups": [
+          {
+            "group": "Signal Access",
+            "pages": [
+              "SignalAccess/Functions/CAPLfunctionSignalAccessOverview",
+              "SignalAccess/Functions/CAPLfunctionSignalAccessMethods",
+              "SignalAccess/Functions/CAPLfunctionSignalAccessProperties",
+              "SignalAccess/Functions/CAPLfunctionSignalAccessEvents"
+            ]
+          },
+          {
+            "group": "System Variables",
+            "pages": [
+              "SystemVariables/Functions/CAPLfunctionSystemVariablesOverview",
+              "SystemVariables/Functions/CAPLfunctionSystemVariablesAccess",
+              "SystemVariables/Functions/CAPLfunctionSystemVariablesManagement",
+              "SystemVariables/Functions/CAPLfunctionSystemVariablesEvents"
+            ]
+          },
+          {
+            "group": "Object-Oriented Programming",
+            "pages": [
+              "ObjectOrientedProg/Functions/CAPLfunctionOOPOverview",
+              "ObjectOrientedProg/Functions/CAPLfunctionOOPClasses",
+              "ObjectOrientedProg/Functions/CAPLfunctionOOPMethods",
+              "ObjectOrientedProg/Functions/CAPLfunctionOOPInheritance"
+            ]
+          },
+          {
+            "group": "Media Functions",
+            "pages": [
+              "Media/Functions/CAPLfunctionMediaOverview",
+              "Media/Functions/CAPLfunctionMediaControl",
+              "Media/Functions/CAPLfunctionMediaPlayback",
+              "Media/Functions/CAPLfunctionMediaRecording"
+            ]
+          },
+          {
+            "group": "Other Functions",
+            "pages": [
+              "Other/Functions/CAPLfunctionOtherOverview",
+              "Other/Functions/CAPLfunctionOtherUtilities",
+              "Other/Functions/CAPLfunctionOtherHelpers",
+              "Other/Functions/CAPLfunctionOtherExtensions"
+            ]
+          },
+          {
+            "group": "CANoe IL Functions",
+            "pages": [
+              "CANoeIL/Functions/CAPLfunctionCANoeILOverview",
+              "CANoeIL/Functions/CAPLfunctionCANoeILExecution",
+              "CANoeIL/Functions/CAPLfunctionCANoeILInteraction",
+              "CANoeIL/Functions/CAPLfunctionCANoeILManagement"
             ]
           }
         ]
