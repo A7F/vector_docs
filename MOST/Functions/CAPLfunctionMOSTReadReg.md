@@ -8,7 +8,7 @@
 
 **Note**  
 Register structure of the OS8104:  
-The registers of the OS8104 chip are distributed among pages. Read and write actions are not possible across several register pages. The offset is calculated as follows: offset = page \\<\\< 8 + address
+The registers of the OS8104 chip are distributed among pages. Read and write actions are not possible across several register pages. The offset is calculated as follows: offset = page \<\< 8 + address
 
 ## Function Syntax
 
@@ -25,7 +25,7 @@ Initiates read-out of the registers of a MOST hardware chip.
 - **channel**: Channel to which the hardware is connected.
 - **chip**: Number of the chip in the MOST hardware (1 = OS8104; other chips cannot be accessed yet).
 - **offset**: Address of the first register.
-- **regdatalen**: Number of registers to be read (1 \\<= regdatalen \\<= 16).
+- **regdatalen**: Number of registers to be read (1 \<= regdatalen \<= 16).
 
 ## Return Values
 
