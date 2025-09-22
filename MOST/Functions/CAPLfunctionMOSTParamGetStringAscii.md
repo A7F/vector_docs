@@ -41,7 +41,7 @@ on mostAmsMessage AmFmTuner.RadioText.Status
   long dataLen;
   // get string parameter data
   datalen = mostParamGetStringAscii(this, "TextA", buffer, elcount(buffer));
-  if(datalen >= 0)
+  if(datalen \>= 0)
   {
     write("Radiotext: %s", buffer);
   }

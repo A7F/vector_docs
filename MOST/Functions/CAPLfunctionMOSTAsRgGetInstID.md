@@ -27,10 +27,10 @@ Returns the InstID at position i of the registry. Indexing starts at 0.
 
 ## Return Values
 
-- **>=0**
+- **\>=0**
   - InstID
 
-- **<0**
+- **\<0**
   - See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example

@@ -28,7 +28,7 @@ You have to call [SecurityLocalStartControlSimulationNode](CAPLfunctionSecurityL
 - **dword payloadLength**: The payload length of the PDU in bytes.
 - **qword truncatedAuthenticatorHigh**: Upper 64 bits of the authenticator (MAC), if authenticator is larger than 64 bits. Otherwise 0;
 - **qword truncatedAuthenticator**: The full authenticator value or the lower 64 bits of the authenticator (MAC), if authenticator is larger than 64 bits.
-- **dword truncatedAuthenticatorBitLength**: Length of complete authenticator to transmit (length of authInfo if the authenticator is <= 64 bit, otherwise length of authInfo + authInfoHigh)
+- **dword truncatedAuthenticatorBitLength**: Length of complete authenticator to transmit (length of authInfo if the authenticator is \<= 64 bit, otherwise length of authInfo + authInfoHigh)
 - **qword rxFreshness**: The received freshness value.
 - **dword rxFreshnessBitLength**: The length of the received (typically truncated) freshness in bits.
 - **qword currentFreshness**: The freshness value to be used for calculation.

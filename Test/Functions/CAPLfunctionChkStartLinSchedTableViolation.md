@@ -40,13 +40,13 @@ Checks a certain LIN schedule table for correspondence with the database definit
 ## Parameters
 
 - **TableIndex**: Zero based index of schedule table to be checked.
-- **Jitter**: Allowed deviation from the timing defined by schedule tables. For this value, usually Master’s Jitter is used. Measured slot delay should be in the range: D - Jitter <= M <= D + Jitter; where M is measured delay and D is expected delay. Unit: Can be set with ChkConfig_SetPrecision. Default: Master’s Jitter defined in LDF.
+- **Jitter**: Allowed deviation from the timing defined by schedule tables. For this value, usually Master’s Jitter is used. Measured slot delay should be in the range: D - Jitter \<= M \<= D + Jitter; where M is measured delay and D is expected delay. Unit: Can be set with ChkConfig_SetPrecision. Default: Master’s Jitter defined in LDF.
 - **CaplCallback**: Name of CAPL callback function to be called on generated event. In simulation nodes, this parameter has to be set. In test modules, this parameter is optional.
 
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced.
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Possible Errors
 

@@ -22,8 +22,8 @@ This function returns the "Maximum Position Register (MPR)" value of the MOST ha
 
 ## Return Values
 
-- **> 0**: MPR value
-- **<= 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\> 0**: MPR value
+- **\<= 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

@@ -33,8 +33,8 @@ long mostGetEcl(long channel);
 
 - **mostSetEcl**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 - **mostGetEcl**:
-  - >=0: See **eclState** parameter
-  - <0: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+  - \>=0: See **eclState** parameter
+  - \<0: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

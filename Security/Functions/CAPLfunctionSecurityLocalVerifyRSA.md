@@ -34,7 +34,7 @@ Verifies signature of data with a given public key using asymmetric RSA signatur
 ## Return Values
 
 - **1**: Success. A value of 1 means that the action was successful. Note: This does not necessarily mean that the signature is valid. Check VerificationResult therefore!
-- **<= 0**: Error. A value less than or equal to 0 means error.
+- **\<= 0**: Error. A value less than or equal to 0 means error.
 
 ## Example
 

@@ -24,7 +24,7 @@ Queries the Lock Status of the MOST hardware.
 
 - **1**: Lock
 - **0**: Unlock
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

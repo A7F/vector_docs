@@ -22,7 +22,7 @@ The function configures the parameters for the output of a voltage or resistance
 - **timeIncrement**: Specifies how long the value of a specified interpolation point is to be stimulated before transitioning to the next interpolation point. Depending on the module and the waveform, different ranges for `timeIncrement` are valid:
   - Voltage curves on a **VT7001** module: `timeIncrement` can be 0.000001(1 µs)…0.065 (65 ms).
   - Voltage curves on a **VT2816** or **VT2004** module: `timeIncrement` can be -0.065 (-65 ms)…0.065 (65 ms).
-  - Resistance curves: 0.0005 (500 µs)…0.065 (65 ms) in **R>** mode and 0.001 (1 ms)…0.065 (65 ms) in **R<** mode.
+  - Resistance curves: 0.0005 (500 µs)…0.065 (65 ms) in **R\>** mode and 0.001 (1 ms)…0.065 (65 ms) in **R\<** mode.
   - BitStreams on a **VT2516** module: `timeIncrement` can be 0.000002 (2 µs)…0.065 (65 ms).
   - BitStreams on a **VT2848** module: `timeIncrement` can be -0.065 (-65 ms)…0.065 (65 ms).
 

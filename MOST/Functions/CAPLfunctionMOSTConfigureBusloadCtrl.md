@@ -64,7 +64,7 @@ A sequence counter and the stress pattern can be configured with [mostSetStressN
 
 ## Return Values
 
-- **<= 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\<= 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

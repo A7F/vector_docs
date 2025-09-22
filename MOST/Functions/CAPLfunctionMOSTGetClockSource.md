@@ -27,7 +27,7 @@ Returns the clock source for the MOST timing master.
 
 - **0**: Internal oscillator.
 - **1**: Synchronizes the timing master clock to the S/PDIF input signal. The network interface must be configured as S/PDIF timing slave.
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

@@ -370,7 +370,7 @@ If more than one MOST channel is allocated to a CAPL node (MOST-MOST gateway) th
 
 ## Message Access
 
-- **mostPrepareReport**: Preparation of an AMS message as response (OpType>=9) to a received command message (OpType<9).
+- **mostPrepareReport**: Preparation of an AMS message as response (OpType\>=9) to a received command message (OpType\<9).
 - **getThisMessage**: Copies the data of an AMS message into a message variable - Deprecated - see [Initialization of Message Variables](CAPLfunctionsMOSTInitializationMessageVariables.md)!
 
 ## Message Transmission
@@ -400,30 +400,30 @@ If more than one MOST channel is allocated to a CAPL node (MOST-MOST gateway) th
 - **TestGetWaitEventMostRawMsgData**: Retrieves the CMS raw message data of a waiting condition.
 - **TestGetWaitEventMostMsgData**: Retrieves the CMS message data of a waiting condition.
 - **TestJoinMostAMSMessageEvent**: Adds an AMS message to the set of joined events.
-- **TestJoinMostAMSReportEvent**: Adds an AMS report message (OpType > 8) to the set of joined events.
+- **TestJoinMostAMSReportEvent**: Adds an AMS report message (OpType \> 8) to the set of joined events.
 - **TestJoinMostAMSSpyMessageEvent**: Adds an AMS spy message to the set of joined events.
-- **TestJoinMostAMSSpyReportEvent**: Adds an AMS spy report message (OpType > 8) to the set of joined events.
+- **TestJoinMostAMSSpyReportEvent**: Adds an AMS spy report message (OpType \> 8) to the set of joined events.
 - **TestJoinMostMessageEvent**: Adds a CMS message to the set of joined events.
 - **TestJoinMostPktEvent**: Adds a packet to the set of joined events.
-- **TestJoinMostReportEvent**: Adds a CMS report message (OpType > 8) to the set of joined events.
+- **TestJoinMostReportEvent**: Adds a CMS report message (OpType \> 8) to the set of joined events.
 - **TestJoinMostSpyMessageEvent**: Adds a CMS spy message to the set of joined events.
 - **TestJoinMostSpyPktEvent**: Adds a spy packet to the set of joined events.
-- **TestJoinMostSpyReportEvent**: Adds a CMS spy report message (OpType > 8) to the set of joined events.
+- **TestJoinMostSpyReportEvent**: Adds a CMS spy report message (OpType \> 8) to the set of joined events.
 - **TestSendMostAMSMessage**: Sends an AMS message an waits for Tx acknowledgment result.
 - **TestSendMostRawMessage**: Send a CMS raw message and waits for Tx acknowledgment result.
 - **TestWaitForMostAMSMessage**: Waits for specific AMS message.
-- **TestWaitForMostAMSReport**: Waits for specific AMS report message (OpType > 8).
+- **TestWaitForMostAMSReport**: Waits for specific AMS report message (OpType \> 8).
 - **TestWaitForMostAMSRespons**: Sends a symbolically defined AMS message and waits for the appropriate response message.
 - **TestWaitForMostAMSResult**: Sends a symbolically defined AMS message with OpType ‘StartResult’ or ‘StartResultAck’ and waits for the reception of the appropriate ‘Result’ or ‘ResultAck’ message.
 - **TestWaitForMostAMSSpyMessage**: Waits for specific AMS spy message.
-- **TestWaitForMostAMSSpyReport**: Waits for specific AMS spy report message (OpType > 8).
+- **TestWaitForMostAMSSpyReport**: Waits for specific AMS spy report message (OpType \> 8).
 - **TestWaitForMostMessage**: Waits for specific CMS message.
 - **TestWaitForMostPkt**: Waits for a specific packet.
 - **TestWaitForMostRawSpyMessage**: Waits for specific CMS raw spy message.
-- **TestWaitForMostReport**: Waits for specific CMS report message (OpType > 8).
+- **TestWaitForMostReport**: Waits for specific CMS report message (OpType \> 8).
 - **TestWaitForMostSpyMessage**: Waits for specific CMS spy message.
 - **TestWaitForMostSpyPkt**: Waits for a specific spy or node packet.
-- **TestWaitForMostSpyReport**: Waits for specific CMS spy report message (OpType > 8).
+- **TestWaitForMostSpyReport**: Waits for specific CMS spy report message (OpType \> 8).
 
 ### Controller Events
 

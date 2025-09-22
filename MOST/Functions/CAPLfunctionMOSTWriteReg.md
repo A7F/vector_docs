@@ -12,7 +12,7 @@ Changes to registers may lead to unpredictable behavior of the network interface
 
 **Register layout of the OS8104:**
 
-The registers of the OS8104 chip are distributed among pages. It is not possible to perform read or write actions on register pages. The offset is calculated as follows: offset = page << 8 + address
+The registers of the OS8104 chip are distributed among pages. It is not possible to perform read or write actions on register pages. The offset is calculated as follows: offset = page \<\< 8 + address
 
 ## Function Syntax
 

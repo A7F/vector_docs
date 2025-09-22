@@ -22,7 +22,7 @@ check.Query_EventStatus_AsyncResult(char aBuffer[]);
 
 ## Description
 
-Converts the status into a string that can be printed. Returns the number of characters written (<= length).
+Converts the status into a string that can be printed. Returns the number of characters written (\<= length).
 
 The data has to be queried first using [testWaitForCheckQuery](CAPLfunctionTestWaitForCheckQuery.md).
 
@@ -34,7 +34,7 @@ The data has to be queried first using [testWaitForCheckQuery](CAPLfunctionTestW
 
 ## Return Values
 
-- **< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
 - **≥ 0**: Number of characters
 
 ## Example

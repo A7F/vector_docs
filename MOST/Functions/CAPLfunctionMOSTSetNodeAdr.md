@@ -27,7 +27,7 @@ These functions set the node address, group address or alternative packet addres
 
 ## Return Values
 
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

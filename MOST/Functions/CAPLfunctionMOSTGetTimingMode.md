@@ -24,7 +24,7 @@ Returns the Timing Mode of the MOST hardware.
 
 - **0**: Timing Slave
 - **1**: Timing Master
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 If the bypass is closed this function returns the mode that would have been set if the bypass were opened (see [mostSetAllBypass](CAPLfunctionMOSTSetAllBypass.md)).
 

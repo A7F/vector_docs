@@ -27,7 +27,7 @@ This function can be used to determine whether an incoming command message is de
 
 - **1**: If a MOST application simulated by this CAPL node is addressed.
 - **0**: Otherwise
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

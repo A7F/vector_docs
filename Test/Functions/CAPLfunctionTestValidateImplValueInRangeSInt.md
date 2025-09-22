@@ -16,7 +16,7 @@ long TestValidateImplValueInRangeSInt(char aTestStep[], valueHandle * value, int
 
 Checks the impl encoding of a **valueHandle** value against the condition. This function can only be used for **valueHandles** with a signed integer data type. It cannot be used for system variables or bus system signals.
 
-aLowLimit <= Value <= aHighLimit
+aLowLimit \\<= Value \\<= aHighLimit
 
 The test step is evaluated as either passed or failed depending on the results.
 

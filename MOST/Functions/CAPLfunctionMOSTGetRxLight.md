@@ -24,7 +24,7 @@ Queries the Light Status at the Fiber Optical Receiver (FOR).
 
 - **1**: Light on
 - **0**: Light out
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

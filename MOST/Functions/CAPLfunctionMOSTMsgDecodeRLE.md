@@ -24,8 +24,8 @@ long mostMsgDecodeRLE(mostAmsMessage * msg, long fktIds[], long buffersize);
 
 ## Return Values
 
-- **>=0**: Number of valid function IDs in fktIds[]
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\>=0**: Number of valid function IDs in fktIds[]
+- **\<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

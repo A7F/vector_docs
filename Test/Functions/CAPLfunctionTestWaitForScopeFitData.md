@@ -37,7 +37,7 @@ If the parameter is set to 0, all available signals for the measurement block ar
 
 - **1**: Success
 - **0**: Timeout
-- **<0**: Error occurred.
+- **\<0**: Error occurred.
 
 ## Example
 

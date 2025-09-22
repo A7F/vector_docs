@@ -19,7 +19,7 @@ Sends out an Ethernet packet over the asynchronous channel.
 
 - **channel**: Application channel number.
 - **destMacAdr**: Destination MAC address (6 Byte).
-- **dataLen**: Number of data bytes to be sent (2 <= dataLen <= 1506).
+- **dataLen**: Number of data bytes to be sent (2 \<= dataLen \<= 1506).
 - **Data**: Data bytes of the Ethernet packet.
   - **Note**: At least two bytes have to be sent (Ethernet Type Field). In case more than 1502 Bytes should be sent, the VLAN Tag has to be set in the first two data bytes (0x81, 0x00).
 - **prio**: Sending priority of the Ethernet packet.

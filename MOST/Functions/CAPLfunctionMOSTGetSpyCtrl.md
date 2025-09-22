@@ -24,7 +24,7 @@ Determines whether Spy mode for the **Control**, **Asynchronous** or **Ethernet*
 
 - **0**: Spy inactive
 - **1**: Spy activated
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

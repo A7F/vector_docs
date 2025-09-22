@@ -33,8 +33,8 @@ Enables access to the minimal and maximal measured values within a check.
 
 ## Return Values
 
-- **<= 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md) in this chapter
-- **> 0**: Retrieval of value was successful.
+- **\<= 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md) in this chapter
+- **\> 0**: Retrieval of value was successful.
 
 ## Available For
 

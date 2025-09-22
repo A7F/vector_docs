@@ -26,8 +26,8 @@ Returns the FBlockID at position i of the registry. Indexing starts at 0.
 
 ## Return Values
 
-- **>=0**: FBlockID
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\>=0**: FBlockID
+- **\<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

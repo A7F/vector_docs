@@ -28,7 +28,7 @@ If this flag is set to "Off", the connected MOST interface must not wake-up the 
 
 ## Return Values
 
-- **<0**  
+- **\<0**  
   See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example

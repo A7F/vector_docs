@@ -46,7 +46,7 @@ Currently supported algorithms: Ed25519 (public key: 32 bytes, private key: 32 b
   Success  
   A Value of 1 means that the action was successful.
 
-- **<= 0**  
+- **\<= 0**  
   Error  
   A value less than or equal to 0 means error.
 

@@ -22,7 +22,7 @@ Retrieves the last shutdown reason value.
 
 ## Return Values
 
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 - **0**: No result available
 - **1**: No fault saved
 - **2**: Failure ‘Sudden Signal Off’

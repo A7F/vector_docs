@@ -27,7 +27,7 @@ Return of the node address, group address, alternative packet address or node po
 - **GroupAdr**: Group address
 - **AltPktAdr**: Alternative packet address
 - **NodePosAdr**: Node position address
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

@@ -46,7 +46,7 @@ Supported encodings:
 ```plaintext
 byte data[9] = {0x00,0x00,0x61,0x00,0x62,0x00,0x63,0x00,0x00);
 char buffer[200];
-if(0 < mostStringToAscii(data, elcount(data), buffer, elcount(buffer)))
+if(0 \< mostStringToAscii(data, elcount(data), buffer, elcount(buffer)))
     write("ASCII: %s", buffer);
 ```
 

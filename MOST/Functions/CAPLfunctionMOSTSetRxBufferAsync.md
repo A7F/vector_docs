@@ -35,7 +35,7 @@ The stress network interface controller (NIC) must have its bypass opened (see [
 ## Return Values
 
 - **0**:
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

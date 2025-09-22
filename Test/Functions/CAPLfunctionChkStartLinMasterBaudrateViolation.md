@@ -32,13 +32,13 @@ Dependent on the used parameter type, the appropriate bus context in a multibus 
 
 ## Parameters
 
-- **ClockTolerance**: Allowed Master clock tolerance. Measured baudrate expected to be in the range: B – B*aClockTolerance/100 <= M <= B + B* aClockTolerance/100; where M is measured baudrate and B is expected baudrate [specified in DB]. Unit: percents [%]
+- **ClockTolerance**: Allowed Master clock tolerance. Measured baudrate expected to be in the range: B – B*aClockTolerance/100 \<= M \<= B + B* aClockTolerance/100; where M is measured baudrate and B is expected baudrate [specified in DB]. Unit: percents [%]
 - **CaplCallback**: Name of CAPL callback function to be called on generated event. In simulation nodes, this parameter has to be set. In test modules, this parameter is optional.
 
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Check-specific Queries
 

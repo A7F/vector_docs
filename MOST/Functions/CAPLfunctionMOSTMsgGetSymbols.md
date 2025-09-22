@@ -29,7 +29,7 @@ Determining the symbolic Names of the function block, the function and the Optyp
 - **1**: Function block name determined.
 - **2**: Function block and function name determined.
 - **3**: Function block, function and optye name determined.
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

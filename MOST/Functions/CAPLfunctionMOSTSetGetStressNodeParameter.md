@@ -39,7 +39,7 @@ With `mostSetStressNodeParameter` the MOST node parameters of this additional NI
     - Availability: VN2640, OptoLyzer G2 3150o, OptoLyzer MOCCA compact 50e, OptoLyzer MOCCA compact 150c
   - **11**: Control busload speed/value range
     - VN2640: Messages per second
-    - OptoLyzer G2 3150o, OptoLyzer MOCCAcompact50e: >0: Specifies the delay between two packets (in ms), =0: send as fast as possible
+    - OptoLyzer G2 3150o, OptoLyzer MOCCAcompact50e: \>0: Specifies the delay between two packets (in ms), =0: send as fast as possible
     - Availability: VN2640, OptoLyzer G2 3150o, OptoLyzer MOCCA compact 50e, OptoLyzer MOCCA compact 150c
   - **12**: Control busload pattern: specifies what message is sent as busload
     - 0: FBlockID: 0xF1, InstID: 0x00, FuncID: 0xFFF, OpType: 0xC, Length
@@ -65,7 +65,7 @@ With `mostSetStressNodeParameter` the MOST node parameters of this additional NI
     - Availability: VN2640, OptoLyzer G2 3150o, MOCCA compact 50e, OptoLyzer MOCCA compact 150c
   - **51**: Data packet channel busload speed/value range
     - VN2640: Packets per second
-    - OptoLyzer G2 3150o, OptoLyzer MOCCA compact 50e, OptoLyzer MOCCA compact 150c: >0: Specifies the delay between two packets (in ms), =0: send as fast as possible
+    - OptoLyzer G2 3150o, OptoLyzer MOCCA compact 50e, OptoLyzer MOCCA compact 150c: \>0: Specifies the delay between two packets (in ms), =0: send as fast as possible
     - Availability: VN2640, OptoLyzer G2 3150o, MOCCA compact 50e, OptoLyzer MOCCA compact 150c
   - **52**: Data packet channel busload pattern: specifies what a message is sent as busload
     - 0: FBlockID: 0xF1, InstID: 0x00, FuncID: 0xFFF, OpType: 0xC, Length (2 Byte)
@@ -98,8 +98,8 @@ With `mostSetStressNodeParameter` the MOST node parameters of this additional NI
 
 - **mostSetStressNodeParameter**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 - **mostGetStressNodeParameter**:
-  - >=0: Parameter value
-  - <0: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+  - \>=0: Parameter value
+  - \<0: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

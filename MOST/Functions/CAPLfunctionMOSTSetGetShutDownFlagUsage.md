@@ -32,8 +32,8 @@ mostSetShutDownFlagUsage with mode 0.
 
 - **mostSetShutDownFlagUsage**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 - **mostGetShutDownFlagUsage**:
-  - >=0: See mode parameter
-  - <0: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+  - \>=0: See mode parameter
+  - \<0: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

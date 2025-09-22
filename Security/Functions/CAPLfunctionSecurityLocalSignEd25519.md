@@ -27,7 +27,7 @@ Generates signature of data with a given private key using asymmetric Ed25519 si
 
 - **1**: Success  
   A Value of 1 means that the action was successful.
-- **<= 0**: Error  
+- **\<= 0**: Error  
   A value less than or equal to 0 means error.
 
 ## Example

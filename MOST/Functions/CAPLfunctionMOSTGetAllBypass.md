@@ -24,7 +24,7 @@ Return indicates whether the MOST hardware bypass is closed (Return value = 1) o
 
 - **0**: Bypass is opened
 - **1**: Bypass is closed
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

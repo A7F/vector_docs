@@ -28,8 +28,8 @@ For test purposes, the stress network interface controller in the OptoLyzer G2 3
 
 - **mostSetSystemLockFlagUsage**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 - **mostGetSystemLockFlagUsage**:
-  - >=0: See mode parameter
-  - <0: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+  - \>=0: See mode parameter
+  - \<0: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

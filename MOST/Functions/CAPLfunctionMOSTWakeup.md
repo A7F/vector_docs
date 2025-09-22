@@ -23,7 +23,7 @@ The function wakes up the MOST loop optically by switching on the light on the o
 
 ## Return Values
 
-- **<= 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\<= 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

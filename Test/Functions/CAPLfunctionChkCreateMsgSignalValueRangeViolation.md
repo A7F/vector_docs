@@ -66,14 +66,14 @@ An event will be generated, if the value of physical signal, the environment var
 - **EnvVarName**: Environment variable to be checked.
 - **aSysVar**: System variable to be checked.
 - **doValue**: Distributed object member to be checked.
-- **aMinValue**: aMinValue <= aMaxValue
-- **aMaxValue**: aMinValue <= aMaxValue
+- **aMinValue**: aMinValue \<= aMaxValue
+- **aMaxValue**: aMinValue \<= aMaxValue
 - **aCallback**: In simulation nodes this parameter has to be set. In test modules this parameter is optional.
 
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Possible Errors
 

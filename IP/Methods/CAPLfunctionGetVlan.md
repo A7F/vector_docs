@@ -27,7 +27,7 @@ For double-tagged VLAN form 2 can be used to access a specific VLAN tag.
 
 - **0**: Success
 - **1**: Packet does not contain VLAN
-- **<0**: Internal error
+- **\<0**: Internal error
 
 ## Example
 

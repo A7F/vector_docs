@@ -34,7 +34,7 @@ See also [Option .MOST: Symbolic Identification of Messages](../CAPLfunctionsMOS
 ## Return Values
 
 - **0**: OK (Parameter is available)
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

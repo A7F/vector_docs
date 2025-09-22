@@ -25,7 +25,7 @@ Gets the timing mode for the S/PDIF signal.
 
 - **0**: S/PDIF slave
 - **1**: S/PDIF master
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 
