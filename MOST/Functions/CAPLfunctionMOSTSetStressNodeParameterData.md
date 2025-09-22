@@ -30,7 +30,7 @@ The OptoLyzer G2 3150o for MOST150 provides stress functionality through an addi
 
   - **ID:** 4  
     **Description:** Configure the response of the stress node when receiving NetBlock.FBlockIDs.Get. A sequence of pairs (FBLockID, InstID) with up to 22 entries (44 bytes) can be set. The response message NetBlock.FBlockIDs.Status transports the sequence in its parameter section.  
-    **Value Range / Meaning:** 0 <= datalen <= 44  
+    **Value Range / Meaning:** 0 \<\= datalen \<\= 44  
     **Availability:** OptoLyzer G2 3150o
 
 - **datalen**  

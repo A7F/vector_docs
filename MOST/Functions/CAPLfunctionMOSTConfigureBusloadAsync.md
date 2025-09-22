@@ -40,12 +40,12 @@ Busload can also be generated without CAPL programming using the MOST Stress Win
   - 4: 4 byte counter (higher quality bytes first)
 - **counterpos**: Position of the lowest value sequence counter byte.
 - **destadr**: Destination address
-- **pktdatalen**: Number of user data bytes (MOST25: 0<= pktdatalen <= 1014, MOST150: 1 <= pktdatalen <= 1524)
+- **pktdatalen**: Number of user data bytes (MOST25: 0\<\= pktdatalen \<\= 1014, MOST150: 1 \<\= pktdatalen \<\= 1524)
 - **pktdata[]**: User data
 
 ## Return Values
 
-- **<= 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\<\= 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

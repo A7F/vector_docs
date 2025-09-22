@@ -25,7 +25,7 @@ Get the content of a charging profile within a **ChargeParameterDiscoveryReq** m
 
 ## Parameters
 
-- **Index**: Selected index of the target ChargingProfile (<ChargingProfilesCount).
+- **Index**: Selected index of the target ChargingProfile (\<ChargingProfilesCount\>).
 - **Start**: Gets the start time of the ChargingProfile (via reference).
 - **MaxPower**: Gets the MaxPower of the ChargingProfile (via reference).
 - **MaxNumberOfPhases**: Gets the MaxNumberOfPhases of the ChargingProfile (via reference).

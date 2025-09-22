@@ -17,7 +17,7 @@ long mostAsRgGetRxTxLog(long regsel, long fblockId, long instId); // form 2
 
 The first one returns the logical device address (node address) at position i of the registry. Indexing starts at 0.
 
-The second one returns the logical device address (node address) of the function block. If there is no entry with the given FBlockId and InstId, an error code <0 is returned.
+The second one returns the logical device address (node address) of the function block. If there is no entry with the given FBlockId and InstId, an error code \\\< 0 is returned.
 
 ## Parameters
 
@@ -30,8 +30,8 @@ The second one returns the logical device address (node address) of the function
 
 ## Return Values
 
-- **>=0**: Logical device address
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\>\= 0**: Logical device address
+- **\\\< 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

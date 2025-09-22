@@ -47,8 +47,8 @@ Whether the allocation was successful and if so, which channels were allocated, 
 ## Parameters
 
 - **numChannels**: The number of channels to be reserved:
-  - MOST25: 1 <= numChannels <= 8
-  - MOST150: 1 <= numChannels <= MaxSyncBandwidth (depends on boundary settings - max. value: 372)
+  - MOST25: 1 \<\= numChannels \<\= 8
+  - MOST150: 1 \<\= numChannels \<\= MaxSyncBandwidth (depends on boundary settings - max. value: 372)
 
 - **allocResult**: Result of the operation.
   - `kGrant = 0x01`: The channels were reserved
@@ -57,9 +57,9 @@ Whether the allocation was successful and if so, which channels were allocated, 
   - `kWrong = 0x04`: The reservation request contains invalid parameters
   - `kUnknown = 0xFF`: Unspecified error (e.g. a timeout while waiting for the TimingMaster to respond)
 
-- **numChannels**: The number of reserved channels. (1 <= numChannels <= 8).
+- **numChannels**: The number of reserved channels. (1 \<\= numChannels \<\= 8).
 
-- **channels[]**: The values contained in this parameter are valid for allocResult = 0x01 only. It passes numChannels channel numbers reserved via `mostSyncAlloc()`. The value in channels[0] designates the label used for administration of the reserved channels.
+- **channels[]**: The values contained in this parameter are valid for allocResult \= 0x01 only. It passes numChannels channel numbers reserved via `mostSyncAlloc()`. The value in channels[0] designates the label used for administration of the reserved channels.
 
 ## Return Values
 

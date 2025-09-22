@@ -24,7 +24,7 @@ This command can be used to stop further sending of AMS messages in case of erro
 
 ## Return Values
 
-- **<= 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\<= 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

@@ -29,7 +29,7 @@ Returns the mute status of the audio input or output.
 
 - **0**: mute off
 - **1**: mute on
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\\\< 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

@@ -25,7 +25,7 @@ This function can be used to poll whether the function block with functional add
 
 - **1**: Function block is registered.
 - **0**: Function block is not registered.
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md).
+- **\< 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md).
 
 ## Example
 

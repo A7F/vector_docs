@@ -33,8 +33,8 @@ mostSetMasterMode becomes operative with the next call of [mostSetTimingMode](CA
 
 - **mostSetMasterMode**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 - **mostGetMasterMode**:
-  - >=0: See mode parameter
-  - <0: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+  - \>\= 0: See mode parameter
+  - \\\< 0: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

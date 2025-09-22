@@ -27,7 +27,7 @@ Queries the Light Status at the Fiber Optical Transmitter (FOR).
   - Bypass/Slave: Tx has light modulation of the Rx
   - Master: Master light
 - **2**: Constant light
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\\\< 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

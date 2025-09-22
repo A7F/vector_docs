@@ -35,8 +35,8 @@ Sets and gets the state of the termination resistor of the Electrical Control Li
   See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 - **mostGetEclTermination**  
-  >=0: See **eclState** parameter  
-  <0: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+  \>\= 0: See **eclState** parameter  
+  \\\< 0: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

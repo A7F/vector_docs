@@ -26,7 +26,7 @@ The function returns the lock status of the connected MOST hardware. In contrast
 - **1**: Lock
 - **2**: Stable Lock
 - **3**: Critical Unlock
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\\\< 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

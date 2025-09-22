@@ -14,21 +14,21 @@ long mostAmsSetSizePrefixed(long channel, long minlength);
 
 ## Description
 
-Configures the minimum length of an AMS message above which an initiating message with TelID==4 is sent.
+Configures the minimum length of an AMS message above which an initiating message with TelID\=\= 4 is sent.
 
 ## Parameters
 
 - **channel**: Channel of the connected network interface.
 - **minlength**: Minimum length of an AMS message.
   - `minlength == -1`: use the size configured in the hardware configuration dialog, AMS page
-  - `minlength == 0`: never send an initiating message with TelID==4
-  - `minlength >= 46`: send an initiating message with TelID==4, when the length of the AMS message is >= minlength
+  - `minlength == 0`: never send an initiating message with TelID\=\= 4
+  - `minlength >= 46`: send an initiating message with TelID\=\= 4, when the length of the AMS message is \>\= minlength
   - Note: Maximum value of minlength is 65535 (0xFFFF), since this is the maximum size of an AMS message.
 
 ## Return Values
 
 - **0**: OK
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\< 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

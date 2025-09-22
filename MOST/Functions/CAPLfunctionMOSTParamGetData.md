@@ -29,8 +29,8 @@ Query of parameters of the String type or RawStream from an AMS message using th
 
 ## Return Values
 
-- **>=0**: Number of copied bytes.
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md).
+- **\>\= 0**: Number of copied bytes.
+- **\\\< 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md).
 
 ## Example
 

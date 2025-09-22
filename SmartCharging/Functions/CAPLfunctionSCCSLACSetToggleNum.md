@@ -20,7 +20,7 @@ Sets the number of toggles for the next **CM_Validate.Cnf** message. If this fun
 
 ## Parameters
 
-- **ToggleNum**: Number of received toggles (max. 255). Real systems use toggle numbers <= 3.
+- **ToggleNum**: Number of received toggles (max. 255). Real systems use toggle numbers \<= 3.
 
 ## Return Values
 

@@ -22,8 +22,8 @@ Returns the InstID of the CAPL node. The function block must be assigned to the 
 
 ## Return Values
 
-- **>0**: Valid InstID
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\> 0**: Valid InstID
+- **\< 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

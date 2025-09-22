@@ -65,7 +65,7 @@ Generates a shared secret between A and B using the Elliptic Curve Diffie-Hellma
   Success  
   A value of 1 means that the action was successful.
 
-- **<= 0**  
+- **\<= 0**  
   Error  
   A value less than or equal to 0 means error.
 

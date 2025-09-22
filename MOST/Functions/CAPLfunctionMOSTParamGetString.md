@@ -31,8 +31,8 @@ Query of parameters of the String type from an AMS message using the parameter n
 
 ## Return Values
 
-- **>=0**: Number of copied bytes.
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md).
+- **\>\= 0**: Number of copied bytes.
+- **\\\< 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md).
 
 ## Example
 

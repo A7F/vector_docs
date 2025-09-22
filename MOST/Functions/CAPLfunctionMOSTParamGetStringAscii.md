@@ -29,8 +29,8 @@ Query of parameters of the String type from an AMS message and decode to ASCII f
 
 ## Return Values
 
-- **>=0**: number of converted characters
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\>\= 0**: number of converted characters
+- **\\\< 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 
@@ -41,7 +41,7 @@ on mostAmsMessage AmFmTuner.RadioText.Status
   long dataLen;
   // get string parameter data
   datalen = mostParamGetStringAscii(this, "TextA", buffer, elcount(buffer));
-  if(datalen \>= 0)
+  if(datalen >= 0)
   {
     write("Radiotext: %s", buffer);
   }

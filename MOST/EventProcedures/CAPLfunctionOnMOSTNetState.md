@@ -18,7 +18,7 @@ The `OnMostNetState()` event procedure is called when the network status is chan
 
 The following network states are defined based on the MOST Specification 2.3.
 
-- **<0**: Error code. See [Error codes in CAPL functions](../CAPLfunctionsMOSTErrorCodes.md)
+- **\< 0**: Error code. See [Error codes in CAPL functions](../CAPLfunctionsMOSTErrorCodes.md)
 - **0**: mostNetState_Undefined - Before the first event (shortly after measurement start) the network status is unknown.
 - **2**: mostNetState_PowerOff - The network interface to the MOST ring is deactivated. The Tx FOT is not emitting any light.
 - **3**: mostNetState_NetInterfaceInit - The network interface is initializing, e.g. after it has been woken by "light on".

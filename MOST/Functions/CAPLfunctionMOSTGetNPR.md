@@ -22,8 +22,8 @@ This function returns the "Node Position Register (NPR)" value of the MOST hardw
 
 ## Return Values
 
-- **> 0**: NPR value
-- **<= 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\\\> 0**: NPR value
+- **\<\= 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example
 

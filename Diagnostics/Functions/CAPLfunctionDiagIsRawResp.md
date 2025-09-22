@@ -28,7 +28,7 @@ Returns if the response stored for the request is stored as raw data or can be i
 
 - **1**: Response is stored as raw data.
 - **0**: Response can be interpreted.
-- **<0**: [Error code](../CAPLfunctionsDiagnosticsErrorCode.md)
+- **\\\< 0**: [Error code](../CAPLfunctionsDiagnosticsErrorCode.md)
 
 ## Example
 

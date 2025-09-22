@@ -23,8 +23,8 @@ Returns the connection label of the respective entry in the allocation table.
 
 ## Return Values
 
-- **>= 0**: Connection label of the concerning entry.
-- **< 0**: MOST CAPL [error codes](../CAPLfunctionsMOSTErrorCodes.md).
+- **\>= 0**: Connection label of the concerning entry.
+- **\< 0**: MOST CAPL [error codes](../CAPLfunctionsMOSTErrorCodes.md).
 
 ## Example
 

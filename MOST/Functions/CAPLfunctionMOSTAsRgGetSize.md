@@ -24,9 +24,9 @@ Determines the number of entries in the registry.
 
 ## Return Values
 
-- **>=0**  
+- **\>\= 0**  
   Number
-- **<0**  
+- **\\\< 0**  
   See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ## Example

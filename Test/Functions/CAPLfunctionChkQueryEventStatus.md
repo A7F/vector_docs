@@ -22,7 +22,7 @@ check.QueryEventStatus (char aBuffer[], dword aBufferLength);
 
 ## Description
 
-Converts the status into a string that can be printed. Returns the number of characters written (<= length).
+Converts the status into a string that can be printed. Returns the number of characters written (\<= length).
 
 ## Parameters
 
@@ -32,7 +32,7 @@ Converts the status into a string that can be printed. Returns the number of cha
 
 ## Return Values
 
-- **< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
 - **≥ 0**: Number of characters
 
 ## Example

@@ -22,7 +22,7 @@ Sets the shutdown reason value. This function is needed for resetting the shutdo
 
 ### Return Values
 
-- **<0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
+- **\\\< 0**: See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 
 ### Example
 

@@ -16,7 +16,7 @@ long TestWaitForImplValueInRangeFloat(valueHandle * value, float aLowLimit, floa
 
 Checks the impl encoding of a **valueHandle** value against the condition:
 
-aLowLimit <= Value <= aHighLimit
+aLowLimit \<= Value \<= aHighLimit
 
 If this condition is already met when this function is called, it returns immediately without waiting.
 

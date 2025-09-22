@@ -26,7 +26,7 @@ This callback handler is called after all data updates and the automatic Authent
 - **dword payloadLength**: The payload length of the PDU in bytes.
 - **qword& authInfoHigh [Out]**: Upper 64 bits of the authenticator (MAC), if authenticator is larger than 64 bits. Otherwise 0.
 - **qword& authInfo [Out]**: The full authenticator value or the lower 64 bits of the authenticator (MAC), if authenticator is larger than 64 bits.
-- **dword authInfoBitLength**: Length of complete authenticator to transmit (length of authInfo if the authenticator is <= 64 bit, otherwise length of authInfo + authInfoHigh).
+- **dword authInfoBitLength**: Length of complete authenticator to transmit (length of authInfo if the authenticator is \<= 64 bit, otherwise length of authInfo + authInfoHigh).
 - **qword& freshness [Out]**: The transmitted freshness value.
 - **dword freshnessBitLength**: The transmitted freshness value length in bits.
 - **dword freshnessValueId**: The freshness value ID of the PDU.

@@ -28,9 +28,9 @@ An error will be returned if no profile has been loaded.
 ## Parameters
 
 - **Index**: The index of the **ProfileEntry** to be modified, starting at 0 (zero). An error will be returned if the index is invalid.
-- **Start**: The new value for **ChargingProfileEntryStart**. No changes will be made if the value is <0.
-- **MaxPower**: The new value for **ChargingProfileEntryMaxPower**. No changes will be made if the value is <0.
-- **NumberOfPhases**: The new value for **ChargingProfileEntryMaxNumberOfPhasesInUse**. This optional field must already exist in the (XML) profile, it will not be created. No changes will be made if the value is <0.
+- **Start**: The new value for **ChargingProfileEntryStart**. No changes will be made if the value is \< 0.
+- **MaxPower**: The new value for **ChargingProfileEntryMaxPower**. No changes will be made if the value is \< 0.
+- **NumberOfPhases**: The new value for **ChargingProfileEntryMaxNumberOfPhasesInUse**. This optional field must already exist in the (XML) profile, it will not be created. No changes will be made if the value is \\\< 0.
 
 ## Return Values
 

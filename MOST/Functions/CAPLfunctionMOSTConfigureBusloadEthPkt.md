@@ -39,7 +39,7 @@ Busload can also be generated without CAPL programming using the MOST Stress Win
   It is possible to set another source MAC address as the own one. The value "-1" is also valid and is used as wildcard to set the own MAC address.
 
 - **destadr**: Target MAC address (6 Byte).
-- **dataLen**: Number of data bytes to be sent (2 <= dataLen <= 1506).
+- **dataLen**: Number of data bytes to be sent (2 \<\= dataLen \<\= 1506).
 - **data**: Data bytes of the Ethernet packet.
 
   **Note**  

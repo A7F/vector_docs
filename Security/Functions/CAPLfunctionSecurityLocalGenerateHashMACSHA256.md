@@ -28,7 +28,7 @@ Generates a SHA256 hash for the given data, using the given key.
 
 - **1**: Success  
   A Value of 1 means that the action was successful.
-- **<= 0**: Error  
+- **\<= 0**: Error  
   A value less than or equal to 0 means error.
 
 ## Example

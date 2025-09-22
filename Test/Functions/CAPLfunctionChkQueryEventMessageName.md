@@ -32,7 +32,7 @@ Stores the name of the message, that has led to the event, in the buffer and ret
 
 ## Return Values
 
-- **<= 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\<= 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
 
 ## Available For
 
