@@ -21,6 +21,3 @@ To activate Amplitude Map Exchange, set a map that contains values != 0.
 ### Return Values
 - **0**: Not successful
 - **1**: Successful
-
-### Example
--
