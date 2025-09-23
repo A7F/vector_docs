@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryEventSignalValueAsyncResult.md)
-
-**CAPL Functions** » **Test Service Library** » **Status Report Functions** » **ChkQuery_EventSignalValue_AsyncResult**
-
 # ChkQuery_EventSignalValue_AsyncResult
 
 **Valid for**: CANoe DE • CANoe4SW DE

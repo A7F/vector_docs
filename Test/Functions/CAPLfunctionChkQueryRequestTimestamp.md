@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryRequestTimestamp.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Status Report Functions](../CAPLfunctionsTSLStatusReportFunctions.md) » ChkQuery_RequestTimestamp
-
 # ChkQuery_RequestTimestamp
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -34,7 +30,7 @@ Returns the reception time stamp of the request message, which last led to a pro
 
 ## Return Values
 
-- **< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
 - **≥ 0**: Time stamp in the time base of the check
 
 ## Example

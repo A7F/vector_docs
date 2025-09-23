@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateMostCriticalUnlock.md)
-
-**CAPL Functions** » **Test Service Library** » **Checks** » **ChkCreate_MostCriticalUnlock, ChkStart_MostCriticalUnlock**
-
 # ChkCreate_MostCriticalUnlock, ChkStart_MostCriticalUnlock
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -41,7 +37,7 @@ This check always works on events. Therefore, it will not detect a current "Crit
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value
 
 ## Possible Errors
 

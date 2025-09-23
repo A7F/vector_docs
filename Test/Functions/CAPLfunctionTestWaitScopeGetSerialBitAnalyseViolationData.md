@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitScopeGetSerialBitAnalyseViolationData.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Scope](../../Scope/CAPLfunctionsScopeOverview.md) » testWaitScopeGetSerialBitAnalyseViolationData
-
 # testWaitScopeGetSerialBitAnalyseViolationData
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -35,7 +31,7 @@ Returns the duty cycle data and the violation data of the serial bit analysis fo
 ## Return Values
 
 - **1**: Success
-- **< 0**: Error occurred. See `EScopeCAPLFitDataReturnCode` in `<application>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"'))
+- **\< 0**: Error occurred. See `EScopeCAPLFitDataReturnCode` in `<application\>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"'))
 
 ## Example
 

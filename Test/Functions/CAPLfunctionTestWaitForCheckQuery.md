@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForCheckQuery.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Status Report Functions](../CAPLfunctionsTSLStatusReportFunctions.md) » testWaitForCheckQuery
-
 # testWaitForCheckQuery
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -24,7 +20,7 @@ Requests status information about a check with ID **aCheckId** which is evaluate
 
 ## Return Values
 
-- **< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
 - **0**: Resume due to timeout. No valid data was received asynchronous evaluation.
 - **1**: Data received.
 

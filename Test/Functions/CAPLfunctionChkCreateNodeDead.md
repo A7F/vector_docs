@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateNodeDead.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkCreate_NodeDead, ChkStart_NodeDead
-
 # ChkCreate_NodeDead, ChkStart_NodeDead
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -36,13 +32,13 @@ For FlexRay only valid data frames and PDUs are recognized as communication, Nul
 ## Parameters
 
 - **n/Node**: Defined node in database.
-- **aMaxQuietTime**: Upper limit of time interval. > 0; default unit [ms], if not changed with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md).
+- **aMaxQuietTime**: Upper limit of time interval. \> 0; default unit [ms], if not changed with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md).
 - **CaplCallback**: In simulation nodes this parameter has to be set. In test modules this parameter is optional.
 
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value
 
 ## Check-specific Queries
 

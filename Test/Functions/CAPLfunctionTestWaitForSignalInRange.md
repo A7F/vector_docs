@@ -14,7 +14,7 @@
 
 Checks the value of the signal, the system, or the environment variable against the condition:
 
-`aLowLimit <= Value <= aHighLimit`
+`aLowLimit \<= Value \<= aHighLimit`
 
 If this condition is already met when this function is called, it returns immediately without waiting.
 

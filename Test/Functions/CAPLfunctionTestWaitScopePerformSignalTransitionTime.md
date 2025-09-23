@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitScopePerformSignalTransitionTime.md)
-
-**CAPL Functions** » [Scope](../../Scope/CAPLfunctionsScopeOverview.md) » testWaitScopePerformSignalTransitionTime
-
 # testWaitScopePerformSignalTransitionTime
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -58,7 +54,7 @@
 
 - **1**: success
 - **0**: timeout
-- **< 0**: Error occurred. See `EScopeCAPLFitDataReturnCode` in `ScopeBitAnalyse.cin`
+- **\< 0**: Error occurred. See `EScopeCAPLFitDataReturnCode` in `ScopeBitAnalyse.cin`
 
 ## Example
 

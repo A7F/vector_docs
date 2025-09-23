@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateADASEgoVehicleLaneViolation.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkCreate_ADASEgoVehicleLaneViolation, ChkStart_ADASEgoVehicleLaneViolation
-
 # ChkCreate_ADASEgoVehicleLaneViolation, ChkStart_ADASEgoVehicleLaneViolation
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -37,7 +33,7 @@ Observes the lane of the EgoVehicle. The check fires an event if the EgoVehicle 
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced.
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Possible Errors
 

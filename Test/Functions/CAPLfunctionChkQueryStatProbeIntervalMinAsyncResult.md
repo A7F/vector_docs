@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryStatProbeIntervalMinAsyncResult.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Status Report Functions](../CAPLfunctionsTSLStatusReportFunctions.md) » ChkQuery_StatProbeIntervalMin_AsyncResult
-
 # ChkQuery_StatProbeIntervalMin_AsyncResult
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -34,9 +30,9 @@ The data has to be queried first using [testWaitForCheckQuery](CAPLfunctionTestW
 
 ## Return Values
 
-- **< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
   - **Note**: There is a meaningful value available and a positive return value is supplied even if the check has not generated any event.
-- **> 0**: Minimum timely distance
+- **\> 0**: Minimum timely distance
 
 ## Example
 

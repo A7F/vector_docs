@@ -10,7 +10,7 @@
 
 ## Description
 
-Completes the current set of "joined events" with the transmitted event, a MOST Spy response message (Report, OpType > 8).
+Completes the current set of "joined events" with the transmitted event, a MOST Spy response message (Report, OpType \> 8).
 
 The first arriving control message, which fulfills the specified conditions, resolves the wait point, irregardless of whether it is part of a segmented transmission. TelId is not included in this process.
 
@@ -39,7 +39,7 @@ The wait point can be subsequently attached with [TestWaitForAllJoinedEvents](CA
 - **-6**: Parse Error; on specification of a symbolic message definition that cannot be resolved with the available XML function catalog or that is flawed
 - **-3**: Join error
 - **-1**: General error e.g. the functionality is not available
-- **> 0**: Number of joined events
+- **\> 0**: Number of joined events
 
 ## Example
 

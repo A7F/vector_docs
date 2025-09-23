@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitScopeGetFieldLengthData.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Scope](../../Scope/CAPLfunctionsScopeOverview.md) » testWaitScopeGetFieldLengthData
-
 # testWaitScopeGetFieldLengthData
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -43,8 +39,8 @@ Returns the number of bits contained within the defined range and the length of 
 - **0**  
   Timeout
 
-- **< 0**  
-  Error occurred. See **EScopeCAPLFitDataReturnCode** in `<application>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('&quot;Reusable\\CAPL_Includes\\Scope&quot;'))
+- **\< 0**  
+  Error occurred. See **EScopeCAPLFitDataReturnCode** in `<application\>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('&quot;Reusable\\CAPL_Includes\\Scope&quot;'))
 
 ## Example
 

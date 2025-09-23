@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateMsgAbsCycleTimeViolation.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkCreate_MsgAbsCycleTimeViolation, ChkStart_MsgAbsCycleTimeViolation
-
 # ChkCreate_MsgAbsCycleTimeViolation, ChkStart_MsgAbsCycleTimeViolation
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -76,11 +72,11 @@ Checks the occurrences of cyclic messages. Event is generated if the time betwee
 - **aObservedMessage**: The observed message in symbolic form, e.g.: "MotorData", whose occurrence is to be monitored. Message must exist in database.
 - **aMinCycleTime**:
   - 0: Limit is not checked
-  - 0 < x < aMaxCycleTime: Limit is checked
+  - 0 \< x \< aMaxCycleTime: Limit is checked
   - Default unit [ms], if not changed with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md).
 - **aMaxCycleTime**:
   - 0: Limit is not checked
-  - aMinCycleTime < x < ∞: Limit is checked
+  - aMinCycleTime \< x \< ∞: Limit is checked
   - Default unit [ms], if not changed with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md).
 - **aCallback**:
   - In simulation nodes this parameter has to be set.
@@ -122,7 +118,7 @@ Checks the occurrences of cyclic messages. Event is generated if the time betwee
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value
 
 ## Possible Errors
 

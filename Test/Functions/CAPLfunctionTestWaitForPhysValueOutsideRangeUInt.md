@@ -14,7 +14,7 @@ long TestWaitForPhysValueOutsideRangeUInt(valueHandle * value, qword aLowLimit, 
 
 Checks the phys encoding of a **valueHandle** value against the condition:
 
-`aLowLimit > value or aHighLimit < value`
+`aLowLimit \> value or aHighLimit \< value`
 
 If this condition is already met when this function is called, it returns immediately without waiting.
 

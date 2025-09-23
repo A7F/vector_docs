@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionStmCreateToggleDatabase.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Stimulus Functions](../CAPLfunctionsTSLStimulusOverview.md) » StmCreate_Toggle (limits taken from database)
-
 # StmCreate_Toggle (limits taken from database)
 
 **Valid for**: CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -53,14 +49,14 @@ Creates a stimulus generator that toggles between two values.
 - **aDBSignal**: Must exist in DB
 - **EnvVarHandle**: Must exist in DB
 - **SystemVariable**: Must be available in the configuration.
-- **CycleTime**: ms; 1 < x < ∞
+- **CycleTime**: ms; 1 \< x \< ∞
   - Defines the cycle in which the signal value in the message buffer is being updated. There is no affect to the bus.
   - Defines the cycle in which the value of the environment or system variable is being updated.
 
 ## Return Values
 
 - **0**: Stimulus could not be created and must not be referenced
-- **> 0**: Stimulus was created successfully and may be referenced using the handle
+- **\> 0**: Stimulus was created successfully and may be referenced using the handle
 
 Later this ID can be used to control the stimuli.
 

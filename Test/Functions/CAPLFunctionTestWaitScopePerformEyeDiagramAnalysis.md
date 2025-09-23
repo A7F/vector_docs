@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLFunctionTestWaitScopePerformEyeDiagramAnalysis.md)
-
-## CAPL Functions » Scope » testWaitScopePerformEyeDiagramAnalysis
-
 # testWaitScopePerformEyeDiagramAnalysis
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -65,7 +61,7 @@ Perform a bit analysis for the eye diagram.
 ### Return Values
 
 - **1**: Successful
-- **< 0**: Error occurred. See `EScopeCAPLFitDataReturnCode` in `<application>\Reusable\CAPL_Includes\Scope\ScopeBitAnalyse.cin`
+- **\< 0**: Error occurred. See `EScopeCAPLFitDataReturnCode` in `<application\>\Reusable\CAPL_Includes\Scope\ScopeBitAnalyse.cin`
 
 ### Example
 

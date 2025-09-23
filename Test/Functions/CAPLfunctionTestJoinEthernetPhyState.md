@@ -30,7 +30,7 @@ Consider to set always the appropriate bus context in a multibus environment bef
 
 - **-2**: Resume due to constraint violation
 - **-1**: General error, for example, functionality is not available
-- **>0**: Number of the joined event
+- **\>0**: Number of the joined event
 
 ## Example
 

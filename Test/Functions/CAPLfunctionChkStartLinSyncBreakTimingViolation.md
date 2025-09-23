@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkStartLinSyncBreakTimingViolation.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkStart_LINSyncBreakTimingViolation
-
 # ChkStart_LINSyncBreakTimingViolation
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -32,12 +28,12 @@ Checks the timing of the synchronization break field in LIN headers. An event wi
 
 - **MinBreakLen**
   - `0`: Minimum length of break low phase shall not be checked
-  - `>0`: Minimum allowed length of break low phase
+  - `\>0`: Minimum allowed length of break low phase
   - Unit: bit time
 
 - **MaxBreakLen**
   - `0`: Maximum length of break low phase shall not be checked
-  - `>0`: Maximum allowed length of break low phase
+  - `\>0`: Maximum allowed length of break low phase
   - Unit: bit time
 
 - **CaplCallback**
@@ -46,7 +42,7 @@ Checks the timing of the synchronization break field in LIN headers. An event wi
 ## Return Values
 
 - `0`: Check could not be created and must not be referenced
-- `> 0`: Check was created successfully and may be referenced using the returned (handle-) value.
+- `\> 0`: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Possible Errors
 

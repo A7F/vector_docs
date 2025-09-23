@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitScopePerformSerialBitAnalysis.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Scope](../../Scope/CAPLfunctionsScopeOverview.md) » testWaitScopePerformSerialBitAnalysis
-
 # testWaitScopePerformSerialBitAnalysis
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -40,7 +36,7 @@ Checks the bits of a LIN message against the defined bitmask.
 ## Return Values
 
 - **0**: No errors found
-- **< 0**: Error occurred.
+- **\< 0**: Error occurred.
 
 ## Example
 

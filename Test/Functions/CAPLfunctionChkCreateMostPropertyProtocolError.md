@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateMostPropertyProtocolError.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkCreate_MostPropertyProtocolError, ChkStart_MostPropertyProtocolError
-
 # ChkCreate_MostPropertyProtocolError, ChkStart_MostPropertyProtocolError
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -66,7 +62,7 @@ This check monitors MOST protocol compliance for a given property. This includes
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value
 
 ## Possible Errors
 

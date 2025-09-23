@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryEventTimeStamp.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Status Report Functions](../CAPLfunctionsTSLStatusReportFunctions.md) » ChkQuery_EventTimeStamp
-
 # ChkQuery_EventTimeStamp
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -30,8 +26,8 @@ Retrieves time stamp of last fired event.
 
 ## Return Values
 
-- **< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
-- **> 0**: Event time stamp in units set for the queried Check with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md)
+- **\< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\> 0**: Event time stamp in units set for the queried Check with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md)
 
 ## Example
 

@@ -32,7 +32,7 @@ You can optionally define some default input for the dialog.
 
 ## Return Values
 
-- **< 0**: General error, e.g. by calling outside of a test sequence
+- **\< 0**: General error, e.g. by calling outside of a test sequence
 - **0**: Timeout occurred
 - **1**: Dialog was closed by clicking the button **[Ok]** (successful call)
 - **2**: Dialog was closed by clicking the button **[Cancel]** (form 3-4)

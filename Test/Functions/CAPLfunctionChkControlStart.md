@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkControlStart.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Commands to Control Checks](../CAPLfunctionsTSLCheckControlCommands.md) » ChkControl_Start
-
 # ChkControl_Start
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -31,7 +27,7 @@ Begin or continue checking the event condition. May work on a check stopped earl
 ## Return Values
 
 - **0**: successful
-- **< 0**: error
+- **\< 0**: error
 
 ## Possible Errors
 

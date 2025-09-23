@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateMostShortUnlock.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkCreate_MostShortUnlock, ChkStart_MostShortUnlock
-
 # ChkCreate_MostShortUnlock, ChkStart_MostShortUnlock
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -28,7 +24,7 @@
 
 The check function monitors the occurrence of "ShortUnlock" events.
 
-A "ShortUnlock" event occurs if there is no interpretable signal for a brief moment on the input of the connected MOST hardware (< tUnlock, see also MOST specification) and the ring has been in a Light&Lock state before.
+A "ShortUnlock" event occurs if there is no interpretable signal for a brief moment on the input of the connected MOST hardware (\< tUnlock, see also MOST specification) and the ring has been in a Light&Lock state before.
 
 This check always works on events. Therefore, it will not detect a current "ShortUnlock" state, if this state has been entered before the check’s activation.
 
@@ -41,7 +37,7 @@ This check always works on events. Therefore, it will not detect a current "Shor
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value
 
 ## Possible Errors
 

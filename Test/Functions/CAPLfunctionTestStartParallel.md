@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestStartParallel.md)
-
-**CAPL Functions** » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » **testStartParallel**
-
 # testStartParallel
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -27,7 +23,7 @@ Since neither the state nor the resources used by a parallel test thread are kno
 ## Return Values
 
 - **0**: General error, e.g.: Functionality not available.
-- **> 0**: Handle of the new thread.
+- **\> 0**: Handle of the new thread.
 
 ## Example
 

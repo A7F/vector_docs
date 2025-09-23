@@ -26,7 +26,7 @@ Initiates the diagnostics generic security task and waits until this task has co
 
 ## Return Values
 
-- **< 0**: An internal error occurred, e.g. a protocol error or a faulty configuration of security access or diagnostic layer.
+- **\< 0**: An internal error occurred, e.g. a protocol error or a faulty configuration of security access or diagnostic layer.
 - **0**: The timeout was reached, i.e. the security task did not finish within the specified time.
 - **1**: The security task finished successfully.
 

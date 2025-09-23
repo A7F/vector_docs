@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryRequestSrcAdr.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Status Report Functions](../CAPLfunctionsTSLStatusReportFunctions.md) » ChkQuery_RequestSrcAdr
-
 # ChkQuery_RequestSrcAdr
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -34,7 +30,7 @@ Returns the source address of the request message, which last led to a protocol 
 
 ## Return Values
 
-- **< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
 - **≥ 0**: source address
 
 ## Example

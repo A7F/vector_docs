@@ -23,7 +23,7 @@ Waits for the arrival of the response to a sent request, e.g. the so-called "Fir
 
 ## Return Values
 
-- **< 0**: An internal error occurred, e.g. a faulty configuration of the Diagnostic Layer.
+- **\< 0**: An internal error occurred, e.g. a faulty configuration of the Diagnostic Layer.
 - **0**: The timeout was reached, i.e. the event of interest did not occur within the specified time.
 - **1**: The event occurred.
 

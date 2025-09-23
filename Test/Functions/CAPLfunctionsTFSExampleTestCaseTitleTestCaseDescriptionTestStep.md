@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionsTFSExampleTestCaseTitleTestCaseDescriptionTestStep.md)
-
-**CAPL Functions** » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » Example: TestCaseTitle, TestCaseDescription, TestStep
-
 # Example: TestCaseTitle, TestCaseDescription, TestStep
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkStartLinSyncDelTimingViolation.md)
-
-**CAPL Functions** » **Test Service Library** » **Checks** » ChkStart_LINSyncDelTimingViolation
-
 # ChkStart_LINSyncDelTimingViolation
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -28,12 +24,12 @@ Checks the timing of the synchronization break field in LIN headers. An event wi
 
 - **MinDelLen**
   - `0`: Minimum length of break delimiter shall not be checked
-  - `>0`: Minimum allowed length of break delimiter
+  - `\>0`: Minimum allowed length of break delimiter
   - Unit: bit time
 
 - **MaxDelLen**
   - `0`: Maximum length of break delimiter shall not be checked
-  - `>0`: Maximum allowed length of break delimiter
+  - `\>0`: Maximum allowed length of break delimiter
   - Unit: bit time
 
 - **CaplCallback**
@@ -42,7 +38,7 @@ Checks the timing of the synchronization break field in LIN headers. An event wi
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Possible Errors
 

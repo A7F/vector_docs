@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestCasePrecondition.md)
-
-**CAPL Functions** » **Test Feature Set** » **testCasePrecondition**
-
 # testCasePrecondition
 
 **Valid for**: CANoe DE • CANoe4SW DE • CANoe:lite DE • CANoe4SW:lite DE

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryRequestOpType.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Status Report Functions](../CAPLfunctionsTSLStatusReportFunctions.md) » ChkQuery_RequestOpType
-
 # ChkQuery_RequestOpType
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -34,7 +30,7 @@ Returns the OpType of the request message, which last led to a protocol violatio
 
 ## Return Values
 
-- **< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
 - **≥ 0**: Id of the OpType.
 
 ## Example

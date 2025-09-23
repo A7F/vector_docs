@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkStartLinRespToleranceViolation.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkStart_LINRespToleranceViolation
-
 # ChkStart_LINRespToleranceViolation
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -38,7 +34,7 @@ Checks the LIN response transmission time. An event will be generated if the mea
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced.
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Check-specific Queries
 

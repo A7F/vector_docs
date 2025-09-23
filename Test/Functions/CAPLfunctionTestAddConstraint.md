@@ -25,7 +25,7 @@ Adds an event object or an event text as a constraint. Checks from the Test Serv
 ## Return Values
 
 - **0**: Constraint was added successfully
-- **< 0**: Constraint could not be added
+- **\< 0**: Constraint could not be added
 
 ## Example
 

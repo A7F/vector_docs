@@ -12,9 +12,9 @@ long TestValidatePhysValueOutsideRangeUInt(char aTestStep[], valueHandle * value
 
 Checks the phys encoding of a **valueHandle** value against the condition. This function can only be used for **valueHandles** with an unsigned integer data type. It cannot be used for system variables or bus system signals.
 
-Value < aLowLimit or
+Value \< aLowLimit or
 
-Value > aHighLimit
+Value \> aHighLimit
 
 The test step is evaluated as either passed or failed depending on the results.
 

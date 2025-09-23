@@ -20,7 +20,7 @@ Completes the current set of **joined events** with the transmitted event. This 
 ## Parameters
 
 - **aPDU**: PDU to be awaited as it is defined in the database. Default value: wait for any PDU.
-- **aPDUName**: Name of a PDU to be awaited as it is defined in the database. Possibly the TX node’s name can be given as a prefix, e.g. `<TXNodeName>::<PDUName>`.
+- **aPDUName**: Name of a PDU to be awaited as it is defined in the database. Possibly the TX node’s name can be given as a prefix, e.g. `<TXNodeName\>::<PDUName\>`.
 - **aHeaderID**: The appropriate header ID of the PDU in the database. Whether this denotes the long or short header ID is determined by the flags parameter.
 
   **Note:** If the header ID is not unique, the function will return on the PDU that is first found in the database. In those cases it is better to use the PDU name.
@@ -44,7 +44,7 @@ Completes the current set of **joined events** with the transmitted event. This 
 - **-3**: Join error
 - **-2**: Resume due to constraint violation.
 - **-1**: General error, for example, functionality is not available.
-- **>0**: Number of the joined event.
+- **\>0**: Number of the joined event.
 
 ## Example
 

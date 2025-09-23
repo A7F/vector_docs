@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryStatProbeIntervalAvgAsyncResult.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Status Report Functions](../CAPLfunctionsTSLStatusReportFunctions.md) » ChkQuery_StatProbeIntervalAvg_AsyncResult
-
 # ChkQuery_StatProbeIntervalAvg_AsyncResult
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -30,9 +26,9 @@ Returns the average timely distance between 2 consumed message events. The data 
 
 ## Return Values
 
-- **< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
   - **Note**: There is a meaningful value available and a positive return value is supplied even if the check has not generated any event.
-- **> 0**: Average timely distance
+- **\> 0**: Average timely distance
 
 ## Example
 

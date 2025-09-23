@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionStmCreateRampUserDefined.md)
-
 # StmCreate_Ramp (limits user-defined)
 
 [CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Stimulus Functions](../CAPLfunctionsTSLStimulusOverview.md) » StmCreate_Ramp (limits user-defined)
@@ -75,23 +73,23 @@ Creates a stimulus generator that creates a ramp.
 - **ValueA and ValueB**:
   - Value A = Value B: ESE Invalid stimuli effect (measurement stops)
   - Value A and Value B are physical values, not raw values. They can be user-defined or will be taken from the CANdb++ database (dbc-file) that is assigned to the CANoe configuration and are called Minimum and Maximum of the signal.
-- **CycleTime**: ms; 1 < x < ∞
+- **CycleTime**: ms; 1 \< x \< ∞
   - Defines the cycle in which the signal value in the message buffer is being updated. There is no affect to the bus.
   - Defines the cycle in which the value of the environment or system variable is being updated.
-- **TimeUp**: ms; 0 < x < ∞
+- **TimeUp**: ms; 0 \< x \< ∞
   - For more information please see [Stimulus Generator: Creating a Ramp](../CAPLfunctionsTSLRampStimulus.md).
-- **TimeHigh**: ms; 0 < x < ∞
+- **TimeHigh**: ms; 0 \< x \< ∞
   - For more information please see [Stimulus Generator: Creating a Ramp](../CAPLfunctionsTSLRampStimulus.md).
-- **TimeDown**: ms; 0 < x < ∞
+- **TimeDown**: ms; 0 \< x \< ∞
   - Time Up = Time High = Time Down = 0: ESE Invalid stimuli effect (measurement stops)
   - For more information please see [Stimulus Generator: Creating a Ramp](../CAPLfunctionsTSLRampStimulus.md).
-- **TimeLow**: ms; 0 < x < ∞
+- **TimeLow**: ms; 0 \< x \< ∞
   - For more information please see [Stimulus Generator: Creating a Ramp](../CAPLfunctionsTSLRampStimulus.md).
 
 ## Return Values
 
 - **0**: Stimulus could not be created and must not be referenced
-- **> 0**: Stimulus was created successfully and may be referenced using the handle
+- **\> 0**: Stimulus was created successfully and may be referenced using the handle
 
 Later this ID can be used to control the stimuli.
 

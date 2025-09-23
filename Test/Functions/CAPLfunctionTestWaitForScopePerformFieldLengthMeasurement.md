@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForScopePerformFieldLengthMeasurement.md)
-
-**CAPL Functions** » **Scope** » **testWaitForScopePerformFieldLengthMeasurement**
-
 # testWaitForScopePerformFieldLengthMeasurement
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -34,9 +30,9 @@ Returns the number of bits contained within the defined range and the length of 
 
 ## Return Values
 
-- **> 0**: Number of bits
+- **\> 0**: Number of bits
 - **0**: Timeout
-- **< 0**: Error occurred. See `EScopeCAPLFitDataReturnCode` in `<application>\Reusable\CAPL_Includes\Scope\ScopeBitAnalyse.cin`
+- **\< 0**: Error occurred. See `EScopeCAPLFitDataReturnCode` in `<application\>\Reusable\CAPL_Includes\Scope\ScopeBitAnalyse.cin`
 
 ## Example
 

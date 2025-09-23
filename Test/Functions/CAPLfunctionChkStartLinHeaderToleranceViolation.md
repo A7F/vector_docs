@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkStartLinHeaderToleranceViolation.md)
-
-**CAPL Functions** » **Test Service Library** » **Checks** » **ChkStart_LINHeaderToleranceViolation**
-
 # ChkStart_LINHeaderToleranceViolation
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -35,7 +31,7 @@ Checks the LIN header transmission time. An event will be generated if the measu
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Check-specific Queries
 

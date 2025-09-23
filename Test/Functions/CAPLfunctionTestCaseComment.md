@@ -21,7 +21,7 @@ With this function within a test case a commentary can be taken over into the re
 
 - **aComment**: Commentary to be taken over into the report.
 - **aMsg**: CAN-, GMLAN-, LIN-, MOST-, MOST-AMS- or MOST system message to be taken over into the report.
-- **aRawString**: Here you may enter any ASCII characters. They will be added to the comment in the following way: `<Hex value of the given character>(<ASCII display of the given character>)`. In ASCII display special characters will be replaced by `.`.
+- **aRawString**: Here you may enter any ASCII characters. They will be added to the comment in the following way: `<Hex value of the given character\>(<ASCII display of the given character\>)`. In ASCII display special characters will be replaced by `.`.
 
 ## Return Values
 

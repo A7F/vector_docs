@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkStartLinRespErrorSignal.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkStart_LINRespErrorSignal
-
 # ChkStart_LINRespErrorSignal
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -34,7 +30,7 @@ Checks the LIN Response_Error signal for a specified LIN Slave node or for all L
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Possible Errors
 

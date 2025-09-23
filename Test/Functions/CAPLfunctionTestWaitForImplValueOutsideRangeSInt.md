@@ -12,7 +12,7 @@ long TestWaitForPhysValueOutsideRangeSInt(valueHandle * value, int64 aLowLimit, 
 
 Checks the impl encoding of a **valueHandle** value against the condition:
 
-aLowLimit > value or aHighLimit < value
+aLowLimit \> value or aHighLimit \< value
 
 If this condition is already met when this function is called, it returns immediately without waiting.
 

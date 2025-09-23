@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitScopeGetAnalysedBitSegments.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Scope](../../Scope/CAPLfunctionsScopeOverview.md) » testWaitScopeGetAnalysedBitSegments
-
 # testWaitScopeGetAnalysedBitSegments
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -37,8 +33,8 @@ Request the analysis data for a single bit. The analysis data are calculated by 
 ## Return Values
 
 - **0**: Timeout
-- **< 0**: Error occurred. See EScopeCAPLFitDataReturnCode in [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"'))
-- **> 0**: Number of written segments.
+- **\< 0**: Error occurred. See EScopeCAPLFitDataReturnCode in [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"'))
+- **\> 0**: Number of written segments.
 
 ## Example
 

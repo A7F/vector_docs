@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitScopeGetConfigurationInformation.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Scope](../../Scope/CAPLfunctionsScopeOverview.md) » testWaitScopeGetConfigurationInformation
-
 # testWaitScopeGetConfigurationInformation
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -34,7 +30,7 @@ Returns the available oscilloscopes and possible configurations. The returned de
 - **-24**: If the array for the string is too small.
 - **-25**: If the number of devices is not equals to the requested devices.
 - **-26**: If the number of configurations is not equals to the requested configurations.
-- **-27**: If the array for the strings is > 260.
+- **-27**: If the array for the strings is \> 260.
 
 ## Example
 

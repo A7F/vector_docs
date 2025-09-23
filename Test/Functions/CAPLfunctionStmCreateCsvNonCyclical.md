@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionStmCreateCsvNonCyclical.md)
-
-**CAPL Functions** » **Test Service Library** » **Stimulus Functions** » **StmCreate_CSV (non-cyclical)**
-
 # StmCreate_CSV (non-cyclical)
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -58,7 +54,7 @@ Creates stimulus generator with csv file as data source.
 ## Return Values
 
 - **0**: Stimulus could not be created and must not be referenced
-- **> 0**: Stimulus was created successfully and may be referenced using the handle
+- **\> 0**: Stimulus was created successfully and may be referenced using the handle
 
 Later this ID can be used to control the stimuli.
 

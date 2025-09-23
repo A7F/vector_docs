@@ -45,7 +45,7 @@ Monitors the bus and reports if at least **aMinCount** and at most **aMaxCount**
 ### Return Values
 
 - **0**: Check could not be created and may not be referenced.
-- **> 0**: Check was created successfully and can be referenced with the help of the returned (Handle) value.
+- **\> 0**: Check was created successfully and can be referenced with the help of the returned (Handle) value.
 
 ### Example
 

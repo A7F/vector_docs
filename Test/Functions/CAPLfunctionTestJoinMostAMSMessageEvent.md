@@ -45,7 +45,7 @@ Completes the current set of "joined events" with the transmitted event, a MOST 
 - **-6**: Parse Error; on specification of a symbolic message definition that cannot be resolved with the available XML function catalog or that is flawed
 - **-3**: Join error
 - **-1**: General error e.g. the functionality is not available
-- **> 0**: Number of joined events
+- **\> 0**: Number of joined events
 
 ## Example
 

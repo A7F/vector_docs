@@ -1,4 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkControlDestroy.md)
 
 ## ChkControl_Destroy
 
@@ -31,7 +30,7 @@ The check is destroyed and cannot be accessed anymore. Its resources are freed.
 ### Return Values
 
 - **0**: successful
-- **< 0**: error
+- **\< 0**: error
 
 ### Possible Errors
 

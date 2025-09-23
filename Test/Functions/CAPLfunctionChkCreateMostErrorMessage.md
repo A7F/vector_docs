@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateMostErrorMessage.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkCreate_MostErrorMessage, ChkStart_MostErrorMessage
-
 # ChkCreate_MostErrorMessage, ChkStart_MostErrorMessage
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -62,7 +58,7 @@ This check can be used to monitor the occurrence of MOST error messages (OpType 
 ## Return Values
 
 - **0**: Check was not created and may not be referenced.
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Possible Errors
 

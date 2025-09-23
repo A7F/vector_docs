@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateADASGroundTruthObjectsSpeedViolation.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkCreate_ADASGroundTruthObjectsSpeedViolation, chkStart_ADASGroundTruthObjectsSpeedViolation
-
 # ChkCreate_ADASGroundTruthObjectsSpeedViolation, chkStart_ADASGroundTruthObjectsSpeedViolation
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -51,7 +47,7 @@ Observes the relative speed of the Moving Objects to the EgoVehicle. The check f
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Possible Errors
 

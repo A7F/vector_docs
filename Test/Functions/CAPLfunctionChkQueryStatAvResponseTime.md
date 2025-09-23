@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryStatAvResponseTime.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Status Report Functions](../CAPLfunctionsTSLStatusReportFunctions.md) » ChkQuery_StatAvResponseTime
-
 # ChkQuery_StatAvResponseTime
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -34,7 +30,7 @@ Returns the average time lag between the request and corresponding response mess
 
 ## Return Values
 
-- **< 0**: Refer the query [error codes](../CAPLfunctionsTSLErrorCodes.md).
+- **\< 0**: Refer the query [error codes](../CAPLfunctionsTSLErrorCodes.md).
 - **≥ 0**: Average response time during the current time period.
 
 ## Example

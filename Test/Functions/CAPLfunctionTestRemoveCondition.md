@@ -24,7 +24,7 @@ Removes an event object or an event text that was added as a condition. This fun
 ## Return Values
 
 - **0**: Constraint was removed successfully
-- **< 0**: Constraint could not be removed
+- **\< 0**: Constraint could not be removed
 
 ## Example
 

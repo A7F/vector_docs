@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateMostMethodProtocolError.md)
-
-**CAPL Functions** » **Test Service Library** » **Checks** » ChkCreate_MostMethodProtocolError, ChkStart_MostMethodProtocolError
-
 # ChkCreate_MostMethodProtocolError, ChkStart_MostMethodProtocolError
 
 [Valid for CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -73,7 +69,7 @@ This check monitors MOST protocol compliance for a given method supporting the o
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value
 
 ## Possible Errors
 

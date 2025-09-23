@@ -23,7 +23,7 @@ Number of conditions in stock:
 
 - **-3**: Error while adding the specified event to the set of joined events.
 - **-1**: General error, for example, functionality is not available.
-- **> 0**: Number of the newly joined event.
+- **\> 0**: Number of the newly joined event.
 
 [Error code](../../Diagnostics/CAPLfunctionsDiagnosticsErrorCode.md)
 

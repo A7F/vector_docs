@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryEventNodeName.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Status Report Functions](../CAPLfunctionsTSLStatusReportFunctions.md) » ChkQuery_EventNodeName
-
 # ChkQuery_EventNodeName
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -32,8 +28,8 @@ Stores the name of the node, for which the event has been sent, in the buffer an
 
 ## Return Values
 
-- **< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
-- **> 0**: Length of the node name
+- **\< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\> 0**: Length of the node name
 
 ## Available For
 

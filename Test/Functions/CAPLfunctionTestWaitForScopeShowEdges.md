@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForScopeShowEdges.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Scope](../../Scope/CAPLfunctionsScopeOverview.md) » testWaitForScopeShowEdges
-
 # testWaitForScopeShowEdges
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -17,7 +13,7 @@ The defined frame cutout of the previously transition time measurement frame tog
 ## Parameters
 
 - **aMessage**: The message to be fitted.
-- **msgFieldStart**: The start of the cutout to be displayed. See `<application>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"')).
+- **msgFieldStart**: The start of the cutout to be displayed. See `<application\>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"')).
 - **startBitNo**: A bit index in the message field.
 - **noOfBits**: Count of bits to be displayed.
 - **flags**:
@@ -32,7 +28,7 @@ The defined frame cutout of the previously transition time measurement frame tog
 
 - **1**: Success
 - **0**: Timeout
-- **< 0**: Error occurred. See **EScopeCAPLFitDataReturnCode** in `<application>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"')).
+- **\< 0**: Error occurred. See **EScopeCAPLFitDataReturnCode** in `<application\>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"')).
 
 ## Example
 

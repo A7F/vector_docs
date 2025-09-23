@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestCheckCreateFlexRayFrameErrorOccurrenceCount.md)
-
-**CAPL Functions** » **Test Service Library** » **Checks** » TestCheck::CreateFlexRayFrameErrorOccurrenceCount, TestCheck::StartFlexRayFrameErrorOccurrenceCount, TestCheck::CreateNodeFlexRayFrameErrorsOccurrenceCount, TestCheck::StartNodeFlexRayFrameErrorsOccurrenceCount
-
 # TestCheck::CreateFlexRayFrameErrorOccurrenceCount, TestCheck::StartFlexRayFrameErrorOccurrenceCount, TestCheck::CreateNodeFlexRayFrameErrorsOccurrenceCount, TestCheck::StartNodeFlexRayFrameErrorsOccurrenceCount
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md) • CANoe4SW DE

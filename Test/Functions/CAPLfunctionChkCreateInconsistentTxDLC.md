@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateInconsistentTxDLC.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkCreate_InconsistentTxDLC, ChkStart_InconsistentTxDLC
-
 # ChkCreate_InconsistentTxDLC, ChkStart_InconsistentTxDLC
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -36,7 +32,7 @@ Checks the DLC of all Tx messages of a node. The check condition is violated if 
 ## Return Values
 
 - **0**: Check could not be created and may not be referenced.
-- **> 0**: Check was created successfully and can be referenced with the help of the returned (Handle) value.
+- **\> 0**: Check was created successfully and can be referenced with the help of the returned (Handle) value.
 
 ## Possible Errors
 

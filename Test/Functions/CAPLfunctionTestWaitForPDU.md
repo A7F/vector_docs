@@ -25,7 +25,7 @@ When no PDU is specified the wait condition is resolved on any PDU.
 ## Parameters
 
 - **aPDU**: PDU to be awaited as it is defined in the database.
-- **aPDUName**: Name of a PDU to be awaited as it is defined in the database. Possibly the TX node’s name can be given as a prefix, e.g. `<TXNodeName>::<PDUName>`.
+- **aPDUName**: Name of a PDU to be awaited as it is defined in the database. Possibly the TX node’s name can be given as a prefix, e.g. `<TXNodeName\>::<PDUName\>`.
 - **aHeaderID**: The appropriate header ID of the PDU in the database. Whether this denotes the long or short header ID is determined by the flags parameter.
 
   **Note:** If the header ID is not unique, the function will return on the PDU that is first found in the database. In those cases it is better to use the PDU name.

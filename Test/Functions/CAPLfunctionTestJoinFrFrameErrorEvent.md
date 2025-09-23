@@ -30,7 +30,7 @@ Dependent on the used parameter type the appropriate bus context in a multibus e
 
 - **-3**: Join error
 - **-1**: General error, for example, functionality is not available
-- **> 0**: Number of the joined event
+- **\> 0**: Number of the joined event
 
 ## Example
 

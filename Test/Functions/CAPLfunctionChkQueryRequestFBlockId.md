@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryRequestFBlockId.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Status Report Functions](../CAPLfunctionsTSLStatusReportFunctions.md) » ChkQuery_RequestFBlockId
-
 # ChkQuery_RequestFBlockId
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -34,8 +30,8 @@ Returns the FBlock of the request message, which last led to a protocol violatio
 
 ## Return Values
 
-- **< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
-- **>= 0**: Id of the FBlock.
+- **\< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\>= 0**: Id of the FBlock.
 
 ## Example
 

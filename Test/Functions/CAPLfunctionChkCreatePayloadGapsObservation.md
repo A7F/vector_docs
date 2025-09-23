@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreatePayloadGapsObservation.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkCreate_PayloadGapsObservation, ChkStart_PayloadGapsObservation
-
 # ChkCreate_PayloadGapsObservation, ChkStart_PayloadGapsObservation
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -56,7 +52,7 @@ Further information on site [MultiBus Environment](../../../Shared/CAPL/General/
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced.
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Possible Errors
 

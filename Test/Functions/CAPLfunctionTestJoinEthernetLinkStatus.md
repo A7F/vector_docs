@@ -34,7 +34,7 @@ Completes the current set of **joined events** with the transmitted event. This 
 
 - **-2**: Resume due to constraint violation
 - **-1**: General error, for example, functionality is not available
-- **> 0**: Resume due to timeout
+- **\> 0**: Resume due to timeout
 
 ## Example
 

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForDiagChangedActiveVariant.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » testWaitForDiagChangedActiveVariant
-
 # testWaitForDiagChangedActiveVariant
 
 **Valid for**: CANoe DE • CANoe4SW DE

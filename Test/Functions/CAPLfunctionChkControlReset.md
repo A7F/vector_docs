@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkControlReset.md)
-
 # ChkControl_Reset
 
 [CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Commands to Control Checks](../CAPLfunctionsTSLCheckControlCommands.md) » ChkControl_Reset
@@ -31,7 +29,7 @@ The status (stored values) of the check is initialized. The check does not have 
 ## Return Values
 
 - **0**: successful
-- **< 0**: error
+- **\< 0**: error
 
 ## Possible Errors
 

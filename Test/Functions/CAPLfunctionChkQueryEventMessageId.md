@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryEventMessageId.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Status Report Functions](../CAPLfunctionsTSLStatusReportFunctions.md) » ChkQuery_EventMessageId
-
 # ChkQuery_EventMessageId
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -30,8 +26,8 @@ Returns the ID of the message that has forced the event.
 
 ## Return Values
 
-- **< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
-- **> 0**: ID of the name
+- **\< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\> 0**: ID of the name
 
 ## Available For
 

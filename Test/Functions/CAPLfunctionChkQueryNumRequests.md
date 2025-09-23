@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryNumRequests.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Status Report Functions](../CAPLfunctionsTSLStatusReportFunctions.md) » ChkQuery_NumRequests
-
 # ChkQuery_NumRequests
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -34,7 +30,7 @@ Returns the total number of requests that occurred during the current observatio
 
 ## Return Values
 
-- **< 0**: Refer the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\< 0**: Refer the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
 - **≥ 0**: Number of requests that occurred
 
 ## Example

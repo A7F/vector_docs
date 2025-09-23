@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryStatNumProbesAsyncResult.md)
-
-**CAPL Functions** » **Test Service Library** » **Status Report Functions** » **ChkQuery_StatNumProbes_AsyncResult**
-
 # ChkQuery_StatNumProbes_AsyncResult
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -37,9 +33,9 @@ The data has to be queried first using [testWaitForCheckQuery](CAPLfunctionTestW
 
 ## Return Values
 
-- **< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
 - **0**: No event has occurred
-- **> 0**: Number of probes
+- **\> 0**: Number of probes
 
 ## Example
 

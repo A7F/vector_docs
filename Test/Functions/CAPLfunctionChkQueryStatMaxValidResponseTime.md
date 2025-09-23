@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryStatMaxValidResponseTime.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Status Report Functions](../CAPLfunctionsTSLStatusReportFunctions.md) » ChkQuery_StatMaxValidResponseTime
-
 # ChkQuery_StatMaxValidResponseTime
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -34,7 +30,7 @@ Returns the longest time lag between the request and corresponding response mess
 
 ## Return Values
 
-- **< 0**: Refer the query [error codes](../CAPLfunctionsTSLErrorCodes.md).
+- **\< 0**: Refer the query [error codes](../CAPLfunctionsTSLErrorCodes.md).
 - **≥ 0**: Longest response time during the current time period.
 
 ## Example

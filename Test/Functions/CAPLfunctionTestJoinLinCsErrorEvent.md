@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestJoinLinCsErrorEvent.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestJoinLinCSErrorEvent
-
 # TestJoinLinCSErrorEvent
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -27,7 +23,7 @@ Adds an event of type checksum error to the set of joined events. This is a non-
 
 - **-3**: Error while adding the specified event to the set of joined events
 - **-1**: General error, e.g. functionality is not available
-- **> 0**: Number of the newly joined event
+- **\> 0**: Number of the newly joined event
 
 ## Example
 

@@ -28,7 +28,7 @@ Can be used in standalone mode to assign the test module state to an LED.
 
 - **0**: Success
 - **-1**: General error, e.g. not in standalone mode
-- **> 0**: Error, function failed. Check whether your device supports this function and you have an appropriate driver installed on the device.
+- **\> 0**: Error, function failed. Check whether your device supports this function and you have an appropriate driver installed on the device.
 
 ## Example
 

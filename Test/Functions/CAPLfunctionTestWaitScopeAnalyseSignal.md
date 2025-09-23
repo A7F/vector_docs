@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitScopeAnalyseSignal.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Scope](../../Scope/CAPLfunctionsScopeOverview.md) » testWaitScopeAnalyseSignal
-
 # testWaitScopeAnalyseSignal
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -53,12 +49,12 @@
 
 - **Form 1**:
   - **0**: Success
-  - **< 0**: Error occurred. See EScopeCAPLFitDataReturnCode in ScopeBitAnalyse.cin
-  - **> 0**: Number of errors found.
+  - **\< 0**: Error occurred. See EScopeCAPLFitDataReturnCode in ScopeBitAnalyse.cin
+  - **\> 0**: Number of errors found.
 - **Form 2**:
   - **1**: Success
   - **0**: Timeout
-  - **< 0**: Error occurred. See EScopeCAPLFitDataReturnCode in ScopeBitAnalyse.cin
+  - **\< 0**: Error occurred. See EScopeCAPLFitDataReturnCode in ScopeBitAnalyse.cin
 
 ## Example
 

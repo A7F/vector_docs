@@ -25,7 +25,7 @@ Waits until execution of the thread specified via the handle parameter has finis
 
 - **-3**: Resume due to error on handle list.
 - **0**: Resume due to timeout.
-- **>0**: Handle of the last finished parallel thread.
+- **\>0**: Handle of the last finished parallel thread.
 
 ### Example
 

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForDoIPActivationLineStartup .md)
-
-**CAPL Functions** » **Test Feature Set** » **TestWaitForDoIPActivationLineStartup**
-
 # TestWaitForDoIPActivationLineStartup
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE

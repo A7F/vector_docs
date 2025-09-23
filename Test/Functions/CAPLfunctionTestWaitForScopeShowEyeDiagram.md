@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForScopeShowEyeDiagram.md)
-
 # testWaitForScopeShowEyeDiagram
 
 [CAPL Functions](../../CAPLfunctions.md) » [Scope](../../Scope/CAPLfunctionsScopeOverview.md) » testWaitForScopeShowEyeDiagram
@@ -54,7 +52,7 @@ Show the eye diagram for a single frame or a node without analysis.
 ## Return Values
 
 - `1`: Successful
-- `< 0`: Error occurred. See **EScopeCAPLFitDataReturnCode** in `<application>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('Reusable\\CAPL_Includes\\Scope'))
+- `\< 0`: Error occurred. See **EScopeCAPLFitDataReturnCode** in `<application\>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('Reusable\\CAPL_Includes\\Scope'))
 
 ## Example
 

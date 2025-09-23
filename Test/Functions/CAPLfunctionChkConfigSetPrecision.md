@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkConfigSetPrecision.md)
-
-**CAPL Functions** » **Test Service Library** » **Configuration Functions** » **ChkConfig_SetPrecision**
-
 # ChkConfig_SetPrecision
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -21,7 +17,7 @@ This function allows you to configure the time basis for new checks to be create
 ## Parameters
 
 - **aPrecision**: Describes the decimal power of the precision  
-  Value range: 2 < aPrecision < 10
+  Value range: 2 \< aPrecision \< 10
 
   - 3: 10`<sup>`–3`</sup>` seconds = ms (default)
   - 4: 10`<sup>`–4`</sup>` seconds

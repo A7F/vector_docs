@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitScopeGetEyeDiagramAnalysis.md)
-
 # testWaitScopeGetEyeDiagramAnalysis
 
 [CAPL Functions](../../CAPLfunctions.md) » [Scope](../../Scope/CAPLfunctionsScopeOverview.md) » testWaitScopeGetEyeDiagramAnalysis
@@ -34,7 +32,7 @@ Returns the violation data of the eye diagram analysis for the error number.
 ## Return Values
 
 - **1**: Successful
-- **< 0**: Error occurred. See **EScopeCAPLFitDataReturnCode** in `<application>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"'))
+- **\< 0**: Error occurred. See **EScopeCAPLFitDataReturnCode** in `<application\>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"'))
 
 ## Example
 

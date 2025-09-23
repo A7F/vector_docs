@@ -26,10 +26,10 @@ If **-1** is given, the corresponding field can get any value. This is also the 
 - **aSourceAddress**: Source address
 - **aDestinationAddress**: Target address
 - **aPktDataDesc**: String containing a symbolic or numeric description of the packet data. Following formats are allowed:
-  - `<Raw data byte description>`
-  - `<FBlock>.<Instance>.<Function>.<OpType>`
-  - `<FBlock>.<Instance>.<Function>.<OpType>(<Raw data byte description>)`
-  - `<FBlock>.<Instance>.<Function>.<OpType> (<High Protocol frame description>)`
+  - `<Raw data byte description\>`
+  - `<FBlock\>.<Instance\>.<Function\>.<OpType\>`
+  - `<FBlock\>.<Instance\>.<Function\>.<OpType\>(<Raw data byte description\>)`
+  - `<FBlock\>.<Instance\>.<Function\>.<OpType\> (<High Protocol frame description\>)`
 
   For a detailed description of the allowed syntax, see [Definition of MOST packets](../CAPLfunctionsTFSMostPacketDefinition.md).
 

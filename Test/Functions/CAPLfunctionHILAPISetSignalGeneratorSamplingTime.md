@@ -17,7 +17,7 @@ Please note that this function can only be used for signal generators that activ
 ## Parameters
 
 - **handle**: The handle of the Signal Generator.
-- **samplingTimeMs**: The sampling time to set in milliseconds (must be > 0).
+- **samplingTimeMs**: The sampling time to set in milliseconds (must be \> 0).
 
 ## Return Values
 

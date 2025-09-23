@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateMsgRelCycleTimeViolation.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkCreate_MsgRelCycleTimeViolation, ChkStart_MsgRelCycleTimeViolation
-
 # ChkCreate_MsgRelCycleTimeViolation, ChkStart_MsgRelCycleTimeViolation
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -67,10 +63,10 @@ Further information on site [MultiBus Environment](../../../Shared/CAPL/General/
 - **aObservedMessage**: The observed message in symbolic form, e.g.: "MotorData", whose occurrence is to be monitored. Message must exist in database
 - **aMinRelCycleTime**:
   - 0: Limit is not checked
-  - 0 < x < 1: Limit is checked
+  - 0 \< x \< 1: Limit is checked
 - **aMaxRelCycleTime**:
   - 0: Limit is not checked
-  - 1 < x < ∞: Limit is checked
+  - 1 \< x \< ∞: Limit is checked
 - **aCallback**:
   - In simulation nodes this parameter has to be set.
   - In test modules this parameter is optional.
@@ -102,7 +98,7 @@ Further information on site [MultiBus Environment](../../../Shared/CAPL/General/
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value
 
 ## Possible Errors
 

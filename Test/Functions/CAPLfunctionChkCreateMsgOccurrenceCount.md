@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateMsgOccurrenceCount.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkCreate_MsgOccurrenceCount, ChkStart_MsgOccurrenceCount, TestCheck::CreateNodeMsgsOccurrenceCount, TestCheck::StartNodeMsgsOccurrenceCount
-
 # ChkCreate_MsgOccurrenceCount, ChkStart_MsgOccurrenceCount, TestCheck::CreateNodeMsgsOccurrenceCount, TestCheck::StartNodeMsgsOccurrenceCount
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -63,7 +59,7 @@ For FlexRay only valid data frames and PDUs are recognized as communication, Nul
 ## Return Values
 
 - **0**: Check could not be created and may not be referenced.
-- **> 0**: Check was created successfully and can be referenced with the help of the returned (Handle) value.
+- **\> 0**: Check was created successfully and can be referenced with the help of the returned (Handle) value.
 
 ## Check-specific Queries
 

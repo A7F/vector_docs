@@ -9,11 +9,11 @@
 
 ## Description
 
-Waits for the next call of the method at the simulated provider. You may use a specific endpoint combination to wait for the call of a specific consumer or the combination [all,`<provider>`] to wait for a call of any consumer.
+Waits for the next call of the method at the simulated provider. You may use a specific endpoint combination to wait for the call of a specific consumer or the combination [all,`<provider\>`] to wait for a call of any consumer.
 
 You can get information about the call with the **CurrentCCO** property or through the **LatestCall** value (both at the method endpoint).
 
-**Note**: Form 2 requires a method member from a distributed object (`distObjRef <T>`). It is not allowed to pass method members from distributed object references (`distObjReferenceRef <T>`).
+**Note**: Form 2 requires a method member from a distributed object (`distObjRef <T\>`). It is not allowed to pass method members from distributed object references (`distObjReferenceRef <T\>`).
 
 ## Parameters
 

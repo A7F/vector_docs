@@ -12,8 +12,8 @@ long TestValidateImplValueOutsideRangeFloat(char aTestStep[], valueHandle * valu
 
 Checks the impl encoding of a **valueHandle** value against the condition. This function can only be used for **valueHandles** with a floating point data type. It cannot be used for system variables or bus system signals.
 
-- Value < aLowLimit or
-- Value > aHighLimit
+- Value \< aLowLimit or
+- Value \> aHighLimit
 
 The test step is evaluated as either passed or failed depending on the results.
 

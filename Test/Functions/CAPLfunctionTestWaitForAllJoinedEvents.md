@@ -41,7 +41,7 @@ Should not all events occur before the expiration of the time **aTimeout**, the 
 - **0**  
   Resume due to timeout
 
-- **> 0**  
+- **\> 0**  
   All joined events occurred. The index of the final event is returned, indicating what has triggered the resolution.
 
 ## Example

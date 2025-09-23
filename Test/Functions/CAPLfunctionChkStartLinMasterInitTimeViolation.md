@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkStartLinMasterInitTimeViolation.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkStart_LINMasterInitTimeViolation
-
 # ChkStart_LINMasterInitTimeViolation
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -28,12 +24,12 @@ Checks an initialization time of LIN Master. The initialization state is entered
 
 - **MinTime**
   - `0`: Minimum time shall not be checked
-  - `>0`: Minimum allowed initialization time
+  - `\>0`: Minimum allowed initialization time
   - Unit: Can be set with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md).
 
 - **MaxTime**
   - `0`: Maximum time shall not be checked
-  - `>0`: Maximum allowed initialization time
+  - `\>0`: Maximum allowed initialization time
   - Unit: Can be set with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md).
 
 - **CaplCallback**
@@ -42,7 +38,7 @@ Checks an initialization time of LIN Master. The initialization state is entered
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Possible Errors
 

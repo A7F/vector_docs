@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateNodeMsgsAbsDistViolation.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkCreate_NodeMsgsAbsDistViolation, ChkStart_ NodeMsgsAbsDistViolation
-
 # ChkCreate_NodeMsgsAbsDistViolation, ChkStart_ NodeMsgsAbsDistViolation
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -30,21 +26,21 @@ This check allows the supervision of the minimum send distance of all Tx message
 
 If no rating period and maximal number of distance undercuts is specified, the check condition fails if the time interval between two messages of the node undercuts the **MinTime**.
 
-If the rating period and the maximal number of distance undercuts (> 0) are specified, the check observes the number of distance undercuts in a time slot. Exceeds the number of distance undercuts the allowed number in a time slot, the check fails.
+If the rating period and the maximal number of distance undercuts (\> 0) are specified, the check observes the number of distance undercuts in a time slot. Exceeds the number of distance undercuts the allowed number in a time slot, the check fails.
 
 **Note:** Dependent on the used parameter type the appropriate bus context in a multibus environment has only to be set before the function is called if the corresponding database object will be ambiguous. Further information on site [MultiBus Environment](../../../Shared/CAPL/General/TestMultiBusEnvironment.md).
 
 ## Parameters
 
 - **aNode**: Must exist in DB. For Gateways the node name has to be prefixed by the bus name.
-- **aMinTime**: Minimum send distance of all Tx messages of the node. > 0; default unit [ms], if not changed with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md).
+- **aMinTime**: Minimum send distance of all Tx messages of the node. \> 0; default unit [ms], if not changed with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md).
 - **aViolationsMaxCount**: The number of allowed distance undercuts.
-- **aRatingPeriod**: Duration of the time slot, in which the maximal allowed number of distance undercuts is checked. > 0; default unit [ms], if not changed with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md).
+- **aRatingPeriod**: Duration of the time slot, in which the maximal allowed number of distance undercuts is checked. \> 0; default unit [ms], if not changed with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md).
 
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value
 
 ## Example
 

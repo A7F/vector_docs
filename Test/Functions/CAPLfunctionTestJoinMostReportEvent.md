@@ -10,7 +10,7 @@
 
 ## Description
 
-Completes the current set of "joined events" with the transmitted event, a MOST response message (Report, OpType > 8, MOST control message or MOST spy message). This function does not wait.
+Completes the current set of "joined events" with the transmitted event, a MOST response message (Report, OpType \> 8, MOST control message or MOST spy message). This function does not wait.
 
 **Note:** Consider to set always the appropriate bus context in a multibus environment before the function is called. Further information on site [MultiBus Environment](../../../Shared/CAPL/General/TestMultiBusEnvironment.md).
 
@@ -33,7 +33,7 @@ Completes the current set of "joined events" with the transmitted event, a MOST 
 - **-6**: Parse Error; on specification of a symbolic message definition that cannot be resolved with the available XML function catalog or that is flawed
 - **-3**: Join error
 - **-1**: General error e.g. the functionality is not available
-- **> 0**: Number of joined events
+- **\> 0**: Number of joined events
 
 ## Example
 

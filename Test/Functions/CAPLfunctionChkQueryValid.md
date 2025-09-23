@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryValid.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Status Report Functions](../CAPLfunctionsTSLStatusReportFunctions.md) » ChkQuery_Valid
-
 # ChkQuery_Valid
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -31,7 +27,7 @@ Examines whether a check with particular Id is valid.
 ## Return Values
 
 - **= 0**: Refer the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
-- **> 0**: Valid Id
+- **\> 0**: Valid Id
 
 ## Example
 

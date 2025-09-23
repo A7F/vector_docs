@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryStatProbeIntervalMin.md)
-
-**CAPL Functions** » **Test Service Library** » **Status Report Functions** » ChkQuery_StatProbeIntervalMin
-
 # ChkQuery_StatProbeIntervalMin
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -32,11 +28,11 @@ Returns the minimum timely distance between 2 consumed message events.
 
 ## Return Values
 
-- **< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
 
   **Note**: There is a meaningful value available and a positive return value is supplied even if the check has not generated any event.
 
-- **> 0**: Minimum timely distance
+- **\> 0**: Minimum timely distance
 
 ## Example
 

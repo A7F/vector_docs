@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestReportAddEngineerInfo.md)
-
-**CAPL Functions** » **Test Feature Set** » **TestReportAddEngineerInfo, TestReportAddSetupInfo, TestReportAddSUTInfo**
-
 # TestReportAddEngineerInfo, TestReportAddSetupInfo, TestReportAddSUTInfo
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE

@@ -31,7 +31,7 @@ Should none of the events occur before the expiration of the time **aTimeout**, 
   General error, for example, functionality is not available
 - **0**  
   Resume due to timeout
-- **> 0**  
+- **\> 0**  
   Resume due to event occurred The return value returns the number of the joined event that triggered the resolution.
 
 ## Example

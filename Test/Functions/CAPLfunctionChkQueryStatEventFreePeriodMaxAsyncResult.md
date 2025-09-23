@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryStatEventFreePeriodMaxAsyncResult.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Status Report Functions](../CAPLfunctionsTSLStatusReportFunctions.md) » ChkQuery_StatEventFreePeriodMax_AsyncResult
-
 # ChkQuery_StatEventFreePeriodMax_AsyncResult
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -32,7 +28,7 @@ The data has to be queried first using [testWaitForCheckQuery](CAPLfunctionTestW
 
 ## Return Values
 
-- **< 0**: Refers to the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\< 0**: Refers to the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
   - **Note**: There is a meaningful value available and a positive return value is supplied even if the check has not generated any event.
 
 - **≥ 0**: Maximum timely distance in the current precision [ms]

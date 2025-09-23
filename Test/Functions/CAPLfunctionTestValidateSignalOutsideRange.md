@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestValidateSignalOutsideRange.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) / [Signal Access](../../SignalAccess/CAPLfunctionsSignalAccessOverview.md) » testValidateSignalOutsideRange
-
 # testValidateSignalOutsideRange
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE •  CANoe:lite DE •  CANoe4SW DE •  CANoe4SW:lite DE
@@ -21,8 +17,8 @@ This function replaces `testValidateSignalOutsideRangeByTxNode`.
 
 Checks the signal value, the environment variable value or the system variable value against the condition:
 
-- Value < aLowLimit or
-- Value > aHighLimit
+- Value \< aLowLimit or
+- Value \> aHighLimit
 
 The test step is evaluated as passed or failed depending on the results.
 

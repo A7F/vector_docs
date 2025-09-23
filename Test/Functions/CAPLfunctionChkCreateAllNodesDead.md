@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateAllNodesDead.md)
-
-**CAPL Functions** » **Test Service Library** » **Checks** » ChkCreate_AllNodesDead, ChkStart_AllNodesDead
-
 # ChkCreate_AllNodesDead, ChkStart_AllNodesDead
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md) • CANoe4SW DE
@@ -28,13 +24,13 @@ All monitored nodes must send at least one of their Tx messages within a specifi
 
 ## Parameters
 
-- **aMaxQuietTime**: Upper limit of time interval. > 0; default unit [ms], if not changed with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md).
+- **aMaxQuietTime**: Upper limit of time interval. \> 0; default unit [ms], if not changed with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md).
 - **CaplCallback**: In simulation nodes this parameter has to be set. In test modules this parameter is optional.
 
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Check-specific Queries
 

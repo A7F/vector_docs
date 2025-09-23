@@ -23,7 +23,7 @@ Checks whether the specified condition was already injured. This function can be
 
 - **1**: Condition was already injured at least once
 - **0**: Condition was not yet injured
-- **< 0**: The function cannot be executed because, for example, the specified condition does not exist
+- **\< 0**: The function cannot be executed because, for example, the specified condition does not exist
 
 ## Example
 

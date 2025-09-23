@@ -30,7 +30,7 @@ By default, this condition will be checked immediately when the set of joined ev
 - **-3**: Join error
 - **-2**: Signal is not valid
 - **-1**: General error, for example, functionality is not available
-- **> 0**: Number of the joined event
+- **\> 0**: Number of the joined event
 
 ## Example
 

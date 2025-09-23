@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestValidateSignalInRange.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) / [Signal Access](../../SignalAccess/CAPLfunctionsSignalAccessOverview.md) » testValidateSignalInRange
-
 # testValidateSignalInRange
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -21,7 +17,7 @@ This function replaces `testValidateSignalInRangeByTxNode`.
 
 Checks the value of the signal, the environment variable value or the system variable value against the condition:
 
-`aLowLimit <= Value <= aHighLimit`
+`aLowLimit \<= Value \<= aHighLimit`
 
 The test step is evaluated as either passed or failed depending on the results.
 

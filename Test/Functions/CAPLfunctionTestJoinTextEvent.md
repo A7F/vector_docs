@@ -20,7 +20,7 @@ Completes the current set of "joined events" with the transmitted event. This fu
 
 - **-3**: Join error
 - **-1**: General error, for example, functionality is not available
-- **> 0**: Number of the joined event
+- **\> 0**: Number of the joined event
 
 ## Example
 

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForDiagVariantIdentificationCompleted.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestWaitForDiagVariantIdentificationCompleted, TestWaitForDiagEcuVariantIdentificationCompleted
-
 # TestWaitForDiagVariantIdentificationCompleted, TestWaitForDiagEcuVariantIdentificationCompleted
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -26,7 +22,7 @@ Waits for the completion of the automatic variant identification algorithm. If t
 
 - **1**: Identification algorithm finished successfully.
 - **0**: Timeout (10 seconds).
-- **< 0**: [Error code](../../Diagnostics/CAPLfunctionsDiagnosticsErrorCode.md), especially:
+- **\< 0**: [Error code](../../Diagnostics/CAPLfunctionsDiagnosticsErrorCode.md), especially:
   - **-100**: Variant identification not running - DiagStartVariantIdentification must be called!
   - **-98**: No variant was identified, i.e. the algorithm failed
   - **-90**: TestWaitFor... functions are only possible in tester modules

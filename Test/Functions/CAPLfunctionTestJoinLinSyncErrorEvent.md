@@ -24,7 +24,7 @@ Consider to set always the appropriate bus context in a multibus environment bef
 
 - **-3**: error while adding the specified event to the set of joined events
 - **-1**: general error, e.g. functionality is not available
-- **> 0**: number of the newly joined event
+- **\> 0**: number of the newly joined event
 
 ## Example
 

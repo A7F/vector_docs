@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestSetSendTimeOut.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestSetSendTimeout
-
 # TestSetSendTimeout
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE

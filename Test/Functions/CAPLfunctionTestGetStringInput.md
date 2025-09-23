@@ -19,7 +19,7 @@ Returns the result of the last successful call of [TestWaitForStringInput](CAPLf
 
 ## Return Values
 
-- **< 0**: General error, e.g. by calling outside of a test sequence or through no previously performed call of [TestWaitForStringInput](CAPLfunctionTestWaitForStringInput.md).
+- **\< 0**: General error, e.g. by calling outside of a test sequence or through no previously performed call of [TestWaitForStringInput](CAPLfunctionTestWaitForStringInput.md).
 - **1**: Data were successfully queried.
 
 ## Example

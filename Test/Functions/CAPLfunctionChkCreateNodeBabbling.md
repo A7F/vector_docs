@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateNodeBabbling.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkCreate_NodeBabbling, ChkStart_NodeBabbling
-
 # ChkCreate_NodeBabbling, ChkStart_NodeBabbling
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -41,13 +37,13 @@ For FlexRay only valid data frames and PDUs are recognized as communication, Nul
 ## Parameters
 
 - **n/Node**: Defined node in database.
-- **aMinQuietTime**: > 0; default unit [ms], if not changed with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md).
+- **aMinQuietTime**: \> 0; default unit [ms], if not changed with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md).
 - **CaplCallback**: In simulation nodes this parameter has to be set. In test modules this parameter is optional.
 
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value
 
 ## Check-specific Queries
 

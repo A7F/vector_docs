@@ -46,7 +46,7 @@ long TestValidateSystemCall (char workingDir[], char commandLine[], dword timeou
 
 This function can be used to start an external application. With the second function additionally you get the exit code of the external application. Once the application has been started successfully the system waits for it to exit at the end of the specified wait time. Test result of the command is reported.
 
-You should either use the absolute path to the external application or use the call with the declaration of the working directory. To keep the configuration independent of installation paths on a concrete computer you can use `<workingdir>` alternatively to reference an environment variable of the target system, e.g. `%MYAPP_DIR%`.
+You should either use the absolute path to the external application or use the call with the declaration of the working directory. To keep the configuration independent of installation paths on a concrete computer you can use `<workingdir\>` alternatively to reference an environment variable of the target system, e.g. `%MYAPP_DIR%`.
 
 The result of the command is reported.
 

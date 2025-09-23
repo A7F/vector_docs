@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryValidAsyncResult.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Status Report Functions](../CAPLfunctionsTSLStatusReportFunctions.md) » ChkQuery_Valid_AsyncResult
-
 # ChkQuery_Valid_AsyncResult
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -30,9 +26,9 @@ Examines whether a check with particular Id is valid. The data has to be queried
 
 ## Return Values
 
-- **< 0**: Refer the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\< 0**: Refer the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
 - **= 0**: Id is invalid
-- **> 0**: Valid Id
+- **\> 0**: Valid Id
 
 ## Example
 

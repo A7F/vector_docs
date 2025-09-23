@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionStmCreateCsvCyclical.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Configuration Functions](../CAPLfunctionsTSLConfigurationFunctions.md) » StmCreate_CSV (cyclical)
-
 # StmCreate_CSV (cyclical)
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -55,14 +51,14 @@ Creates stimulus generator with csv file as data source.
   If file not exists: EDI Invalid data input (measurement stops)
 - **EnvVarHandle**: Existing environment variable (EnvVar type) in DB.
 - **SystemVariable**: Existing system variable (sysVar type).
-- **CycleTime**: ms; 1 < x < ∞  
+- **CycleTime**: ms; 1 \< x \< ∞  
   Defines the cycle in which the signal value in the message buffer is being updated. There is no effect to the bus.  
   Defines the cycle in which the value of the environment or system variable is being updated.
 
 ## Return Values
 
 - **0**: Stimulus could not be created and must not be referenced
-- **>0**: Stimulus was created successfully and may be referenced using the handle
+- **\>0**: Stimulus was created successfully and may be referenced using the handle
 
 Later this ID can be used to control the stimuli
 

@@ -10,7 +10,7 @@
 
 ## Description
 
-Waits for the occurrence of the spy response message (report, op-type > 8) of the specified MOST AMS message.
+Waits for the occurrence of the spy response message (report, op-type \> 8) of the specified MOST AMS message.
 
 This may deal with transmission of individual frames (TelID=0) or segmented transmissions. In the case of segmented transmission, the last control message of a correct transmission resolves the wait conditions.
 

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkStartLinWakeupRetryViolation.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkStart_LINWakeupRetryViolation
-
 # ChkStart_LINWakeupRetryViolation
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -35,13 +31,13 @@ Checks number of LIN wake-up signals and the time between them. An event will be
 
 - **TimeoutAfterWakeup**
   - `0`: Timeout between two consecutive retransmissions shall not be checked
-  - `> 0`: Timeout between two consecutive retransmissions
+  - `\> 0`: Timeout between two consecutive retransmissions
   - Unit: Can be set with ChkConfig_SetPrecision.
   - Default: 150 ms.
 
 - **TimeoutAfterThreeWakeups**
   - `0`: Timeout after each three retransmissions shall not be checked
-  - `> 0`: Timeout after each three retransmissions
+  - `\> 0`: Timeout after each three retransmissions
   - Unit: Can be set with ChkConfig_SetPrecision.
   - Default: 1.5 seconds
 
@@ -53,7 +49,7 @@ Checks number of LIN wake-up signals and the time between them. An event will be
 
 - **MaxRetryNum**
   - `0`: Maximum number of retransmissions shall not be checked
-  - `> 0`: Maximum allowed number of retransmissions
+  - `\> 0`: Maximum allowed number of retransmissions
 
 - **CaplCallback**
   - Name of CAPL callback function to be called on generated event. In simulation nodes this parameter has to be set. In test modules this parameter is optional.
@@ -61,7 +57,7 @@ Checks number of LIN wake-up signals and the time between them. An event will be
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Possible Errors
 

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryStatEventFreePeriodAvgAsyncResult.md)
-
-**CAPL Functions** » **Test Service Library** » **Status Report Functions** » **ChkQuery_StatEventFreePeriodAvg_AsyncResult**
-
 # ChkQuery_StatEventFreePeriodAvg_AsyncResult
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md) • CANoe4SW DE
@@ -34,7 +30,7 @@ The data has to be queried first using [testWaitForCheckQuery](CAPLfunctionTestW
 
 ## Return Values
 
-- **< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
 
   **Note**: There is a meaningful value available and a positive return value is supplied even if the check has not generated any event.
 

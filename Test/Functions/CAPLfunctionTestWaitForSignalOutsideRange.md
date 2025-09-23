@@ -14,8 +14,8 @@
 
 Checks the signal, the system or the environment variable value against the condition:
 
-- Value < aLowLimit or
-- Value > aHighLimit
+- Value \< aLowLimit or
+- Value \> aHighLimit
 
 If this condition is already met when this function is called, it returns immediately without waiting. The test step is evaluated as passed or failed depending on the results.
 

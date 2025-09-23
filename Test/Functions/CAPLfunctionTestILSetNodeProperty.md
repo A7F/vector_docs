@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestILSetNodeProperty.md)
-
-**CAPL Functions** » **Test Feature Set** » **testILSetNodeProperty**
-
 # testILSetNodeProperty
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -128,7 +124,7 @@ Changes an internal property of the specified node.
 ## Return Values
 
 - **0**: Property has been set successfully
-- **< 0**: An error has occurred, see [error codes](../../CAPLfunctionsISOj1939ErrorCodes.md)
+- **\< 0**: An error has occurred, see [error codes](../../CAPLfunctionsISOj1939ErrorCodes.md)
 
 ## Example
 

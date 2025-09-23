@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestGetTestConfigurationName.md)
-
-**CAPL Functions** » **Test Feature Set** » **testGetTestConfigurationName**
-
 # testGetTestConfigurationName
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryStatMinResponseTime.md)
-
-**CAPL Functions** » **Test Service Library** » **Status Report Functions** » **ChkQuery_StatMinResponseTime**
-
 # ChkQuery_StatMinResponseTime
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -34,7 +30,7 @@ Returns the shortest time lag between the request and corresponding response mes
 
 ## Return Values
 
-- **< 0**: Refer the query [error codes](../CAPLfunctionsTSLErrorCodes.md).
+- **\< 0**: Refer the query [error codes](../CAPLfunctionsTSLErrorCodes.md).
 - **≥ 0**: Shortest response time during the current time period.
 
 ## Example

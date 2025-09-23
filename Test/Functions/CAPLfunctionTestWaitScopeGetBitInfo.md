@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitScopeGetBitInfo.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Scope](../../Scope/CAPLfunctionsScopeOverview.md) » testWaitScopeGetBitInfo
-
 # testWaitScopeGetBitInfo
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -23,13 +19,13 @@ After a signal was analyzed with the function [testWaitScopeAnalyseSignal](CAPLf
     - **Type**: long
 
 - **msgFieldStart, startBitNo, msgFieldEnd, EndBitNo**: The cutout of the frame to be analyzed.
-  - **msgFieldStart, msgFieldEnd**: See `<application>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"'))
+  - **msgFieldStart, msgFieldEnd**: See `<application\>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"'))
   - **startBitNo, endBitNo**: A bit index in the message field
 
 - **maskViolationData**: The error description.
   - **ScopeMaskViolationData Selectors**
     - **Keyword**: bitField
-    - **Description**: field type, see `<application>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"'))
+    - **Description**: field type, see `<application\>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"'))
     - **Type**: long
     - **Keyword**: bitNo
     - **Description**: bit number within bit field
@@ -72,7 +68,7 @@ After a signal was analyzed with the function [testWaitScopeAnalyseSignal](CAPLf
 
 - **1**: Success
 - **0**: Timeout
-- **< 0**: Error occurred. See **EScopeCAPLFitDataReturnCode** in `<application>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"'))
+- **\< 0**: Error occurred. See **EScopeCAPLFitDataReturnCode** in `<application\>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"'))
 
 ## Example
 

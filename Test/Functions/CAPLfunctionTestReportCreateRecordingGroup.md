@@ -21,7 +21,7 @@ Creates a recording group with the given name. Afterwards a desired set of symbo
 
 ## Return Values
 
-- **> 0**: The handle of the created recording group.
+- **\> 0**: The handle of the created recording group.
 
 ## Example
 

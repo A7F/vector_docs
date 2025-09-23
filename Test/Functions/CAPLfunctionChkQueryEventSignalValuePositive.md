@@ -30,7 +30,7 @@ This function enables access to the signal value which was last reported by a ch
 
 ### Return Values
 
-- **< 0**: Refers the query error codes in this chapter
+- **\< 0**: Refers the query error codes in this chapter
 - **≥ 0**: Retrieved signal value
 
 ### Available For

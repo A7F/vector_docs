@@ -37,7 +37,7 @@ To get the message content of a Parameter Group which triggered a wait condition
 
 - **-3**: Join error
 - **-1**: General error, for example, functionality is not available
-- **> 0**: Number of the joined event
+- **\> 0**: Number of the joined event
 
 ## Example
 

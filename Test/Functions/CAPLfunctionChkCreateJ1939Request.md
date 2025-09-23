@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateJ1939Request.md)
-
-**CAPL Functions** » **Test Service Library** » **Checks** » ChkCreate_J1939Request; ChkStart_J1939Request
-
 # ChkCreate_J1939Request; ChkStart_J1939Request
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md) • CANoe4SW DE
@@ -72,7 +68,7 @@ Observes the J1939 Requests (EA00h). It is possible to observe all requests or o
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value
 
 ## Possible Errors
 

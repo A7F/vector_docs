@@ -27,7 +27,7 @@ This function can only be used for **valueHandles** with an unsigned integer dat
 - **-3**: Join error
 - **-2**: Type of the value is not valid
 - **-1**: General error, for example, functionality is not available
-- **> 0**: Number of the joined event
+- **\> 0**: Number of the joined event
 
 ## Example
 

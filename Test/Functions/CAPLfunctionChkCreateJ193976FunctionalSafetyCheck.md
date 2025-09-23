@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateJ193976FunctionalSafetyCheck.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkCreate_J1939_76_FunctionalSafetyCheck
-
 # ChkCreate_J1939_76_FunctionalSafetyCheck
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -53,7 +49,7 @@ The database attribute [FsJ1939NeedsSHM](../../../CANoeCANalyzer/J1939/j1939basi
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced.
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Example
 

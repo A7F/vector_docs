@@ -20,7 +20,7 @@ Add an ARINC word to the set of *joined events*. If ARINC word events are delive
 
 - **-3**: Join error
 - **-1**: General error (e.g. functionality not available)
-- **> 0**: Number of the *joined event*
+- **\> 0**: Number of the *joined event*
 
 ## Example
 

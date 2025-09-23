@@ -23,7 +23,7 @@ This might be triggered by a call of the function [Diag_DataCon()](../../Diagnos
 
 ## Return Values
 
-- **< 0**: An internal error occurred, e.g. a faulty configuration of the Diagnostic Layer.
+- **\< 0**: An internal error occurred, e.g. a faulty configuration of the Diagnostic Layer.
 - **0**: The timeout was reached, i.e. the event of interest did not occur within the specified time.
 - **1**: The event occurred.
 

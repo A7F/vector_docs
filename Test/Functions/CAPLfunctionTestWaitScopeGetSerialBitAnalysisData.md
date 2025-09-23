@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitScopeGetSerialBitAnalysisData.md)
-
-**CAPL Functions** » [Scope](../../Scope/CAPLfunctionsScopeOverview.md) » testWaitScopeGetSerialBitAnalysisData
-
 # testWaitScopeGetSerialBitAnalysisData
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -35,7 +31,7 @@ Returns the serial bit analysis data and duty cycle data for the defined bit.
 ## Return Values
 
 - **1**: Success
-- **< 0**: Error occurred. See `EScopeCAPLFitDataReturnCode` in `ScopeBitAnalyse.cin`.
+- **\< 0**: Error occurred. See `EScopeCAPLFitDataReturnCode` in `ScopeBitAnalyse.cin`.
 
 ## Example
 

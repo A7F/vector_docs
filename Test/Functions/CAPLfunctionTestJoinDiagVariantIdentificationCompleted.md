@@ -21,7 +21,7 @@ Number of conditions in stock:
 - **-100**: Input parameter error, i.e. the variant identification is not running for this ECU.
 - **-3**: Error while adding the specified event to the set of joined events.
 - **-1**: General error, for example, functionality is not available.
-- **> 0**: Number of the newly joined event.
+- **\> 0**: Number of the newly joined event.
 
 [Error code](../../Diagnostics/CAPLfunctionsDiagnosticsErrorCode.md)
 

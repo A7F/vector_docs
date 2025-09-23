@@ -29,7 +29,7 @@ If neither event occurs before the expiration of the specified time **aTimeout**
 - **-2**: Resume due to constraint violation
 - **-1**: General error, for example, functionality is not available
 - **0**: Resume due to timeout
-- **> 0**: Joined event or stop event occurred. The index of the final event is returned, indicating what has triggered the resolution.
+- **\> 0**: Joined event or stop event occurred. The index of the final event is returned, indicating what has triggered the resolution.
 
 ## Example
 

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestILSetMessageProperty.md)
-
-**CAPL Functions** » **Test Feature Set** » **testILSetMessageProperty**
-
 # testILSetMessageProperty
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -33,7 +29,7 @@ Sets the internal property of a message, assigned to the node.
 ## Return Values
 
 - **0**: Success (property has been set successfully)
-- **< 0**: [Error codes](../../CAPLfunctionsISOj1939ErrorCodes.md)
+- **\< 0**: [Error codes](../../CAPLfunctionsISOj1939ErrorCodes.md)
 
 ## Example
 

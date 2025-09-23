@@ -12,7 +12,7 @@ long TestWaitForMostShortUnlock(dword aTimeout);
 
 The function waits until the expiration of the time **aTimeout** for the occurrence of a LightLock event indicating "Light & no Lock" state.
 
-A LightLock event with a "Light & no Lock" state is generated when there is no interpretable signal at the Optical Receiver (FOR) of the hardware for a brief moment (< tUnlock, see also MOST specification) and the ring has been in a "Light & Lock" state previously.
+A LightLock event with a "Light & no Lock" state is generated when there is no interpretable signal at the Optical Receiver (FOR) of the hardware for a brief moment (\< tUnlock, see also MOST specification) and the ring has been in a "Light & Lock" state previously.
 
 **Note**: Consider to set always the appropriate bus context in a multibus environment before the function is called. Further information on site [MultiBus Environment](../../../Shared/CAPL/General/TestMultiBusEnvironment.md).
 

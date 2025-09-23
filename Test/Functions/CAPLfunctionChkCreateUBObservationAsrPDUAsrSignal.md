@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateUBObservationAsrPDUAsrSignal.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkCreate_UBObservationAsrPDU, ChkStart_UBObservationAsrPDU, ChkCreate_UBObservationAsrSignal, ChkStart_UBObservationAsrSignal
-
 # ChkCreate_UBObservationAsrPDU, ChkStart_UBObservationAsrPDU, ChkCreate_UBObservationAsrSignal, ChkStart_UBObservationAsrSignal
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -57,14 +53,14 @@ The numeric functions/constructors with the parameter **aHeaderId** cannot be us
 - **signalGroup**: Signal group with SQC to be observed.
 - **signalName**: Signal with UB to be observed.
 - **maxNoOfConsUnchangedDataWithSetUB**:
-  - `> 0`: Maximal number of constant unchanged data with set UB
+  - `\> 0`: Maximal number of constant unchanged data with set UB
   - `= 0`: Unchanged data with set UB not allowed
   - `-1`: Unchanged data with set UB allowed infinite
 
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value
 
 ## Possible Errors
 

@@ -23,7 +23,7 @@ Adds a logical OR-expression of two or more events that were previously joined t
 - **-3**: Join error
 - **-2**: Invalid event handle(s)
 - **-1**: General error, for example, functionality is not available
-- **> 0**: Number of the joined event
+- **\> 0**: Number of the joined event
 
 ## Example
 

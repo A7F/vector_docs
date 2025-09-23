@@ -12,7 +12,7 @@ long TestWaitForMostSpyReport(char[] aSymbolicMessage, unsigned long aTimeout);
 
 ## Description
 
-Waits for the occurrence of the spy response message (report, op-type > 8) of the specified MOST message. The first arriving control message, which fulfills the specified conditions, resolves the wait point, irregardless of whether it is part of a segmented transmission. TelId is not included in this process. If the message does not occur by the time the aTimeout expires, the wait condition is still resolved.
+Waits for the occurrence of the spy response message (report, op-type \> 8) of the specified MOST message. The first arriving control message, which fulfills the specified conditions, resolves the wait point, irregardless of whether it is part of a segmented transmission. TelId is not included in this process. If the message does not occur by the time the aTimeout expires, the wait condition is still resolved.
 
 **Note**: Consider to set always the appropriate bus context in a multibus environment before the function is called. Further information on site [MultiBus Environment](../../../Shared/CAPL/General/TestMultiBusEnvironment.md).
 

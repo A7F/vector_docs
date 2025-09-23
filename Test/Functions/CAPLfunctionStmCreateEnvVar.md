@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionStmCreateEnvVar.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Stimulus Functions](../CAPLfunctionsTSLStimulusOverview.md) » StmCreate_EnvVar
-
 # StmCreate_EnvVar
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -38,13 +34,13 @@ Creates the stimulus with environment variables as data source.
 - **aMessage**: Must exist in DB
 - **aDBSignal**: Must exist in DB
 - **aEnvVar**: Must exist in DB
-- **CycleTime**: ms; 1 < x < ∞  
+- **CycleTime**: ms; 1 \< x \< ∞  
   Defines the cycle in which the signal value in the message buffer is being updated. There is no affect to the bus.
 
 ## Return Values
 
 - **0**: Stimulus could not be created and must not be referenced
-- **> 0**: Stimulus was created successfully and may be referenced using the handle
+- **\> 0**: Stimulus was created successfully and may be referenced using the handle
 
 Later this ID can be used to control the stimuli.
 

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkStartLinSynchBreakTimingViolation.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkStart_LINSynchBreakTimingViolation
-
 # ChkStart_LINSynchBreakTimingViolation
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -23,12 +19,12 @@ An event will be generated, if the measured length [in bit times] of break low p
 
 - **MinBreakLen**
   - `0`: Minimum length of break low phase shall not be checked
-  - `>0`: Minimum allowed length of break low phase
+  - `\>0`: Minimum allowed length of break low phase
   - Unit: bit time
 
 - **MaxBreakLen**
   - `0`: Maximum length of break low phase shall not be checked
-  - `>0`: Maximum allowed length of break low phase
+  - `\>0`: Maximum allowed length of break low phase
   - Unit: bit time
 
 - **CaplCallback**
@@ -37,7 +33,7 @@ An event will be generated, if the measured length [in bit times] of break low p
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Possible Errors
 

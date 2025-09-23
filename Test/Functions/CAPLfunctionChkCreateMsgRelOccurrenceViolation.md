@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateMsgRelOccurrenceViolation.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkCreate_MsgRelOccurrenceViolation, ChkStart_MsgRelOccurrenceViolation
-
 # ChkCreate_MsgRelOccurrenceViolation, ChkStart_MsgRelOccurrenceViolation
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -41,10 +37,10 @@ The numeric functions/constructors with the parameter 'aMessageId' cannot be use
 - **observedMessage**: The observed message in symbolic form, e.g.: "EngineData", whose occurrence is to be monitored. Message must exist in database.
 - **aMinRelCycleTime**:
   - 0: Limit is not checked.
-  - 0 < x < 1: Limit is checked.
+  - 0 \< x \< 1: Limit is checked.
 - **aMaxRelCycleTime**:
   - 0: Limit is not checked.
-  - 1 < x < ∞: Limit is checked.
+  - 1 \< x \< ∞: Limit is checked.
 - **aCallback**: This parameter must be specified in simulation nodes; it is optional in test modules.
 - **aMessageId**: message ID to be observed. The corresponding message shall be defined in the database.
 - **slotID**: This number designates a specific FlexRay slot. Its value must be between 1 and 2047.
@@ -55,7 +51,7 @@ The numeric functions/constructors with the parameter 'aMessageId' cannot be use
 ## Return Values
 
 - **0**: Check could not be created and may not be referenced.
-- **> 0**: Check was created successfully and can be referenced by the returned (Handle) value.
+- **\> 0**: Check was created successfully and can be referenced by the returned (Handle) value.
 
 ## Possible Errors
 

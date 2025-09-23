@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionStmCreateToggleUserDefined.md)
-
 # StmCreate_Toggle (limits user-defined)
 
 [CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Stimulus Functions](../CAPLfunctionsTSLStimulusOverview.md) » StmCreate_Toggle (limits user-defined)
@@ -56,14 +54,14 @@ Creates a stimulus generator that toggles between two values.
   - Note: Use the **int64 parameters** for system variables of UInt64 and Int64 type to cover the whole value range. The int64 parameter is interpreted for system variables of UInt64 type as qword (uint64).
   - Value A = Value B: ESE Invalid stimuli effect (measurement stops)
   - Value A and Value B are physical values, not raw values. They can be user-defined or will be taken from the CANdb++ database (dbc-file) that is assigned to the CANoe configuration and are called Minimum and Maximum of the signal.
-- **CycleTime**: ms; 1 < x < ∞
+- **CycleTime**: ms; 1 \< x \< ∞
   - Defines the cycle in which the signal value in the message buffer is being updated. There is no affect to the bus.
   - Defines the cycle in which the value of the environment or system variable is being updated.
 
 ## Return Values
 
 - **0**: Stimulus could not be created and must not be referenced
-- **> 0**: Stimulus was created successfully and may be referenced using the handle
+- **\> 0**: Stimulus was created successfully and may be referenced using the handle
 
 Later this ID can be used to control the stimuli.
 

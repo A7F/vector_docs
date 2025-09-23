@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryEventMessageContents.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Status Report Functions](../CAPLfunctionsTSLStatusReportFunctions.md) » ChkQuery_EventMessageContents
-
 # ChkQuery_EventMessageContents
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -32,8 +28,8 @@ Stores the data bytes of the message, for which the event has been sent, in the 
 
 ## Return Values
 
-- **< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
-- **> 0**: Number of stored data bytes (DLC)
+- **\< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
+- **\> 0**: Number of stored data bytes (DLC)
 
 ## Available For
 

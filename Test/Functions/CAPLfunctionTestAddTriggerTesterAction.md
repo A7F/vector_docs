@@ -21,7 +21,7 @@ Adds a trigger to a tester action previously created with [TestCreateTesterActio
 
 ## Return Values
 
-- **> 0**: Handle of the trigger.
+- **\> 0**: Handle of the trigger.
 - **-1**: General error.
 
 ## Example

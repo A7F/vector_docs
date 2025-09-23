@@ -23,7 +23,7 @@ If the request was created using raw data (e.g. by using the CAPL functions [Dia
 
 The function will return immediately after a positive or negative response - other than "responsePending" - was received within the configured protocol (P2/P2*) timings.
 
-Intermediate "responsePending" NRCs from the target ECU will automatically prolong the wait timer of the tester in P2* increments until maximally `<timeout>` [ms]. If by then no response has been received from the ECU target, the function will return with value =0 (timeout reached).
+Intermediate "responsePending" NRCs from the target ECU will automatically prolong the wait timer of the tester in P2* increments until maximally `<timeout\>` [ms]. If by then no response has been received from the ECU target, the function will return with value =0 (timeout reached).
 
 In case the tester node implements a "[CAPL callback interface for diagnostics](../../Diagnostics/CAPLfunctionsDiagnosticsConnectionCommunicationLayer.md#CAPLCallbackInterface)" (CCI), but has no further provisions to handle NRCs on its own right, the behavior is equivalent to the one described above (automated "responsePending" handling).
 
@@ -46,7 +46,7 @@ Therefore, the function waits until the timeout, which was passed as a parameter
 
 ## Return Values
 
-- **< 0**: An internal error occurred, e.g. a protocol error or a faulty configuration of the diagnostic layer.
+- **\< 0**: An internal error occurred, e.g. a protocol error or a faulty configuration of the diagnostic layer.
 - **0**: The timeout was reached, i.e. the event of interest did not occur within the specified time.
 - **1**: The event occurred.
 

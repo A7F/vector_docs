@@ -25,7 +25,7 @@ Adds an event object or an event text as a condition. Checks from the Test Servi
 ## Return Values
 
 - **0**: Condition was added successfully
-- **< 0**: Condition could not be added
+- **\< 0**: Condition could not be added
 
 ## Example
 

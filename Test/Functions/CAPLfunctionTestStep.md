@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestStep.md)
-
-**CAPL Functions** » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestStep, TestStepPass, TestStepFail, TestStepWarning, TestStepInconclusive, TestStepErrorInTestSystem
-
 # TestStep, TestStepPass, TestStepFail, TestStepWarning, TestStepInconclusive, TestStepErrorInTestSystem
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -55,7 +51,7 @@ With these functions, test steps can be reported within a test case.
 
 - **LevelOfDetail**: It is possible to identify with a number how important this test step is. In the test report, it is possible that only test steps up to a certain importance will be displayed. 0 means "very important", higher numbers indicate lower degrees of importance. Without an explicit specification, a LevelOfDetail of 0 is assumed.
 - **Identifier**: E.g. a test step number) of the test step.
-- **Description** of the test step: To obtain line breaks (in form of `<br />` tags) in the CANoe Test Report Viewer or in HTML test report, "\n" may be inserted at any place. The required replacement takes place during the transformation of the XML test report into an HTML file by means of an XSLT style sheet, where it can also be deactivated (see CANoe [Test:Tips & Tricks](../../../CANoeCANalyzer/Test/TestTips.md)). The description can also contain values that are read out of variables. For that the corresponding sequences like the format string of [snprintf](../../Other/Functions/CAPLfunctionSnPrintf.md) are inserted in the description. The corresponding variables are added to the parameter list. The format string has the same meaning as with the [write](../../Other/Functions/CAPLfunctionWrite.md) function and is described there.
+- **Description** of the test step: To obtain line breaks (in form of `<br /\>` tags) in the CANoe Test Report Viewer or in HTML test report, "\n" may be inserted at any place. The required replacement takes place during the transformation of the XML test report into an HTML file by means of an XSLT style sheet, where it can also be deactivated (see CANoe [Test:Tips & Tricks](../../../CANoeCANalyzer/Test/TestTips.md)). The description can also contain values that are read out of variables. For that the corresponding sequences like the format string of [snprintf](../../Other/Functions/CAPLfunctionSnPrintf.md) are inserted in the description. The corresponding variables are added to the parameter list. The format string has the same meaning as with the [write](../../Other/Functions/CAPLfunctionWrite.md) function and is described there.
 
   **Note**  
   `TestStepPass("10.2", "Output voltage ok (Uout = %d volts)", voltage);`

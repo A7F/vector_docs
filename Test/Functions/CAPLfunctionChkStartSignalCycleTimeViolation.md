@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkStartSignalCycleTimeViolation.md)
-
-**CAPL Functions** » **Test Service Library** » **Checks** » **ChkStart_SignalCycleTimeViolation**
-
 # ChkStart_SignalCycleTimeViolation
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -28,18 +24,18 @@ Checks the occurrences of a signal. An event will be generated if the time betwe
 - **ObservedSignal**: Signal to observe. It must exist in DB
 - **MinCyc**:
   - `0`: Minimum cycle time shall not be checked
-  - `> 0`: Minimum allowed cycle time
+  - `\> 0`: Minimum allowed cycle time
   - Unit: Is set with [ChkConfig_SetPrecision()](CAPLfunctionChkConfigSetPrecision.md)
 - **MaxCycleTime**:
   - `0`: Maximum cycle time shall not be checked
-  - `> 0`: Maximum allowed cycle time
+  - `\> 0`: Maximum allowed cycle time
   - Unit: Is set with [ChkConfig_SetPrecision()](CAPLfunctionChkConfigSetPrecision.md)
 - **CaplCallback**: Name of CAPL callback function to be called on generated event. In simulation nodes this parameter has to be set. In test modules this parameter is optional.
 
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Possible Errors
 

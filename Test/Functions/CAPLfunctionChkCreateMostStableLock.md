@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateMostStableLock.md)
-
-**CAPL Functions** » **Test Service Library** » **Checks** » ChkCreate_MostStableLock, ChkStart_MostStableLock
-
 # ChkCreate_MostStableLock, ChkStart_MostStableLock
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md)
@@ -39,7 +35,7 @@ Consider to set always the appropriate bus context in a multibus environment bef
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value
 
 ## Possible Errors
 

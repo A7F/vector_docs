@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitScopeShowMask.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Scope](../../Scope/CAPLfunctionsScopeOverview.md) » testWaitScopeShowMask
-
 # testWaitScopeShowMask
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -29,14 +25,14 @@ The defined frame cutout of the previously analyzed frame together with the bitm
 - **frFrame**: The FlexRay frame to be displayed.
 
 - **msgFieldStart, startBitNo**: The start of the cutout to be displayed.
-  - **msgFieldStart**: see `<application>\Reusable\CAPL_Includes\Scope\ScopeBitAnalyse.cin`
+  - **msgFieldStart**: see `<application\>\Reusable\CAPL_Includes\Scope\ScopeBitAnalyse.cin`
   - **startBitNo**: A bit index in the message field
 
 ## Return Values
 
 - **1**: Success
 - **0**: Timeout
-- **< 0**: Error occurred. See **EScopeCAPLFitDataReturnCode** in `<application>\Reusable\CAPL_Includes\Scope\ScopeBitAnalyse.cin`
+- **\< 0**: Error occurred. See **EScopeCAPLFitDataReturnCode** in `<application\>\Reusable\CAPL_Includes\Scope\ScopeBitAnalyse.cin`
 
 ## Example
 

@@ -48,7 +48,7 @@ long TestValidateSystemCallWithExitCode (char workingDir[], char commandLine[], 
 
 This function can be used to start an external application and check its exit code. Once the application has been started successfully the system waits for it to exit at the end of the specified wait time. The result depends on whether the application's exit code matches the specified expected value.
 
-You should either use the absolute path to the external application or use the call with the declaration of the working directory. To keep the configuration independent of installation paths on a concrete computer you can use `<workingdir>` alternatively to reference an environment variable of the target system, e.g. `%MYAPP_DIR%`.
+You should either use the absolute path to the external application or use the call with the declaration of the working directory. To keep the configuration independent of installation paths on a concrete computer you can use `<workingdir\>` alternatively to reference an environment variable of the target system, e.g. `%MYAPP_DIR%`.
 
 Test result of the command is reported.
 

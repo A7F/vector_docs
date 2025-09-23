@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitScopePerformEdgeAnalysis.md)
-
-## CAPL Functions » Scope » testWaitScopePerformEdgeAnalysis
-
 # testWaitScopePerformEdgeAnalysis
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -52,7 +48,7 @@ Perform an edge analysis for falling/rising edges of a specific frame or a compl
 ### Return Values
 
 - **1**: Successful
-- **< 0**: Error occurred. See EScopeCAPLFitDataReturnCode in ScopeBitAnalyse.cin
+- **\< 0**: Error occurred. See EScopeCAPLFitDataReturnCode in ScopeBitAnalyse.cin
 
 ### Example
 

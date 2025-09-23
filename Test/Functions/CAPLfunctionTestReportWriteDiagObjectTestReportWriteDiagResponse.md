@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestReportWriteDiagObjectTestReportWriteDiagResponse.md)
-
-**CAPL Functions** » [Diagnostics](../../Diagnostics/CAPLfunctionsDiagnosticsOverview.md) » TestReportWriteDiagObject, TestReportWriteDiagResponse
-
 # TestReportWriteDiagObject, TestReportWriteDiagResponse
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE

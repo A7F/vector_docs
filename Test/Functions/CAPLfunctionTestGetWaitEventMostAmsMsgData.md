@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestGetWaitEventMostAmsMsgData.md)
-
-**CAPL Functions** » **Test Feature Set** » **TestGetWaitEventMostAMSMsgData**
-
 # TestGetWaitEventMostAMSMsgData
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE

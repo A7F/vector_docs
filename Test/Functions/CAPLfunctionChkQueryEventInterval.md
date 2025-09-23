@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryEventInterval.md)
-
-**CAPL Functions** » **Test Service Library** » **Status Report Functions** » **ChkQuery_EventInterval**
-
 # ChkQuery_EventInterval
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -31,7 +27,7 @@ Returns the last time-interval that has led to the event.
 ## Return Values
 
 - **-101**: The interval for the last event has been started but not yet terminated.
-- **< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md) in this chapter.
+- **\< 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md) in this chapter.
 - **≥ 0**: Time interval in the precision of the check.
 
 ## Available For

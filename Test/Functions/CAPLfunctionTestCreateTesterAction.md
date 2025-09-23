@@ -38,7 +38,7 @@ To execute the command call [TestValidateTesterAction](CAPLfunctionTestValidateT
 
 ## Return Values
 
-- **> 0**: Handle of the tester action.
+- **\> 0**: Handle of the tester action.
 - **-1**: General error.
 
 ## Example

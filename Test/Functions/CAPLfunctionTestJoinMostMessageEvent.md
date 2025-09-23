@@ -42,7 +42,7 @@ Completes the current set of "joined events" with the transmitted event, a MOST 
 - **-6**: Parse Error; unresolved symbolic message definition.
 - **-3**: Join error
 - **-1**: General error e.g. functionality not available
-- **> 0**: Number of joined events
+- **\> 0**: Number of joined events
 
 ## Example
 

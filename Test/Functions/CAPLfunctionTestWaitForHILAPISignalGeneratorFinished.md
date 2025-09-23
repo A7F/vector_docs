@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForHILAPISignalGeneratorFinished.md)
-
-**CAPL Functions** » **Test Feature Set** » **testWaitForHILAPISignalGeneratorFinished**
-
 # testWaitForHILAPISignalGeneratorFinished
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -22,7 +18,7 @@ Waits until a running generator has finished.
 
 ## Return Values
 
-- **< 0**: An internal error occurred, e.g., a protocol error or a faulty configuration of the diagnostic layer.
+- **\< 0**: An internal error occurred, e.g., a protocol error or a faulty configuration of the diagnostic layer.
 - **1**: The event occurred.
 
 ## Example

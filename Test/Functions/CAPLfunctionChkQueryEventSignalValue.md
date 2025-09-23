@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryEventSignalValue.md)
-
-**CAPL Functions** » **Test Service Library** » **Status Report Functions** » ChkQuery_EventSignalValue
-
 # ChkQuery_EventSignalValue
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -28,7 +24,7 @@ This function enables access to the signal value which was last reported by a ch
 
 ## Return Values
 
-- `<= 0`: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md) in this chapter
+- `\<= 0`: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md) in this chapter
 
 ## Available For
 

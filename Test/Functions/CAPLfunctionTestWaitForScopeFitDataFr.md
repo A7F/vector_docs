@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForScopeFitDataFr.md)
-
-**CAPL Functions** » [Scope](../../Scope/CAPLfunctionsScopeOverview.md) » testWaitForScopeFitDataFr
-
 # testWaitForScopeFitDataFr
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -18,7 +14,7 @@ The defined frame cutout is shown in the scope's [Diagram](../../../CANoeCANalyz
 ## Parameters
 
 - **aMessage**: The frame to be fitted.
-- **msgFieldStart, msgFieldEnd**: The start and end of the cutout to be fitted. See `<application>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"')).
+- **msgFieldStart, msgFieldEnd**: The start and end of the cutout to be fitted. See `<application\>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"')).
 - **preTimeNs**: Defines the preliminary lead time in [ns] for the defined message field start.
 - **postTimeNs**: Defines the overtravel time in [ns] for the defined message field end.
 
@@ -26,7 +22,7 @@ The defined frame cutout is shown in the scope's [Diagram](../../../CANoeCANalyz
 
 - **1**: Success
 - **0**: Timeout
-- **< 0**: Error occurred. See **EScopeCAPLFitDataReturnCode** in `<application>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"')).
+- **\< 0**: Error occurred. See **EScopeCAPLFitDataReturnCode** in `<application\>\Reusable\CAPL_Includes\Scope\` [ScopeBitAnalyse.cin](javascript:startDemoLoader('"Reusable\\CAPL_Includes\\Scope"')).
 
 ## Example
 

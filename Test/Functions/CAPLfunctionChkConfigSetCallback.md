@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkConfigSetCallback.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Commands to Control Checks](../CAPLfunctionsTSLCheckControlCommands.md) » ChkConfig_SetCallback
-
 # ChkConfig_SetCallback
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -32,7 +28,7 @@ Sets a CAPL callback for the check. An already existing callback will be overwri
 ## Return Values
 
 - **0**: successful
-- **< 0**: error
+- **\< 0**: error
 
 ## Example
 

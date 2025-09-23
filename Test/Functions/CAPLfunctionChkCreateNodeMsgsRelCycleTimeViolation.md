@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateNodeMsgsRelCycleTimeViolation.md)
-
-**CAPL Functions** » **Test Service Library** » **Checks** » ChkCreate_NodeMsgsRelCycleTimeViolation, ChkStart_NodeMsgsRelCycleTimeViolation
-
 # ChkCreate_NodeMsgsRelCycleTimeViolation, ChkStart_NodeMsgsRelCycleTimeViolation
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -44,16 +40,16 @@ For FlexRay only valid data frames and PDUs are recognized as communication, Nul
 - **aNode**: Must exist in DB
 - **aMinRelCycleTime**:
   - 0: Limit is not checked
-  - 0 < x < 1: Limit is checked
+  - 0 \< x \< 1: Limit is checked
 - **aMaxRelCycleTime**:
   - 0: Limit is not checked
-  - 1 < x < ∞: Limit is checked
+  - 1 \< x \< ∞: Limit is checked
 - **aCallback**: In simulation nodes this parameter has to be set. In test modules this parameter is optional.
 
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value
 
 ## Possible Errors
 

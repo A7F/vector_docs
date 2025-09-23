@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionStmCreateRampDatabase.md)
-
-**CAPL Functions** » **Test Service Library** » **Stimulus Functions** » **StmCreate_Ramp (limits taken from database)**
-
 # StmCreate_Ramp (limits taken from database)
 
 **Valid for**: CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -62,16 +58,16 @@ Creates a stimulus generator that creates a ramp.
 - **aDBSignal**: Existing signal (dbSignal type) in DB
 - **EnvVarHandle**: Existing environment variable (EnvVar type) in DB
 - **SystemVariable**: Must be available in the configuration.
-- **CycleTime**: ms; 1 < x < ∞. Defines the cycle in which the signal value in the message buffer is being updated. There is no affect to the bus. Defines the cycle in which the value of the environment or system variable is being updated.
-- **TimeUp**: ms; 0 < x < ∞. [Note: For more information please see Stimulus Generator: Creating a Ramp.](../CAPLfunctionsTSLRampStimulus.md)
-- **TimeHigh**: ms; 0 < x < ∞. [Note: For more information please see Stimulus Generator: Creating a Ramp.](../CAPLfunctionsTSLRampStimulus.md)
-- **TimeDown**: ms; 0 < x < ∞. [Note: Time Up = Time High = Time Down = 0: ESE Invalid stimuli effect (measurement stops). For more information please see Stimulus Generator: Creating a Ramp.](../CAPLfunctionsTSLRampStimulus.md)
-- **TimeLow**: ms; 0 < x < ∞. [Note: For more information please see Stimulus Generator: Creating a Ramp.](../CAPLfunctionsTSLRampStimulus.md)
+- **CycleTime**: ms; 1 \< x \< ∞. Defines the cycle in which the signal value in the message buffer is being updated. There is no affect to the bus. Defines the cycle in which the value of the environment or system variable is being updated.
+- **TimeUp**: ms; 0 \< x \< ∞. [Note: For more information please see Stimulus Generator: Creating a Ramp.](../CAPLfunctionsTSLRampStimulus.md)
+- **TimeHigh**: ms; 0 \< x \< ∞. [Note: For more information please see Stimulus Generator: Creating a Ramp.](../CAPLfunctionsTSLRampStimulus.md)
+- **TimeDown**: ms; 0 \< x \< ∞. [Note: Time Up = Time High = Time Down = 0: ESE Invalid stimuli effect (measurement stops). For more information please see Stimulus Generator: Creating a Ramp.](../CAPLfunctionsTSLRampStimulus.md)
+- **TimeLow**: ms; 0 \< x \< ∞. [Note: For more information please see Stimulus Generator: Creating a Ramp.](../CAPLfunctionsTSLRampStimulus.md)
 
 ## Return Values
 
 - **0**: Stimulus could not be created and must not be referenced
-- **> 0**: Stimulus was created successfully and may be referenced using the handle
+- **\> 0**: Stimulus was created successfully and may be referenced using the handle
 
 Later this ID can be used to control the stimuli.
 

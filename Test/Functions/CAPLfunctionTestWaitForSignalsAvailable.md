@@ -20,7 +20,7 @@ This function is useful when you want to assure that all signals are available b
 ## Parameters
 
 - **aNode**  
-  Node whose send signals should all be available. For CAN and FlexRay all signals are considered! In contrast to the corresponding XML pattern `<awaitsignalsavailable>` this function considers FlexRay signals from all frames and PDUs; not only FlexRay signals from frames and PDUs of service type 'Application'. For LIN nodes only signals from unconditional and event-triggered frames of all schedule tables are considered. Also the signals of diagnostic frames are ignored.
+  Node whose send signals should all be available. For CAN and FlexRay all signals are considered! In contrast to the corresponding XML pattern `<awaitsignalsavailable\>` this function considers FlexRay signals from all frames and PDUs; not only FlexRay signals from frames and PDUs of service type 'Application'. For LIN nodes only signals from unconditional and event-triggered frames of all schedule tables are considered. Also the signals of diagnostic frames are ignored.
 
 - **aTimeout**  
   Maximum time that should be waited [ms]. Transmission of 0: no timeout controlling.

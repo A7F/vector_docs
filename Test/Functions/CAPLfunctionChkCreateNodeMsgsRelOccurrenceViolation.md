@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateNodeMsgsRelOccurrenceViolation.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkCreate_NodeMsgsRelOccurrenceViolation, ChkStart_NodeMsgsRelOccurrenceViolation
-
 # ChkCreate_NodeMsgsRelOccurrenceViolation, ChkStart_NodeMsgsRelOccurrenceViolation
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -37,16 +33,16 @@ Checks for the occurrence of periodic message of the specified send node. The ch
 - **observedNode**: Must exist in the database.
 - **aminRelCycleTime**:
   - 0: Limit is not checked.
-  - 0 < x < 1: Limit is checked.
+  - 0 \< x \< 1: Limit is checked.
 - **aMaxRelCycleTime**:
   - 0: Limit is not checked.
-  - 1 < x < ∞: Limit is checked.
+  - 1 \< x \< ∞: Limit is checked.
 - **aCallback**: This parameter must be specified in simulation nodes; it is optional in test modules.
 
 ## Return Values
 
 - **0**: Check could not be created and may not be referenced.
-- **> 0**: Check was created successfully and can be referenced with the help of the returned (Handle) value.
+- **\> 0**: Check was created successfully and can be referenced with the help of the returned (Handle) value.
 
 ## Possible Errors
 

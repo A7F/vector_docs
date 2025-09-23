@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkQueryEventSignalValueMinMaxAsyncResult.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Status Report Functions](../CAPLfunctionsTSLStatusReportFunctions.md) » ChkQuery_EventSignalValueMin_AsyncResult, ChkQuery_EventSignalValueMax_AsyncResult
-
 # ChkQuery_EventSignalValueMin_AsyncResult, ChkQuery_EventSignalValueMax_AsyncResult
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -34,7 +30,7 @@ Enables access to the minimal and maximal measured values within a check. The da
 ## Return Values
 
 - **≤ 0**: Refers the query [error codes](../CAPLfunctionsTSLErrorCodes.md)
-- **> 0**: Retrieval of value was successful.
+- **\> 0**: Retrieval of value was successful.
 
 ## Available For
 

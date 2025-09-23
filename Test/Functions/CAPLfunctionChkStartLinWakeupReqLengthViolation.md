@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkStartLinWakeupReqLengthViolation.md)
-
-**CAPL Functions** » **Test Service Library** » **Checks** » **ChkStart_LINWakeupReqLengthViolation**
-
 # ChkStart_LINWakeupReqLengthViolation
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -30,12 +26,12 @@ Checks the length of LIN wake-up request. An event will be generated if a measur
 
 - **MinLength**
   - `0`: Minimum length shall not be checked
-  - `>0`: Minimum allowed length
+  - `\>0`: Minimum allowed length
   - Unit: Can be set with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md).
 
 - **MaxLength**
   - `0`: Maximum length shall not be checked
-  - `>0`: Maximum allowed length time
+  - `\>0`: Maximum allowed length time
   - Unit: Can be set with [ChkConfig_SetPrecision](CAPLfunctionChkConfigSetPrecision.md).
 
 - **CaplCallback**: Name of CAPL callback function to be called on generated event. In simulation nodes, this parameter has to be set. In test modules, this parameter is optional.
@@ -43,7 +39,7 @@ Checks the length of LIN wake-up request. An event will be generated if a measur
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Possible Errors
 

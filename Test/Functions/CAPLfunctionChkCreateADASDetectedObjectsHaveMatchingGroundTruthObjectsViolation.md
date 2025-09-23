@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionChkCreateADASDetectedObjectsHaveMatchingGroundTruthObjectsViolation.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Checks](../CAPLfunctionsTSLCheckOverview.md) » ChkCreate_ADASDetectedObjectsHaveMatchingGroundTruthObjectsViolation, ChkStart_ADASDetectedObjectsHaveMatchingGroundTruthObjectsViolation
-
 # ChkCreate_ADASDetectedObjectsHaveMatchingGroundTruthObjectsViolation, ChkStart_ADASDetectedObjectsHaveMatchingGroundTruthObjectsViolation
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -43,7 +39,7 @@ Observes if Detected Moving Objects have matching Moving Objects. The check fire
 ## Return Values
 
 - **0**: Check could not be created and must not be referenced
-- **> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
+- **\> 0**: Check was created successfully and may be referenced using the returned (handle-) value.
 
 ## Example
 

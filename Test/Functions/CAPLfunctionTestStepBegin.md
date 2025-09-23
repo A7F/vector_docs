@@ -26,7 +26,7 @@ With these functions, test steps can be logged within a test case. Such a test s
 
 - **Identifier** (e.g. a test step number) of the test step
 
-- **Description** of the test step: A possibly-specified descriptive text in the concluding [TestStepPass, TestStepFail or TestStepWarning](CAPLfunctionTestStep.md) is added to this descriptive text. To obtain line breaks (in form of `<br />` tags) in the test report, "\n" may be inserted at any place. The required replacement takes place during the transformation of the XML test report into an HTML file by means of an XSLT style sheet, where it can also be deactivated.
+- **Description** of the test step: A possibly-specified descriptive text in the concluding [TestStepPass, TestStepFail or TestStepWarning](CAPLfunctionTestStep.md) is added to this descriptive text. To obtain line breaks (in form of `<br /\>` tags) in the test report, "\n" may be inserted at any place. The required replacement takes place during the transformation of the XML test report into an HTML file by means of an XSLT style sheet, where it can also be deactivated.
 
 ## Return Values
 

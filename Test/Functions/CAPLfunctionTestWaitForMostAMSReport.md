@@ -10,7 +10,7 @@
 
 ## Description
 
-Waits for the occurrence of a response message (Report, OpType > 8) of the specified MOST AMS message. Should the message not occur before the expiration of the time **aTimeout**, the wait condition is resolved nevertheless.
+Waits for the occurrence of a response message (Report, OpType \> 8) of the specified MOST AMS message. Should the message not occur before the expiration of the time **aTimeout**, the wait condition is resolved nevertheless.
 
 **Note:** Consider to set always the appropriate bus context in a multibus environment before the function is called. Further information on site [MultiBus Environment](../../../Shared/CAPL/General/TestMultiBusEnvironment.md).
 

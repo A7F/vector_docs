@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForScopeFitData.md)
-
-**CAPL Functions** » [Scope](../../Scope/CAPLfunctionsScopeOverview.md) » testWaitForScopeFitData
-
 # testWaitForScopeFitData
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
