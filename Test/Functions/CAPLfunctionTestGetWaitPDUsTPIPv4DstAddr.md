@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestGetWaitPDUsTPIPv4DstAddr.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestGetWaitPDUsTPIPv4DstAddr
-
 # TestGetWaitPDUsTPIPv4DstAddr
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -61,7 +57,3 @@ testcase TC_CheckPDUTPProperties()
 ```
 
 [TestWaitForPDU](CAPLfunctionTestWaitForPDU.md) • [TestGetWaitPDUData](CAPLfunctionTestGetWaitPDUData.md) • [TestGetWaitPDUsTPIPv4SrcAddr](CAPLfunctionTestGetWaitPDUsTPIPv4SrcAddr.md) • [TestGetWaitPDUsTPIPv6DstAddr](CAPLfunctionTestGetWaitPDUsTPIPv6DstAddr.md) • [TestGetWaitPDUsTPIPv6SrcAddr](CAPLfunctionTestGetWaitPDUsTPIPv6SrcAddr.md) • [TestGetWaitPDUsTPTCPDstPort](CAPLfunctionTestGetWaitPDUsTPTCPDstPort.md) • [TestGetWaitPDUsTPTCPSrcPort](CAPLfunctionTestGetWaitPDUsTPTCPSrcPort.md) • [TestGetWaitPDUsTPUDPDstPort](CAPLfunctionTestGetWaitPDUsTPUDPDstPort.md) • [TestGetWaitPDUsTPUDPSrcPort](CAPLfunctionTestGetWaitPDUsTPUDPSrcPort.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

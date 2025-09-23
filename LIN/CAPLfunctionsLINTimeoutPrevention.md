@@ -11,9 +11,3 @@ The 7259-transceiver implements a dominant timeout of 6 to 20 ms to prevent a fa
 To bypass these limitations, the 7259mag-cab and the 7259mag-piggy contain an auxiliary circuit that is able to keep the bus level dominant. When using this auxiliary circuit, however, LIN conformant signal edges cannot be guaranteed, particularly for the rising edge of a dominant signal that is longer than 6 ms.
 
 - Technical References are only available in English
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

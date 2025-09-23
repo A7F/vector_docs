@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionGetRawSignal.md)
-
-**CAPL Functions** » [Test Feature Set](../CAPLfunctionsTFSOverview.md) / [Signal Access](../../SignalAccess/CAPLfunctionsSignalAccessOverview.md) » GetRawSignal
-
 # GetRawSignal
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -65,9 +61,3 @@ Retrieves the current raw value of a signal. These functions can be used for sig
 ### Example
 
 —
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

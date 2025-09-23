@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ISO11783/ISONodeLayer/Functions/CAPLfunctionIso11783OPLoadVersion.md)
-
-**CAPL Functions** » [ISO11783](../../CAPLfunctionsISO11783Overview.md) » [ISO11783 Node Layer](../CAPLfunctionsISONLOverview.md) » Iso11783OPLoadVersion
-
 # Iso11783OPLoadVersion
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -30,9 +26,3 @@ The function loads an object pool, which is stored on the Virtual Terminal. A **
 ```plaintext
 Iso11783OPLoadVersion( handle, "POOL01A" );
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

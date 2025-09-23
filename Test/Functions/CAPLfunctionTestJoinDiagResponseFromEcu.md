@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestJoinDiagResponseFromEcu.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestJoinDiagResponseFromEcu
-
 # TestJoinDiagResponseFromEcu
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -48,9 +44,3 @@ Index = TestWaitForAnyJoinedEvent(2000);
 ```
 
 [TestWaitForDiagResponse](CAPLfunctionTestWaitForDiagResponse.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

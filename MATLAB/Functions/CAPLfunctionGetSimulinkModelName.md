@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/MATLAB/Functions/CAPLfunctionGetSimulinkModelName.md)
-
-**CAPL Functions** » [MATLAB Integration](../CAPLfunctionsMATLABOverview.md) » GetSimulinkModelName
-
 # GetSimulinkModelName
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -37,5 +33,3 @@ on start
   }
 }
 ```
-
-[See Also](javascript:void(0);)

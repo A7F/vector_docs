@@ -1,8 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/CAPLfunctionsIPOverview.md)
-
-## Ethernet CAPL Functions
-
-[CAPL Functions](../CAPLfunctions.md) » [Ethernet](CAPLEthernetStartPage.md) » Ethernet CAPL Functions
 
 **Valid for:** CANoe DE • CANoe4SW DE
 
@@ -207,9 +202,3 @@ Functions for Ethernet Stress Generator are only available with Vector Ethernet 
 
 - [ethStartPacketGenerator](Functions/CAPLfunctionEthStartPacketGenerator.md): Starts Ethernet Stress Generator.
 - [ethStopPacketGenerator](Functions/CAPLfunctionEthStopPacketGenerator.md): Stops Ethernet Stress Generator.
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

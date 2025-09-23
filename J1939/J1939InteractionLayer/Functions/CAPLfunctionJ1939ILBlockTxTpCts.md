@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/J1939/J1939InteractionLayer/Functions/CAPLfunctionJ1939ILBlockTxTpCts.md)
-
-**CAPL Functions** » **J1939** » **J1939 IL** » **J1939ILBlockTxTpCts**
-
 # J1939ILBlockTxTpCts
 
 [Valid for: CANoe DE](../../../../Shared/FeatureAvailability.md) • CANoe4SW DE
@@ -37,5 +33,3 @@ on start {
   }
 }
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

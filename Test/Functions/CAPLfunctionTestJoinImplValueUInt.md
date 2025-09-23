@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestJoinImplValueUInt.md)
-
 # TestJoinImplValueUInt
 
 [CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestJoinImplValueUInt
@@ -38,5 +36,3 @@ index = TestWaitForAnyJoinedEvent(2000);
 ```
 
 [TestJoinImplValue](CAPLfunctionTestJoinImplValue.md) • [TestJoinImplValueFloat](CAPLfunctionTestJoinImplValueFloat.md) • [TestJoinImplValueSInt](CAPLfunctionTestJoinImplValueSInt.md) • [TestJoinImplValueString](CAPLfunctionTestJoinImplValueString.md)
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

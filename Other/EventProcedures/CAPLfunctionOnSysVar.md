@@ -33,7 +33,3 @@ on sysvar IO::DI_0
 Starting with CANoe DE version **7.1 SP4**, you can also define handlers for several system variables. For this, use the syntax "`on sysVar (sysVar1 | sysVar2 | ...)`", e.g. "`on sysVar (IO::DI_0 | IO_DI1)`". The handler is called whenever one of the system variables changes (or is updated if you use `on sysvar_update`). The keyword [this](CAPLfunctionKeywordThis.md) can only be used in such a handler if all variables have the same data type. CAPL programs which contain such handlers cannot be used with versions **< 7.1 SP4**.
 
 Since version **7.2**, you can retrieve the name of the system variable as a string constant with **this.name** and its namespace with **this.namespace**.
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestAddConstraint.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestAddConstraint
-
 # TestAddConstraint
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -25,7 +21,6 @@ Adds an event object or an event text as a constraint. Checks from the Test Serv
   - **0**: Default behavior, entry in test report and setting of the verdict to "fail"
   - **1**: Only an entry in the test report is made, the verdict remains unchanged
   - **2, 3**: reserved
-  - **4**: In addition to the entry in the test report and the setting of the verdict to "fail," the current waiting point is also aborted. This behavior was introduced for reasons of compatibility with Version 5.0 and should only be selected in exceptional cases since here after each waiting point a corresponding query must be inserted.
 
 ## Return Values
 
@@ -98,7 +93,3 @@ on errorFrame
 ```
 
 [TestRemoveConstraint](CAPLfunctionTestRemoveConstraint.md) • [TestCheckConstraint](CAPLfunctionTestCheckConstraint.md) • [TestSupplyTextEvent](CAPLfunctionTestSupplyTextEvent.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

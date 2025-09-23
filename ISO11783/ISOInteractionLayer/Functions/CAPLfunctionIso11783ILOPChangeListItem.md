@@ -34,5 +34,3 @@ The function changes an item in an input list object. A **Change List Item** com
 ```plaintext
 Iso11783IL_OPChangeListItem( 1200, 1, 1250 );
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

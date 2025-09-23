@@ -472,7 +472,3 @@ Further links: | [TestWaitForAllJoinedEvents](../Test/Functions/CAPLfunctionTest
 - [Symbolic identification of messages](CAPLfunctionsMOSTSymIDMMessage.md)
 - [General tips on XML function catalog support in CAPL](CAPLfunctionsMOSTXMLSupport.md)
 - [MOST high observer and combiner](CAPLfunctionsMOSTHighObserverCombiner.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

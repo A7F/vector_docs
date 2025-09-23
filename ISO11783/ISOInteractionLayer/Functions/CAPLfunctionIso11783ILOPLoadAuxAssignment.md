@@ -36,5 +36,3 @@ Iso11783IL_OPLoad( "ObjectPool.iop", "pool001"  );
 Iso11783IL_OPLoadAuxAssignment( "Sprayer.INI");
 Iso11783IL_OPActivate();
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/SOMEIPIL/Functions/CAPLfunctionSomeIpGetRequestId.md)
-
-**CAPL Functions** » **Ethernet** » **SOME/IP IL** » **SomeIpGetRequestId**
-
 # SomeIpGetRequestId
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE

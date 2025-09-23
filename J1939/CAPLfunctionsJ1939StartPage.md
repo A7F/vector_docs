@@ -65,9 +65,3 @@ The J1939 Node Layer simplifies the simulation of a J1939 node with CAPL.
 
 - [Functions](J1939NodeLayer/CAPLfunctionsJ1939NLOverview.md)
 - [Error Codes](J1939NodeLayer/CAPLfunctionsJ1939NLErrorCodes.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

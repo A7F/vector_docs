@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionAREthProvidedEventRemoveConsumer.md)
-
-**CAPL Functions** » [Ethernet](../../CAPLEthernetStartPage.md) » [AUTOSAR Eth IL](../CAPLfunctionsAREthILOverview.md) » AREthProvidedEventRemoveConsumer
-
 # AREthProvidedEventRemoveConsumer
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -33,7 +29,3 @@ Removes a consumer from a provided event that has been added by [AREthProvidedEv
 ## Example
 
 —
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

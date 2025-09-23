@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionCheckSignalMatch.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » CheckSignalMatch
-
 # CheckSignalMatch
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -58,5 +54,3 @@ testfunction SignalCheck(signal * sig, float compareValue)
         TestStepFail("Value of signal matches not the value");
 }
 ```
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

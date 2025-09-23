@@ -19,8 +19,6 @@ Assigns an Auxiliary Input to an Auxiliary Function.
 
 As a result, the Auxiliary Input Status Type 2 Enable command is sent to the Auxiliary Input (if not already enabled) and the Auxiliary Assignment Type 2 command is sent to the Auxiliary Function Working Set Master.
 
-If the participants are using VT Version 0, 1, or 2, only an Auxiliary Assignment Type 1 command is sent to the Auxiliary Input.
-
 ## Parameters
 
 - **Vt**: VT simulation node to apply the function
@@ -50,5 +48,3 @@ switch (result)
   default: TestStepFail("Unexpected error!"); break;
 }
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

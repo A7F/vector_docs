@@ -94,7 +94,3 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - [sysSetVariableFilterActive](Functions/CAPLfunctionSysSetVariableFilterActive.md): Activates or deactivates a variable filter.
 
 [System Variables](../../Shared/SystemVariables/SysVar.md) • [Direct Access to Values from System Variables](../../Shared/CAPL/SignalOrientedProgramming/SOPAccessSystemVariable.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

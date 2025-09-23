@@ -1,9 +1,5 @@
 # SOME/IP Interaction Layer Error Codes
 
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/CAPLfunctionsSOMEIPILErrorCodes.md)
-
-**CAPL Functions** » **Ethernet** » **SOME/IP IL** » SOME/IP Interaction Layer Error Codes
-
 **Valid for**: CANoe DE • CANoe4SW DE
 
 ## Error Codes
@@ -17,8 +13,3 @@
 - **46-0505**: Error during de-/serialization
 - **46-0506**: Operation is only possible if IL is activate
 - **46-0507**: Buffer too small
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

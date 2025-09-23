@@ -26,9 +26,3 @@ For simulation of a MOST High connection sender and receiver in CAPL the MOST Hi
 [MOST High Protocol: Simulation of Sender and Receiver](../../CANoeCANalyzer/MOST/MOSTSimulationApplicationSocketLocalFBlockList.md)
 
 •  Technical References are only available in English
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

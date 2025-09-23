@@ -164,7 +164,3 @@ When these subtypes are used, set the **MajorType** property to **MediaType_Vide
 - **VideoFormat_420O**: 8-bit per channel planar YUV 4:2:0 video. Format Tag: '420O'
 
 [Media CAPL Functions](CAPLfunctionsMediaOverview.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

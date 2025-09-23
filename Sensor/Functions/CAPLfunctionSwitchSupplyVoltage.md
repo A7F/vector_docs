@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Sensor/Functions/CAPLfunctionSwitchSupplyVoltage.md)
-
-**CAPL Functions** » **Sensor** » **SwitchSupplyVoltage**
-
 # SwitchSupplyVoltage
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -40,7 +36,3 @@ sysvar::SENSOR::PSI5::ECUSIM.SwitchSupplyVoltage(0);
 // Switch off the supply voltage of a simulated SENT ECU
 sysvar::SENSOR::SENT::ECUSIM.SwitchSupplyVoltage(0);
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

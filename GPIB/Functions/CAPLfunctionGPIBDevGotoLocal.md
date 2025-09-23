@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/GPIB/Functions/CAPLfunctionGPIBDevGotoLocal.md)
-
-**CAPL Functions** » **GPIB** » **GPIBDevGotoLocal**
-
 # GPIBDevGotoLocal
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE

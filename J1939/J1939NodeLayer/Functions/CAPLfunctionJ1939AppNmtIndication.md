@@ -42,5 +42,3 @@ dword J1939AppNmtIndication( LONG busHandle, LONG address, LONG flag )
   return 0; 
 }
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

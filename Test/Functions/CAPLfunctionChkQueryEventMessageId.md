@@ -59,5 +59,3 @@ checkId = ChkStart_MsgRelCycleTimeViolation(VehicleMotion, 0.9, 1.1);
 result = ChkQuery_EventMessageId(checkId);
 Write("result = %d", result);
 ```
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -42,5 +42,3 @@ SCC_SetAppProtocolData(0, 2, 1);
 // send the modified message
 SCC_SendPreparedMessage();
 ```
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

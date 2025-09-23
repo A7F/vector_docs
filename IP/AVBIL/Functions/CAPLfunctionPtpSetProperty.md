@@ -1,7 +1,3 @@
-[PtpSetProperty](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AVBIL/Functions/CAPLfunctionPtpSetProperty.md)
-
-**CAPL Functions** » **Ethernet** » **AVB IL** » **PtpSetProperty**
-
 # PtpSetProperty
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE

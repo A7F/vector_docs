@@ -314,7 +314,6 @@ Valid for: CANoe DE • CANoe4SW DE
 
 - **Error Code:** -1119
   - **Description:** Invalid auxiliary assignment is used
-  - **Additional Parameter:** source address of the auxiliary input device (VT version 2) or auxiliary function ID (VT Version 3)
 
 - **Error Code:** -1120
   - **Description:** Timeout: auxiliary input maintenance message not received for inputs
@@ -323,9 +322,3 @@ Valid for: CANoe DE • CANoe4SW DE
 - **Error Code:** -1121
   - **Description:** No preferred auxiliary assignment available in this file
   - **Additional Parameter:** auxiliary input ID
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

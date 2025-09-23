@@ -49,7 +49,3 @@ Iso11783FSMove( "\TEST.TXT", "\DIR1\TEST2.TXT", 0x01 );
 // Delete (even, if "TEST.TXT" is read-only)
 Iso11783FSMove( "\TEST.TXT", 0, 0x06 );
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

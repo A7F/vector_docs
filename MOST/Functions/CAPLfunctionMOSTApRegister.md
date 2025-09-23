@@ -35,7 +35,3 @@ See [error codes](../CAPLfunctionsMOSTErrorCodes.md).
 —
 
 [mostApUnregister](CAPLfunctionMOSTApUnregister.md) • [mostApIsRegistered](CAPLfunctionMOSTApIsRegistered.md) • [mostApGetInstId](CAPLfunctionMOSTApGetInstID.md) • [mostApGetFBlockId](CAPLfunctionMOSTApGetFBlockID.md) • [OnMostApInstID](../EventProcedures/CAPLfunctionOnMOSTApInstID.md) • [mostApRegisterEx](CAPLfunctionMOSTApRegisterEx.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -25,9 +25,3 @@ In CAPL predefined data types are available that can be used like classes in obj
 - [UdpSocket](CAPLfunctionsOOPUDPSocket.md)
 
 [Detailed Description about Classes and Objects in CAPL](../../Shared/CAPL/General/ClassesAndObjects.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

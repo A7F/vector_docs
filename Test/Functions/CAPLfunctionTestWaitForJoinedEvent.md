@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForJoinedEvent.md)
-
-**CAPL Functions** » **Test Feature Set** » **TestWaitForJoinedEvent**
-
 # TestWaitForJoinedEvent
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -58,7 +54,3 @@ result = testWaitForJoinedEvent(handle1, 0, stopHandle, 500);
 ```
 
 [TestWaitForAllJoinedEvents](CAPLfunctionTestWaitForAllJoinedEvents.md) • [TestWaitForAnyJoinedEvent](CAPLfunctionTestWaitForAnyJoinedEvent.md) • [TestJoinAnd](CAPLfunctionTestJoinAnd.md) • [TestJoinOr](CAPLfunctionTestJoinOr.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

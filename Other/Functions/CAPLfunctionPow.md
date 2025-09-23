@@ -32,7 +32,3 @@ double result;
 result = _pow(2.0, 3.0); // result == 8.0
 result = _pow(4.0, 0.5); // result == 2.0
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

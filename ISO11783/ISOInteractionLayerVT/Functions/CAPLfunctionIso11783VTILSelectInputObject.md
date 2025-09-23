@@ -83,5 +83,3 @@ VTIL_EditNumericValue(VT, 220, 123, 0);  //type additionally "3"
 TestWaitForTimeout(400);
 VTIL_SelectInputObject(VT, 220, 0);    //finish editing
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

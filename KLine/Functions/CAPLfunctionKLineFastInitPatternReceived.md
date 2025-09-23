@@ -37,9 +37,3 @@ _KLine_FastInitPatternReceived( dword TiniL_us, dword Twup_us, int64 timestampTw
    write(FastInitPattern @%.3f received, type %d, TiniL = %d us, Twup = %d us", timestampTwup / cNs2s, type, TiniL_us, Twup_us);
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

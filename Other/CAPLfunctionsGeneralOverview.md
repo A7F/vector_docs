@@ -431,7 +431,3 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - **writeLineEX**: Writes the text into a new line of the specified window or into a page of the Write Window.
 - **writeTextBkgColor**: Sets the color for text background of the specified page in the Write Window.
 - **writeTextColor**: Sets the color for text of the specified page in the Write Window.
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

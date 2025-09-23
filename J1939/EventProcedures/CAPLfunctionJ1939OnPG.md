@@ -103,7 +103,3 @@ on pg CAN2::TPCM, CAN2::TPDT
 ```
 
 [CAPL Event Procedures](../../../Shared/CAPL/General/EventProceduresOverview.md) • [Message Selectors](../../CAN/CAPLfunctionMessageSelectors.md) • [Define Parameter Groups (J1939)](../CAPLfunctionsJ1939DefinePG.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

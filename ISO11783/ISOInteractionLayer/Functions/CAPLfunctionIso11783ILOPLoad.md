@@ -69,7 +69,3 @@ Iso11783IL_OPActivate();
 Iso11783IL_OPLoad( "ObjectPool.iop", "pool001", 0x02 );
 Iso11783IL_OPActivate();
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

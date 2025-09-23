@@ -36,7 +36,3 @@ Reads the value of a Service Signal.
 —
 
 [GetServiceSignalData](CAPLfunctionSomeIpGetServiceSignalData.md) • [GetServiceSignalString](CAPLfunctionSomeIpGetServiceSignalString.md) • [SetServiceSignal](CAPLfunctionSomeIpSetServiceSignal.md)
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

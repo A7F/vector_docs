@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ISO11783/ISONodeLayer/Functions/CAPLfunctionIso11783SetTPParam.md)
-
-**CAPL Functions** » **ISO11783** » **ISO11783 Node Layer** » **Iso11783SetTPParam**
-
 # Iso11783SetTPParam
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -59,9 +55,3 @@ Changing transport protocol settings.
 ```c
 Iso11783SetTPParam(ecuHdl, 1, 32*1024);
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

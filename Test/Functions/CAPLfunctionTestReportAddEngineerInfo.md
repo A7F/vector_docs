@@ -32,7 +32,3 @@ The format string has the same meaning as with the [write](../../Other/Functions
 See example: [TestReportAdd* Functions](CAPLfunctionsTFSExampleTestReportAddFunctions.md)
 
 [TestReportAddMiscInfoBlock](CAPLfunctionTestReportAddMiscInfoBlock.md) • [TestReportAddMiscInfo](CAPLfunctionTestReportAddMiscInfo.md) • [TestReportAddExtendedInfo](CAPLfunctionTestReportAddExtendedInfo.md)
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

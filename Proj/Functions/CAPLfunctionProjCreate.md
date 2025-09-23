@@ -116,7 +116,3 @@ result = Proj_Create("+proj=tmerc +a=6378137 +b=6378137 +lon_0=8.899502630166624
   - CANoe4SW SE (Windows): —
   - CANoe4SW SE (Linux): —
   - vTESTstudio: N/A
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

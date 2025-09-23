@@ -26,7 +26,3 @@
 - [WriteByteArraySignalAsInteger](CAPLfunctionWriteByteArraySignalAsInteger.md): Writes the value of a byte array signal, treating it as an integer.
 
 [Signal Access in CAPL](../../Shared/CAPL/SignalOrientedProgramming/SOPSignalConcept.md) • [Test Feature Set: Signal Based Access](../../CANoeCANalyzer/Test/TestFeatureSet/TFSSignalOrientedAccess.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

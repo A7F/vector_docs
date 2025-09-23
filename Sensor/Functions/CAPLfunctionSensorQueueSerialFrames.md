@@ -34,7 +34,3 @@ Returns a [SensorErrorCode](../CAPLfunctionsSensorEnumeration.md).
 dword data[3] = {0x01, 0x02, 0x03};
 sensorQueueSerialFrames("SENSOR::UART::ExampleChannel", data, 3);
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

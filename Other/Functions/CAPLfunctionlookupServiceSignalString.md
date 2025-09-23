@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Other/Functions/CAPLfunctionlookupServiceSignalString.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [General](../CAPLGeneralStartPage.md) » [Function Overview](../CAPLfunctionsGeneralOverview.md) » lookupServiceSignalString
-
 # lookupServiceSignalString
 
 Valid for: CANoe DE • CANoe4SW DE
@@ -51,9 +47,3 @@ for( i = 0; i < elcount(serviceSignalNames); i++ )
   SetServiceSignalString( sig, emptyString );
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

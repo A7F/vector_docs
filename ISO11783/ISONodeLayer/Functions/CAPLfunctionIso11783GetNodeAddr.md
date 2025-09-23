@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ISO11783/ISONodeLayer/Functions/CAPLfunctionIso11783GetNodeAddr.md)
-
-**CAPL Functions** » **ISO11783** » **ISO11783 Node Layer** » Iso11783GetNodeAddr
-
 # Iso11783GetNodeAddr
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -30,7 +26,3 @@ This function returns the current address of a logical ECU.
 ```c
 addr = Iso11783GetNodeAddr(ecuHandle);
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -75,7 +75,3 @@ Gets a property of the TIM server/client.
 —
 
 [Iso11783IL_TIMSetProperty](CAPLfunctionIso11783ILtimSetProperty.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

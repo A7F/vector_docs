@@ -30,9 +30,3 @@ Original time stamp of the last update to the variable value in nanoseconds sinc
 int64 timeStamp;
 timeStamp = sysGetOrigTimeNS(sysvar::MyNamespace::FloatVar);
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

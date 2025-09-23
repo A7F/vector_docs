@@ -58,5 +58,3 @@ For the check control there are the following functions to influence. These func
 - [ChkControl_Stop](Functions/CAPLfunctionChkControlStop.md): Turns off the checking of the event condition.
 - [ChkControl_Reset](Functions/CAPLfunctionChkControlReset.md): Initializes the status of the check.
 - [ChkControl_Destroy](Functions/CAPLfunctionChkControlDestroy.md): Destroys the check.
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

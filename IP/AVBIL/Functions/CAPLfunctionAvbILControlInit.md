@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AVBIL/Functions/CAPLfunctionAvbILControlInit.md)
-
-**CAPL Functions** » **Ethernet** » **AVB IL** » **AvbILControlInit**
-
 # AvbILControlInit
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -34,7 +30,3 @@ This function may only be used in `on preStart`.
 —
 
 [See Also](javascript:void(0);)
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Media/Properties/CAPLfunctionDvVauxSrcPack.md)
-
-**CAPL Functions** » [Media API](../CAPLfunctionsMediaOverview.md) » [Properties](../CAPLfunctionsMediaProperties.md) » DvVauxSrcPack
-
 # DvVauxSrcPack
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE

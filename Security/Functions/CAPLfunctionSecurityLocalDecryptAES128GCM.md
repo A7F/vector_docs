@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Security/Functions/CAPLfunctionSecurityLocalDecryptAES128GCM.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Security](../CAPLFunctionsSecurityOverview.md) » SecurityLocalDecryptAES128GCM
-
 # SecurityLocalDecryptAES128GCM
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -71,7 +67,3 @@ decryptResult = SecurityLocalDecryptAES128GCM(keyData, elcount(keyData), initVec
 ```
 
 [SecurityLocalEncryptAES128GCM](CAPLfunctionSecurityLocalEncryptAES128GCM.md) • [SecurityLocalDecryptAES256GCM](CAPLfunctionSecurityLocalDecryptAES256GCM.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

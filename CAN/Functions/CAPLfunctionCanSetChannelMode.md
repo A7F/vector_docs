@@ -8,8 +8,6 @@
 
 ### Note
 
-This function can only be used with Vector drivers. The `vcndrvms.DLL` must be at least Version 4.2.40.
-
 ### Function Syntax
 
 ```plaintext
@@ -49,7 +47,3 @@ on key 't'
 ```
 
 [canSetChannelAcc](CAPLfunctionCanSetChannelAcc.md) • [canSetChannelOutput](CAPLfunctionCanSetChannelOutput.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

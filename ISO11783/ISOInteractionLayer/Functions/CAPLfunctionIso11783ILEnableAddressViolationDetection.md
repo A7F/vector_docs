@@ -45,5 +45,3 @@ This behavior can be influenced by implementing the function [Iso11783IL_OnAddre
 ## Example
 
 —
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

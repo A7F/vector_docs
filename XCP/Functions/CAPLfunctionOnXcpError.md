@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/XCP/Functions/CAPLfunctionOnXcpError.md)
-
-CAPL Functions » [XCP](../CAPLfunctionsXCPOverview.md) » OnXcpError
-
 # OnXcpError
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -29,9 +25,3 @@ Whenever the XCP slaves answers with a negative response (i.e. not 0xFF) the OnX
 ## Example
 
 —
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

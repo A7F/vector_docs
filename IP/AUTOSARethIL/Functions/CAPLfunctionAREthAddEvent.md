@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionAREthAddEvent.md)
-
-**CAPL Functions** » **Ethernet** » **AUTOSAR Eth IL** » **AREthAddEvent**
-
 # AREthAddEvent
 
 **Valid for**: CANoe DE • CANoe4SW DE

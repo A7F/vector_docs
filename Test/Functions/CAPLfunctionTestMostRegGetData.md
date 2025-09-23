@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestMostRegGetData.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestMostRegGetData
-
 # TestMostRegGetData
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -37,9 +33,3 @@ Note that the register values are only held ready for call-up until the next wai
 —
 
 [TestMostReadReg](CAPLfunctionTestMostReadReg.md) • [TestMostWriteReg](CAPLfunctionTestMostWriteReg.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

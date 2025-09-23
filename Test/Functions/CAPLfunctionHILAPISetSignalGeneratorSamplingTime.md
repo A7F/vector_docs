@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionHILAPISetSignalGeneratorSamplingTime.md)
-
-**CAPL Functions** » [Test Service Library](../CAPLfunctionsTSLOverview.md) » [Stimulus Functions](../CAPLfunctionsTSLStimulusOverview.md) » HILAPISetSignalGeneratorSamplingTime
-
 # HILAPISetSignalGeneratorSamplingTime
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -53,7 +49,3 @@ HILAPIDestroySignalGenerator(generator);
 ```
 
 [HILAPICreateSignalGenerator](CAPLfunctionHILAPICreateSignalGenerator.md) • [HILAPIStartSignalGenerator](CAPLfunctionHILAPIStartSignalGenerator.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -33,7 +33,3 @@ The CANoe MATLAB Integration uses meaningful default values to set up and contro
 If the model was built as **Concurrent Execution 64 Bit Real-Time DLL**, the CAPL function `<ModelName>_step` does not perform the whole simulation step, it just triggers its execution on a separate thread. When the simulation step is completed, the DLL calls the CAPL function `void on_<ModelName>_step_completed()` if this function was implemented by the user. For an example, see the sample configuration [Concurrent Execution with External CAPL Scheduler](../../SampConf/Matlab/MATLABConcurrentExecutionCAPLScheduler.md).
 
 [MATLAB Integration](../../CANoeCANalyzer/Interfaces/MATLAB/MATLAB.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -95,7 +95,3 @@
 
 - **-617**: A message cannot be sent to the Task Controller because no Task Controller is detected in the network.  
   Additional Parameter: —
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

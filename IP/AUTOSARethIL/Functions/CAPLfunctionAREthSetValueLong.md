@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionAREthSetValueLong.md)
-
-**CAPL Functions** » **Ethernet** » **AUTOSAR Eth IL** » **AREthSetValueLong**
-
 # AREthSetValueLong
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE

@@ -1,7 +1,3 @@
-[TestWaitForGenerateKeyFromSeed](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForGenerateKeyFromSeed.md)
-
-**CAPL Functions** » **Test Feature Set** » **TestWaitForGenerateKeyFromSeed**
-
 # TestWaitForGenerateKeyFromSeed
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -51,9 +47,3 @@ Testfunction ComputeKeyInExtendedSession( BYTE seed[], BYTE key[])
 ```
 
 [diagGenerateKeyFromSeed](../../Diagnostics/Functions/CAPLfunctionDiagGenerateKeyFromSeed.md)
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

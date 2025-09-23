@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AVBIL/Functions/CAPLfunctionAvbGetProtocol.md)
-
-**CAPL Functions** » **Ethernet** » **AVB IL** » **AvbGetProtocol**
-
 # AvbGetProtocol
 
 [Valid for: CANoe DE • CANoe4SW DE](../../../../Shared/FeatureAvailability.md)
@@ -35,7 +31,3 @@ The function retrieves the AVTP protocol of the Listener or Talker.
 —
 
 [See Also](javascript:void(0);)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

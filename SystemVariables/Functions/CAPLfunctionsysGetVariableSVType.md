@@ -40,5 +40,3 @@ long t1, t2;
 t1 = sysGetVariableSVType(lookupSysvar("mysysvar"));
 t2 = sysGetVariableSVType(sysvar::mysysvar);
 ```
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

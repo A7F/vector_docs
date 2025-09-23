@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Sensor/Functions/CAPLfunctionQueueWriteFrame.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Sensor](../CAPLfunctionsSensorOverview.md) » QueueWriteFrame
-
 # QueueWriteFrame
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -39,7 +35,3 @@ byte sendData[2] = {0x42, 0x21};
 // Queue the request to the slave
 sysvar::SENSOR::I2C::ExampleChannel::ExampleSlave.QueueWriteFrame (sendData, 2);
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

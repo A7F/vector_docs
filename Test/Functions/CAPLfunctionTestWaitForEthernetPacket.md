@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForEthernetPacket.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestWaitForEthernetPacket
-
 # TestWaitForEthernetPacket
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -120,7 +116,3 @@ void MainTest ()
 ```
 
 [TestJoinMessageEvent](CAPLfunctionTestJoinMessageEvent.md) • [TestGetWaitEventMsgData](CAPLfunctionTestGetWaitEventMsgData.md) • [testGetWaitEthernetPacketData](CAPLfunctionTestGetWaitEthernetPacketData.md) • [TestJoinEthernetPacket](CAPLfunctionTestJoinEthernetPacket.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

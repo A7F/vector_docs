@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/J1939/J1939InteractionLayer/Functions/CAPLfunctionJ1939ILResetBlockedTxTpDt.md)
-
-**CAPL Functions** » **J1939** » **J1939 IL** » **J1939ILResetBlockedTxTpDt**
-
 # J1939ILResetBlockedTxTpDt
 
 [Valid for: CANoe DE](../../../../Shared/FeatureAvailability.md) • CANoe4SW DE
@@ -43,7 +39,3 @@ on key 'a' {
   }
 }
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ISO11783/ISONodeLayer/Functions/CAPLfunctionIso11783OPGetAttribute.md)
-
-**CAPL Functions** » **ISO11783** » **ISO11783 Node Layer** » Iso11783OPGetAttribute
-
 # Iso11783OPGetAttribute
 
 [Valid for](../../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -33,7 +29,3 @@ The function returns a value of an object attribute from the local object pool. 
 LONG objType;
 objType = Iso11783OPGetAttribute( handle, 1000, 0 );
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

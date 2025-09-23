@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForFrFrameError.md)
-
-**CAPL Functions** » **Test Feature Set** » **TestWaitForFrFrameError**
-
 # TestWaitForFrFrameError
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -42,7 +38,3 @@ Waits for the occurrence of FlexRay frame error event. Should the event not occu
 For an example see function [TestWaitForFrFrame](CAPLfunctionTestWaitForFrFrame.md) and replace all FrFrame by FrFrameError.
 
 [TestGetWaitFrFrameErrorData](CAPLfunctionTestGetWaitFrFrameErrorData.md) • [TestJoinFrFrameErrorEvent](CAPLfunctionTestJoinFrFrameErrorEvent.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

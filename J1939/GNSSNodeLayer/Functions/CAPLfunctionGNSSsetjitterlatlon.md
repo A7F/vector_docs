@@ -31,9 +31,3 @@ double jitter = 1.5;
 GNSSSetUnits( 0 );
 GNSSSetJitterLatLon( jitter ); // 1.5 m
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

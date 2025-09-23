@@ -49,7 +49,3 @@ on start
   IPsecPolicyDatabaseDelete(ip_Endpoint(0.0.0.0:0), 0, ip_Endpoint(192.168.1.0:21), 24, "any", "out");
 }
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

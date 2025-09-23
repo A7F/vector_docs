@@ -30,7 +30,3 @@ Changes the active variant for the current target.
 —
 
 [Automatic Variant Identification](../../../CANoeCANalyzer/Diagnostics/Test/DiagnosticsAutomaticVariantIdentification.md) • [Diagnostic CAPL Functions: Variant Identification](../../Diagnostics/CAPLfunctionsDiagnosticsOverview.md#FunctionsVariantIdentification)
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

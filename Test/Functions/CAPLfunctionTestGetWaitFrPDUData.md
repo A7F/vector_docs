@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestGetWaitFrPDUData.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestGetWaitFrPDUData
-
 # TestGetWaitFrPDUData
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -34,7 +30,3 @@ The second function can only be used for "joined events". The number of the "joi
 For an example see function [TestWaitForFrPDU](CAPLfunctionTestWaitForFrPDU.md).
 
 [TestWaitForFrPDU](CAPLfunctionTestWaitForFrPDU.md) • [TestJoinFrPDUEvent](CAPLfunctionTestJoinFrPDUEvent.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

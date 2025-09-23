@@ -42,7 +42,3 @@
 No explicit read functions are available. The response of GPIB devices is announced in the callback function [GPIBResponse](Functions/CAPLfunctionGPIBResponse.md). Here users can implement their specific code.
 
 [Error Code](CAPLfunctionsGPIBErrorCode.md) • [Status](CAPLfunctionsGPIBStatus.md) • [GPIB: Overview](../../CANoeCANalyzer/Interfaces/GPIB.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

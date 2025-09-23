@@ -28,7 +28,3 @@ After a dialog with byte input is closed you can use this function to get the in
 handle = TestWaitForByteInput("Test Text", "Test Caption", "Test Byte Input", 0);
 TestGetByteInput(resultByte, elcount(resultByte));
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

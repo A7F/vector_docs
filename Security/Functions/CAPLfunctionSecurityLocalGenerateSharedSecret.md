@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Security/Functions/CAPLfunctionSecurityLocalGenerateSharedSecret.md)
-
-### CAPL Functions » Security » SecurityLocalGenerateSharedSecret
-
 # SecurityLocalGenerateSharedSecret
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -86,7 +82,3 @@ result = SecurityLocalGenerateSharedSecret(curve, publicKey, publicKeyLength, pr
 ```
 
 [SecurityLocalGenerateEphemeralKeyPair](CAPLfunctionSecurityLocalGenerateEphemeralKeyPair.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

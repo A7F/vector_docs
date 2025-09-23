@@ -21,9 +21,3 @@ This class is used to implement UDP network communications.
   - [setSocketOption](../TCPIPAPI/Functions/CAPLfunctionIPSetSocketOption.md)
 
 [More on TCP/IP API](../TCPIPAPI/CAPLfunctionsTCPIPOverview.md)
-
-**Version:** CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

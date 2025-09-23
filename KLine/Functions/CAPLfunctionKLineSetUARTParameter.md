@@ -34,9 +34,3 @@ KLine_SetUARTParameter( 9, 1, 2); // 9 data bits, odd parity, 2 stop bits => 13 
 ```
 
 [KLine_SetBaudrate](CAPLfunctionKLineSetBaudrate.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

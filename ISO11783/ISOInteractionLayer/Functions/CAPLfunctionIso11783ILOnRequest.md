@@ -42,5 +42,3 @@ LONG Iso11783IL_OnRequest( LONG rqPGN, LONG sourceAddr )
   return 1;
 }
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -28,7 +28,3 @@ Fills the struct with bytes from the array, and translates the byte order of the
 ## Example
 
 See example [memcpy_h2n](CAPLfunctionMemCpyH2n.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

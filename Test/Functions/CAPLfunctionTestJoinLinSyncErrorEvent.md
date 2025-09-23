@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestJoinLinSyncErrorEvent.md)
-
-**CAPL Functions** » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestJoinLinSyncErrorEvent
-
 # TestJoinLinSyncErrorEvent
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -63,7 +59,3 @@ testcase tcTFS_waitForLINHeader(int frameId)
 ```
 
 [TestGetWaitLinSyncErrorData](CAPLfunctionTestGetWaitLinSyncErrorData.md) • [TestWaitForLinSyncError](CAPLfunctionTestWaitForLinSyncError.md) • [TestWaitForAllJoinedEvents](CAPLfunctionTestWaitForAllJoinedEvents.md) • [TestWaitForAnyJoinedEvent](CAPLfunctionTestWaitForAnyJoinedEvent.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AVBIL/Functions/CAPLfunctionOnAvbSendPrepare.md)
-
-**CAPL Functions** » **Ethernet** » **AVB IL** » **OnAvbSendPrepare**
-
 # OnAvbSendPrepare
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE

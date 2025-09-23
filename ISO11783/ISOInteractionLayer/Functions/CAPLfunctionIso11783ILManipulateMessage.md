@@ -65,7 +65,6 @@ on key 'a'
   filterMask, filterValue, dataMask, dataValue);
 
   // 2. Manipulate ECUtoVT Working Set Maintenance message (VT Function = 0xFF):
-  //    'Version Number' (Byte3) should be set to Version 5 (0x5) instead of Version 4 (0x4)
 
   // The filterMask should therefore use Byte 1 (contains 'VT function')
   // and Bytes 3(contains 'Version Number').
@@ -100,7 +99,6 @@ on key 'b'
   ISO11783IL_ResetManipulatedMessage(0xE700 /*ECUtoVT*/, 0x26 /*destinationAddress*/, filterMask, filterValue);
 
   // 2. Reset the manipulating of ECUtoVT Working Set Maintenance message (VT Function = 0xFF)
-  //    where 'Version Number' (Byte3) is equal to Version 4 (0x4)
 
   // The filterMask should therefore use Byte 1 (contains 'VT function')
   // and Bytes 3(contains 'Version Number').
@@ -111,7 +109,3 @@ on key 'b'
   ISO11783IL_ResetManipulatedMessage(0xE700 /*ECUtoVT*/, 0x26 /*destinationAddress*/, filterMask, filterValue);
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

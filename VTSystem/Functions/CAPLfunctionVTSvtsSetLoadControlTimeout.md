@@ -42,9 +42,3 @@ The following figure illustrates the control response using an example:
 A timeout of 2 s was set here. The input voltage (yellow) and the current flowing at the input (red) are presented qualitatively. At the first pulse, the input voltage is not applied for only approximately 1 s. In this case, a timeout does not occur and the set current continues flowing when the input voltage is applied again. At the second pulse, a timeout occurs. In this case, the input voltage is not applied for a period lasting more than 2 s. The internal load is then connected with high resistance. If the input voltage is restored, the internal load must first adjust to the set current, which is apparent from the slow rise in the current.
 
 [SetLoadControlTimeout](CAPLfunctionVTSSetLoadControlTimeout.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

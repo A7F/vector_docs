@@ -36,7 +36,3 @@ Returns the state of the Object Pool API.
 ```plaintext
 state = Iso11783IL_OPGetState();
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

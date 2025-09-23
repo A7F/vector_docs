@@ -40,9 +40,3 @@ substr_cpy_off(s2, 7, s1, 4, -1, elcount(s2)); // s2: Vector CAPL
 ```
 
 [strstr](CAPLfunctionStrStr.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

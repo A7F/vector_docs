@@ -35,8 +35,6 @@ Within this event procedure, the following functions are available:
   Indicates the used MOST High Protocol version.  
   **Parameters**: None  
   **Returns**:  
-  0: Version 2.1  
-  1: Version 2.2
 
 - `long mostMHPPacketNegAcks()`
 
@@ -91,7 +89,3 @@ The return value determines whether the MHP packet event is relayed to the next 
 —
 
 [MOST High Protocol: Simulation of Sender and Receiver](../../../CANoeCANalyzer/MOST/MOSTSimulationApplicationSocketLocalFBlockList.md) • [OnMostMHPBlock](CAPLfunctionOnMOSTMHPBlock.md) • [OnMostMHPError](CAPLfunctionOnMOSTMHPError.md) • [mostMHPPacketSetTraceColors](../Functions/CAPLfunctionMOSTMHPPacketSetTraceColors.md) • [MOST High Observer and Combiner](../CAPLfunctionsMOSTHighObserverCombiner.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

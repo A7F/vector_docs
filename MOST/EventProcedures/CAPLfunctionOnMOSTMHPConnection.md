@@ -32,8 +32,6 @@ The event procedure is called up as soon as a MOST High connection version 2.2 o
   Indicates the used MOST High Protocol version.  
   **Parameters**: None  
   **Returns**:  
-  0: Version 2.1  
-  1: Version 2.2
 
 - `long mostMHPConnectionNegAcks()`
 
@@ -100,7 +98,3 @@ The return value determines whether the MHP connection event is relayed to the n
 - [OnMostMHPError](CAPLfunctionOnMOSTMHPError.md)
 - [mostMHPConnectionSetTraceColors](../Functions/CAPLfunctionMOSTMHPConnectionSetTraceColors.md)
 - [MOST High Observer and Combiner](../CAPLfunctionsMOSTHighObserverCombiner.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

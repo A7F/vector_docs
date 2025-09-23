@@ -72,7 +72,3 @@ To measure the delay and compensation time a secant is used. The secant points a
   - **Access Limitations**: Read-only
 
 [testWaitScopePerformEdgeAnalysis](../../Test/Functions/CAPLfunctionTestWaitScopePerformEdgeAnalysis.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

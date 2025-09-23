@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/J1939/Functions/CAPLfunctionJ1939ConvertMessageToPg.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [J1939](../CAPLfunctionsJ1939StartPage.md) » [Function Overview](../CAPLfunctionsJ1939Overview.md) » J1939ConvertMessageToPg
-
 # J1939ConvertMessageToPg
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -42,9 +38,3 @@ void GetPgOfArray(byte index, pg * target)
 ```
 
 [J1939ConvertPgToMessage](CAPLfunctionJ1939ConvertPgToMessage.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

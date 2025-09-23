@@ -89,5 +89,3 @@ If(GBT27930IL_SetNodeProperty("BAM_DT_Interval", 100) < 0)
   write( "Can’t set node property 'BAM_DT_Interval' " );
 }
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

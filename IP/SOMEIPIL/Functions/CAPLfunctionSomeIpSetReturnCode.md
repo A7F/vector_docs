@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/SOMEIPIL/Functions/CAPLfunctionSomeIpSetReturnCode.md)
-
-[CAPL Functions](../../../CAPLfunctions.md) » [Ethernet](../../CAPLEthernetStartPage.md) » [SOME/IP IL](../CAPLfunctionsSomeIPILOverview.md) » SomeIpSetReturnCode
-
 # SomeIpSetReturnCode
 
 [Valid for](../../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE

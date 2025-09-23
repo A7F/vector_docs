@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Other/Functions/CAPLfunctionSetControlProperty.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [General](../CAPLGeneralStartPage.md) » [Function Overview](../CAPLfunctionsGeneralOverview.md) » SetControlProperty
-
 # SetControlProperty
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -115,7 +111,3 @@ SetControlProperty("MyPanel", "MyPanelControlButton", "Iamge", "..\\Images\Panel
 ```
 
 [SetControlBackColor](CAPLfunctionSetControlBackColor.md) • [SetControlForeColor](CAPLfunctionSetControlForeColor.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

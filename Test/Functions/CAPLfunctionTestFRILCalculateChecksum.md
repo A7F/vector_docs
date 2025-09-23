@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestFRILCalculateChecksum.md)
-
-**CAPL Functions** » **CANoe IL** » **TestFRILCalculateChecksum**
-
 # TestFRILCalculateChecksum
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -39,7 +35,3 @@ Consider to set always the appropriate bus context in a multibus environment bef
 —
 
 [ILCalculateChecksum](../../CANoeIL/Functions/CAPLfunctionILCalculateChecksum.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

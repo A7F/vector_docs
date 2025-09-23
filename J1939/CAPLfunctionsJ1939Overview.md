@@ -74,7 +74,3 @@ Only available with [Option J1939](../../CANoeCANalyzer/J1939/J1939.md) and [Opt
 - **J1939GetContainedPGData**: Get PG Data of a Contained-PG.
 - **J1939GetContainedPGAssuranceData**: Get assurance data of a Contained-PG.
 - **J1939GetNumberOfContainedPGs**: Get the number of Contained-PGs (C-PGs) of a J1939-22 Multi-PG.
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -77,7 +77,7 @@ Sets the return code of the next message to be sent.
   - FAILED_MeteringSignatureNotValid
   - FAILED_NoChargeServiceSelected
   - FAILED_WrongEnergyTransferMode
-  - FAILED_ContactorError
+
   - FAILED_CertificateNotAllowedAtThisEVSE
   - FAILED_CertificateRevoked
 
@@ -89,9 +89,3 @@ Sets the return code of the next message to be sent.
 ## Example
 
 —
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

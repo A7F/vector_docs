@@ -44,5 +44,3 @@ This function activates the name management of a node. Not until the name manage
 //allow every component to be changed except arbitrary address capable flag
 VTIL_EnableNameManagement(1, 0xFE);
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

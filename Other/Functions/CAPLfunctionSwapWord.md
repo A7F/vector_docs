@@ -32,9 +32,3 @@ Value with swapped bytes.
 ```plaintext
 bigEndian = swapInt(1234); // create constant 1234 for Motorola processors
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

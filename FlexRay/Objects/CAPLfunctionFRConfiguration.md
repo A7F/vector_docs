@@ -93,9 +93,3 @@ The [frGetConfiguration](../Functions/CAPLfunctionFRGetConfiguration.md) or [frS
 ### Example
 
 For an example see functions [frGetConfiguration](../Functions/CAPLfunctionFRGetConfiguration.md) and [frSetConfiguration](../Functions/CAPLfunctionFRSetConfiguration.md).
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Other/Functions/CAPLfunctionSetVideoRecordFile.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [General](../CAPLGeneralStartPage.md) » [Function Overview](../CAPLfunctionsGeneralOverview.md) » SetVideoRecordFile
-
 # SetVideoRecordFile
 
 **Valid for**: CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -41,7 +37,3 @@ Sets the record file for a CANoe DE product [Video Window](../../../CANoeCANalyz
 —
 
 [SetVideoOfflineLoggerCam](CAPLfunctionSetVideoOfflineLoggerCam.md) • [SetVideoOfflineSource](CAPLfunctionSetVideoOfflineSource.md) • [SetVideoTriggerTimes](CAPLfunctionSetVideoTriggerTimes.md) • [StartVideoRecording](CAPLfunctionStartVideoRecording.md) • [StopVideoRecording](CAPLfunctionStopVideoRecording.md)
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

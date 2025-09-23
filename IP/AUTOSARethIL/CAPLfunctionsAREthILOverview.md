@@ -183,9 +183,3 @@
 - [AREthSetValuePhys](Functions/CAPLfunctionAREthSetValuePhys.md): Sets the physical parameters of a SOME/IP message.
 - [AREthSetValueQWord](Functions/CAPLfunctionAREthSetValueQWord.md): Sets the parameters of a SOME/IP message.
 - [AREthSetValueString](Functions/CAPLfunctionAREthSetValueString.md): Sets the string parameters of a SOME/IP message.
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

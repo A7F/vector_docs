@@ -1,7 +1,3 @@
-[J1939TxReqPG](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/J1939/J1939NodeLayer/Functions/CAPLfunctionJ1939TxReqPG.md)
-
-**CAPL Functions** » [J1939](../../CAPLfunctionsJ1939StartPage.md) » [J1939 NL](../CAPLfunctionsJ1939NLOverview.md) » J1939TxReqPG
-
 # J1939TxReqPG
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -46,7 +42,3 @@ res = J1939TxReqPG(ecuHdl, 0xFE45, 0xFF, 4, 14, data);
 // specific parameter group:
 res = J1939TxReqPG(ecuHdl, 0xE600, 0x09, 4, 14, data);
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

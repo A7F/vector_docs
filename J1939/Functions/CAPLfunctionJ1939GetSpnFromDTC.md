@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/J1939/Functions/CAPLfunctionJ1939GetSpnFromDTC.md)
-
-**CAPL Functions** » [J1939](../CAPLfunctionsJ1939StartPage.md) » [Function Overview](../CAPLfunctionsJ1939Overview.md) » J1939GetSpnFromDTC
-
 # J1939GetSpnFromDTC
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -48,5 +44,3 @@ on pg DM1
   }
 }
 ```
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

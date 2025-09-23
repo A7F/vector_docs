@@ -36,7 +36,3 @@ For test purposes, the stress network interface controller in the OptoLyzer G2 3
 —
 
 [mostGetChannel](CAPLfunctionMOSTGetChannel.md) • [OnMostSystemLock](../EventProcedures/CAPLfunctionOnMOSTSystemLock.md) • [mostWakeup](CAPLfunctionMOSTWakeup.md) • [mostShutDown](CAPLfunctionMOSTShutDown.md) • [mostSetShutDownFlagUsage](CAPLfunctionMOSTSetGetShutDownFlagUsage.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

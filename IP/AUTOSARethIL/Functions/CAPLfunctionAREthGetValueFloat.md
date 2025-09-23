@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionAREthGetValueFloat.md)
-
-**CAPL Functions** » **Ethernet** » **AUTOSAR Eth IL** » AREthGetValueFloat
-
 # AREthGetValueFloat
 
 **Valid for**: CANoe DE • CANoe4SW DE

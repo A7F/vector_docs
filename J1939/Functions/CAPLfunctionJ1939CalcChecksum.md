@@ -1,7 +1,3 @@
-[J1939CalcChecksum](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/J1939/Functions/CAPLfunctionJ1939CalcChecksum.md)
-
-**CAPL Functions** » [J1939](../CAPLfunctionsJ1939StartPage.md) » [Function Overview](../CAPLfunctionsJ1939Overview.md) » J1939CalcChecksum
-
 # J1939CalcChecksum
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -51,7 +47,3 @@ on pg *
   }
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

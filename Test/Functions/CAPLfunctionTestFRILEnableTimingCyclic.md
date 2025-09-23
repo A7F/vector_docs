@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestFRILEnableTimingCyclic.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestFRILEnableTimingCyclic
-
 # TestFRILEnableTimingCyclic
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -52,9 +48,3 @@ TestFRILEnableTimingCyclic(pduXY, enable);
 ```
 
 [OEM Addn Based Fault Injection Functions](../CAPLfunctionsTFSOverview.md#OEMPackageFaultInjection)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/XCP/Functions/CAPLfunctionOnXcpEvent.md)
-
-**CAPL Functions** » **XCP** » **OnXcpEvent**
-
 # OnXcpEvent
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md) • CANoe4SW DE
@@ -29,7 +25,3 @@ This callback provides access to data that is sent from an XCP or CCP slave in a
 ## Example
 
 —
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

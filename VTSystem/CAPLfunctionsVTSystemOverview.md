@@ -375,9 +375,3 @@ The methods/functions listed on this site can only be called in connection with 
   - Closes/opens the auxiliary relay on a connected VT backplane.
 
 [VT System](../../CANoeCANalyzer/VTSystem/VTSystem.md) • [Enumeration](CAPLfunctionsVTSystemEnumeration.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

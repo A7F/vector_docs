@@ -104,5 +104,3 @@ The following socket options can be set at the SOL_SOCKET option level in CAPL. 
   - **Description**: If option is set to 0 a connected socket will abort immediately. If option is set to 1 a connected socket will send all pending data first and will then initiate the shutdown sequence. On a windows socket the port will be unavailable for new socket connections until the socket moves from TIME_WAIT state to CLOSED state.
   - **Type**: DWORD
   - **Stack**: C/W
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/GPIB/Functions/CAPLfunctionGPIBDevClear.md)
-
-**CAPL Functions** » **GPIB** » **GPIBDevClear**
-
 # GPIBDevClear
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -28,9 +24,3 @@ Resets a device.
 ## Example
 
 —
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

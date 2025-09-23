@@ -38,7 +38,3 @@ The second one returns the logical device address (node address) of the function
 —
 
 [mostAsRgGetSize](CAPLfunctionMOSTAsRgGetSize.md) • [OnMostAsRegistry](../EventProcedures/CAPLfunctionOnMOSTAsRegistry.md)
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

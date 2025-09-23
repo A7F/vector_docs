@@ -32,9 +32,3 @@ On the single function and event procedure pages you can find an overview of ava
 - [Write Format Expressions](CAPLFunctionsWriteFormatExpressions.md)
 
 [Debugger](../../CANoeCANalyzer/Debugger/Debugger.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -24,9 +24,3 @@ Types of arguments (defined in CAPL) that can be handed over.
 - **Callback**: Name of the function to call (signature is fixed).
 - **Duration**: Length of an interval with the unit of the current precision. (Default: milliseconds)
 - **Check**: Reference-ID of a check (type "dword"), returned on check creation.
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ISO11783/ISONodeLayer/Functions/CAPLfunctionIso11783PDDUpdateDeviceDescription.md)
-
-[CAPL Functions](../../../CAPLfunctions.md) » [ISO11783](../../CAPLfunctionsISO11783Overview.md) » [ISO11783 Node Layer](../CAPLfunctionsISONLOverview.md) » Iso11783PDDUpdateDeviceDescription
-
 # Iso11783PDDUpdateDeviceDescription
 
 [Valid for](../../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -43,7 +39,3 @@ if (Iso11783PDDUpdateDeviceDescription( ecuHandle, "Sprayer01.XML" ) == 0) {
   write( "Error while update file" );
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

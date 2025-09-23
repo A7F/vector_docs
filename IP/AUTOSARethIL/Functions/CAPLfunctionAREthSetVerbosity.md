@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionAREthSetVerbosity.md)
-
-**CAPL Functions** » **Ethernet** » **AUTOSAR Eth IL** » AREthSetVerbosity
-
 # AREthSetVerbosity
 
 [Valid for: CANoe DE • CANoe4SW DE](../../../../Shared/FeatureAvailability.md)

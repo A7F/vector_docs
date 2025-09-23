@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForDiagKLineFrameReceived.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestWaitForDiagKLineFrameReceived
-
 # TestWaitForDiagKLineFrameReceived
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -32,9 +28,3 @@ Waits for the occurrence of a received valid message. Should the message not occ
 —
 
 [TestWaitForDiagKLineFrameTransmitted](CAPLfunctionTestWaitForDiagKLineFrameTransmitted.md) • [TestGetWaitKLineEventFrame](CAPLfunctionTestGetWaitEventKLineFrame.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

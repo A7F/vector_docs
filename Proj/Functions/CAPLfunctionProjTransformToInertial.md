@@ -62,9 +62,3 @@ void proj_convert_to_inertial() {
 - **CANoe Test Setup for Test Units**: ✔
 - **32-Bit**: ✔
 - **64-Bit**: ✔
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

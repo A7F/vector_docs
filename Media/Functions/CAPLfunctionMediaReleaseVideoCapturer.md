@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Media/Functions/CAPLfunctionMediaReleaseVideoCapturer.md)
-
-**CAPL Functions** » [Media API](../CAPLfunctionsMediaOverview.md) » MediaReleaseVideoCapturer
-
 # MediaReleaseVideoCapturer
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -58,9 +54,3 @@ Releases the video capturer.
 - [MediaSetPropertySize](CAPLfunctionMediaSetPropertySize.md#aanchor9917)
 - [MediaWrite](CAPLfunctionMediaWrite.md#aanchor16167)
 - [OnMediaRead](../EventProcedures/CAPLfunctionOnMediaRead.md#aanchor21142)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

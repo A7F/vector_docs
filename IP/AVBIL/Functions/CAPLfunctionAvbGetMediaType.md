@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AVBIL/Functions/CAPLfunctionAvbGetMediaType.md)
-
-**CAPL Functions** » [Ethernet](../../CAPLEthernetStartPage.md) » [AVB IL](../CAPLfunctionsAVBILOverview.md) » AvbGetMediaType
-
 # AvbGetMediaType
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -66,7 +62,3 @@ Gets the media type for a Listener or a Talker.
 - [PtpSimulationTimespanFromPtpTimespan](CAPLfunctionPtpSimulationTimespanFromPtpTimespan.md#aanchor15759)
 - [PtpTimeFromSimulationTime](CAPLfunctionPtpTimeFromSimulationTime.md#aanchor10767)
 - [PtpTimeNow](CAPLfunctionPtpTimeNow.md#aanchor20173)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

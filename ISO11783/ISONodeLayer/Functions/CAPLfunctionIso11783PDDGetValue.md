@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ISO11783/ISONodeLayer/Functions/CAPLfunctionIso11783PDDGetValue.md)
-
-**CAPL Functions** » **ISO11783** » **ISO11783 Node Layer** » Iso11783PDDGetValue
-
 # Iso11783PDDGetValue
 
 [Valid for](../../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -45,7 +41,3 @@ if (Iso11783PDDGetLastError () != 0) {
   write( "ERROR: %s", text );
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

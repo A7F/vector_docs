@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/Objects/CAPLfunctionEthernetMacsecSecureEntity.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Ethernet](../CAPLEthernetStartPage.md) » [Function Overview](../CAPLfunctionsIPOverview.md) » EthernetMacsecSecureEntity
-
 # EthernetMacsecSecureEntity
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -63,5 +59,3 @@ An EthernetMacsecSecureEntity must be initialized using the function [ethGetMacs
 ## Example
 
 —
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

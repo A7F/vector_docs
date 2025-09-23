@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Media/Functions/CAPLfunctionMediaCreateAudioCapturer.md)
-
-**CAPL Functions** » [Media API](../CAPLfunctionsMediaOverview.md) » MediaCreateAudioCapturer
-
 # MediaCreateAudioCapturer
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/SOMEIPIL/Functions/CAPLfunctionSomeIpSetValuePhys.md)
-
-**CAPL Functions** » **Ethernet** » **SOME/IP IL** » **SomeIpSetValuePhys**
-
 # SomeIpSetValuePhys
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForFrNullFrame.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestWaitForFrNullFrame
-
 # TestWaitForFrNullFrame
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -44,7 +40,3 @@ When no Null Frame is specified the wait condition is resolved on any FlexRay Nu
 For an example see function [TestWaitForFrFrame](CAPLfunctionTestWaitForFrFrame.md) and replace all FrFrame by FrNullFrame.
 
 [TestGetWaitFrNullFrameData](CAPLfunctionTestGetWaitFrNullFrameData.md) • [TestJoinFrNullFrameEvent](CAPLfunctionTestJoinFrNullFrameEvent.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

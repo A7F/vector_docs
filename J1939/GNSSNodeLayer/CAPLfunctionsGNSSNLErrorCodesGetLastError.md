@@ -32,9 +32,3 @@
 - **105**: The simulation cannot be started since no waypoint has been set.
 - **106**: The function failed because the simulation has not been started.
 - **107**: The function failed because the simulation has started.
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

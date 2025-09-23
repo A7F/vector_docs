@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionAREthSDSetServiceStatus.md)
-
-**CAPL Functions** » **Ethernet** » **AUTOSAR Eth IL** » **AREthSDSetServiceStatus**
-
 # AREthSDSetServiceStatus
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE

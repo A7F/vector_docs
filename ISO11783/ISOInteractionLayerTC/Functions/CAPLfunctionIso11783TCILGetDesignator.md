@@ -44,5 +44,3 @@ char designator[256];
 // Retrieve the designator for the DPD with DDI=17 and elementNumber=3 from DDOP uploaded by Sprayer to TC
 result = TCIL_GetDesignator(TC, Sprayer, 17 /*DDI/, 3 /elementNumber/, designator /buffer/);
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

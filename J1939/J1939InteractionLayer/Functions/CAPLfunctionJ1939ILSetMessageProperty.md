@@ -1,7 +1,3 @@
-[J1939ILSetMessageProperty](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/J1939/J1939InteractionLayer/Functions/CAPLfunctionJ1939ILSetMessageProperty.md)
-
-[CAPL Functions](../../../CAPLfunctions.md) » [J1939](../../CAPLfunctionsJ1939StartPage.md) » [J1939 IL](../CAPLfunctionsJ1939ILOverview.md) » J1939ILSetMessageProperty
-
 # J1939ILSetMessageProperty
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -39,7 +35,3 @@ if (J1939ILSetMessageProperty(TSC1, "MessageCounterToContinue", 12) < 0)
   write("Can’t set message property ‘MessageCounterToContinue‘");
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

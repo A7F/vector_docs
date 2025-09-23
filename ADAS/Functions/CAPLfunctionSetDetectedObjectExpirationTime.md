@@ -49,7 +49,3 @@ radar.SetDetectedObjectExpirationTime.Call(5, 2000);
 // Object with trackingId 5 is deactivated after 2000ms
 radar.SetDetectedObjectExpirationTime.Call(5, 2000);
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

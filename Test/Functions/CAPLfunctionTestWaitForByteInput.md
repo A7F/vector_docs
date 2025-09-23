@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForByteInput.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestWaitForByteInput
-
 # TestWaitForByteInput
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -38,7 +34,3 @@ TestGetByteInput(resultByte, elcount(resultByte));
 return = TestWaitForByteInput("Test Text", "Test Caption", "Test Byte Input Timeout", 5000);
 TestGetByteInput(resultByte, elcount(resultByte));
 ```
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

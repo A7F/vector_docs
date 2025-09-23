@@ -23,9 +23,3 @@ If the output of the trace shall be used as input for this stimuli, you have to 
 - **Decimal separator**: The limiter has to be a point, **not** a comma.
 - **Decimal places**: No constraints about this.
 - **Layout**: The CSV file has to contain one table with a time column if necessary and columns for every signal (first and second option of the window below).
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

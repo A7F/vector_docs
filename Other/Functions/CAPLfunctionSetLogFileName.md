@@ -19,7 +19,7 @@ Sets the name of the logging file. If a valid extension is given it also changes
 ## Parameters
 
 - **fileName**  
-  - Note: Since Version 8.5 the filename can also contain field codes. If the new filename does not contain any field code, all increment field codes from the old one will be appended (regardless of whether there are other field codes there as well). The auto increment field codes will be added to the filenames as usual. With form 3, this behavior can be suppressed with the parameter **appendIncrementFieldCodes**.
+
   - Example field codes:
   
 ```
@@ -70,7 +70,3 @@ Sets the name of the logging file. If a valid extension is given it also changes
 
 - `setLogFileName( "newlog.notSupportedExtension" );`  
   Does nothing //filename extension not valid
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

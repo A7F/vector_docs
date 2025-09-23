@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/J1939/J1939InteractionLayer/Functions/CAPLfunctionJ1939ILResetManipulatedMessage.md)
-
-[CAPL Functions](../../../CAPLfunctions.md) » [J1939](../../CAPLfunctionsJ1939StartPage.md) » [J1939 IL](../CAPLfunctionsJ1939ILOverview.md) » J1939ILResetManipulatedMessage
-
 # J1939ILResetManipulatedMessage
 
 [Valid for](../../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -33,5 +29,3 @@ Resets the change of a single [J1939ILManipulateMessage](CAPLfunctionJ1939ILMani
 ## Example
 
 See example of [J1939ILManipulateMessage](CAPLfunctionJ1939ILManipulateMessage.md).
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

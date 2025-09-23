@@ -1,7 +1,3 @@
-[J1939GetName](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/J1939/J1939NodeLayer/Functions/CAPLfunctionJ1939GetName.md)
-
-**CAPL Functions** » **J1939** » **J1939 NL** » **J1939GetName**
-
 # J1939GetName
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -37,7 +33,3 @@ If no device is logged onto the network with address #10 then `name`={8*DEFAULT_
 char deviceName[8];
 J1939GetName( "default", 0, deviceName );
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

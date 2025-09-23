@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Sensor/Functions/CAPLfunctionQueueSpcTriggerPulse.md)
-
-**CAPL Functions** » [Sensor](../CAPLfunctionsSensorOverview.md) » QueueSpcTriggerPulse
-
 # QueueSpcTriggerPulse
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -65,7 +61,3 @@ else
   write("Queuing of periodic SPC trigger pulse failed with code: %d.", result);
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

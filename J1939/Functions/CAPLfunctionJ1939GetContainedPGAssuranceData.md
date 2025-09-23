@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/J1939/Functions/CAPLfunctionJ1939GetContainedPGAssuranceData.md)
-
-**CAPL Functions** » **J1939** » **Function Overview** » **J1939GetContainedPGAssuranceData**
-
 # J1939GetContainedPGAssuranceData
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -32,9 +28,3 @@ Returns the assurance data of a Contained-PG (C-PG) at the specified index of a 
 ## Example
 
 See [J1939GetNumberOfContainedPGs](CAPLfunctionJ1939GetNumberOfContainedPGs.md).
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

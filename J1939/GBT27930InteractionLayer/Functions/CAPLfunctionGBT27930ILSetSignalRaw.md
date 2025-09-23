@@ -40,8 +40,3 @@ on key 't'
     GBT27930IL_SetSignalRaw( EEC1::EngSpeed, 12000 );
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

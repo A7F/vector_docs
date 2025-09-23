@@ -185,7 +185,3 @@ To use the CAPL functions the **ISO11783_TC_IL.dll** i.e. [Task Controller Inter
 | [TCIL_SetValuePhysical](Functions/CAPLfunctionIso11783TCILSetValueRawPhysical.md) | Sets the value of a data entity without sending any command (using the physical value). |
 
 [IL Error Codes](../../CAPLfunctionsISOj1939ErrorCodes.md) • [TC IL Functional Properties](CAPLfunctionsISOILTCProperties.md) • [TC IL Network Properties](CAPLfunctionsISOILTCNetworkProperties.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

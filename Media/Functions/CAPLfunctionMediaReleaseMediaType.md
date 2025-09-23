@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Media/Functions/CAPLfunctionMediaReleaseMediaType.md)
-
-**CAPL Functions** » **Media API** » **MediaReleaseMediaType**
-
 # MediaReleaseMediaType
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -30,9 +26,3 @@ Releases a media type retrieved by [MediaGetMediaType](CAPLfunctionMediaGetMedia
 —
 
 [See Also](javascript:void(0);)
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

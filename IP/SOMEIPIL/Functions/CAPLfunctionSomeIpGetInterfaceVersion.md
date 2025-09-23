@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/SOMEIPIL/Functions/CAPLfunctionSomeIpGetInterfaceVersion.md)
-
-[CAPL Functions](../../../CAPLfunctions.md) » [Ethernet](../../CAPLEthernetStartPage.md) » [SOME/IP IL](../CAPLfunctionsSomeIPILOverview.md) » SomeIpGetInterfaceVersion
-
 # SomeIpGetInterfaceVersion
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -46,9 +42,7 @@ void OnSomeIpMessage( DWORD messageHandle )
 
   if(errorOccured == 0)
   {
-    write("SOME/IP message with Interface Version 0x%02x (%d) received",interfaceVers,interfaceVers);
+
   } // if
 }
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

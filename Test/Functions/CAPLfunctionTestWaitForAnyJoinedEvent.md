@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForAnyJoinedEvent.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestWaitForAnyJoinedEvent
-
 # TestWaitForAnyJoinedEvent
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -84,7 +80,3 @@ testcase _WaitForAnyEvent()
 ```
 
 [TestWaitForAllJoinedEvents](CAPLfunctionTestWaitForAllJoinedEvents.md) • [TestJoinMessageEvent](CAPLfunctionTestJoinMessageEvent.md) • [TestJoinAuxEvent](CAPLfunctionTestJoinAuxEvent.md) • [TestJoinTextEvent](CAPLfunctionTestJoinTextEvent.md) • [TestJoinSignalInRange](CAPLfunctionTestJoinSignalInRange.md) • [TestJoinSignalOutsideRange](CAPLfunctionTestJoinSignalOutsideRange.md) • [TestJoinSignalMatch](CAPLfunctionTestJoinSignalMatch.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -35,9 +35,3 @@ on mostAMSMessage MsgChannel1.*
    write("Byte 500: %02X", msg.byte(500));
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

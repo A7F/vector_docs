@@ -50,12 +50,4 @@ on serviceSignal DemoDatabase::PACKAGE1::PACKAGE2::Service1::1::2::Event1::Param
 }
 ```
 
-**Note**: The parameter `Param1_CommonDataType` is contained in `Event1` of service `Service1` (Major Version 1, Instance ID 2). The service interface is defined in package `PACKAGE1::PACKAGE2` of database `DemoDatabase`.
-
 [See Also](javascript:void(0);)
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

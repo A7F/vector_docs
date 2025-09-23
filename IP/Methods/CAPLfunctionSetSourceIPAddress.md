@@ -38,5 +38,3 @@ packet.ipv4.Init();
 packet.SetSourceIPAddress(addressSrc);
 packet.SetDestinationIPAddress(addressDst);
 ```
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

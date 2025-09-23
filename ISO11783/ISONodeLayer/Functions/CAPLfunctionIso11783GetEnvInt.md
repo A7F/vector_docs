@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ISO11783/ISONodeLayer/Functions/CAPLfunctionIso11783GetEnvInt.md)
-
-**CAPL Functions** » **ISO11783** » **ISO11783 Node Layer** » Iso11783GetEnvInt
-
 # Iso11783GetEnvInt
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -30,9 +26,3 @@ Value of the environment variable or 0 if it does not exist
 ```plaintext
 value = Iso11783GetEnvInt( "EvFrictionForce", 1 );
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

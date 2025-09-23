@@ -240,7 +240,3 @@ These properties can be applied to media types whose major type equals **MediaTy
   Event type for the timestamp stream.
 
 [Media CAPL Functions](CAPLfunctionsMediaOverview.md) • [Major Media Types / Audio Subtypes](CAPLfunctionsMediaMajorMediaTypesSubtypes.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

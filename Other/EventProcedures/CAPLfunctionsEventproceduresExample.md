@@ -13,9 +13,3 @@ When one of the following events occurs (Message with ID 100 is received, key a 
 - an [on timer](CAPLfunctionOnTimer.md) procedure is called.
 
 In doing so, an appropriate text is always output to the Write Window by the [write](../Functions/CAPLfunctionWrite.md) function.
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

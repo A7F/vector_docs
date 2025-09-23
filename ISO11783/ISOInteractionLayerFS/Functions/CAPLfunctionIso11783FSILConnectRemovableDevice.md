@@ -49,5 +49,3 @@ FSIL_ConnectRemovableDevice("VOL_A", "MyRemovableDevices\\Device1", 10);
 // disconnect removable file File Server is not busy
 result = FSIL_DisconnectRemovableDevice("\\VOL_A", 0);
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

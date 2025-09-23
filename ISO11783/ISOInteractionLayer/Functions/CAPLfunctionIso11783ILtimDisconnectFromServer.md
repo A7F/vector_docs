@@ -37,5 +37,3 @@ Stops TIM connection to a TIM server. Releases the communication with a connecte
 ## Example
 
 —
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

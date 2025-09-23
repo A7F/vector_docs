@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Media/Properties/CAPLfunctionOriginal4cc.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Media API](../CAPLfunctionsMediaOverview.md) » [Properties](../CAPLfunctionsMediaProperties.md) » Original4cc
-
 # Original4cc
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -27,9 +23,3 @@ dword
   `HKEY_CLASSES_ROOT\MediaFoundation\MapVideo4cc`
 
 - Each entry is a dword value. The name of the entry is the hexadecimal representation of the FOURCC, without an `0x` prefix, and with the first character appearing first in the string. For example, the FOURCC code **abcd** would appear as **61626364**. The value of the entry is the equivalent FOURCC code.
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

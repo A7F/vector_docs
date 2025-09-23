@@ -121,7 +121,3 @@ EV and EVSE contain data members that are either used by both sides or are only 
   - ExpectedWeldingDetectionState: consumed, enum, notExpected, Defines whether the WeldingDetection can be started. 'Welding check status' H'109.5.7 should be used to signal end of welding detection. Possible values: notExpected (0), expected (1)
 
 [SmartCharging](../../CANoeCANalyzer/SmartCharging/SmartCharging.md) • [Message IDs](Callbacks/SCC_MessageID.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

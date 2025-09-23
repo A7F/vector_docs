@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionAREthSetProperty.md)
-
-**CAPL Functions** » **Ethernet** » **AUTOSAR Eth IL** » **AREthSetProperty**
-
 # AREthSetProperty
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -138,10 +134,6 @@ AREthSetProperty("SDMulticastIpv6", buffer);
   ```c
   Byte buffer[16] = {0xFF, 0x14, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x04, 0x00, 0x01};
   AREthSetProperty("SDMulticastIpv6", 16, buffer);
-
-
-
-
 
 ```
 

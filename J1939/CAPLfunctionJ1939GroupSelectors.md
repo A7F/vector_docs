@@ -127,5 +127,3 @@ In a J1939 database the message attribute **J1939PgAppearanceOnBus** describes h
   - **Default value of TM**: 3
 
 For PGs defined by **pg \*** or if there is no message attribute **J1939PgAppearanceOnBus** in the database, the default values of **FDF** and **TM** are the same as for J1939PgAppearanceOnBus=**Default**.
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

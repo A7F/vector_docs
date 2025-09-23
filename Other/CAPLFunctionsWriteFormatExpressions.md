@@ -83,9 +83,3 @@ The type field depends on the data type of the expression that shall be printed,
 - **char[]**: string, Type: s
 
 **Note**: The `%n` format is invalid and must not be used.
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

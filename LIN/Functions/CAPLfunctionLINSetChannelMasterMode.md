@@ -39,6 +39,3 @@ Returns 1 if changing the channel master mode succeeded, 0 otherwise.
 ```plaintext
 linSetChannelMasterMode(1); // manually activate the Master mode on LIN hardware
 ```
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

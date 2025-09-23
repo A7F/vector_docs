@@ -32,7 +32,3 @@ Removes a Window Mask from a User-Layout Data Mask of the Virtual Terminal.
 See [VTIL_AddWindowMask](CAPLfunctionIso11783VTILAddWindowMask.md).
 
 [Further Functions for **VT – Handling (User-Layout Mask)**](../CAPLfunctionsISOILVTOverview.md#VTHandlingUserLayoutMask)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

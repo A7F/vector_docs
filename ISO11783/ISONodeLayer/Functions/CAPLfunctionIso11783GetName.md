@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ISO11783/ISONodeLayer/Functions/CAPLfunctionIso11783GetName.md)
-
-**CAPL Functions** » **ISO11783** » **ISO11783 Node Layer** » **Iso11783GetName**
-
 # Iso11783GetName
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -36,7 +32,3 @@ If no device is logged onto the network with address #10 then `name`={8*DEFAULT_
 char deviceName[8];
 Iso11783GetName( "default", 0, deviceName );
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

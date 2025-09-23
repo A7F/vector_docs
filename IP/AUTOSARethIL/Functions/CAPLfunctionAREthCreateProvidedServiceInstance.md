@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionAREthCreateProvidedServiceInstance.md)
-
-**CAPL Functions** » **Ethernet** » **AUTOSAR Eth IL** » **AREthCreateProvidedServiceInstance**
-
 # AREthCreateProvidedServiceInstance
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -70,7 +66,3 @@ void OnPrepareEvent1(dword eventHandle, dword messageHandle)
 ```
 
 **See Also**: [AREthAddEvent](CAPLfunctionAREthAddEvent.md#aanchor12631), [AREthAddEventToEventgroup](CAPLfunctionAREthAddEventToEventgroup.md#aanchor24957), [AREthAddField](CAPLfunctionAREthAddField.md#aanchor27760), [AREthAddMethod](CAPLfunctionAREthAddMethod.md#aanchor7650), [AREthReleaseProvidedServiceInstance](CAPLfunctionAREthReleaseProvidedServiceInstance.md#aanchor18406)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

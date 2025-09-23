@@ -17,7 +17,7 @@ The following values can be read by the function:
 - **canoe.ipv6.default_scope**: Gets the default scope of the ipv6 stack. The default scope is used when the destination address is a link local address. Default: 0, Form: form 1
 - **net.inet.tcp.delayed_ack**: Checks if the delayed acknowledge algorithm of TCP is activated or deactivated. By default, this parameter is enabled so that TCP tries to send the ACK flag piggyback on the next responding packet. Default: 1, Form: form 1
 - **net.inet.tcp.delacktime**: Time before a delayed ACK is sent. Default: 100 ms, Form: form 1
-- **net.inet.tcp.rfc1323**: Checks if RFC1323 extensions are enabled. By default, this parameter is enabled since Version 12.0. Default: 1, Form: form 1
+
 - **net.inet.tcp.rexmit_max**: Gets the maximum retransmission timeout of TCP connections. Default: 64000 ms, Form: form 1
 - **net.inet.tcp.rexmit_min**: Minimum Retransmission Timeout of TCP connections. Default: 30 ms, Form: form 1
 - **net.inet.tcp.rexmit_base**: Initial Retransmission Timeout of TCP connections. Default: 3000 ms, Form: form 1
@@ -83,9 +83,3 @@ on start
   }
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

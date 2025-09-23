@@ -52,5 +52,3 @@ Only when an enabled event timing exists, the PDU can be transmitted regardless 
 ### Example
 
 —
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

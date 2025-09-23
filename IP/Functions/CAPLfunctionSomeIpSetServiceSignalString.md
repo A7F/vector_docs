@@ -31,8 +31,6 @@ Sets the string value of a Service Signal. The function automatically appends th
 
 ## Example
 
-The example shows access to parameter `StringValue`, which is contained in `Event1` of service `Service1` (Major Version 1, Instance ID 2). The service interface is defined in package `PACKAGE1::PACKAGE2` of database `DemoDatabase`.
-
 ```plaintext
 on key 's'
 {
@@ -43,7 +41,3 @@ on key 's'
 **Note**: The [service qualifier](../../../CANoeCANalyzer/Ethernet/ILSomeIP/ILSomeIPServiceSignals.md) is specified without a leading `$` sign.
 
 [SetServiceSignal](CAPLfunctionSomeIpSetServiceSignal.md) • [SetServiceSignalData](CAPLfunctionSomeIpSetServiceSignalData.md) • [GetServiceSignalString](CAPLfunctionSomeIpGetServiceSignalString.md)
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

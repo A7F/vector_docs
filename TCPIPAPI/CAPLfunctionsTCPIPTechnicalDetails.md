@@ -21,7 +21,3 @@ Almost all of the functions have a return value of type `long`. The value return
 Because the entire Winsock 2 API is used in an overlapped, asynchronous manner, functions such as [UdpReceiveFrom](Functions/CAPLfunctionUDPReceiveFrom.md), [TcpReceive](Functions/CAPLfunctionTCPReceive.md) and [TcpConnect](Functions/CAPLfunctionTCPConnect.md) will almost always return the value SOCKET_ERROR. Use the [IpGetLastSocketError](Functions/CAPLfunctionIPGetLastSocketError.md) function to determine whether the operation is just pending or a real error has occurred.
 
 [Winsock 2 Error Codes](CAPLfunctionsTCPIPWinsock2ErrorCodes.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

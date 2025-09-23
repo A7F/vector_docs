@@ -35,7 +35,3 @@ The function changes the absolute position of an object inside its parent object
 ```plaintext
 Iso11783IL_OPChangeChildPosition( 1000, 1200, 10, 10 );
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

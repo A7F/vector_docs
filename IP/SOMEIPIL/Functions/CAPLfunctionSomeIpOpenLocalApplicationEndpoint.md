@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/SOMEIPIL/Functions/CAPLfunctionSomeIpOpenLocalApplicationEndpoint.md)
-
-**CAPL Functions** » **Ethernet** » **SOME/IP IL** » SomeIpOpenLocalApplicationEndpoint
-
 # SomeIpOpenLocalApplicationEndpoint
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE

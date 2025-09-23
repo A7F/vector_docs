@@ -74,5 +74,3 @@ These properties describe the functional properties of a real Task Controller th
   - **Value Range**: 0..31, -1
   - **Initial Value**: -1
   - **IL must be stopped**: Yes
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

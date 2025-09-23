@@ -40,7 +40,3 @@ There are the following types of message variable for MOST:
 Press `<Ctrl>`+`<M>` or select **Message entry with MOST function catalog** from the shortcut menu to open an input assistant which displays a data entry field in the current program line listing a selection of all MOST messages described in the function catalog. The selection takes in all function catalogs assigned to the CAPL node.
 
 In this context, the input assistant enables the description of messages up to **OpType** and adds the resulting description to the program text without quotation marks in the notation separated by period marks.
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

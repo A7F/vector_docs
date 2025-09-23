@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Security/Functions/CAPLfunctionX509DN_GetAttributes.md)
-
-**CAPL Functions** » [Security](../CAPLFunctionsSecurityOverview.md) » X509DN_GetAttributes
-
 # X509DN_GetAttributes
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -133,9 +129,3 @@ void X509_Modify_Sign_And_Verify() {
   write("Textual:\n%s", strBuffer);
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

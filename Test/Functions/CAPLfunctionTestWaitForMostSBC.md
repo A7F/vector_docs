@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForMostSBC.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestWaitForMostSBC
-
 # TestWaitForMostSBC
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -35,7 +31,3 @@ The function waits for the expiration of the time **aTimeout** for the occurrenc
 —
 
 [TestWaitForMostNodeAdr](CAPLfunctionTestWaitForMostNodeAdr.md) • [TestWaitForMostGroupAdr](CAPLfunctionTestWaitForMostGroupAdr.md) • [TestWaitForMostNPR](CAPLfunctionTestWaitForMostNPR.md) • TestWaitForMostSBC • [TestWaitForMostNetState](CAPLfunctionTestWaitForMostNetState.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

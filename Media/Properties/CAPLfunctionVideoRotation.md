@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Media/Properties/CAPLfunctionVideoRotation.md)
-
-**CAPL Functions** » **Media API** » **Properties** » **VideoRotation**
-
 # VideoRotation
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -30,9 +26,3 @@ Supported values for this property:
 - VideoRotationFormat_90 = 90
 - VideoRotationFormat_180 = 180
 - VideoRotationFormat_270 = 270
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -130,5 +130,3 @@ The following socket options can be set at the SOL_VECTOR option level in CAPL. 
   Enable/disable silly window syndrome avoidance algorithm.  
   Type: DWORD  
   Stack: C
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

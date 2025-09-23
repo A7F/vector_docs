@@ -17,8 +17,6 @@ long Iso11783IL_TIMSetServerCapability(dbNode server , char parameterName[], dwo
 
 The function sets a capability of a TIM function in a TIM server.
 
-By means of this function you can define capabilities of the TIM functions which can be requested by a TIM client via a parameterization request (since TIM Version 2). You can set the supported TIM version of the TIM server with [Iso11783IL_TIMSetProperty](CAPLfunctionIso11783ILtimSetProperty.md)("implementedVersion", 2).
-
 ## Parameters
 
 - **parameterName**: Name of the function parameter. Possible values:
@@ -57,5 +55,3 @@ void SetVehicleSpeedMax(double physicalValue)
     }
 }
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

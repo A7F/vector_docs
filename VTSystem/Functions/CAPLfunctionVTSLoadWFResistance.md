@@ -35,9 +35,3 @@ This function loads a resistance curve for a VT2004 channel from the specified f
 See example [SetWFParams](CAPLfunctionVTSSetWFParams.md)
 
 [vtsLoadWFResistance](CAPLfunctionVTSvtsLoadWFResistance.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

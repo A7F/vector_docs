@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Other/Functions/CAPLfunctionStartDOReplayFile.md)
-
-**CAPL Functions** » [General](../CAPLGeneralStartPage.md) » [Function Overview](../CAPLfunctionsGeneralOverview.md) » StartDOReplayFile
-
 # StartDOReplayFile
 
 **Valid for**: [CANoe DE](../../../Shared/FeatureAvailability.md) • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -45,7 +41,3 @@ The returned handle is required to [stop the replay file](CAPLfunctionStopReplay
 —
 
 [StartReplayFile](CAPLfunctionStartReplayFile.md) | [StopReplayFile](CAPLfunctionStopReplayFile.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

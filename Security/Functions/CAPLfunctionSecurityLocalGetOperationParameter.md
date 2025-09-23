@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Security/Functions/CAPLfunctionSecurityLocalGetOperationParameter.md)
-
-**CAPL Functions** » **Security** » **SecurityLocalGetOperationParameter**
-
 # SecurityLocalGetOperationParameter
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -34,7 +30,3 @@ Please refer to the Security Source specific manual to get more information abou
 ## Example
 
 —
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

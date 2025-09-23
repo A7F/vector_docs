@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/SignalAccess/CAPLfunctionReadByteArraySignalAsInteger.md)
-
-**CAPL Functions** » **Signal Access** » **ReadByteArraySignalAsInteger**
-
 # ReadByteArraySignalAsInteger
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -51,7 +47,3 @@ If the value shall be interpreted in **intel** (little-endian) byte order, depen
 - `byteFillMode == 2`: value == 0x23456789ABCDEF00 // append 0s
 
 [GetRawSignal](../Test/Functions/CAPLfunctionGetRawSignal.md)
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -33,9 +33,3 @@ This callback function is called from the GBT27930 IL if the GBT27930 IL receive
 ## Example
 
 —
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

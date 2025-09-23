@@ -31,5 +31,3 @@ The error class and error codes of the [GNSSAppErrorIndication](Functions/CAPLfu
 
 - **Error Code 0x71**: A transfer with the transfer protocol was interrupted by the receiver (the parameter `addInfo` contains the PGN).
 - **Error Code 0x72**: A transfer with the transfer protocol was interrupted by the sender (the parameter `addInfo` contains the PGN).
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

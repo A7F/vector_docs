@@ -33,15 +33,6 @@ If this function is used by a TIM client, the system variable only changes if th
 ## Parameters
 
 - **functionID**: Function ID of the function.
-  - **Function ID 1-32 (1h-20h)**: Auxiliary Value 1 – 32, Supported Since TIM Version 1
-  - **Function ID 64 (40h)**: Front PTO, Supported Since TIM Version 1
-  - **Function ID 65 (41h)**: Rear PTO, Supported Since TIM Version 1
-  - **Function ID 66 (42h)**: Front hitch, Supported Since TIM Version 1
-  - **Function ID 67 (43h)**: Rear hitch, Supported Since TIM Version 1
-  - **Function ID 68 (44h)**: Vehicle speed, Supported Since TIM Version 1
-  - **Function ID 70 (46h)**: External guidance, Supported Since TIM Version 1
-  - **Function ID 71 (47h)**: Front top linkage, Supported Since TIM Version 2
-  - **Function ID 72 (48h)**: Rear top linkage, Supported Since TIM Version 2
 
 - **participant**: TIM simulation node (TIM Client or TIM Server) to apply the function.
 
@@ -57,5 +48,3 @@ If this function is used by a TIM client, the system variable only changes if th
 ```plaintext
 Iso11783IL_TIMConnectSysVarToFunctionState(0, "sysvarAuxValve1State");
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

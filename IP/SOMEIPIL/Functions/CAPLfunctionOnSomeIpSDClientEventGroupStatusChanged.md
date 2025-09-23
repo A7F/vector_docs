@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/SOMEIPIL/Functions/CAPLfunctionOnSomeIpSDClientEventGroupStatusChanged.md)
-
-**CAPL Functions** » **Ethernet** » **SOME/IP IL** » **OnSomeIpSDClientEventGroupStatusChanged**
-
 # OnSomeIpSDClientEventGroupStatusChanged
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE

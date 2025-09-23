@@ -1,7 +1,3 @@
-[J1587GetParameterByPID](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/J1587/Functions/CAPLfunctionJ1587GetParameterByPID.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [J1587](../CAPLfunctionsJ1587Overview.md) » J1587GetParameterByPID
-
 # J1587GetParameterByPID
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -42,9 +38,3 @@ on J1587Message 50 // 50 is Sender MID, can be dbNode name or MID
   }
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

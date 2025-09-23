@@ -83,5 +83,3 @@ dwordWrapper.dw = 0x12345678;
 memcpy(data, dwordWrapper);
 write("dword as bytes: %#lx %#lx %#lx %#lx", data[0], data[1], data[2], data[3]);
 ```
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

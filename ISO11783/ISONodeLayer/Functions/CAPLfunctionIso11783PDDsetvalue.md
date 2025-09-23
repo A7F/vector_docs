@@ -35,7 +35,3 @@ Sets the value of a process variable.
 Iso11783PDDSetValue( Sprayer, 0x200. 3, value );
 Iso11783PDDSetValue( Sprayer, 0x200. 4, value );
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionOnAREthProcessRxMessage.md)
-
-**CAPL Functions** » **Ethernet** » **AUTOSAR Eth IL** » **OnAREthProcessRxMessage**
-
 # OnAREthProcessRxMessage
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -60,9 +56,3 @@ long OnAREthProcessRxMessage(dword messageHandle, long rxChannel)
 ```
 
 [See Also](javascript:void(0);)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

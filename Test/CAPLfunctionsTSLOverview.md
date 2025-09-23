@@ -30,7 +30,3 @@
   - For all status report functions, the return values and raised error classes are applied.
 
 [Test Functionality](../../CANoeCANalyzer/Test/TestFeatures.md) • [Test Concept](../../CANoeCANalyzer/Test/TestConcept.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

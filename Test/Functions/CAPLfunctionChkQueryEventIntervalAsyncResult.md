@@ -62,5 +62,3 @@ result = testWaitForCheckQuery(checkId, 10000);
 if (result == 1)
   result = ChkQuery_EventInterval_AsyncResult(checkId);
 ```
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

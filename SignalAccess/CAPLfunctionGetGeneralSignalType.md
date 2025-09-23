@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/SignalAccess/CAPLfunctionGetGeneralSignalType.md)
-
-[CAPL Functions](../CAPLfunctions.md) » [General](../Other/CAPLGeneralStartPage.md) » [Function Overview](../Other/CAPLfunctionsGeneralOverview.md) » GetGeneralSignalType
-
 # GetGeneralSignalType
 
 [Valid for](../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -50,9 +46,3 @@ long SetGenericSignalValue(char signalName[], double value)
 ```
 
 [lookupSignal](../Other/Functions/CAPLfunctionlookupSignal.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

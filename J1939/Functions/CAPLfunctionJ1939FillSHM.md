@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/J1939/Functions/CAPLfunctionJ1939FillSHM.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [J1939](../CAPLfunctionsJ1939StartPage.md) » [Function Overview](../CAPLfunctionsJ1939Overview.md) » J1939FillSHM
-
 # J1939FillSHM
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -57,7 +53,3 @@ void SendSHM(pg* sdm, byte sequenceNumber)
 ```
 
 [J1939CalculateCrcOfSDM](CAPLfunctionJ1939CalculateCrcOfSDM.md) • [J1939ParseSHM](CAPLfunctionJ1939ParseSHM.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

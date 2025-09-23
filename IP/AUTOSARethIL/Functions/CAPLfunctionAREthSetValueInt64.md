@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionAREthSetValueInt64.md)
-
-**CAPL Functions** » **Ethernet** » **AUTOSAR Eth IL** » **AREthSetValueInt64**
-
 # AREthSetValueInt64
 
 **Valid for**: CANoe DE • CANoe4SW DE

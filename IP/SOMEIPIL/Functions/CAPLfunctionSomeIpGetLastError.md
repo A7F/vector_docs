@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/SOMEIPIL/Functions/CAPLfunctionSomeIpGetLastError.md)
-
-[CAPL Functions](../../../CAPLfunctions.md) » [Ethernet](../../CAPLEthernetStartPage.md) » [SOME/IP IL](../CAPLfunctionsSomeIPILOverview.md) » SomeIpGetLastError
-
 # SomeIpGetLastError
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -47,9 +43,3 @@ if((retVal = SomeIpGetLastError()) != 0)
 - [SomeIpGetLastErrorText](CAPLfunctionSomeIpGetLastErrorText.md#aanchor28396)
 - [SomeIpSetProperty](CAPLfunctionSomeIpSetProperty.md#aanchor11923)
 - [SomeIpSetVerbosity](CAPLfunctionSomeIpSetVerbosity.md#aanchor2250)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

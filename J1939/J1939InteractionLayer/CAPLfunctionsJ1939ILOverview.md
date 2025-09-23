@@ -119,7 +119,3 @@ Only available with J1939. To use the CAPL functions the node layer [J1939_IL.dl
 - [J1939ILSetMsgRawData](Functions/CAPLfunctionJ1939ILSetMsgRawData.md): Sets the data bytes of the message.
 - [J1939ILSetSignal](Functions/CAPLfunctionJ1939ILSetSignal.md): Sets the physical value of a signal.
 - [J1939ILSetSignalRaw](Functions/CAPLfunctionJ1939ILSetSignalRaw.md): Sets the raw value of a signal.
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

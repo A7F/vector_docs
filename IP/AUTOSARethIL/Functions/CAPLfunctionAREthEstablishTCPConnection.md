@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionAREthEstablishTCPConnection.md)
-
-**CAPL Functions** » **Ethernet** » **AUTOSAR Eth IL** » **AREthEstablishTCPConnection**
-
 # AREthEstablishTCPConnection
 
 [Valid for: CANoe DE](../../../../Shared/FeatureAvailability.md) • CANoe4SW DE

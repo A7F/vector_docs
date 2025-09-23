@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/GPIB/Functions/CAPLfunctionGPIBDevOpen.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [GPIB](../CAPLfunctionsGPIBOverview.md) » GPIBDevOpen
-
 # GPIBDevOpen
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -58,5 +54,3 @@ Opens a GPIB device and returns a device ID.
 ## Example
 
 —
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

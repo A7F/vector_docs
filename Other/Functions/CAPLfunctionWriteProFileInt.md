@@ -38,5 +38,3 @@ The functional result is 0 in case of an error.
 ## Example
 
 See [WriteProfileInt](CAPLfunctionsExampleProfile.md)
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

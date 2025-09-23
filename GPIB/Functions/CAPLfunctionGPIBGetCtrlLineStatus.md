@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/GPIB/Functions/CAPLfunctionGPIBGetCtrlLineStatus.md)
-
 # GPIBGetCtrlLineStatus
 
 [CAPL Functions](../../CAPLfunctions.md) » [GPIB](../CAPLfunctionsGPIBOverview.md) » GPIBGetCtrlLineStatus
@@ -38,5 +36,3 @@ Returns the status of the GPIB control lines.
 ## Example
 
 —
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

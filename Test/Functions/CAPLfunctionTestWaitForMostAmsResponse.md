@@ -86,7 +86,3 @@ If the message is longer than a control message, the function delivers the retur
 —
 
 [Related Links](CAPLfunctionTestSendMostAmsMessage.md) • [TestWaitForMostMessage](CAPLfunctionTestWaitForMostMessage.md) • [TestWaitForMostAMSMessage](CAPLfunctionTestWaitForMostAMSMessage.md) • [TestWaitForMostReport](CAPLfunctionTestWaitForMostReport.md) • [TestWaitForMostAMSResult](CAPLfunctionTestWaitForMostAmsResult.md) • [TestWaitForMostAMSReport](CAPLfunctionTestWaitForMostAMSReport.md) • [Symbolic definition of MOST messages](../CAPLfunctionsTFSSymbolicMessageDefinition.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

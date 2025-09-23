@@ -49,7 +49,3 @@ FSIL_SetBusyMode(FileServer, 0x2) // File Server is busy writing
 testWaitForTimeout(5000);  // Wait for 5000 ms
 FSIL_SetBusyMode(FileServer, 0) // File Server is not busy
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

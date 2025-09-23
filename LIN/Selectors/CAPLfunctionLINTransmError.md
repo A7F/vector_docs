@@ -92,7 +92,3 @@
   - **Description**: The measured baudrate of the LIN header of this event. Unit: Bit/s
   - **Type**: double
   - **Access Limitations**: read only
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

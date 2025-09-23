@@ -73,7 +73,3 @@ float scale;
 // from DDOP uploaded by Sprayer to TC
 result = TCIL_GetValuePresentationData(TC, Sprayer, 17, 3, idOfDVP, offset, scale, numOfDecimals, 256, designator);
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

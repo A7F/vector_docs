@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/SOMEIPIL/Functions/CAPLfunctionSomeIpFillValues.md)
-
-**CAPL Functions** » **Ethernet** » **AUTOSAR Eth IL** » SomeIpFillValues
-
 # SomeIpFillValues
 
 [Valid for: CANoe DE](../../../../Shared/FeatureAvailability.md) • CANoe4SW DE

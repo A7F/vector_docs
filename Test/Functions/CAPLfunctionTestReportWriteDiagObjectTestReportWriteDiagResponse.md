@@ -34,9 +34,3 @@ These test steps are subject to the common test step report filtering as configu
 [Using Diagnostics Functions in Test Cases](../../Diagnostics/CAPLfunctionsDiagnosticsUsingFunctionTestCase.md)
 
 [Test Feature Set CAPL Functions](../CAPLfunctionsTFSOverview.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

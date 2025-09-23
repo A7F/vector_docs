@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/TLSAPI/EventProcedures/CAPLfunctionOnObservedAndDecryptedTlsHandshakeData.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [TLS API](../CAPLfunctionsTLSOverview.md) » OnObservedAndDecryptedTlsHandshakeData
-
 # OnObservedAndDecryptedTlsHandshakeData
 
 [Feature availability for your product](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE • CANoe:lite DE • CANoe4SW:lite DE
@@ -59,9 +55,3 @@ void OnObservedAndDecryptedTlsHandshakeData(IP_Endpoint sourceEndpoint, IP_Endpo
   }
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

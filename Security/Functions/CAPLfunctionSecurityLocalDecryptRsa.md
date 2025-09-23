@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Security/Functions/CAPLfunctionSecurityLocalDecryptRsa.md)
-
-**CAPL Functions** » [Security](../CAPLFunctionsSecurityOverview.md) » SecurityLocalDecryptRsa
-
 # SecurityLocalDecryptRsa
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE

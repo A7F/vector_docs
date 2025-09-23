@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Other/Functions/CAPLfunctionxlSetLED.md)
-
 # xlSetLED
 
 [CAPL Functions](../../CAPLfunctions.md) » [General](../CAPLGeneralStartPage.md) » [Function Overview](../CAPLfunctionsGeneralOverview.md) » xlSetLED
@@ -53,9 +51,3 @@ Note that for every successful call of **xlAcquireLED** on a specific LED, you h
 ## Example
 
 See [xlAcquireLED](CAPLfunctionxlAcquireLED.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

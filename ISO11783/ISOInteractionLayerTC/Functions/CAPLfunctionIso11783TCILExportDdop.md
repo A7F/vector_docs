@@ -43,5 +43,3 @@ if (result < 0)
 ```
 
 [TCIL_ExportAllDdops](CAPLfunctionIso11783TCILExportAllDdops.md)
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionAREthFillValues.md)
-
-**CAPL Functions » Ethernet » AUTOSAR Eth IL » AREthFillValues**
-
 # AREthFillValues
 
 **Valid for:** CANoe DE • CANoe4SW DE

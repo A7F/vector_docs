@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionAREthProvidedEventsAndFieldsAddConsumer.md)
-
 # AREthProvidedEventsAndFieldsAddConsumer
 
 [CAPL Functions](../../../CAPLfunctions.md) » [Ethernet](../../CAPLEthernetStartPage.md) » [AUTOSAR Eth IL](../CAPLfunctionsAREthILOverview.md) » AREthProvidedEventsAndFieldsAddConsumer
@@ -33,5 +31,3 @@ Adds a consumer to a provided service instance. Afterwards all event/field notif
 ## Example
 
 —
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

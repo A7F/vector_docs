@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/SOMEIPIL/Functions/CAPLfunctionSomeIpGetValueFloat.md)
-
-**CAPL Functions** » **Ethernet** » **SOME/IP IL** » **SomeIpGetValueFloat**
-
 # SomeIpGetValueFloat
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -44,9 +40,3 @@ See [SomeIpGetValueDWord](CAPLfunctionSomeIpGetValueDWord.md)
 - [SomeIpGetValueFloat](#aanchor3783)
 - [Syntax for Database-based Access Paths](CAPLfunctionSomeIpSyntaxDatabaseAccessPath.md)
 - [Syntax for Predefined Service Discovery (SD) Access Paths](CAPLfunctionSomeIpSyntaxPredefinedSDAccessPath.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

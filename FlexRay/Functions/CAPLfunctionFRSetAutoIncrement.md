@@ -68,8 +68,3 @@ on preStart
    frSetAutoIncrement(gMsg2.MsgChannel, gMsg2.FR_SlotID, gMsg2.FR_ChannelMask, gMsg2.FR_CycleOffset, gMsg2.FR_CycleRepetition, 1, gMsg2IncSize, gMsg2IncOffset);
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

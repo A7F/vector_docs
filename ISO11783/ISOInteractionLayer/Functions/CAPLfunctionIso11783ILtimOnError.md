@@ -36,9 +36,3 @@ void Iso11783IL_TIMOnError( long errorCode, dword addParam )
   write( "Iso11783IL_TIMOnError: Error %i (%f): %s", errorCode,timeNowFloat()/100000.0, buffer );
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

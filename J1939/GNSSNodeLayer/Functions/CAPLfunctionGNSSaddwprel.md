@@ -44,9 +44,3 @@ GNSSAddWp( 48.46, 9.11, 255 );
 GNSSSetUnits( 1 );
 GNSSAddWpRel( 200.0, 0.0, 0.0 );
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

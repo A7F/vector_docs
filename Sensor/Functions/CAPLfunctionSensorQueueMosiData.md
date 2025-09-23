@@ -47,7 +47,3 @@ SensorInsertInteger(requestData, 2, value2, 6, 6, 1);
 // Send the prepared 12 bits to the ExampleSlave
 sensorQueueMosiData("SENSOR::SPI::ExampleChannel::ExampleSlave", requestData, 12);
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

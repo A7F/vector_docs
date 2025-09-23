@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/SOMEIPIL/Functions/CAPLfunctionSomeIpProvidedEventsAndFieldsRemoveConsumer.md)
-
-**CAPL Functions** » **Ethernet** » **SOME/IP IL** » SomeIpProvidedEventsAndFieldsRemoveConsumer
-
 # SomeIpProvidedEventsAndFieldsRemoveConsumer
 
 [Valid for: CANoe DE](../../../../Shared/FeatureAvailability.md) • CANoe4SW DE
@@ -33,9 +29,3 @@ Removes a consumer from a provided service instance that has been added by [Some
 ## Example
 
 —
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

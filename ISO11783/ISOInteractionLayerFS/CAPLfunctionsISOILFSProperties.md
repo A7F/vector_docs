@@ -55,5 +55,3 @@ These properties describe the functional properties of a real File Server that i
   - **Value Range**: 0..1
   - **Initial Value**: 0
   - **IL must be stopped**: No
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

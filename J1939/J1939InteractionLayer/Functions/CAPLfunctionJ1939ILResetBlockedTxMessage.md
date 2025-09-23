@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/J1939/J1939InteractionLayer/Functions/CAPLfunctionJ1939ILResetBlockedTxMessage.md)
-
-## CAPL Functions » J1939 » J1939 IL » J1939ILResetBlockedTxMessage
-
 # J1939ILResetBlockedTxMessage
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -34,5 +30,3 @@ Resets the change of a single [J1939ILBlockTxMessage](CAPLfunctionJ1939ILBlockTx
 ### Example
 
 —
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

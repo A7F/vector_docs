@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestJoinFrPOCState.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestJoinFrPOCState
-
 # TestJoinFrPOCState
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -35,7 +31,3 @@ Completes the current set of "joined events" with the transmitted event. This fu
 For an example see function [TestWaitForFrPOCState](CAPLfunctionTestWaitForFrPOCState.md).
 
 [TestWaitForFrPOCState](CAPLfunctionTestWaitForFrPOCState.md) • [TestGetWaitFrPOCStateData](CAPLfunctionTestGetWaitFrPOCStateData.md) • [TestWaitForAnyJoinedEvent](CAPLfunctionTestWaitForAnyJoinedEvent.md) • [TestWaitForAllJoinedEvents](CAPLfunctionTestWaitForAllJoinedEvents.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

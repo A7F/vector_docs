@@ -84,5 +84,3 @@ on key '5'
   ethDisableStatisticsOfPort(1, ethernetport::Ethernet1::Port1);
 }
 ```
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

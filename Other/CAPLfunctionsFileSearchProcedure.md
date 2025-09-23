@@ -33,9 +33,3 @@ Files that are only used for write access may also be predefined as mentioned ab
 The CAPL functions that require a filename also accept a path preceding the filename. If the filename is already registered the path component is just ignored. In case of implicitly registered user files the file path is interpreted as the file path on the user computer to which the file is copied on measurement end.
 
 CAPL functions [setFilePath](Functions/CAPLfunctionSetFilePath.md), [setWritePath](Functions/CAPLfunctionSetWritePath.md) and [getAbsFilePath](Functions/CAPLfunctionGetAbsFilePath.md) are not available in case of a distributed environment.
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

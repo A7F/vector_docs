@@ -37,7 +37,3 @@ With the help of this function CAPL programs can be created such that they are i
 —
 
 [getBusNameContext](../../Other/Functions/CAPLfunctionGetBusNameContext.md) • [getBusContext](../../Other/Functions/CAPLfunctionGetBusContext.md) • [mostStrictChannelMapping](CAPLfunctionMOSTStrictChannelMapping.md) • [mostApplicationNode](CAPLfunctionMOSTApplicationNode.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

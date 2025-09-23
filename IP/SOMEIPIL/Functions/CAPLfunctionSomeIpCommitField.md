@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/SOMEIPIL/Functions/CAPLfunctionSomeIpCommitField.md)
-
-**CAPL Functions** » **Ethernet** » **SOME/IP IL** » **SomeIpCommitField**
-
 # SomeIpCommitField
 
 **Valid for**: CANoe DE • CANoe4SW DE

@@ -43,5 +43,3 @@ For form 2, 4, 6 and 8 you can specify an additional system variable which is se
 ## Example
 
 —
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -16,7 +16,3 @@ This Stimulus Generator generates a ramp. After the start, the Stimulus Generato
 - [StmCreate_Ramp](Functions/CAPLfunctionStmCreateRampUserDefined.md) (limits user-defined)
 
 [Stimulus Generator: Sample Code StmCreate_Ramp](CAPLfunctionsTSLSampleCode.md)
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

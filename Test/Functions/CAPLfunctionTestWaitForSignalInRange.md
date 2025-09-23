@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForSignalInRange.md)
-
-**CAPL Functions** » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestWaitForSignalInRange
-
 # TestWaitForSignalInRange
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -50,5 +46,3 @@ result = TestWaitForSignalInRange(Velocity, 80, 100, 2000);
 ```
 
 [TestJoinSignalInRange](CAPLfunctionTestJoinSignalInRange.md) • [TestWaitForSignalOutsideRange](CAPLfunctionTestWaitForSignalOutsideRange.md)
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

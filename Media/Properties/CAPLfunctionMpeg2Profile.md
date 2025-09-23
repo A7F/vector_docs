@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Media/Properties/CAPLfunctionMpeg2Profile.md)
-
-**CAPL Functions** » **Media API** » **Properties** » **Mpeg2Profile**
-
 # Mpeg2Profile
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -51,7 +47,3 @@ For H.264 video, the value of this property is one of the following:
 - eAVEncH264VProfile_UCScalableConstrainedHigh = 259
 
 These values are used with the **MpegProfile** property.
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

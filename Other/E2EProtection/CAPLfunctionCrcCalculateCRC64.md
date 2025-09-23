@@ -61,5 +61,3 @@ on key 'b'
   write("CRC of data: 0x%I64X", crc);
 }
 ```
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

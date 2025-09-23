@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/TCPIPAPI/Functions/CAPLfunctionIpGetSocketName.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [TCP/IP API](../CAPLfunctionsTCPIPOverview.md) » IpGetSocketName
-
 # IpGetSocketName
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -61,7 +57,3 @@ on start
   writeLineEx(1, 1, "%BASE_FILE_NAME%: The IPv4 socket is bound to address %s and port %d", addressStr, port);
 }
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

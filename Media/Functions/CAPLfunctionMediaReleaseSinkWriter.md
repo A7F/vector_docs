@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Media/Functions/CAPLfunctionMediaReleaseSinkWriter.md)
-
-**CAPL Functions** » **Media API** » **MediaReleaseSinkWriter**
-
 # MediaReleaseSinkWriter
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -57,9 +53,3 @@ Releases the sink writer.
 - MediaSetPropertySize
 - MediaWrite
 - OnMediaRead
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ISO11783/ISONodeLayer/Functions/CAPLfunctionIso11783TxReqPG.md)
-
-**CAPL Functions** » **ISO11783** » **ISO11783 Node Layer** » **Iso11783TxReqPG**
-
 # Iso11783TxReqPG
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -50,7 +46,3 @@ res = Iso11783TxReqPG(ecuHdl, 0xFE45, 0xFF, 4, 14, data);
 // specific parameter group:
 res = Iso11783TxReqPG(ecuHdl, 0xE600, 0x09, 4, 14, data);
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

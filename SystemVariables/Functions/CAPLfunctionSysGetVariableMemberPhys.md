@@ -39,8 +39,3 @@ Retrieves the physical value of a specific element of a variable of type [struct
 double val;
 sysGetVariableMemberPhys(sysvarMember::SomeNamespace::SomeStructVariable.SomeArrayMember[0], val);
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

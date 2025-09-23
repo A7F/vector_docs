@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/J1939/J1939InteractionLayer/Functions/CAPLfunctionJ1939ILSetNodeProperty.md)
-
-**CAPL Functions** » **J1939** » **J1939 IL** » **J1939ILSetNodeProperty**
-
 # J1939ILSetNodeProperty
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -69,9 +65,3 @@ If(J1939ILSetNodeProperty("BAM_DT_Interval", 100) < 0)
   write( "Can’t set node property 'BAM_DT_Interval' " );
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

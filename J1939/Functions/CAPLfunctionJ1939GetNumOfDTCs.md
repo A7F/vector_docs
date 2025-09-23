@@ -1,7 +1,3 @@
-[J1939GetNumOfDTCs](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/J1939/Functions/CAPLfunctionJ1939GetNumOfDTCs.md)
-
-**CAPL Functions** » [J1939](../CAPLfunctionsJ1939StartPage.md) » [Function Overview](../CAPLfunctionsJ1939Overview.md) » J1939GetNumOfDTCs
-
 # J1939GetNumOfDTCs
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -41,7 +37,3 @@ on pg DM1
     WriteEx(-3, 3, "DM1 with %d DTC(s) with FMI=11 observed", numOfDTCs);
 }
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

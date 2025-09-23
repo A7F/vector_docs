@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestGetWaitJ1939PGData.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestGetWaitJ1939PGData
-
 # TestGetWaitJ1939PGData
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -40,9 +36,3 @@ See examples of:
 - [TestJoinJ1939DTCEvent](CAPLfunctionTestJoinJ1939DTCEvent.md)
 
 [TestWaitForJ1939PG](CAPLfunctionTestWaitForJ1939PG.md) • [TestJoinJ1939PGEvent](CAPLfunctionTestJoinJ1939PGEvent.md) • [TestWaitForJ1939DTC](CAPLfunctionTestWaitForJ1939DTC.md) • [TestJoinJ1939DTCEvent](CAPLfunctionTestJoinJ1939DTCEvent.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

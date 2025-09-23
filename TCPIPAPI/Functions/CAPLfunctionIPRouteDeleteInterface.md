@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/TCPIPAPI/Functions/CAPLfunctionIPRouteDeleteInterface.md)
-
-**CAPL Functions** » **TCP/IP API** » **IPRouteDeleteInterface**
-
 # IPRouteDeleteInterface
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -53,7 +49,3 @@ on preStop
   ipRouteDeleteInterface( IP_Address(192.168.1.0), 24 );
 }
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

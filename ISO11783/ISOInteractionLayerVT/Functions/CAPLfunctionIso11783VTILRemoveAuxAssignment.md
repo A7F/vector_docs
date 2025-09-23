@@ -17,8 +17,6 @@
 
 Removes an auxiliary assignment. As a result, the Auxiliary Assignment Type 2 command is sent to the Auxiliary Function Working Set Master. If there are no assignments for the Auxiliary Input, an Auxiliary Input Status Type 2 Enable command (Disable) is sent to the Auxiliary Input Working Set Master.
 
-If the participants are using VT Version 0, 1, or 2, only an Auxiliary Assignment Type 1 command is sent to the Auxiliary Input.
-
 ## Parameters
 
 - **vt**: VT simulation node to apply the function
@@ -45,9 +43,3 @@ switch (result)
   default: TestStepFail("Unexpected error!"); break;
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

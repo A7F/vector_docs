@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/SOMEIPIL/Functions/CAPLfunctionSomeIpOutputMessage.md)
-
-**CAPL Functions** » **Ethernet** » **SOME/IP IL** » **SomeIpOutputMessage**
-
 # SomeIpOutputMessage
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE

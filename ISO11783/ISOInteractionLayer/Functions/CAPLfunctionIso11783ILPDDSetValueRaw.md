@@ -56,5 +56,3 @@ SetActualAppRateUsingRawValue()
 ```
 
 [Iso11783IL_PDDGetValueRaw, Iso11783IL_PDDGetValuePhysical](CAPLfunctionIso11783ILPDDGetValueRaw.md)
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

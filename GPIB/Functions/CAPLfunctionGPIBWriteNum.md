@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/GPIB/Functions/CAPLfunctionGPIBWriteNum.md)
-
-**CAPL Functions** » **GPIB** » **GPIBWriteNum**
-
 # GPIBWriteNum
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -30,9 +26,3 @@ Writes **cmdStr** + numeric value to the device. The function returns immediatel
 ## Example
 
 Setting of a voltage of 1.23 V: `GPIBWriteStr(myDev, "V", 1.23)`
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

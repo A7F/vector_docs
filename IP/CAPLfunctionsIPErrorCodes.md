@@ -1,6 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/CAPLfunctionsIPErrorCodes.md)
-
-[CAPL Functions](../CAPLfunctions.md) » [Ethernet](CAPLEthernetStartPage.md) » [Function Overview](CAPLfunctionsIPOverview.md) » IP/Ethernet Error Codes
 
 # IP/Ethernet Error Codes
 
@@ -33,9 +30,3 @@
 - **46-0135**: In the current context a token cannot be added or removed
 - **46-0136**: The token cannot be added or deleted
 - **46-0138**: Function can only be used in bus context of type Ethernet
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

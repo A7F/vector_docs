@@ -96,9 +96,3 @@ TestWaitForMostPkt("Navigation.Waypoints.Status(DATA FRAME(0x06, 0xFF, {20 21 22
 ```
 
 Note, that the TelID also matters for matching incoming packets. DATA FRAME and 0-FRAME specifications only match packets with TelID = 8, whereas all other frame types only consider packets with TelID = 9.
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

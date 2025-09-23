@@ -244,5 +244,3 @@ The following [check descriptions](../../TestCommands/CheckDescriptions.md) are 
   - [ChkCreate_MsgSignalValueInvalid, ChkStart_MsgSignalValueInvalid](Functions/CAPLfunctionChkCreateMsgSignalValueInvalid.md)
   - [ChkCreate_MsgSignalValueRangeViolation, ChkStart_MsgSignalValueRangeViolation](Functions/CAPLfunctionChkCreateMsgSignalValueRangeViolation.md)
   - This check is useful to supervise the value of signals.
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

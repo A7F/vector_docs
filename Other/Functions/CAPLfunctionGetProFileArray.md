@@ -37,7 +37,3 @@ Number of numerical values read in.
 See [getProfileArray](CAPLfunctionsExampleProfile.md)
 
 **Note**: Using 256 hex values (format 0x??) and int values (format ??? plus signed) respectively as well as separators the string length is 4 * 256 + 255 = 1279 characters. The first 1279 characters are read from the ini entry and are converted to numerical values. The above mentioned format is sufficiently for 256 numerical values. Does the string contain figures with only one figure as well as separators (e.g. 3,1,4,1,5,9,2,6,5,3,5...), 640 numerical values can be read.
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

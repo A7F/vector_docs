@@ -66,7 +66,3 @@
 - **QueueSerialFrames / sensorQueueSerialFrames**: Queues one frame for each given datum.
 
 [Option .Sensor](../../CANoeCANalyzer/Sensor/Sensor.md) • [Enumeration](CAPLfunctionsSensorEnumeration.md) • [Structs](CAPLfunctionsSensorStructs.md)
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

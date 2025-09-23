@@ -82,7 +82,3 @@ With the help of the TC IL you can expand a simulation node in an ISOBUS network
 - Manipulation of the TC Status message (fault injection).
 
 ---
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

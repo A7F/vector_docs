@@ -56,5 +56,3 @@ dwordWrapper.dw = 0x03020100;
 if (memcmp(dwordWrapper, data) == 0)
    write("Data represents the number: Little Endian is used.");
 ```
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[PtpTimeNow](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AVBIL/Functions/CAPLfunctionPtpTimeNow.md)
-
-**CAPL Functions** » [Ethernet](../../CAPLEthernetStartPage.md) » [AVB IL](../CAPLfunctionsAVBILOverview.md) » PtpTimeNow
-
 # PtpTimeNow
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -65,7 +61,3 @@ The current global PTP time (ns).
 - [PtpSimulationTimespanFromPtpTimespan](CAPLfunctionPtpSimulationTimespanFromPtpTimespan.md#aanchor15759)
 - [PtpTimeFromSimulationTime](CAPLfunctionPtpTimeFromSimulationTime.md#aanchor10767)
 - [PtpTimeNow](#aanchor20173)
-
-**Version**: CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

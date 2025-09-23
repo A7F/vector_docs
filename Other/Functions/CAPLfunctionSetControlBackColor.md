@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Other/Functions/CAPLfunctionSetControlBackColor.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [General](../CAPLGeneralStartPage.md) » [Function Overview](../CAPLfunctionsGeneralOverview.md) » SetControlBackColor
-
 # SetControlBackColor
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -63,7 +59,3 @@ SetControlBackColor("", "", MakeRGB(255,0,0));
 ```
 
 [SetControlProperty](CAPLfunctionSetControlProperty.md) • [SetControlForeColor](CAPLfunctionSetControlForeColor.md) • [SetControlColors](CAPLfunctionSetControlColors.md) • [SetDefaultControlColors](CAPLfunctionSetDefaultControlColors.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -165,7 +165,3 @@ To use the CAPL functions the **ISO11783_VT_IL.dll** i.e. [Virtual Terminal Inte
 | [VTIL_GetStringValue](Functions/CAPLfunctionIso11783VTILGetDwordValue.md) | Returns the value of an object. |
 
 [IL Error Codes](../../CAPLfunctionsISOj1939ErrorCodes.md) • [VT IL Properties](CAPLfunctionsISOILVTProperties.md) • [VT IL Network Properties](CAPLfunctionsISOILVTNetworkProperties.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

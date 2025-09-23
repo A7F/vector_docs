@@ -48,7 +48,3 @@ GNSSSetRefPoint( 48.46, 9.11, 225 );
 GNSSSetUnits( 1 );
 GNSSAddWpRefS( -30.0, -50.0, 0, 35 );
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

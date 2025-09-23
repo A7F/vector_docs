@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Security/CallbackHandler/CAPLfunctionOnSecurityLocalQueryFreshness.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Security](../CAPLFunctionsSecurityOverview.md) » OnSecurityLocalQueryFreshness
-
 # OnSecurityLocalQueryFreshness
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -158,7 +154,3 @@ long OnSecurityLocalQueryFreshness(
   return 0; // for all others use internal calculated freshness values
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

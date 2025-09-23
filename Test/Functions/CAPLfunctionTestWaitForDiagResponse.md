@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForDiagResponse.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Diagnostics](../../Diagnostics/CAPLfunctionsDiagnosticsOverview.md) » TestWaitForDiagResponse
-
 # TestWaitForDiagResponse
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -59,7 +55,3 @@ Therefore, the function waits until the timeout, which was passed as a parameter
 [Using Diagnostics Functions in Test Cases](../../Diagnostics/CAPLfunctionsDiagnosticsUsingFunctionTestCase.md)
 
 [Test Feature Set CAPL Functions](../CAPLfunctionsTFSOverview.md) • [TestJoinDiagResponseFromEcu](CAPLfunctionTestJoinDiagResponseFromEcu.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

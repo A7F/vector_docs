@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/MapWindowAPI/Functions/CAPLfunctionSetMapObjectFillColor.md)
-
-**CAPL Functions** » **Map Window API** » **SetMapObjectFillColor**
-
 # SetMapObjectFillColor
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -37,5 +33,3 @@ Sets the fill color of a map object or the text color of a text object.
 ## Example
 
 See [Map Window API example](../CAPLfunctionMapWindowAPI.md).
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

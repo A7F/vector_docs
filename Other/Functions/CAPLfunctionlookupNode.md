@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Other/Functions/CAPLfunctionlookupNode.md)
-
-**CAPL Functions** » [General](../CAPLGeneralStartPage.md) » [Function Overview](../CAPLfunctionsGeneralOverview.md) » lookupNode
-
 # lookupNode
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -29,7 +25,3 @@ The found unique node definition or an invalid object.
 ## Example
 
 See [Data Types for Variables](../../../Shared/CAPL/General/DataTypesForVariables.md#Database)
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

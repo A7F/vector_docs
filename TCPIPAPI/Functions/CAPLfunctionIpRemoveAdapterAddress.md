@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/TCPIPAPI/Functions/CAPLfunctionIpRemoveAdapterAddress.md)
-
 # IpRemoveAdapterAddress
 
 [CAPL Functions](../../CAPLfunctions.md) » [TCP/IP API](../CAPLfunctionsTCPIPOverview.md) » IpRemoveAdapterAddress
@@ -54,5 +52,3 @@ on preStop
   ipRemoveAdapterAddress( 1, IP_Address( 192.168.0.116 ), 24 );
 }
 ```
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

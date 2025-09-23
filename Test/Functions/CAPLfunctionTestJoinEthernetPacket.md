@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestJoinEthernetPacket.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestJoinEthernetPacket
-
 # TestJoinEthernetPacket
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -79,5 +75,3 @@ Completes the current set of **joined events** with the transmitted event. This 
 —
 
 [TestWaitForEthernetPacket](CAPLfunctionTestWaitForEthernetPacket.md) • [testGetWaitEthernetPacketData](CAPLfunctionTestGetWaitEthernetPacketData.md)
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

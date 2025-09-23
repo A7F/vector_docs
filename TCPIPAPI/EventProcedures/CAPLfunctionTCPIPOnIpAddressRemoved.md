@@ -47,9 +47,3 @@ void OnIpAddressRemoved(dword ifIndex, ip_Address address, dword prefix, dword o
   write("removed ip address: %s from adapter nr: %d. Origin: %s", addrString, ifIndex, originNames[origin]);
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

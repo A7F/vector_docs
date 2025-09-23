@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Other/Functions/CAPLfunctionlookupSignal.md)
-
-**CAPL Functions** » **General** » **Function Overview** » **lookupSignal**
-
 # lookupSignal
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -53,7 +49,3 @@ $sig = 0;
 ```
 
 [Dynamic Search of Messages and Signals in Databases](../../../Shared/CAPL/General/DynamicSearchMessages.md)
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

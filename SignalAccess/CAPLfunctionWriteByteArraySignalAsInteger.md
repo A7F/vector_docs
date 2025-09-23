@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/SignalAccess/CAPLfunctionWriteByteArraySignalAsInteger.md)
-
-**CAPL Functions** » [Signal Access](CAPLfunctionsSignalAccessOverview.md) » WriteByteArraySignalAsInteger
-
 # WriteByteArraySignalAsInteger
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -50,7 +46,3 @@ If the value shall be written in **intel** (little-endian) byte order, depending
 - `byteCutMode == 1`: CD AB 89 67 45 23 91
 
 [SetRawSignal](../Test/Functions/CAPLfunctionSetRawSignal.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

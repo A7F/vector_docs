@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/SOMEIPIL/Functions/CAPLfunctionSomeIpAddEventToEventgroup.md)
-
-**CAPL Functions** » **Ethernet** » **SOME/IP IL** » **SomeIpAddEventToEventgroup**
-
 # SomeIpAddEventToEventgroup
 
 [Valid for: CANoe DE](../../../../Shared/FeatureAvailability.md) • CANoe4SW DE

@@ -27,15 +27,7 @@ Returns the applied specification version of a MOST channel.
   - `0x0300`: version 3.0
 
   **Note**: Currently the MOST Specification version depends on the chosen speed grade:
-  - MOST25: Version 2.5
-  - MOST50 / MOST150: Version 3.0
 
 ## Example
 
 —
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

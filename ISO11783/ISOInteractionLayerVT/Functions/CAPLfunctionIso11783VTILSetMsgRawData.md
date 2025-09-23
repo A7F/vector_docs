@@ -50,9 +50,3 @@ void SendPointingEvent(word x, word y, byte touchState)
   VTIL_SetMsgEvent(VT12_VT);
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

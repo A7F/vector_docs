@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AVBIL/Functions/CAPLfunctionOnAvbSend.md)
-
-**CAPL Functions** » **Ethernet** » **AVB IL** » **OnAvbSend**
-
 # OnAvbSend
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -33,9 +29,3 @@ This callback is dispatched when an asynchronous send operation on a Talker comp
 —
 
 [See Also](javascript:void(0);)
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

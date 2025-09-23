@@ -32,7 +32,3 @@ Time stamp of the last update to the variable value, in nanoseconds since measur
 int64 timeStamp;
 timeStamp = sysGetVariableTimeNS(sysvar::MyNamespace::FloatVar);
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

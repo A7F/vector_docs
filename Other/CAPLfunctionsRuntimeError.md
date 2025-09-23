@@ -16,9 +16,3 @@ A number of runtime errors are monitored:
 If a runtime error is detected the function [runError](Functions/CAPLfunctionRunError.md) is called. This outputs a comment to the Write Window, which contains the name of the CAPL program, the type of error and an error index. With the help of the error index, the point in the CAPL source text which generated the error is found. Measurement is terminated after output of the comment.
 
 The user can also call the function [runError](Functions/CAPLfunctionRunError.md) directly to generate assertions.
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

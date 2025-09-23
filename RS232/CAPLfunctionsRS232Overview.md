@@ -39,7 +39,3 @@ if ( 1==RS232Close(1) ) write("Port 1 has been closed.");
 ```
 
 [Deprecated INI File](CAPLfunctionsRS232DeprecatedIniFiles.md) • [RS232 API: Overview](../../CANoeCANalyzer/Interfaces/RS232/RS232.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

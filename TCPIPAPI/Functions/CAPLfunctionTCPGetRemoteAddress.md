@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/TCPIPAPI/Functions/CAPLfunctionTCPGetRemoteAddress.md)
-
-**CAPL Functions** » **TCP/IP API** » **TCPGetRemoteAddress**
-
 # TCPGetRemoteAddress
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -31,7 +27,3 @@ The IPv4 address of the remote host in [network-byte order](../../../Shared/CAPL
 —
 
 [TcpAccept](CAPLfunctionTCPAccept.md) • [TcpConnect](CAPLfunctionTCPConnect.md)
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

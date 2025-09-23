@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Other/Functions/CAPLfunctionSetControlVisibility.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [General](../CAPLGeneralStartPage.md) » [Function Overview](../CAPLfunctionsGeneralOverview.md) » SetControlVisibility
-
 # SetControlVisibility
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -53,7 +49,3 @@ SetControlVisibility("", "", 1);
 ```
 
 [SetControlBackColor](CAPLfunctionSetControlBackColor.md) • [SetControlProperty](CAPLfunctionSetControlProperty.md) • [SetControlColors](CAPLfunctionSetControlColors.md) • [SetDefaultControlColors](CAPLfunctionSetDefaultControlColors.md)
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

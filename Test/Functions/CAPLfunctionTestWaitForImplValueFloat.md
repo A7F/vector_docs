@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForImplValueFloat.md)
-
-**CAPL Functions** » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestWaitForImplValueFloat
-
 # TestWaitForImplValueFloat
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -37,7 +33,3 @@ ret = testWaitForImplValueFloat(MirrorStatus[CANoe].Temperature, 20.0, 200);
 ```
 
 [Programming with the Communication Concept (C#, Python and CAPL)](../../../CANoeCANalyzer/CommunicationConcept/Programming/CCP.md) • [TestWaitForImplValueUInt](CAPLfunctionTestWaitForImplValueUInt.md) • [TestWaitForImplValueSInt](CAPLfunctionTestWaitForImplValueSInt.md) • [TestWaitForImplValue](CAPLfunctionTestWaitForImplValue.md) • TestWaitForImplValueFloat
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

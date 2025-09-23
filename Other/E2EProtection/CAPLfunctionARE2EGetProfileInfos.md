@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Other/E2EProtection/CAPLfunctionARE2EGetProfileInfos.md)
-
-**CAPL Functions** » **General** » **Function Overview** » **ARE2EGetProfileInfos**
-
 # ARE2EGetProfileInfos
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -57,7 +53,3 @@ on PDU <PDU_NAME>
   ARE2EGetProfileInfos (this, "", aCategory, elCount(aCategory), aProfile, dataIDMode, dataOffset, dataLength, crcOffset, counterOffset);
 }
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

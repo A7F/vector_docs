@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/ISO11783/ISONodeLayer/Functions/CAPLfunctionIso11783ECUGoOnline.md)
-
-**CAPL Functions** » **ISO11783** » **ISO11783 Node Layer** » **Iso11783ECUGoOnline**
-
 # Iso11783ECUGoOnline
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -37,9 +33,3 @@ Use the Null Address (0xFE) to switch the ECU to offline mode. In that explicit 
 ```
 Iso11783ECUGoOnline(ecuHdl, 0x06);
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

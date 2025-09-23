@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestReportAddExtendedInfo.md)
-
-**CAPL Functions** » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestReportAddExtendedInfo
-
 # TestReportAddExtendedInfo
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -42,9 +38,3 @@ With this function, it is possible to take over information into the protocol th
 See example: [TestReportAdd* Functions](CAPLfunctionsTFSExampleTestReportAddFunctions.md)
 
 [TestReportAddImage](CAPLfunctionTestReportAddImage.md) • [TestReportAddMiscInfo](CAPLfunctionTestReportAddMiscInfo.md) • [TestReportAddMiscInfoBlock](CAPLfunctionTestReportAddMiscInfoBlock.md) • [TestReportAddEngineerInfo](CAPLfunctionTestReportAddEngineerInfo.md) • [TestReportAddSetupInfo](CAPLfunctionTestReportAddEngineerInfo.md) • [TestReportAddSUTInfo](CAPLfunctionTestReportAddEngineerInfo.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

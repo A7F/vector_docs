@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Sensor/Functions/CAPLfunctionQueueMosiData.md)
-
-**CAPL Functions** » **Sensor** » **QueueMosiData**
-
 # QueueMosiData
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -52,7 +48,3 @@ SensorInsertInteger(requestData, 2, value2, 6, 6, 1);
 // Send the prepared 12 bits to the ExampleSlave
 sysvar::SENSOR::SPI::ExampleChannel::ExampleSlave.QueueMosiData(requestData, 12);
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

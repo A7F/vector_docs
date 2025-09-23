@@ -1,7 +1,3 @@
-[J1939ILResetDelayedRxMessage](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/J1939/J1939InteractionLayer/Functions/CAPLfunctionJ1939ILResetDelayedRxMessage.md)
-
-**CAPL Functions** » [J1939](../../CAPLfunctionsJ1939StartPage.md) » [J1939 IL](../CAPLfunctionsJ1939ILOverview.md) » J1939ILResetDelayedRxMessage
-
 # J1939ILResetDelayedRxMessage
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -36,5 +32,3 @@ Resets the change of a single [J1939ILDelayRxMessage](CAPLfunctionJ1939ILDelayRx
 ## Example
 
 —
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

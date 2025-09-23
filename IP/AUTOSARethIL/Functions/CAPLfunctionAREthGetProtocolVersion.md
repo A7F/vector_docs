@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionAREthGetProtocolVersion.md)
-
-**CAPL Functions** » **Ethernet** » **AUTOSAR Eth IL** » **AREthGetProtocolVersion**
-
 # AREthGetProtocolVersion
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -46,7 +42,7 @@ void OnAREthMessage( dword messageHandle )
 
   if(errorOccured == 0)
   {
-    write("SOME/IP message with Protocol Version 0x%02x (%d) received",protVers,protVers);
+
   } // if
 }
 ```

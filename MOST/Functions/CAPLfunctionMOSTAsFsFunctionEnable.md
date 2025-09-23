@@ -59,7 +59,3 @@ See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 - `mostAsFsFunctionEnable(-1, 0x01FFFF, "SendStatus_")` enables all functions and all operations defined in the XML function catalog. Additionally, functions of type 'property' will be registered at the Notification Service if a corresponding CAPL function for sending the status message is defined.
 
 [mostAsFsEnable, mostAsFsDisable](CAPLfunctionMOSTAsFsEnableMOSTAsFsDisable.md) • [mostAsFsFunctionEnableEx](CAPLfunctionMOSTAsFsFunctionEnableEx.md) • [mostAsNtfFunctionEnable](CAPLfunctionMOSTAsNTFFunctionEnable.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

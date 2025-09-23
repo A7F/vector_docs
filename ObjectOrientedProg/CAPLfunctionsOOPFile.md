@@ -22,9 +22,3 @@ This class is used to read from a file or write to a file.
   - [writeString](../Other/Functions/CAPLfunctionFilePutString.md)
 
 • Technical References are only available in English
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

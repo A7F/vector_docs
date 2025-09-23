@@ -40,5 +40,3 @@ result = Iso11783IL_PDDGetValuePhysical(120, 2, currentValue);
 ```
 
 [Iso11783IL_PDDSetValueRaw, Iso11783IL_PDDSetValuePhysical](CAPLfunctionIso11783ILPDDSetValueRaw.md)
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

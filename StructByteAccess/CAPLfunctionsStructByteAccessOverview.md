@@ -21,9 +21,3 @@ These CAPL functions are supported by Windows and Linux. The functionality under
 - [memcpy_off](Functions/CAPLfunctionMemCpy_off.md): Copies bytes from a source to destination, giving a destination start offset.
 
 [Structures](../../Shared/CAPL/General/Structures.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

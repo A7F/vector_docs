@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForSignalOutsideRange.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestWaitForSignalOutsideRange
-
 # TestWaitForSignalOutsideRange
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -54,7 +50,3 @@ result = TestWaitForSignalOutsideRange(Velocity, 80, 100, 2000);
 ```
 
 [TestJoinSignalOutsideRange](CAPLfunctionTestJoinSignalOutsideRange.md) • [TestWaitForSignalInRange](CAPLfunctionTestWaitForSignalInRange.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

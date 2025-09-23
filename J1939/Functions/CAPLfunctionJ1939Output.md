@@ -64,7 +64,3 @@ On key 'a'
 ```
 
 [Define Parameter Groups (J1939)](../CAPLfunctionsJ1939DefinePG.md) • [Parameter Group Selectors (J1939)](../CAPLfunctionJ1939GroupSelectors.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

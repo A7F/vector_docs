@@ -31,9 +31,3 @@ The function returns the J1939 device name of a control device that was logged o
 char name[8];
 GNSSGetName( 10, name );
 ```
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

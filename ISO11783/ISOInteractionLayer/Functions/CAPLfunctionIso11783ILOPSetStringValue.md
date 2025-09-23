@@ -47,5 +47,3 @@ Forms 1, 2, and 4 store the string as an 8-bit string. Forms 3 and 5 allow you t
 ```plaintext
 Iso11783IL_OPSetStringValue( 1000, "Hello World" );
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

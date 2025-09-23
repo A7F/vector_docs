@@ -3,7 +3,6 @@
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE
 
 **Note**  
-This function can only be used with Vector drivers. The `vcndrvms.DLL` must be at least Version 4.2.40.
 
 ## Function Syntax
 

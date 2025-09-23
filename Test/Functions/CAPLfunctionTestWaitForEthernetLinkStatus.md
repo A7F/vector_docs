@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForEthernetLinkStatus.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestWaitForEthernetLinkStatus
-
 # TestWaitForEthernetLinkStatus
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -60,7 +56,3 @@ void MainTest ()
 ```
 
 [TestJoinEthernetLinkStatus](CAPLfunctionTestJoinEthernetLinkStatus.md) • [ethGetLinkStatus](../../IP/Functions/CAPLfunctionEthGetLinkStatus.md) • [ethSetLinkStatus](../../IP/Functions/CAPLfunctionEthSetLinkStatus.md) • [on ethernetStatus](../../IP/EventProcedures/CAPLfunctionOnEthernetStatus.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

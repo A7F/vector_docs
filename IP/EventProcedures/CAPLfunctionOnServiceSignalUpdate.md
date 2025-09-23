@@ -52,6 +52,4 @@ on serviceSignal_update DemoDatabase::PACKAGE1::PACKAGE2::Service1::1::2::Event1
 
 **Note**
 
-The parameter `Param1_CommonDataType` is contained in `Event1` of service `Service1` (Major Version 1, Instance ID 2). The service interface is defined in package `PACKAGE1::PACKAGE2` of database `DemoDatabase`.
-
 [See Also](javascript:void(0);)

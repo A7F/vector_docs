@@ -72,5 +72,3 @@ OnUdpReceiveFrom( UdpSocket socket, long result, IP_Endpoint remoteEndpoint, cha
   }
 }
 ```
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

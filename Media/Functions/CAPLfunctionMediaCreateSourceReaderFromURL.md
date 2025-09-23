@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Media/Functions/CAPLfunctionMediaCreateSourceReaderFromURL.md)
-
-**CAPL Functions** » **Media API** » **MediaCreateSourceReaderFromURL**
-
 # MediaCreateSourceReaderFromURL
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -57,9 +53,3 @@ Creates the source reader from a URL. For more information regarding the source 
 - MediaSetPropertySize
 - MediaWrite
 - OnMediaRead
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

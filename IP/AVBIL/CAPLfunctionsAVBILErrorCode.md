@@ -25,9 +25,3 @@
 - **46-0618**: Presentation time is less than packet time stamp
 - **46-0620**: Change of AVTP protocol in established stream
 - **46-0621**: Change of AVTP protocol format in established stream
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

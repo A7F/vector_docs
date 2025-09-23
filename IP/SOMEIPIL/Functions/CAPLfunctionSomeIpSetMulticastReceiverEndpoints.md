@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/SOMEIPIL/Functions/CAPLfunctionSomeIpSetMulticastReceiverEndpoints.md)
-
-**CAPL Functions** » **Ethernet** » **SOME/IP IL** » SomeIpSetMulticastReceiverEndpoints
-
 # SomeIpSetMulticastReceiverEndpoints
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -32,7 +28,3 @@ Sets the multicast endpoint that is used for the consumed event group to receive
 ## Example
 
 —
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

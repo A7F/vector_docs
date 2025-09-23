@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/SOMEIPIL/Functions/CAPLfunctionSomeIpGetValueDWord.md)
-
-**CAPL Functions** » **Ethernet** » **SOME/IP IL** » **SomeIpGetValueDWord**
-
 # SomeIpGetValueDWord
 
 **Valid for**: CANoe DE • CANoe4SW DE

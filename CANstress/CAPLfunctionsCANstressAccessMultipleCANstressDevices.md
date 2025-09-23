@@ -2,8 +2,6 @@
 
 [Valid for](../../Shared/FeatureAvailability.md): CANoe DE
 
-With previous versions of CANstress NL DLL, it was only possible to access a single CANstress device from a single test module. Since Version 2.0 of the **CANstress NL DLL**, it is possible to control as many CANstress devices as you like from a single test module. To do this you need to configure the available CANstress devices in the **CANoe** options:
-
 1. Open the [CANstress](../../CANoeCANalyzer/Ribbon/File/Options/Extensions/ExtensionsCANstress.md) page in the **Extensions** section.
 2. Adjust the RS232 settings if necessary when using a CANstress device connected via RS232.
 3. Close and reopen the **CANoe** options. Now all connected CANstress devices should be listed in the table.

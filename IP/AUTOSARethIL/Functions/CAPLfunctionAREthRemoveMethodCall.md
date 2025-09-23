@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionAREthRemoveMethodCall.md)
-
-**CAPL Functions** » **Ethernet** » **AUTOSAR Eth IL** » **AREthRemoveMethodCall**
-
 # AREthRemoveMethodCall
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE

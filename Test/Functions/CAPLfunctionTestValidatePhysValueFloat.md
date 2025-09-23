@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestValidatePhysValueFloat.md)
-
 # TestValidatePhysValueFloat
 
 [CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestValidatePhysValueFloat
@@ -37,7 +35,3 @@ ret = testValidatePhysValueFloat("Validate temperature", MirrorStatus[CANoe].Tem
 ```
 
 [TestValidatePhysValueSInt](CAPLfunctionTestValidatePhysValueSInt.md) • [TestValidatePhysValueUInt](CAPLfunctionTestValidatePhysValueUInt.md)
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

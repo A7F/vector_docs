@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestSetVerdictModule.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestSetVerdictModule
-
 # TestSetVerdictModule
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -36,9 +32,3 @@ E.g. this function can be used within the test controlling to conduct a test cas
 See example: [TestSetVerdictModule](CAPLfunctionsTFSExampleTestSetVerdictModule.md)
 
 [TestGetVerdictModule](CAPLfunctionTestGetVerdictModule.md) • [TestGetVerdictLastTestCase](CAPLfunctionTestGetVerdictLastTestCase.md) • [Test Results - Verdicts](../../../CANoeCANalyzer/Test/TestVerdicts.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

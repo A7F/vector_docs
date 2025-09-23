@@ -31,9 +31,3 @@ Press `<kbd>`Ctrl`</kbd>`+`<kbd>`M`</kbd>` or select **Message input with MOST f
 In this context, the input assistant permits the description of messages up to OpType and adds the resulting description to the program text without quotation marks in the notation separated by period marks.
 
 [mostAMSOutput](Functions/CAPLfunctionMOSTAmsOutput.md) • [mostMsgSet](Functions/CAPLfunctionMOSTMsgSet.md) • [Symbolic Identification of Parameters](CAPLfunctionsMOSTSymIDParam.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

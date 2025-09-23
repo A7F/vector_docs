@@ -19,7 +19,3 @@ The sink writer hosts a media sink and optionally one or more encoders. The enco
 The application passes audio/video data to the sink writer as input. It does not matter how the application obtains or generates the input data. One option is to use the source reader. However, the sink writer does not require the use of the source reader. These two components are independent.
 
 [Media Concepts](CAPLfunctionsMediaConcept.md) • [Media Formats](CAPLfunctionsMediaFormats.md) • [Source Reader](CAPLfunctionsMediaSouceReader.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

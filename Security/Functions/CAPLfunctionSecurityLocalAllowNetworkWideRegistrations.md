@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Security/Functions/CAPLfunctionSecurityLocalAllowNetworkWideRegistrations.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Security](../CAPLFunctionsSecurityOverview.md) » SecurityLocalAllowNetworkWideRegistrations
-
 # SecurityLocalAllowNetworkWideRegistrations
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -69,9 +65,3 @@ on stopMeasurement
   Write("SecurityLocalUnregisterApplicationProtocol to unregister from APPLICATIONPROTOCOLNAME on VLAN 10 returned %i", result);
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

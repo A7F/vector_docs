@@ -149,7 +149,3 @@ A detailed description of the ISO 10681-2 TP for FlexRay and the implemented CAP
 [FlexRay](../../CANoeCANalyzer/FlexRay/FlexRay.md) • [Exemplary Usage of FlexRay Functions in CAPL](../../CANoeCANalyzer/FlexRay/FlexRayCAPLUsage.md)
 
 ---
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

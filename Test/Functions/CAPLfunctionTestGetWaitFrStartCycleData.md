@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestGetWaitFrStartCycleData.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestGetWaitFrStartCycleData
-
 # TestGetWaitFrStartCycleData
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -37,7 +33,3 @@ The second function can only be used for "joined events". The number of the "joi
 For an example see function [TestWaitForFrStartCycle](CAPLfunctionTestWaitForFrStartCycle.md).
 
 [TestWaitForFrStartCycle](CAPLfunctionTestWaitForFrStartCycle.md) • [TestJoinFrStartCycleEvent](CAPLfunctionTestJoinFrStartCycleEvent.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

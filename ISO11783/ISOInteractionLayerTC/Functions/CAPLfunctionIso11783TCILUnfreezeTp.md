@@ -42,5 +42,3 @@ The connection then acts as if no interruption occurred. That means, if the conn
 ## Example
 
 See [TCIL_FreezeTp](CAPLfunctionIso11783TCILFreezeTp.md)
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -39,7 +39,3 @@ You can enter the single parts of a function address in numeric or symbolic nota
 | Jumping back or forward within the input filed.               | `<Ctrl> + <Right Arrow>`, `<Ctrl> + <Left Arrow>`    |
 
 [General Tips on XML Function Catalog Support in CAPL](CAPLfunctionsMOSTXMLSupport.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

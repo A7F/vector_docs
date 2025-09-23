@@ -45,5 +45,3 @@ Checks the bits of a LIN message against the defined bitmask.
 ## Example
 
 —
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

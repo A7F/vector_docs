@@ -36,7 +36,6 @@ Allocates synchronous bandwidth on MOST150.
   - At most ten labels can be allocated at a time.
 - Specific for OptoLyzerOL3150o:
   - The bypass of the OptoLyzerOL3150o’s stress NIC has to be open (see [mostSetStressNodeParameter](CAPLfunctionMOSTSetGetStressNodeParameter.md)).
-  - Several labels can be allocated at a time depending on the firmware version of the OptoLyzerOL3150o. Version 1.5.6 allows to allocate two labels at most.
 
 **Callback:**
 
@@ -70,7 +69,3 @@ See [error codes](../CAPLfunctionsMOSTErrorCodes.md)
 —
 
 [OnMostAllocTable](../EventProcedures/CAPLfunctionOnMOSTAllocTable.md) • [mostSyncDealloc](CAPLfunctionMOSTSyncDealloc.md) • [mostSetSyncAudio](CAPLfunctionMOSTSetSyncAudio.md) • [mostSetSBC](CAPLfunctionMOSTSetSBC.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -37,7 +37,3 @@ Retrieves a description for a value of a system variable of type long or long ar
 char buffer[20];
 sysGetVariableDescriptionForValue("Dynamic", "IntVar", 0, buffer, elcount(buffer));
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

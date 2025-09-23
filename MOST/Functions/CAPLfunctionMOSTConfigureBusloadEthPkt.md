@@ -54,7 +54,3 @@ See [error codes](../CAPLfunctionsMOSTErrorCodes.md).
 See [mostGenerateBusloadEthPkt](CAPLfunctionMOSTGenerateBusloadEthPkt.md).
 
 [mostGenerateBusloadEthPkt](CAPLfunctionMOSTGenerateBusloadEthPkt.md) • [mostSetStressNodeParameter](CAPLfunctionMOSTSetGetStressNodeParameter.md) • [mostSetMacAdr](CAPLfunctionMOSTSetGetMacAdr.md) • [mostSetSBC](CAPLfunctionMOSTSetSBC.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

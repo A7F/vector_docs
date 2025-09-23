@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForJ1939DTC.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestWaitForJ1939DTC
-
 # TestWaitForJ1939DTC
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -102,7 +98,3 @@ else
 ```
 
 [**TestJoinJ1939DTCEvent**](CAPLfunctionTestJoinJ1939DTCEvent.md) • [**TestGetWaitJ1939PGData**](CAPLfunctionTestGetWaitJ1939PGData.md) • [**TestWaitForJ1939PG**](CAPLfunctionTestWaitForJ1939PG.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

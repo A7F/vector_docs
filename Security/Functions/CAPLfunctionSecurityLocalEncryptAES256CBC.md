@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Security/Functions/CAPLfunctionSecurityLocalEncryptAES256CBC.md)
-
 # SecurityLocalEncryptAES256CBC
 
 [CAPL Functions](../../CAPLfunctions.md) » [Security](../CAPLFunctionsSecurityOverview.md) » SecurityLocalEncryptAES256CBC
@@ -48,5 +46,3 @@ long result;
 
 result = SecurityLocalEncryptAES256CBC(keyData, keyLength, data, dataLength, initVector, initVectorLength, cipheredOutput, cipheredOutputLength);
 ```
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

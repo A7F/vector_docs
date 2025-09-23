@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Security/Functions/CAPLfunctionSecurityLocalDecryptAES128CBC.md)
-
-**CAPL Functions** » [Security](../CAPLFunctionsSecurityOverview.md) » SecurityLocalDecryptAES128CBC
-
 # SecurityLocalDecryptAES128CBC
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -54,7 +50,3 @@ long result;
 
 result = SecurityLocalDecryptAES128CBC(keyData, keyLength, cipheredData, cipheredDataLength, initVector, initVectorLength, plainOutput, plainOutputLength);
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

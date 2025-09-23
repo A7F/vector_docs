@@ -71,7 +71,3 @@ More S/PDIF examples see [MOST Access to Digital Audio Channels (S/PDIF In and O
 
 **Related Functions**:  
 [mostSetTimingMode](CAPLfunctionMOSTSetTimingMode.md) • [mostSetSyncSpdifMode](CAPLfunctionMOSTSetSyncSpdifMode.md) • [mostGetSyncSpdifMode](CAPLfunctionMOSTGetSyncSpdifMode.md) • [mostGetClockSource](CAPLfunctionMOSTGetClockSource.md) • [mostSetSyncAudio](CAPLfunctionMOSTSetSyncAudio.md) • [mostSetSyncSpdif](CAPLfunctionMOSTSetSyncSpdif.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

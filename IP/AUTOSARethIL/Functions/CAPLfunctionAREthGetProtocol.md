@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionAREthGetProtocol.md)
-
-**CAPL Functions** » **Ethernet** » **AUTOSAR Eth IL** » **AREthGetProtocol**
-
 # AREthGetProtocol
 
 **Valid for**: CANoe DE • CANoe4SW DE
@@ -90,7 +86,3 @@ void OnAREthMessage( dword messageHandle )
 - [AREthSetValueString](CAPLfunctionAREthSetValueString.md#aanchor9201)
 - [Syntax for Database-based Access Paths](CAPLfunctionAREthSyntaxDatabaseAccessPath.md#aanchor1875)
 - [Syntax for Predefined Service Discovery (SD) Access Paths](CAPLfunctionAREthSyntaxPredefinedSDAccessPath.md#aanchor18979)
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

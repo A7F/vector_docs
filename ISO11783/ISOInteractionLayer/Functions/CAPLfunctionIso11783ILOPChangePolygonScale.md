@@ -34,5 +34,3 @@ The function changes the size of a polygon object. A **Change Polygon Scale** co
 ```plaintext
 Iso11783IL_OPChangePolygonScale( 1200, 80, 40 );
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

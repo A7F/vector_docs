@@ -54,5 +54,3 @@ LONG Iso11783IL_PDDOnPDM (long command, long parameter, long senderAddress, long
     return 0;
 }
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

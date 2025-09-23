@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForMostSpyMessage.md)
-
-**CAPL Functions** » **Test Feature Set** » **TestWaitForMostSpyMessage**
-
 # TestWaitForMostSpyMessage
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE
@@ -56,7 +52,3 @@ Waits for the occurrence of the specified MOST Spy message. The first arriving c
 —
 
 [Related Links:](CAPLfunctionTestWaitForMostAMSSpyMessage.md) TestWaitForMostAMSSpyMessage • [TestWaitForMostMessage](CAPLfunctionTestWaitForMostMessage.md) • [TestJoinMostSpyReportEvent](CAPLfunctionTestJoinMostSpyReportEvent.md) • [TestWaitForMostSpyReport](CAPLfunctionTestWaitForMostSpyReport.md) • [TestGetWaitEventMostMsgData](CAPLfunctionTestGetWaitEventMostMsgData.md) • [Symbolic definition of MOST messages](../CAPLfunctionsTFSSymbolicMessageDefinition.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

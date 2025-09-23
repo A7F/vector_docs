@@ -80,5 +80,3 @@
 - [GBT27930IL_SetMsgRawData](Functions/CAPLfunctionGBT27930ILSetMsgRawData.md): Sets the data bytes of the message.
 
 [Error Codes](../../CAPLfunctionsISOj1939ErrorCodes.md)
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

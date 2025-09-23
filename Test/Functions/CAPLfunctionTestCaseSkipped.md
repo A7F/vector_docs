@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestCaseSkipped.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Test Feature Set](../CAPLfunctionsTFSOverview.md) » TestCaseSkipped
-
 # TestCaseSkipped
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -50,7 +46,3 @@ MainTest
 ```
 
 [TestCaseComment](CAPLfunctionTestCaseComment.md) • [TestCaseDescription](CAPLfunctionTestCaseDescription.md) • [TestCaseFail](CAPLfunctionTestCaseFail.md) • [TestCaseTitle](CAPLfunctionTestCaseTitle.md) • [TestStep](CAPLfunctionTestStep.md) • [TestStepFail](CAPLfunctionTestStep.md) • [TestStepPass](CAPLfunctionTestStep.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

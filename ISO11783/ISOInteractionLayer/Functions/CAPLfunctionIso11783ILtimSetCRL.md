@@ -35,5 +35,3 @@ Loads a **Certificate Revocation List** file which is used for TIM authenticatio
 ## Example
 
 —
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

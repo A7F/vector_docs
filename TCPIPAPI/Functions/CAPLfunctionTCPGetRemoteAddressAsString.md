@@ -1,5 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/TCPIPAPI/Functions/CAPLfunctionTCPGetRemoteAddressAsString.md)
-
 # TCPGetRemoteAddressAsString
 
 [CAPL Functions](../../CAPLfunctions.md) » [TCP/IP API](../CAPLfunctionsTCPIPOverview.md) » TCPGetRemoteAddressAsString
@@ -33,7 +31,3 @@ This function retrieves the remote address of the specified connected socket in 
 —
 
 [TcpAccept](CAPLfunctionTCPAccept.md) • [TcpConnect](CAPLfunctionTCPConnect.md)
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

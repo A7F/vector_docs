@@ -43,7 +43,3 @@ OnMostEcl(long eclState)
 ```
 
 [mostSetEcl](../Functions/CAPLfunctionMOSTSetGetEcl.md) • [mostSetEclGlitchFilter](../Functions/CAPLfunctionMOSTSetEclGlitchFilter.md) • [mostConfigureEclSequence](../Functions/CAPLfunctionMOSTConfigureEclSequence.md) • [OnMostEclSequence](CAPLfunctionOnMOSTEclSequence.md)
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

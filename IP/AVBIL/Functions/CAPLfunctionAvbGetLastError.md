@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AVBIL/Functions/CAPLfunctionAvbGetLastError.md)
-
-**CAPL Functions** » **Ethernet** » **AVB IL** » **AvbGetLastError**
-
 # AvbGetLastError
 
 [Valid for](../../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE
@@ -79,7 +75,3 @@ if ((retVal = AvbGetLastError()) != 0)
 - PtpSimulationTimespanFromPtpTimespan
 - PtpTimeFromSimulationTime
 - PtpTimeNow
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

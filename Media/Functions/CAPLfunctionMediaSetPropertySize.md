@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Media/Functions/CAPLfunctionMediaSetPropertySize.md)
-
-**CAPL Functions** » **Media API** » **MediaSetPropertySize**
-
 # MediaSetPropertySize
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe4SW DE

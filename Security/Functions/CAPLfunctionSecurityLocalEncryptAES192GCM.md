@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Security/Functions/CAPLfunctionSecurityLocalEncryptAES192GCM.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [Security](../CAPLFunctionsSecurityOverview.md) » SecurityLocalEncryptAES192GCM
-
 # SecurityLocalEncryptAES192GCM
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE • CANoe4SW DE
@@ -57,5 +53,3 @@ result = SecurityLocalEncryptAES192GCM(keyData, keyLength, initVector, initVecto
 ```
 
 [SecurityLocalEncryptAES128GCM](CAPLfunctionSecurityLocalEncryptAES128GCM.md) • [SecurityLocalEncryptAES256GCM](CAPLfunctionSecurityLocalEncryptAES256GCM.md) • [SecurityLocalDecryptAES192GCM](CAPLfunctionSecurityLocalDecryptAES192GCM.md)
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) • [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

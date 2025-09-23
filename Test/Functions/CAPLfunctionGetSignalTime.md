@@ -96,7 +96,3 @@ value = getSignal("C11_Fy_Cluster::ESP::PDU_ESP_35::BTS_Bmg");
 // Channel, database name (alias), node, message and signal
 value = getSignal("CAN1::PowerTrain::LightSwitch::LightState::OnOff");
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

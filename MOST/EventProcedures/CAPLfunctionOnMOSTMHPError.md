@@ -81,7 +81,3 @@ The return value determines whether the MHP error event is relayed to the next f
 —
 
 [**MOST High Protocol: Simulation of Sender and Receiver**](../../../CANoeCANalyzer/MOST/MOSTHighProtocolSimulation.md) • [OnMostMHPBlock](CAPLfunctionOnMOSTMHPBlock.md) • [OnMostMHPPacket](CAPLfunctionOnMOSTMHPPacket.md) • [mostMHPErrorSetTraceColors](../Functions/CAPLfunctionMOSTMHPErrorSetTraceColors.md) • [MOST High Observer Error Codes](../CAPLfunctionsMOSTHighObserverErrorCodes.md) • [MOST High Observer and Combiner](../CAPLfunctionsMOSTHighObserverCombiner.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

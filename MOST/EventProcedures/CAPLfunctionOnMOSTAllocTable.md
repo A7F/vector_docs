@@ -33,9 +33,3 @@ Controller events are passed through CAPL nodes. Please use the Multibus Filter 
 —
 
 • [mostGetAllocTable](../Functions/CAPLfunctionMOSTGetAllocTable.md) • [mostAllocTableGetCL](../Functions/CAPLfunctionMOSTAllocTableGetCL.md) • [mostAllocTableGetSize](../Functions/CAPLfunctionMOSTAllocTableGetSize.md) • [mostAllocTableGetWidth](../Functions/CAPLfunctionMOSTAllocTableGetWidth.md) •
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

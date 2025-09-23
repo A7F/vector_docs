@@ -73,7 +73,3 @@ Time[s],DB1::Msg1::Sig1,Msg2::Sig2,Sig3
 
 - [StmCreate_CSV](Functions/CAPLfunctionStmCreateCsvNonCyclical.md) (non-cyclical)
 - [StmCreate_CSV](Functions/CAPLfunctionStmCreateCsvCyclical.md) (cyclical)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3  
-[Contact/Copyright/License](../../Shared/ContactCopyrightLicense.md)  
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/MOST/EventProcedures/CAPLfunctionOnMostShutdownReason.md)
-
-[CAPL Functions](../../CAPLfunctions.md) » [MOST](../CAPLfunctionsMOSTOverview.md) » OnMostShutdownReason
-
 # OnMostShutdownReason
 
 [Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE
@@ -37,7 +33,3 @@ The following reason values are defined based on the MOST Specification 3.0:
 —
 
 [mostGetShutdownReason](../Functions/CAPLfunctionMOSTGetShutdownReason.md) • [mostSetShutdownReason](../Functions/CAPLfunctionMOSTSetShutdownReason.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

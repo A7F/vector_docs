@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Other/Functions/CAPLfunctionGetSteadyClockStartTimeNS.md)
-
-**CAPL Functions** » **General** » **Function Overview** » **GetSteadyClockStartTimeNS**
-
 # GetSteadyClockStartTimeNS
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md) • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -38,7 +34,3 @@ Write("Since measurement start, %I64d nanoseconds have elapsed in realtime",
 ```
 
 [GetSteadyClockStartDurationNS](CAPLfunctionGetSteadyClockStartDurationNS.md) • [GetSteadyClockCurrentTimeNS](CAPLfunctionGetSteadyClockCurrentTimeNS.md) • [GetMeasurementStartTime](CAPLfunctionGetMeasurementStartTime.md)
-
-**CANoe (Desktop Editions & Test Bench Editions)** Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

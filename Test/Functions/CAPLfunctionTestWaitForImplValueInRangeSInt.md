@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Test/Functions/CAPLfunctionTestWaitForImplValueInRangeSInt.md)
-
-**CAPL Functions** » **Test Feature Set** » **TestWaitForImplValueInRangeSInt**
-
 # TestWaitForImplValueInRangeSInt
 
 [Valid for](../../../Shared/FeatureAvailability.md): CANoe DE • CANoe:lite DE • CANoe4SW DE • CANoe4SW:lite DE
@@ -41,7 +37,3 @@ This function can only be used for **valueHandles** with a signed integer data t
 —
 
 [TestWaitForImplValueInRangeFloat](CAPLfunctionTestWaitForImplValueInRangeFloat.md) • [TestWaitForImplValueInRangeUInt](CAPLfunctionTestWaitForImplValueInRangeUInt.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

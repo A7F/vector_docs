@@ -39,5 +39,3 @@ The function generates a J1939 device name. It must be transferred with a byte a
 char name[8];
 GNSSMakeName(name, 1, 0, 0, 0, 28, 0, 0, 0, 0);
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

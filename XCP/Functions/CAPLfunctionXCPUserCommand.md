@@ -86,9 +86,3 @@ void OnXcpUserCommand(char ecu[], byte data[], long dataSize)
     Write("OnXcpUserCommandResponse callback! ECU: %s. Data: %d. Data size: %d", ecu, data[0], dataSize);
 }
 ```
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -47,7 +47,3 @@ write("number1: %u, res: %d", number1, res); // output: number1: 123, res: 3
 res = strtoul(s, res, number2);
 write("number2: %u, res: %d", number2, res); // output: number2: 255, res: 8
 ```
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

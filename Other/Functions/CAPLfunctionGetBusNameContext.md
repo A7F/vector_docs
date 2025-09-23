@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Other/Functions/CAPLfunctionGetBusNameContext.md)
-
-**CAPL Functions** » **General** » **Function Overview** » GetBusNameContext
-
 # GetBusNameContext
 
 [Valid for: CANoe DE • CANoe4SW DE](../../../Shared/FeatureAvailability.md)
@@ -72,7 +68,3 @@ on preStart
 ```
 
 [GetBusContext](CAPLfunctionGetBusContext.md) • [SetBusContext](CAPLfunctionSetBusContext.md)
-
-CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/Other/Functions/CAPLfunctionGetEthernetPacket.md)
-
-**CAPL Functions** » **General** » **Function Overview** » **GetEthernetPacket**
-
 # GetEthernetPacket
 
 [Valid for: CANoe DE](../../../Shared/FeatureAvailability.md) • CANoe4SW DE
@@ -63,9 +59,3 @@ on PDU PDU_B
 - [GetPDUsTPUDPDstPort](CAPLfunctionGetPDUsTPUDPDstPort.md)
 - [GetPDUsTPTCPSrcPort](CAPLfunctionGetPDUsTPTCPSrcPort.md)
 - [GetPDUsTPTCPDstPort](CAPLfunctionGetPDUsTPTCPDstPort.md)
-
-**CANoe (Desktop Editions & Test Bench Editions) Version 18 SP3**
-
-[Contact/Copyright/License](../../../Shared/ContactCopyrightLicense.md)
-
-[Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)

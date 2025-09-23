@@ -1,7 +1,3 @@
-[Open topic with navigation](../../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/IP/AUTOSARethIL/Functions/CAPLfunctionAREthAddField.md)
-
-**CAPL Functions** » **Ethernet** » **AUTOSAR Eth IL** » **AREthAddField**
-
 # AREthAddField
 
 [Valid for: CANoe DE](../../../../Shared/FeatureAvailability.md) • CANoe4SW DE

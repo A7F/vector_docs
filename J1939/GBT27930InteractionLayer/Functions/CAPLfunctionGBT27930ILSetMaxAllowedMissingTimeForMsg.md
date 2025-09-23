@@ -99,5 +99,3 @@ SetMaxAllowedMissingTimeOfBmsMsgs()
     GBT27930IL_SetMaxAllowedMissingTimeForMsg(bsd        , 10000);
 }
 ```
-
-[Contact/Copyright/License](../../../../Shared/ContactCopyrightLicense.md) | [Data Privacy Notice](https://www.vector.com/int/en/company/get-info/privacy-policy/)
