@@ -1,8 +1,4 @@
-[Open topic with navigation](../../../../../CANoeDEFamily.htm#Topics/CAPLFunctions/SmartCharging/Functions/CAPLfunctionSCCSLACSetPSD.md)
-
 ## SCC_SLAC_SetPSD
-
-### Tool Availability
 
 ### Function Syntax
 
