@@ -2,10 +2,7 @@
 
 ## SCC_SLAC_SetPSD
 
-[CAPL Functions](../../CAPLfunctions.md) » [Smart Charging](../CAPLFunctionsSmartChargingOverview.md) » [SCC Modeling Libraries (Simulation Setup)](../CAPLFunctionsSmartChargingOverview.md#BMNodeayerDLL) » [SLAC Simulation](../CAPLFunctionsSmartChargingOverview.md#SLACSim) » [Shared Functions](../CAPLFunctionsSmartChargingOverview.md#SLACSim) » SCC_SLAC_SetPSD
-
 ### Tool Availability
-[Valid for](../../../Shared/FeatureAvailability.md):  CANoe DE  •  CANoe4SW DE
 
 ### Function Syntax
 
@@ -30,4 +27,4 @@ To activate Amplitude Map Exchange, set a map that contains values != 0.
 - **1**: Successful
 
 ### Example
-—
+-
