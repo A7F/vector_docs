@@ -27,7 +27,7 @@ The handle of the dialog.
 
 ### Example
 
-```plaintext
+```c
 handle = TestCreateStringInputTable("Test Text", "Test Caption", "Test String Input Table Timeout");
 TestAddStringTableEntry(handle, "Test Entry");
 TestWaitForInput(handle, 5000);

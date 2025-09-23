@@ -49,7 +49,7 @@ Checks the values of P2_min and ST_min for a specified LIN Slave node or for all
 
 ## Example
 
-```plaintext
+```c
 ...
 dword checkId;
 // Create and start the check for LIN diagnostic delay times

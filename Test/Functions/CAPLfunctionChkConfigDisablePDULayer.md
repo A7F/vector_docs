@@ -31,7 +31,7 @@ Default is enabled for a PDU network.
 
 ## Example
 
-```plaintext
+```c
 TestCheck c1, c2;
 dword bcPduNetwork;
 

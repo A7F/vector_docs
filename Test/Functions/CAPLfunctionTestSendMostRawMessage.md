@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestSendMostRawMessage(long aDestinationAddress, long aRType, BYTE aMsgData[], dword aMsgDataLength, dword aTimeout);
 long TestSendMostRawMessage(long aDestinationAddress, long aRType, char aMsgDataDesc[], dword aTimeout);
 ```

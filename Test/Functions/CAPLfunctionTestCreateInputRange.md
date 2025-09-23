@@ -24,7 +24,7 @@ The handle of the dialog.
 
 ## Example
 
-```plaintext
+```c
 handle = TestCreateStringInputRange("Test Text", "Test Caption", "Test String Input Range Timeout");
 TestAddRange(handle, 0, 5);
 TestWaitForInput(handle, 5000);

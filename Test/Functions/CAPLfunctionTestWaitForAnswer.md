@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForAnswer(callContext cco, dword timeoutMs);
 ```
 
@@ -28,7 +28,7 @@ If the wait is successful, the call context properties for the return value and 
 
 ## Example
 
-```plaintext
+```c
 long ret;
 callContext MirrorAdjustment.Adjust cco;
 

@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestValidateImplValueFloat(char aTestStep[], valueHandle * value, float awaitedValue);
 ```
 
@@ -27,7 +27,7 @@ The test step is evaluated as either passed or failed depending on the results.
 
 ## Example
 
-```plaintext
+```c
 long ret;
 ret = testValidateImplValueFloat("Validate temperature", MirrorStatus[CANoe].Temperature, 20.0);
 ```

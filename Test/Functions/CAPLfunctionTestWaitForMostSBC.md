@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForMostSBC(long aValue, unsigned long aTimeout);
 ```
 

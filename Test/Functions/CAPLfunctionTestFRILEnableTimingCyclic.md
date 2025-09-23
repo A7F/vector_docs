@@ -7,7 +7,7 @@ This function is not available for all OEM add-ons - depends on the CANoeIL.
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestFRILEnableTimingCyclic(char pduName[], int enable);
 ```
 
@@ -32,7 +32,7 @@ Consider to set always the appropriate bus context in a multibus environment bef
 
 ## Example
 
-```plaintext
+```c
 int enable;
 .....
 If( stopCyclicSending == 1 )

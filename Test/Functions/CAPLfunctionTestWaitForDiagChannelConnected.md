@@ -25,7 +25,7 @@ Waits for the occurrence of the state change of a diagnostic channel to the stat
 
 ## Example
 
-```plaintext
+```c
 long status;
 if (0 == DiagConnectChannel())
 {

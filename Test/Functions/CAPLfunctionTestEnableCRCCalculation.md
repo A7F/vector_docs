@@ -7,7 +7,7 @@ This function is not available for all OEM add-ons - depends on the CANoeIL.
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestEnableCRCCalculation (dbMsg aMessage);
 long TestEnableCRCCalculation (dword aMessageId);
 long TestEnableCRCCalculation (char aMessageName[]);
@@ -41,7 +41,7 @@ Further information on site [MultiBus Environment](../../../Shared/CAPL/General/
 
 ## Example
 
-```plaintext
+```c
 // resets the CRC calculation of message ‚MsgToManipulate’ to default behavior after a break of 2000 ms
 TestDisableCRCCalculation(MsgToManipulate);
 TestWaitForTimeout(2000);

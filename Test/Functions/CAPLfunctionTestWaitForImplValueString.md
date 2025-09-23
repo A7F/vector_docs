@@ -27,7 +27,7 @@ Waits for the impl encoding of a **valueHandle** to reach a certain value. This 
 
 ## Example
 
-```plaintext
+```c
 long ret;
 ret = testWaitForImplValueString(ErrorSignal[LeftMirror], "GeneralError", 200);
 ```

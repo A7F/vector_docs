@@ -27,7 +27,7 @@ Number of conditions in stock:
 
 ## Example
 
-```plaintext
+```c
 testcase TC_ParallelIdentification()
 {
   // Perform variant identification for 3 ECUs in parallel

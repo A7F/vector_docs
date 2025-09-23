@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForUpdateCountGreater(valueHandle * value, qword count, dword timeoutMs);
 ```
 
@@ -27,7 +27,7 @@ Waits for the update counter of a **valueHandle** to reach a certain value. Each
 
 ## Example
 
-```plaintext
+```c
 long ret;
 consumedEventRef * anEvent;
 anEvent = lookupConsumedEvent(path);

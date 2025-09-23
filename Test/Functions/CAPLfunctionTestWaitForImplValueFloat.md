@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForImplValueFloat(valueHandle * value, float awaitedValue, dword timeoutMs);
 ```
 
@@ -27,7 +27,7 @@ Waits for the impl encoding of a **valueHandle** to reach a certain value. This 
 
 ## Example
 
-```plaintext
+```c
 long ret;
 ret = testWaitForImplValueFloat(MirrorStatus[CANoe].Temperature, 20.0, 200);
 ```

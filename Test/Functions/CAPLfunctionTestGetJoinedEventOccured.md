@@ -24,7 +24,7 @@ Retrieves the occurrence and the occurrence time of a joined event.
 
 ## Example
 
-```plaintext
+```c
 MainTest()
 {
   WaitForAllEvents();

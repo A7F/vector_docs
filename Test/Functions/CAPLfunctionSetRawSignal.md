@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 void SetRawSignal(dbSignal aSignal, int64 value); // form 1
 void SetRawSignal(dbSignal aSignal, byte data[], dword dataLength); // form 2
 ```
@@ -35,7 +35,7 @@ Form 2
 
 ### Function Syntax
 
-```plaintext
+```c
 void SetRawSignal(char name[], int64 value); // form 3
 long SetRawSignal(char name[], byte data[], dword dataLength); // form 4
 ```

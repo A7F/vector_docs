@@ -34,7 +34,7 @@ Should the event not occur before the expiration of the time **aTimeout**, the w
 
 ## Example
 
-```plaintext
+```c
 testcase tc_WaitForLinScheduleChange()
 
 {

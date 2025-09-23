@@ -7,7 +7,7 @@ Regardless of how the wait point was discontinued, afterwards the set of "joined
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForAllJoinedEvents(dword aTimeout); // form 1
 long TestWaitForAllJoinedEvents(dword aAtLeastOnce, dword aTimeout); // form 2
 ```
@@ -48,7 +48,7 @@ Should not all events occur before the expiration of the time **aTimeout**, the 
 
 **Example Form 1**
 
-```plaintext
+```c
 // waits for all conditions to be fulfilled at the same time
 TestJoinEnvVarEvent(MyEnvVar);
 TestJoinSignalInRange(Velocity, 80, 100);
@@ -58,7 +58,7 @@ TestWaitForAllJoinedEvents(5000);
 
 **Example Form 2**
 
-```plaintext
+```c
 // waits for all conditions to be fulfilled at least once
 TestJoinEnvVarEvent(MyEnvVar);
 TestJoinSignalInRange(Velocity, 80, 100);

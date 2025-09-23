@@ -8,7 +8,7 @@
 
 ### Function Syntax
 
-```plaintext
+```c
 double ChkQuery_EventSignalValue (dword checkId);
 ```
 
@@ -16,7 +16,7 @@ double ChkQuery_EventSignalValue (dword checkId);
 
 [Method](../../../Shared/CAPL/General/ClassesAndObjects.md) Syntax
 
-```plaintext
+```c
 check.QueryEventSignalValue();
 ```
 
@@ -40,7 +40,7 @@ This function enables access to the signal value which was last reported by a ch
 
 ### Example
 
-```plaintext
+```c
 double result;
 dword checkId;
 checkId = ChkStart_MsgSignalValueInvalid(Velocity, 80, 100);

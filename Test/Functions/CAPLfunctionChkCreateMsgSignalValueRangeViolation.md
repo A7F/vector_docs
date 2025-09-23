@@ -88,7 +88,7 @@ An event will be generated, if the value of physical signal, the environment var
 
 **Example 1**
 
-```plaintext
+```c
 // checks the value of the signal (should be inside the given range)
 checkId = ChkStart_MsgSignalValueRangeViolation (SignalToObserve, 2.5, 3.7);
 TestAddCondition(checkId);
@@ -99,7 +99,7 @@ TestRemoveCondition(checkId);
 
 **Example 2: CAPL Callback**
 
-```plaintext
+```c
 // checks the value of the signal (should be inside the given range)
 checkId = ChkStart_MsgSignalValueRangeViolation (SignalToObserve, 2.5, 3.7, "CAPL_Callback");
 TestAddCondition(checkId);
@@ -115,7 +115,7 @@ void CAPL_Callback(dword check)
 
 **Example 3: Function Pointer**
 
-```plaintext
+```c
 // checks the value of the distributed object member (should be inside the given range)
 checkId = ChkStart_MsgSignalValueRangeViolation (DOProvider.DoubleMember, 2.5, 3.7, delegate (dword check)
   {

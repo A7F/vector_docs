@@ -10,7 +10,7 @@
 
 ### Function Syntax
 
-```plaintext
+```c
 long TestResetNamespaceSysVarValues (char aNamespace[]);
 ```
 
@@ -31,7 +31,7 @@ Resets all system variables of the given namespace and all sub-namespaces to the
 
 ### Example
 
-```plaintext
+```c
 // check the warning lights
 @sysvar::Lights::SysVarWarningLights = 1;
 TestWaitForTimeout(100);

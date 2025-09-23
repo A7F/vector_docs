@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long ChkConfig_SetPrecision(unsigned int aPrecision);
 ```
 
@@ -35,7 +35,7 @@ This function allows you to configure the time basis for new checks to be create
 
 ## Example
 
-```plaintext
+```c
 // precision of the test is set to us
 chkConfig_SetPrecision(6);
 ```

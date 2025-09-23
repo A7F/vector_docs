@@ -36,7 +36,7 @@ TestWaitForSysCall(absPath, 0, 100);
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForSyscall(char aCommandline[], long aExitcode, dword aTimeout)
 long TestWaitForSyscall(char aWorkingdir[], char aCommandline[], long aExitcode, dword aTimeout)
 ```

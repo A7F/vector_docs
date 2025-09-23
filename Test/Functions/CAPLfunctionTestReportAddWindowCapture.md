@@ -32,7 +32,7 @@ Calling `TestReportAddWindowCapture` is not supported in the MainTest function. 
 
 **Example 1**
 
-```plaintext
+```c
 testcase tc_1_1()
 {
    TestCaseTitle("tc_1_1",  "Test Case  1.1");
@@ -48,7 +48,7 @@ testcase tc_1_1()
 
 **Example 2**
 
-```plaintext
+```c
 TestReportAddWindowCapture("Graphics", "ABSdata::CarSpeed;Gear", "Screenshot of Graphic window");
 ```
 

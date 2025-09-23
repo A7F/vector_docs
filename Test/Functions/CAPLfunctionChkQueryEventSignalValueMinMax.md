@@ -39,7 +39,7 @@ Enables access to the minimal and maximal measured values within a check.
 
 ## Example
 
-```plaintext
+```c
 double maxValue;
 int checkId;
 

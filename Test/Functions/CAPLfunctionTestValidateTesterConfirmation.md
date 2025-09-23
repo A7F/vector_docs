@@ -4,14 +4,14 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestValidateTesterConfirmation(char question[], char heading[], long passedButton); // form 1
 long TestValidateTesterConfirmation(char question[], char heading[], long passedButton, long timeoutResult, char resourceFile[], char resourceCaption[], dword timeout); // form 2
 ```
 
 This form is deprecated since it does not support the new 5-value-based verdict concept; you should use form (3) instead.
 
-```plaintext
+```c
 long TestValidateTesterConfirmation(char question[], char heading[], long yesResult, long noResult, long unclearResult, long timeoutResult, char resourceFile[], char resourceCaption[], dword timeout); // form 3
 ```
 

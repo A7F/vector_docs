@@ -27,7 +27,7 @@ Adds a logical OR-expression of two or more events that were previously joined t
 
 ## Example
 
-```plaintext
+```c
 long handle1, handle2, result;
 
 // condition 1

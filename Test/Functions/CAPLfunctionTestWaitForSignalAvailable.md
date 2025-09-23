@@ -7,7 +7,7 @@ This function replaces `TestWaitForSignal` that has been available since version
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForSignalAvailable (Signal aSignal, dword aTimeout); // form 1
 long TestWaitForSignalAvailable (ServiceSignal aSignal, dword aTimeout); // form 2
 ```
@@ -48,7 +48,7 @@ Further information on site [MultiBus Environment](../../../Shared/CAPL/General/
 
 ## Example
 
-```plaintext
+```c
 // waits for the occurrence of signal ‚EngineRunning’
 long result;
 result = TestWaitForSignalAvailable(EngineRunning, 2000);

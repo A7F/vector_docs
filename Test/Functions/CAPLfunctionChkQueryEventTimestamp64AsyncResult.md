@@ -31,7 +31,7 @@ Retrieves time stamp of last fired event. The data has to be queried first using
 
 ## Example
 
-```plaintext
+```c
 Int64 result;
 dword checkId;
 checkId = ChkStart_MsgRelCycleTimeViolation(VehicleMotion, 0.9, 1.1);

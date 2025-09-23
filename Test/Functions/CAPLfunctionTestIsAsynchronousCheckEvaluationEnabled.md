@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long testIsAsynchronousCheckEvaluationEnabled();
 ```
 
@@ -23,7 +23,7 @@ This function is used to check if background checks are evaluated asynchronously
 
 ## Example
 
-```plaintext
+```c
 result = testIsAsynchronousCheckEvaluationEnabled ();
 if (result == 1)
   TestStep("", "Asynchronous evaluation of background checks enabled");

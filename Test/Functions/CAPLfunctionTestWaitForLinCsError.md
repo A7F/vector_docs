@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForLinCSError(dword aTimeout);
 long TestWaitForLinCSError(dword aFrameId, dword aTimeout);
 ```
@@ -30,7 +30,7 @@ Consider to set always the appropriate bus context in a multibus environment bef
 
 ## Example
 
-```plaintext
+```c
 testcase tcTFS_linCSError ()
 {
     linCSError linCSErrorData;

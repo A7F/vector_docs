@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestGetVerdictModule ();
 ```
 
@@ -26,7 +26,7 @@ Returns the current verdict out of the test module.
 
 ## Example
 
-```plaintext
+```c
 // gets the verdict of the test module and report it in the Write Window
 void MainTest()
 {

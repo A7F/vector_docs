@@ -39,7 +39,7 @@ Enables access to the minimal and maximal measured values within a check. The da
 
 ## Example
 
-```plaintext
+```c
 long result;
 dword checkId;
 double maxValue;

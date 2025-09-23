@@ -23,7 +23,7 @@ The title of a test function is acquired automatically from the test function na
 
 ## Example
 
-```plaintext
+```c
 testsequence CheckLockingOnCrash ()
 {
   TestSequenceTitle("Check unlock of central locking system on crash");

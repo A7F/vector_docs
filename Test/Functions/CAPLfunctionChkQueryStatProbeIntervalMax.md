@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 double ChkQuery_StatProbeIntervalMax (dword aCheckId);
 ```
 
@@ -12,7 +12,7 @@ double ChkQuery_StatProbeIntervalMax (dword aCheckId);
 
 [Method Syntax](../../../Shared/CAPL/General/ClassesAndObjects.md)
 
-```plaintext
+```c
 check.QueryStatProbeIntervalMax();
 ```
 
@@ -34,7 +34,7 @@ Returns the maximum timely distance between 2 consumed message events.
 
 ## Example
 
-```plaintext
+```c
 double result;
 dword checkId;
 checkId = ChkStart_MsgRelCycleTimeViolation(VehicleMotion, 0.9, 1.1);

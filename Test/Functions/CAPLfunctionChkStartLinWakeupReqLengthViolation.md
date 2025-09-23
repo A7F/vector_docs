@@ -52,7 +52,7 @@ Checks the length of LIN wake-up request. An event will be generated if a measur
 
 ## Example
 
-```plaintext
+```c
 ...
 dword checkId;
 ChkConfig_SetPrecision(6); // switch to µs precision

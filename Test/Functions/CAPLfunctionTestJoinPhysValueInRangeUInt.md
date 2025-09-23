@@ -37,7 +37,7 @@ This function can only be used for **valueHandles** with an unsigned integer dat
 
 ### Example
 
-```plaintext
+```c
 long ret;
 dword index = 0;
 ret = testJoinPhysValueInRangeUInt(MirrorStatus[CANoe].Temperature, 20, 30);

@@ -36,7 +36,7 @@ Should none of the events occur before the expiration of the time **aTimeout**, 
 
 ## Example
 
-```plaintext
+```c
 variables
 {
   long EventHandle1, EventHandle2, lReturn;

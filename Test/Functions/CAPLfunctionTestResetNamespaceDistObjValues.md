@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestResetNamespaceDistObjValues (char aNamespace[]);
 ```
 
@@ -25,7 +25,7 @@ Resets the values of all members of all distributed objects in a namespace to th
 
 ### CAPL
 
-```plaintext
+```c
 void MainTest()
 {
   Write("%d", $SomeObject.i);

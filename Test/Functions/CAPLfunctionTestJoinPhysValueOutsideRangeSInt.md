@@ -31,7 +31,7 @@ This function can only be used for **valueHandles** with a signed integer data t
 
 ## Example
 
-```plaintext
+```c
 long ret;
 dword index = 0;
 ret = testJoinPhysValueOutsideRangeSInt(MirrorStatus[CANoe].Temperature, 20, 30);

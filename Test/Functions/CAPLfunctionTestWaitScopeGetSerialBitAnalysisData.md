@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long testWaitScopeGetSerialBitAnalysisData (ScopeAnalyseHandle handle, dword msgField, dword bitNo, ScopeDutyCycleDefinition dutyCycle, ScopeBitDataDutyCycle data);
 ```
 

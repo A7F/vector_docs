@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long ChkQuery_NumEvents_AsyncResult(dword aCheckId);
 ```
 
@@ -12,7 +12,7 @@ long ChkQuery_NumEvents_AsyncResult(dword aCheckId);
 
 [Method](../../../Shared/CAPL/General/ClassesAndObjects.md) Syntax
 
-```plaintext
+```c
 check.QueryNumEventsAsyncResult();
 ```
 
@@ -34,7 +34,7 @@ The data has to be queried first using [testWaitForCheckQuery](CAPLfunctionTestW
 
 ## Example
 
-```plaintext
+```c
 long result;
 dword checkId;
 checkId = ChkStart_MsgRelCycleTimeViolation(VehicleMotion, 0.9, 1.1);

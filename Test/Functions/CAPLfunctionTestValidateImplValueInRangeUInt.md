@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestValidateImplValueInRangeUInt (char aTestStep[], valueHandle * value, qword aLowLimit, qword aHighLimit);
 ```
 
@@ -31,7 +31,7 @@ The test step is evaluated as either passed or failed depending on the results.
 
 ## Example
 
-```plaintext
+```c
 long ret;
 ret = testValidateImplValueInRangeUInt(MirrorStatus[CANoe].Temperature, 20, 30);
 

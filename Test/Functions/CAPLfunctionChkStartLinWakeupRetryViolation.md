@@ -71,7 +71,7 @@ Checks number of LIN wake-up signals and the time between them. An event will be
 
 ## Example
 
-```plaintext
+```c
 ...
 dword checkId;
 ChkConfig_SetPrecision(3); // set precision to ms

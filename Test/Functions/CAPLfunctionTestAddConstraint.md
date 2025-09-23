@@ -33,7 +33,7 @@ Adds an event object or an event text as a constraint. Checks from the Test Serv
 
 Add check as constraint
 
-```plaintext
+```c
 dword checkId;
 dword numCheckEvents;
 
@@ -75,7 +75,7 @@ ChkControl_Destroy(checkId);
 
 Add check as constraint
 
-```plaintext
+```c
 // test case to check if Error Frames occur
 testcase CheckErrorFrameReceived ()
 {

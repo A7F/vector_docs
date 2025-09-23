@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 dword ChkStart_SignalCycleTimeViolation (Signal ObservedSignal, duration MinCycleTime, duration MaxCycleTime);
 dword ChkStart_SignalCycleTimeViolation (Signal ObservedSignal, duration MinCycleTime, duration MaxCycleTime, char[] CaplCallback);
 ```
@@ -52,7 +52,7 @@ Checks the occurrences of a signal. An event will be generated if the time betwe
 
 ## Example
 
-```plaintext
+```c
 ...
 dword checkId;
 // Create and start the check for LIN wake-up request

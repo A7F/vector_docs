@@ -27,7 +27,7 @@ Retrieves the system variable value that has led to the resume of a joined wait 
 
 ## Example
 
-```plaintext
+```c
 // add sysVar event to the current set of "joined events" and get the sysVar value
 dword index = 0;
 float sysValue = 0;

@@ -29,7 +29,7 @@ Waits until execution of the thread specified via the handle parameter has finis
 
 ### Example
 
-```plaintext
+```c
 export testcase TestParallelExecution()
 {
   dword handle1;

@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestCreateTesterAction(char[] actionText, char[] heading, char[] callback);
 long TestCreateTesterAction(char[] actionText, char[] heading, char[] resourceFile, char[] resourceCaption, char[] callback);
 ```
@@ -22,7 +22,7 @@ To execute the command call [TestValidateTesterAction](CAPLfunctionTestValidateT
 
   Callback function must have the following signature:
 
-  ```plaintext
+  ```c
   int mycallback(long trigger);
   ```
 
@@ -43,7 +43,7 @@ To execute the command call [TestValidateTesterAction](CAPLfunctionTestValidateT
 
 ## Example
 
-```plaintext
+```c
 int CallbackTesterAction(long trigger)
 {
   if (trigger == gTriggerCycle)

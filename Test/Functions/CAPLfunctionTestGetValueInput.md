@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 double TestGetValueInput ();
 ```
 
@@ -26,7 +26,7 @@ Returns the result of the last successful call of [TestWaitForValueInput](CAPLfu
 
 ## Example
 
-```plaintext
+```c
 // ask for the test ID and report it in the Write Window
 TestWaitForValueInput("Please enter the test ID", 5000);
 Write("Test ID = %f", TestGetValueInput());

@@ -8,7 +8,7 @@
 
 ### Function Syntax
 
-```plaintext
+```c
 long TestWaitForPhysValueOutsideRangeSInt(valueHandle * value, int64 aLowLimit, int64 aHighLimit, dword aTimeout);
 ```
 

@@ -29,7 +29,7 @@ This might be triggered by a call of the function [Diag_DataCon()](../../Diagnos
 
 ## Example
 
-```plaintext
+```c
 DiagRequest SerialNumber_Read req;
 long result;
 

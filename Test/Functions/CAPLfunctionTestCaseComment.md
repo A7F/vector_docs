@@ -29,7 +29,7 @@ With this function within a test case a commentary can be taken over into the re
 
 ## Example
 
-```plaintext
+```c
 testcase CheckLockingOnCrash ()
 {
    TestCaseTitle("TC 1.0", "Check unlock of central locking system on crash");

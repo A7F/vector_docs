@@ -53,7 +53,7 @@ For FlexRay only valid data frames and PDUs are recognized as communication, Nul
 
 ## Example
 
-```plaintext
+```c
 // checks that after 300 ms no transmission of the node is available
 checkId = ChkStart_NodeBabbling(NodeToObserve, 300);
 TestAddCondition(checkId);

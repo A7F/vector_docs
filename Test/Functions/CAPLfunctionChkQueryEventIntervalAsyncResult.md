@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long ChkQuery_EventInterval_AsyncResult(dword CheckId);
 ```
 
@@ -12,7 +12,7 @@ long ChkQuery_EventInterval_AsyncResult(dword CheckId);
 
 [Method](../../../Shared/CAPL/General/ClassesAndObjects.md) Syntax
 
-```plaintext
+```c
 check.QueryEventIntervalAsyncResult();
 ```
 
@@ -49,7 +49,7 @@ Returns the last time-interval that has led to the event. The data has to be que
 
 ## Example
 
-```plaintext
+```c
 long result;
 dword checkId;
 checkId = ChkStart_MsgRelCycleTimeViolation(VehicleMotion, 0.9, 1.1);

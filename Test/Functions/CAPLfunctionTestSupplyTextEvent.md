@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestSupplyTextEvent(char aText[]);
 ```
 
@@ -27,7 +27,7 @@ If such a wait condition is active, the corresponding code will be executed imme
 
 ## Example
 
-```plaintext
+```c
 // Signals the occurrence of an Error Frame as a text event
 on errorFrame
 {

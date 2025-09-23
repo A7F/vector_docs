@@ -23,7 +23,7 @@ Sets a precondition to be fulfilled. This must be passed as a lambda function wi
 
 ## Example
 
-```plaintext
+```c
 export testcase TestCasePreconditionIsFalse()
 {
   testCasePrecondition(delegate dword(){

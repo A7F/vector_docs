@@ -7,7 +7,7 @@ This function replaces `SetSignalByTxNode`.
 
 ## Function Syntax
 
-```plaintext
+```c
 void setSignal(Signal aSignal, double aValue); // form 1
 ```
 
@@ -39,7 +39,7 @@ If no suitable signal driver exists and thus no signal can be stimulated,
 
 **Example 1 — Signal is unique**
 
-```plaintext
+```c
 setSignal(OnOff, 1.0);
 ```
 
@@ -47,7 +47,7 @@ setSignal(OnOff, 1.0);
 
 You have to use at minimum one more object to identify the signal uniquely. It could be any object from the list of possible objects, see [hints for resolving signal ambiguities](../../../Shared/CAPL/SignalOrientedProgramming/SOPSignalQualifying.md).
 
-```plaintext
+```c
 //Node and signal
 setSignal(LightSwitch::OnOff, 1.0)
 //Channel and signal
@@ -58,7 +58,7 @@ setSignal(CAN1::Status, 1)
 
 ### Function Syntax
 
-```plaintext
+```c
 long setSignal(char signalName[], double aValue); // form 2
 ```
 
@@ -99,13 +99,13 @@ If no suitable signal driver exists and thus no signal can be stimulated, then i
 
 **Example 1 — Signal is unique**
 
-```plaintext
+```c
 setSignal("OnOff", 1.0);
 ```
 
 **Example 2 — Signal is ambiguous**
 
-```plaintext
+```c
 //Message and signal
 setSignal("LightState::OnOff", 1.0);
 //Node, message and signal

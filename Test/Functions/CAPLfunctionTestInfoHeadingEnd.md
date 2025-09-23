@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 void TestInfoHeadingEnd (long handle);
 ```
 
@@ -22,7 +22,7 @@ Ends the previously created header row.
 
 ## Example
 
-```plaintext
+```c
 testcase StructuredDataSample()
 {
   long table = 0;

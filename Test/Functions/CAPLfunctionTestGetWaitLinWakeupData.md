@@ -24,7 +24,7 @@ The second function can only be used for "joined events". The number of the "joi
 
 ## Example
 
-```plaintext
+```c
 testcase tcTFS_linWakeupEvent ()
 {
     linWakeupFrame linWakeupData;

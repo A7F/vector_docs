@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestGetWaitLinSpikeData (linSpikeEvent apEvent);
 long TestGetWaitLinSpikeData (dword index, linSpikeEvent apEvent);
 ```
@@ -27,7 +27,7 @@ The second function can only be used for **joined events**. The number of the **
 
 ## Example
 
-```plaintext
+```c
 testcase tcTFS_linSpikeEvent ()
 {
    linSpikeEvent linSpikeEventData;

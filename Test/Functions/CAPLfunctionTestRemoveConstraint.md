@@ -6,7 +6,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestRemoveConstraint (dword aAuxHandle);
 long TestRemoveConstraint (char aEventText[]);
 ```
@@ -27,7 +27,7 @@ Removes an event object or an event text that was added as a constraint. This fu
 
 ## Example
 
-```plaintext
+```c
 dword checkId;
 dword numCheckEvents;
 

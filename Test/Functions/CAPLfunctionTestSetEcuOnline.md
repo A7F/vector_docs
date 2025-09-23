@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 void testSetEcuOnline (dbNode aNode);
 void testSetEcuOnline (char aNodeName[]);
 ```
@@ -30,7 +30,7 @@ This function interferes with the CAPL program and possible modeling library.
 
 ## Example
 
-```plaintext
+```c
 // cuts the node ‚SUT’ 5000 ms from the bus
 TestSetEcuOffline(SUT);
 TestWaitForTimeout(5000);

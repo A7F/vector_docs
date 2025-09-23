@@ -36,7 +36,7 @@ The check fires an event if the time has expired.
 
 ## Example
 
-```plaintext
+```c
 // checks the maximum duration of a sequence of actions
 checkId = ChkStart_Timeout (2000);
 TestAddCondition(checkId);

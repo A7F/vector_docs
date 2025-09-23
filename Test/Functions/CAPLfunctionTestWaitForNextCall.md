@@ -29,7 +29,7 @@ You can get information about the call with the **CurrentCCO** property or throu
 
 ## Example
 
-```plaintext
+```c
 long ret;
 providedMethodRef MirrorAdjustment.Adjust method;
 

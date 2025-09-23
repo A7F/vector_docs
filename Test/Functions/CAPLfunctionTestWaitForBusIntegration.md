@@ -24,7 +24,7 @@ Can be used to wait for the Bus Integration event of a CAN channel. The Bus Inte
 
 ## Example
 
-```plaintext
+```c
 testcase WaitForBusIntegrationEvents()
 {
   long result;

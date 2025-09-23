@@ -25,6 +25,6 @@ Destroys an instance of a Signal Generator.
 
 Destroys an instance of a ASAM HILAPI Signal Generator:
 
-```plaintext
+```c
 HILAPIDestroySignalGenerator( hGenerator);
 ```

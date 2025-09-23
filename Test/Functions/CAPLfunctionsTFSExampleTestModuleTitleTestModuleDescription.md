@@ -11,7 +11,7 @@
 
 **MainTest()**
 
-```plaintext
+```c
 {
     TestModuleTitle("Sample Tests"); // change test module title and add description
     TestModuleDescription("This test module calls some test cases to demonstrate ");

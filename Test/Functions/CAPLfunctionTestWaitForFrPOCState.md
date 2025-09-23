@@ -31,7 +31,7 @@ Waits for the occurrence of change of state on the FlexRay Communication Control
 
 The following test program waits for the occurrence of one of two different POC state events. It is assumed that the test is executed at the cluster FlexRay A.
 
-```plaintext
+```c
 variables
 {
     dword gBusContextFr1;

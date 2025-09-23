@@ -42,7 +42,7 @@ Dependent on the used parameter type, the appropriate bus context in a multibus 
 
 ## Example
 
-```plaintext
+```c
 ...
 dword checkId;
 // Create and start the check for LIN Master baudrate violation

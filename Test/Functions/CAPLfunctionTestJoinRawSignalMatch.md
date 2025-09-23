@@ -34,7 +34,7 @@ By default, this condition will be checked immediately when the set of joined ev
 
 ## Example
 
-```plaintext
+```c
 // waits until signal ‘Velocity’ matches to a specific value
 long result;
 dword index = 0;

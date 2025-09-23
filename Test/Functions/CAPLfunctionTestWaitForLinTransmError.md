@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForLinTransmError (dword aFrameId, dword aTimeout);
 long TestWaitForLinTransmError (dword aTimeout);
 ```
@@ -32,7 +32,7 @@ Waits for the occurrence of LIN Transmission Error event. Should the event not o
 
 ## Example
 
-```plaintext
+```c
 testcase tcTFS_linNoResponseEvent ()
 {
     linTransmError linTransmErrorData;

@@ -31,7 +31,7 @@ Uses the output of [ChkQuery_EventStatus](CAPLfunctionChkQueryEventStatus.md) an
 
 ## Example
 
-```plaintext
+```c
 long result;
 dword checkId;
 checkId = ChkStart_MsgRelCycleTimeViolation(VehicleMotion, 0.9, 1.1);

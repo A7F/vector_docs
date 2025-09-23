@@ -9,7 +9,7 @@
 - comments
 - test functions
 
-```plaintext
+```c
 testcaseConfigure_Testmode()
 {
     ...

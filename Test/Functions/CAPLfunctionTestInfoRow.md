@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 void TestInfoRow (long handle, int indent);
 void TestInfoRow (long handle, int indent, char[] text);
 ```
@@ -29,7 +29,7 @@ The second version of the function creates a row with a specified content.
 
 ## Example
 
-```plaintext
+```c
 testcase StructuredDataSample()
 {
   long table = 0;

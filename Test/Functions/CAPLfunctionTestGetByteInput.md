@@ -24,7 +24,7 @@ After a dialog with byte input is closed you can use this function to get the in
 
 ### Example
 
-```plaintext
+```c
 handle = TestWaitForByteInput("Test Text", "Test Caption", "Test Byte Input", 0);
 TestGetByteInput(resultByte, elcount(resultByte));
 ```

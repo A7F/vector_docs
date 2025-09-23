@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long testWaitForScopeAnalyseBitSegments(message aMessage, ScopeAnalyseBitSegment bitSegments[], dword noOfSegments, dword referenceVoltagePoint, dword flags, dword msgFieldStart, dword msgFieldEnd);
 ```
 

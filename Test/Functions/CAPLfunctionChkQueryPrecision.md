@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 double ChkQuery_Precision (dword aCheckId);
 ```
 
@@ -12,7 +12,7 @@ double ChkQuery_Precision (dword aCheckId);
 
 [Method](../../../Shared/CAPL/General/ClassesAndObjects.md) Syntax
 
-```plaintext
+```c
 check.QueryPrecision();
 ```
 
@@ -30,7 +30,7 @@ Returns a factor that can be multiplied with the return value of the statistical
 
 ## Example
 
-```plaintext
+```c
 double result;
 dword checkId;
 checkId = ChkStart_MsgRelCycleTimeViolation(VehicleMotion, 0.9, 1.1);

@@ -23,7 +23,7 @@ If the last event was a MOST message (MOST control message or MOST spy message) 
 
 ## Example
 
-```plaintext
+```c
 if(testWaitForMostMessage("AudioDiskPlayer.MediaInfo.Status", 1, 500) == 1)
 {
     mostMessage * msg;

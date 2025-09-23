@@ -41,7 +41,7 @@ To get the message content of a Parameter Group which triggered a wait condition
 
 ## Example
 
-```plaintext
+```c
 testcase tcWaitForOneOfDTCs(dword sourceAddress)
 {
   long eventIndex;

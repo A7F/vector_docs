@@ -22,7 +22,7 @@ See TestWait instructions
 
 ## Example
 
-```plaintext
+```c
 TestWaitForTimeout(100);
 Write("Waiting Result = %d", TestGetLastWaitResult());
 ```

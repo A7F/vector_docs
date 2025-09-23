@@ -25,7 +25,7 @@ Creates a recording group with the given name. Afterwards a desired set of symbo
 
 ## Example
 
-```plaintext
+```c
 DWORD groupHandle;
 
 groupHandle = testReportCreateRecordingGroup("GroupName1");

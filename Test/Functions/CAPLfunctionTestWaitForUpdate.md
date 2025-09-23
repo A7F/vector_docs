@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForUpdate(valueHandle * value, dword timeoutMs);
 ```
 
@@ -28,7 +28,7 @@ Note that only updates which occur while the function waits are considered. If y
 
 ## Example
 
-```plaintext
+```c
 long ret;
 consumedEventRef * anEvent;
 anEvent = lookupConsumedEvent(path);

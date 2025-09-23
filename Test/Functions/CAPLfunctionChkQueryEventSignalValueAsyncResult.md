@@ -35,7 +35,7 @@ This function enables access to the signal value which was last reported by a ch
 
 ## Example
 
-```plaintext
+```c
 result = testWaitForCheckQuery(checkId, 10000);
 if (result == 1)
 {

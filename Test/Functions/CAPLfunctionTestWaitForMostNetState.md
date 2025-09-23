@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForMostNetState(long aOldState, long aNewState, unsigned long aTimeout);
 ```
 

@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestJoinImplValueOutsideRangeUInt(valueHandle * value, qword aLowLimit, qword aHighLimit); // form 1
 long TestJoinImplValueOutsideRangeUInt(valueHandle * value, qword aLowLimit, qword aHighLimit, word waitForSignalUpdate); // form 2
 ```
@@ -33,7 +33,7 @@ This function can only be used for **valueHandles** with an unsigned integer dat
 
 ## Example
 
-```plaintext
+```c
 long ret;
 dword index = 0;
 ret = testJoinImplValueOutsideRangeUInt(MirrorStatus[CANoe].Temperature, 20, 30);

@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```
+```c
 long ChkQuery_EventSchedSlotIndex (dword CheckId)
 ```
 
@@ -12,7 +12,7 @@ long ChkQuery_EventSchedSlotIndex (dword CheckId)
 
 [Method](../../../Shared/CAPL/General/ClassesAndObjects.md) Syntax
 
-```
+```c
 check.QueryEventSchedSlotIndex()
 ```
 

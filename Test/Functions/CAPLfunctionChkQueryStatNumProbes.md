@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long ChkQuery_StatNumProbes (dword aCheckId);
 ```
 
@@ -12,7 +12,7 @@ long ChkQuery_StatNumProbes (dword aCheckId);
 
 [Method Syntax](../../../Shared/CAPL/General/ClassesAndObjects.md)
 
-```plaintext
+```c
 check.QueryStatNumProbes();
 ```
 
@@ -37,7 +37,7 @@ Deviating from the default following checks return the number of value updates:
 
 ## Example
 
-```plaintext
+```c
 long result;
 dword checkId;
 checkId = ChkStart_MsgRelCycleTimeViolation(VehicleMotion, 0.9, 1.1);

@@ -26,7 +26,7 @@ Completes the current set of "joined events" with the transmitted event. This fu
 
 ## Example
 
-```plaintext
+```c
 // add msg event to the current set of "joined events" and fill the msg data to message ‘eventMessage’
 dword index = 0;
 TestJoinMessageEvent(VehicleMotion);

@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long ChkQuery_RequestOpType(dword aCheckId);
 ```
 
@@ -12,7 +12,7 @@ long ChkQuery_RequestOpType(dword aCheckId);
 
 [Method](../../../Shared/CAPL/General/ClassesAndObjects.md) Syntax
 
-```plaintext
+```c
 check.QueryRequestOpType();
 ```
 

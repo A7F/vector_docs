@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestGetWaitEventKLineFrame(BYTE bufferOut[], dword bufferLen);
 long TestGetWaitEventKLineFrame(BYTE bufferOut[], dword bufferLen, int64 timeStampOut[]);
 ```
@@ -25,7 +25,7 @@ On success a value greater 0, otherwise a value less than 0.
 
 ## Example
 
-```plaintext
+```c
 DiagRequest EcuIdentification_Read req;
 int64 timeStamps[100];
 BYTE buffer[100];

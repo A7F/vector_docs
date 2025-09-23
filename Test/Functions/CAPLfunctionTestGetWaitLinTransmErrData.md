@@ -23,7 +23,7 @@ If LIN Transmission Error event is the last event that triggers a wait instructi
 
 ## Example
 
-```plaintext
+```c
 testcase tcTFS_linNoResponseEvent ()
 {
     linTransmError linTransmErrorData;

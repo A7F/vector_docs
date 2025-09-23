@@ -45,7 +45,7 @@ To get the message content of the parameter group which triggered the wait condi
 
 **Example 1**
 
-```plaintext
+```c
 long result;
 
 // wait for the occurrence of DTC with SPN=96 and FMI=12 within message DM1 (pgn=0xFECA) from node with address=0x2
@@ -60,7 +60,7 @@ result = TestWaitForJ1939DTC(0xFFFFFFFF, 0x9F00, 0xFFFFFFFF, 0xFFFF, 10, 2000);
 
 **Example 2**
 
-```plaintext
+```c
 long result;
 pg DM01 pgDM01;
 

@@ -46,7 +46,7 @@ Checks the LIN Response_Error signal for a specified LIN Slave node or for all L
 
 ## Example
 
-```plaintext
+```c
 ...
 dword checkId;
 // Create and start the check for LIN response_error signal

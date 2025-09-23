@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 dword ChkStart_LINSyncBreakTimingViolation (float MinBreakLen, float MaxBreakLen);
 dword ChkStart_LINSyncBreakTimingViolation (float MinBreakLen, float MaxBreakLen, char[] CaplCallback);
 ```
@@ -13,7 +13,7 @@ dword ChkStart_LINSyncBreakTimingViolation (float MinBreakLen, float MaxBreakLen
 
 [Constructor](../../../Shared/CAPL/General/ClassesAndObjects.md)
 
-```plaintext
+```c
 TestCheck::StartLINSyncBreakTimingViolation (float MinBreakLen, float MaxBreakLen);
 TestCheck::StartLINSyncBreakTimingViolation (float MinBreakLen, float MaxBreakLen, char[] CaplCallback);
 ```
@@ -57,7 +57,7 @@ Checks the timing of the synchronization break field in LIN headers. An event wi
 
 ## Example
 
-```plaintext
+```c
 ...
 dword checkId;
 ChkConfig_SetPrecision(9); // switch to ns precision

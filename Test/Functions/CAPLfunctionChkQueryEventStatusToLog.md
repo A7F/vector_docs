@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```
+```c
 long ChkQuery_EventStatusToLog (dword aCheckId);
 ```
 
@@ -12,7 +12,7 @@ long ChkQuery_EventStatusToLog (dword aCheckId);
 
 [Method](../../../Shared/CAPL/General/ClassesAndObjects.md) Syntax
 
-```
+```c
 check.QueryEventStatusToLog();
 ```
 
@@ -31,7 +31,7 @@ Uses the output of [ChkQuery_EventStatus](CAPLfunctionChkQueryEventStatus.md) an
 
 ## Example
 
-```plaintext
+```c
 long result;
 dword checkId;
 checkId = ChkStart_MsgRelCycleTimeViolation(VehicleMotion, 0.9, 1.1);

@@ -39,7 +39,7 @@ Checks the DLC of all Rx messages of a node. The check condition is violated if 
 
 ## Example
 
-```plaintext
+```c
 // checks the DLC of all Rx messages of the node
 checkId = ChkStart_InconsistentRxDlc(NodeToObserve);
 TestAddCondition(checkId);

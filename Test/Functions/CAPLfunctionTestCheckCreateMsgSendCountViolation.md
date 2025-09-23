@@ -49,7 +49,7 @@ Monitors the bus and reports if at least **aMinCount** and at most **aMaxCount**
 
 ### Example
 
-```plaintext
+```c
 variables
 {
   const dword cTesttime = 640; // [ms] per check

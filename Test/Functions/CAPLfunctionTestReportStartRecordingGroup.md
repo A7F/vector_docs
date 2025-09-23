@@ -23,7 +23,7 @@ Starts the recording of all symbols contained in the recording group in the test
 
 ## Example
 
-```plaintext
+```c
 DWORD groupHandle;
 
 groupHandle = testReportCreateRecordingGroup("GroupName1");

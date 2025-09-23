@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForMostGroupAdr(long aValue, unsigned long aTimeout);
 ```
 

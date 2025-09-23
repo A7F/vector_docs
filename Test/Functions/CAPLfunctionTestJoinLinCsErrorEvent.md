@@ -27,7 +27,7 @@ Adds an event of type checksum error to the set of joined events. This is a non-
 
 ## Example
 
-```plaintext
+```c
 testcase tcTFS_waitForLINResponse(int frameId)
 {
     long eventIndex;

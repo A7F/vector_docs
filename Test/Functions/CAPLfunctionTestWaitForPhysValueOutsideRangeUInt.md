@@ -6,7 +6,7 @@
 
 ### Function Syntax
 
-```plaintext
+```c
 long TestWaitForPhysValueOutsideRangeUInt(valueHandle * value, qword aLowLimit, qword aHighLimit, dword aTimeout);
 ```
 

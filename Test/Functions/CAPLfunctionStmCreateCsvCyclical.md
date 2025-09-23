@@ -64,7 +64,7 @@ Later this ID can be used to control the stimuli
 
 ## Example
 
-```plaintext
+```c
 dword stimId;
 dbSignal StimSig;
 

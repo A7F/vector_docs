@@ -59,7 +59,7 @@ A CAN message stored in the scope buffer will be parsed. For each bit of the mes
 
 ## Example
 
-```plaintext
+```c
 dword arraySize = 200;
 message 0x111 msg1;
 long res;

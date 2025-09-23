@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 double HILAPIGetSignalGeneratorElaspedTime(dword handle);
 ```
 
@@ -25,7 +25,7 @@ Returns the elapsed time of a Signal Generator.
 
 Gets the elapsed time of the Signal Generator:
 
-```plaintext
+```c
 double time;
 time = HILAPIGetSignalGeneratorElaspedTime(hGenerator);
 ```

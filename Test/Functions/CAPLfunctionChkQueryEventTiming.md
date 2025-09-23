@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 float ChkQuery_EventTiming (dword checkId);
 ```
 
@@ -12,7 +12,7 @@ float ChkQuery_EventTiming (dword checkId);
 
 [Method Syntax](../../../Shared/CAPL/General/ClassesAndObjects.md)
 
-```plaintext
+```c
 check.QueryEventTiming();
 ```
 
@@ -37,7 +37,7 @@ Retrieves the timing value that has been violated in the LIN specific check.
 
 ## Example
 
-```plaintext
+```c
 testcase tcTSL_LINSyncBreak()
 {
    dword checkId;

@@ -43,7 +43,7 @@ Observes if Detected Moving Objects have matching Moving Objects. The check fire
 
 ## Example
 
-```plaintext
+```c
 dword checkId1, checkId2;
 
 checkId1 = chkStart_DASDetectedObjectsHaveMatchingGroundTruthObjectsViolation (0.5); // minimum IoU is 50%, all Detected Moving Object are checked

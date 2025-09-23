@@ -41,7 +41,7 @@ Checks the LIN header transmission time. An event will be generated if the measu
 
 ## Example
 
-```plaintext
+```c
 ...
 dword checkId;
 // Create and start the check for LIN Header tolerance

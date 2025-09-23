@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestValidatePhysValueFloat(char aTestStep[], valueHandle * value, qword awaitedValue);
 ```
 
@@ -27,7 +27,7 @@ The test step is evaluated as either passed or failed depending on the results.
 
 ## Example
 
-```plaintext
+```c
 long ret;
 ret = testValidatePhysValueUInt("Validate error signal", ErrorSignal[LeftMirror], 1);
 ```

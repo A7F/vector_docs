@@ -56,7 +56,7 @@ For FlexRay only valid data frames and PDUs are recognized as communication, Nul
 
 ## Example
 
-```plaintext
+```c
 // checks the DLC of the message
 checkId = ChkStart_InconsistentDlc (MsgToObserve);
 TestAddCondition(checkId);

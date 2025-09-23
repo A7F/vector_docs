@@ -23,7 +23,7 @@ Value of the byte
 
 ## Example
 
-```plaintext
+```c
 DiagRequest EcuIdentification_Read req;
 int64 timeStamps;
 Byte byteValue;

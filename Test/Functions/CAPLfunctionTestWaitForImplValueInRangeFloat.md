@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForImplValueInRangeFloat(valueHandle * value, float aLowLimit, float aHighLimit, dword aTimeout);
 ```
 

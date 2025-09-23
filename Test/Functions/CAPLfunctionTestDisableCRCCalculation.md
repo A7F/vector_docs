@@ -36,7 +36,7 @@ Dependent on the used parameter type the appropriate bus context in a multibus e
 
 ## Example
 
-```plaintext
+```c
 // disables the CRC calculation of message ‚MsgToManipulate’ for 2000 ms
 TestDisableCRCCalculation(MsgToManipulate);
 TestWaitForTimeout(2000);

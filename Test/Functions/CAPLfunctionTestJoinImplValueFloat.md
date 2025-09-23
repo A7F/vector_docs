@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestJoinImplValueFloat(valueHandle * value, float awaitedValue); // form 1
 long TestJoinImplValueFloat(valueHandle * value, float awaitedValue, dword waitForValueUpdate); // form 2
 ```
@@ -27,7 +27,7 @@ Completes the current set of **joined events** with the transmitted event. This 
 
 ## Example
 
-```plaintext
+```c
 long ret;
 dword index = 0;
 ret = testJoinImplValueFloat(MirrorStatus[CANoe].Temperature, 20.0, 1);

@@ -7,7 +7,7 @@ This function can only be called within a test module!
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForDiagResponseStart (diagRequest request, dword timeout);
 long TestWaitForDiagResponseStart (dword timeout);
 ```
@@ -29,7 +29,7 @@ Waits for the arrival of the response to a sent request, e.g. the so-called "Fir
 
 ## Example
 
-```plaintext
+```c
 DiagRequest SerialNumber_Read req;
 long result;
 

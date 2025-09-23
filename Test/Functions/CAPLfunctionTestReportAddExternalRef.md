@@ -24,7 +24,7 @@ Adds an external reference to the report (URL, DOORS or eASEE link), which appea
 
 ## Example
 
-```plaintext
+```c
 testcase tc_1_1()
 {
    TestCaseTitle("tc_1_1", "Test Case 1.1");

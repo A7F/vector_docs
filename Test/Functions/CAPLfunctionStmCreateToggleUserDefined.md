@@ -69,24 +69,24 @@ Later this ID can be used to control the stimuli.
 
 To stimulate signals:
 
-```plaintext
+```c
 mId = StmCreate_Toggle(MsgBuf, Msg::Sig, ValueA, ValueB, CycleTime);
 ```
 
 To stimulate signals with the Interaction Layer:
 
-```plaintext
+```c
 mId = StmCreate_Toggle(Msg::Sig, ValueA, ValueB, CycleTime);
 ```
 
 To stimulate environment variables:
 
-```plaintext
+```c
 mId = StmCreate_Toggle(EnvVarToStimulate, ValueA, ValueB, CycleTime);
 ```
 
 To stimulate system variables:
 
-```plaintext
+```c
 mId = StmCreate_Toggle(SysVarToStimulate, ValueA, ValueB, CycleTime);
 ```

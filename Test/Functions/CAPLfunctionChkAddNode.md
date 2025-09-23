@@ -48,7 +48,7 @@ Adds a J1939 node to an existing check.
 
 ## Example
 
-```cpp
+```c
 // checks the address claim violation of node N1
 checkId = ChkCreate_J1939AddressClaimViolation ( N1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 200, 0x01);
 

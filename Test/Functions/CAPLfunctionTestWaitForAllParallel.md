@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long testWaitForAllParallel(dword timeout);
 ```
 
@@ -25,7 +25,7 @@ Waits until execution of all parallel threads finished. In case all threads alre
 
 ## Example
 
-```plaintext
+```c
 export testcase TestParallelExecution()
 {
   write("Start parallel execution.");

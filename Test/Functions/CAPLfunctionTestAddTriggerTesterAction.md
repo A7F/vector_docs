@@ -26,7 +26,7 @@ Adds a trigger to a tester action previously created with [TestCreateTesterActio
 
 ## Example
 
-```plaintext
+```c
 int CallbackTesterAction(int trigger)
 {
   if (trigger == gTriggerCycle)

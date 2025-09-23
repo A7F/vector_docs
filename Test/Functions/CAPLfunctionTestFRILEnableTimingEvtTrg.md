@@ -6,7 +6,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestFRILEnableTimingEvtTrg(char pduName[], int enable);
 ```
 
@@ -30,7 +30,7 @@ Controls the event triggered timing of PDUs. The event triggered timing can be e
 
 ## Example
 
-```plaintext
+```c
 int enable;
 .....
 If( stopEvtSending == 1 )

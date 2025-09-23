@@ -49,7 +49,7 @@ Observes if Moving Objects have matching Detected Moving Objects. The check fire
 
 ## Example
 
-```plaintext
+```c
 dword checkId1, checkId2;
 
 checkId1 = chkStart_ADASGroundTruthObjectsHaveMatchingDetectedObjectsViolation (0.5); // minimum IoU is 50%, all Moving Object are checked

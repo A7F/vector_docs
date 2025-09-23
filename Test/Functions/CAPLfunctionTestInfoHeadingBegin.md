@@ -21,7 +21,7 @@ Starts a header row into a table. A header row can be divided into multiple colu
 
 ## Example
 
-```plaintext
+```c
 testcase StructuredDataSample()
 {
   long table = 0;

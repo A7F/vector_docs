@@ -23,7 +23,7 @@ The precondition must not set a verdict and the function must be called at the b
 
 ## Example
 
-```plaintext
+```c
 export testsequenceTestCasePreconditionIsFalse()
 {
   testSequencePrecondition(delegate dword(){

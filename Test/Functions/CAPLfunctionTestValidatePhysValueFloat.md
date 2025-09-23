@@ -6,7 +6,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestValidatePhysValueFloat(char aTestStep[], valueHandle * value, float awaitedValue);
 ```
 
@@ -29,7 +29,7 @@ The test step is evaluated as either passed or failed depending on the results.
 
 ## Example
 
-```plaintext
+```c
 long ret;
 ret = testValidatePhysValueFloat("Validate temperature", MirrorStatus[CANoe].Temperature, 20.0);
 ```

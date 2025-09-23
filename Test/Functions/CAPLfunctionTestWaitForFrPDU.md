@@ -34,7 +34,7 @@ When no PDU is specified the wait condition is resolved on any FlexRay PDU.
 
 The following test program waits for the occurrence of one of two PDUs. It is assumed that the database defines the PDUs PDU_NMF_NODE_C and PDU_IN_CYCLE_REPETITION on the cluster FlexRay PDU.
 
-```plaintext
+```c
 variables
 {
    dword gBusContextFr;

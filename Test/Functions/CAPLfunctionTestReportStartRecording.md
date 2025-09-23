@@ -31,7 +31,7 @@ Starts the recording of a symbol in the test report. Optionally, an alias for th
 
 ## Example
 
-```plaintext
+```c
 testReportStartRecording(comfort::VehicleMotion::CrashDetected, "Signal1");
 
 // … do something

@@ -45,7 +45,7 @@ Further information on site [MultiBus Environment](../../../Shared/CAPL/General/
 
 ## Example
 
-```plaintext
+```c
 ...
 dword checkId;
 // Create and start the check for LIN reconfiguration request format violation

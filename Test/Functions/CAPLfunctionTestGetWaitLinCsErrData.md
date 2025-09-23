@@ -23,7 +23,7 @@ Retrieves the data of a checksum error triggered by the last wait instruction. T
 
 ## Example
 
-```plaintext
+```c
 testcase tcTFS_linCSError ()
 {
     linCSError linCSErrorData;

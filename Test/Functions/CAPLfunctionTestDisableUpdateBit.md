@@ -7,7 +7,7 @@ This function is not available for all OEM add-ons - depends on the CANoeIL.
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestDisableUpdateBit (dbSignal aSignal, double aValue);
 ```
 
@@ -30,7 +30,7 @@ Dependent on the used parameter type the appropriate bus context in a multibus e
 
 ## Example
 
-```plaintext
+```c
 // disables the update bit of signal ‘DoorStatus_UB’ for 1000 ms
 TestDisableUpdateBit(DoorStatus_UB, 0);
 TestWaitForTimeout(1000);

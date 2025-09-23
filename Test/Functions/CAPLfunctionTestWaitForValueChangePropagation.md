@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long testWaitForValueChangePropagation();
 ```
 
@@ -23,7 +23,7 @@ Wait until value changes for system variables or value entities have been propag
 
 ## Example
 
-```plaintext
+```c
 @vars::var1 = 3;
 testWaitForValueChangePropagation();
 // create checks, add constraints

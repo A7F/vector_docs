@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long ChkControl_Stop(dword aCheckId);
 ```
 
@@ -12,7 +12,7 @@ long ChkControl_Stop(dword aCheckId);
 
 [Method Syntax](../../../Shared/CAPL/General/ClassesAndObjects.md)
 
-```plaintext
+```c
 check.Stop();
 ```
 
@@ -35,7 +35,7 @@ Turns off the checking of the event condition.
 
 ## Example
 
-```plaintext
+```c
 dword checkId;
 dword numCheckEvents;
 

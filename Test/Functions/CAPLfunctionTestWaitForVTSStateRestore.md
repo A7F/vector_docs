@@ -66,7 +66,7 @@ Restoring the channels’ start states uses the following order:
 
 ## Example
 
-```plaintext
+```c
 testfunction StateRestoreExamples
 {
   // Restore the whole VT System to the start state (function syntax)

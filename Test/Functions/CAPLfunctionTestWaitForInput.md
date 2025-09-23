@@ -25,7 +25,7 @@ After you have created a value table or range dialog use this function to open t
 
 ## Example
 
-```plaintext
+```c
 handle = TestCreateValueInputTable("Test Text", "Test Caption", "Test Value Input Table Timeout");
 TestAddValueTableEntry(handle, 9);
 return = TestWaitForInput(handle, 5000);

@@ -25,7 +25,7 @@ Completes the current set of **joined events** with the transmitted event. This 
 
 ## Example
 
-```plaintext
+```c
 long ret;
 dword index = 0;
 ret = testJoinPhysValueUInt(ErrorSignal[LeftMirror], 1, 1);

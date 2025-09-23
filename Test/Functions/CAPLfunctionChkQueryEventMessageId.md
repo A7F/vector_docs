@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long ChkQuery_EventMessageId (dword aCheckId);
 ```
 
@@ -12,7 +12,7 @@ long ChkQuery_EventMessageId (dword aCheckId);
 
 [Method](../../../Shared/CAPL/General/ClassesAndObjects.md) Syntax
 
-```plaintext
+```c
 check.QueryEventMessageId();
 ```
 
@@ -47,7 +47,7 @@ Returns the ID of the message that has forced the event.
 
 ## Example
 
-```plaintext
+```c
 long result;
 dword checkId;
 checkId = ChkStart_MsgRelCycleTimeViolation(VehicleMotion, 0.9, 1.1);

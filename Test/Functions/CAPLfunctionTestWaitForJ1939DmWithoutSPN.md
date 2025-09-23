@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long testWaitForJ1939DmWithoutSPN (dword sourceAddress, dword pgn, dword spn, dword timeout); // form 1
 long testWaitForJ1939DmWithoutSPN (dword sourceAddress, dword pgn, dword spn, word fmi, word oc, dword timeout); // form 2
 ```
@@ -35,7 +35,7 @@ To get the message content of the parameter group which triggered the wait condi
 
 ## Example
 
-```plaintext
+```c
 char kBusContextJ1939_1[100] = "J1939_1";
 export testfunction TestWaitForDtcCycle(long sa, dword pgn, dword spn, dword timeoutToAppear, dword timeoutToDisappear)
 {

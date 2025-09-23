@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForAuxEvent(dword aAuxEventId, dword aTimeout);
 ```
 
@@ -29,7 +29,7 @@ Should the event not occur before the expiration of the time **aTimeout**, the w
 
 ## Example
 
-```plaintext
+```c
 // wait is resumed on check event
 long result;
 checkId = ChkStart_Timeout(1000);

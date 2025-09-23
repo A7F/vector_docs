@@ -26,7 +26,7 @@ If the last event was a MOST AMS message that resolved a wait construction, with
 
 ## Example
 
-```plaintext
+```c
 if(testWaitForMostAMSMessage("AudioDiskPlayer.MediaInfo.Status", 1, 500) == 1)
 {
     mostAMSMessage * msg;

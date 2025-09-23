@@ -35,7 +35,7 @@ All stimuli
 
 ## Example
 
-```plaintext
+```c
 double result;
 dword stmId;
 stmId = StmCreate_Toggle(Velocity, 60, 80, 100);

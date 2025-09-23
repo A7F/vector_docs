@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 double ChkQuery_StatEventFreePeriodMax (dword aCheckId);
 ```
 
@@ -12,7 +12,7 @@ double ChkQuery_StatEventFreePeriodMax (dword aCheckId);
 
 [Method](../../../Shared/CAPL/General/ClassesAndObjects.md) Syntax
 
-```plaintext
+```c
 check.QueryStatEventFreePeriodMax();
 ```
 
@@ -32,7 +32,7 @@ Returns the maximum timely distance between events and check starts/stops.
 
 ## Example
 
-```plaintext
+```c
 double result;
 dword checkId;
 checkId = ChkStart_MsgRelCycleTimeViolation(VehicleMotion, 0.9, 1.1);

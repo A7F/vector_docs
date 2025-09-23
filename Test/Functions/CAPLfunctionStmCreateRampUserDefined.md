@@ -121,7 +121,7 @@ mId = StmCreate_Ramp(SysVarToStimulate, ValueA, ValueB, CycleTime, Tup, Thigh, T
 
 ### Example Code
 
-```plaintext
+```c
 variables
 {
     message NewMessage aNewMessage;
@@ -158,7 +158,7 @@ on preStop
 }
 ```
 
-```plaintext
+```c
 variables
 {
     sysvar mySysvar;

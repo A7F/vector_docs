@@ -24,7 +24,7 @@ The reset-function does not contain a waiting time which guarantees that the sig
 
 ## Example
 
-```plaintext
+```c
 // check reaction of signal "LockState" after crash
 $CrashDetected = 1;
 TestWaitForTimeout(100);

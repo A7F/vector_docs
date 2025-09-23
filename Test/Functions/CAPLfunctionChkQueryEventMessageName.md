@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 double ChkQuery_EventMessageName (dword aCheckId, char buffer[], dword bufferlen);
 ```
 
@@ -12,7 +12,7 @@ double ChkQuery_EventMessageName (dword aCheckId, char buffer[], dword bufferlen
 
 [Method Syntax](../../../Shared/CAPL/General/ClassesAndObjects.md)
 
-```plaintext
+```c
 check.QueryEventMessageName (char buffer[], dword bufferlen);
 ```
 
@@ -49,7 +49,7 @@ Stores the name of the message, that has led to the event, in the buffer and ret
 
 ## Example
 
-```plaintext
+```c
 long result;
 dword checkId;
 char messageName[100];

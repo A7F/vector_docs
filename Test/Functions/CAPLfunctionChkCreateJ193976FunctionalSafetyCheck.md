@@ -53,7 +53,7 @@ The database attribute [FsJ1939NeedsSHM](../../../CANoeCANalyzer/J1939/j1939basi
 
 ## Example
 
-```plaintext
+```c
 dword checkId;
 checkId = ChkStart_J1939_76_FunctionalSafetyCheck(N1);
 TestAddCondition(checkId);

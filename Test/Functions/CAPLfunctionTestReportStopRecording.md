@@ -26,7 +26,7 @@ Stops the recording of the symbol in the test report. If the recording is not ex
 
 ## Example
 
-```plaintext
+```c
 testReportStartRecording(comfort::VehicleMotion::CrashDetected, "Signal1");
 
 // … do something

@@ -39,7 +39,7 @@ Adds a report entry in the measured values table for the given parameter at the 
 
 ## Example
 
-```plaintext
+```c
 testcase TestMeasuredValues()
 {
   double acc;

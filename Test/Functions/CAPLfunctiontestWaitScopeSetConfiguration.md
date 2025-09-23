@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long testWaitScopeSetConfiguration (char deviceName[], char configurationName[]);
 ```
 

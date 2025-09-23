@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestGetVerdictLastTestCase();
 ```
 
@@ -28,7 +28,7 @@ Returns the verdict of the last elapsed or current test case.
 
 **Example 1**
 
-```plaintext
+```c
 // gets the verdict of last test case and report it in the Write Window
 void MainTest()
 {

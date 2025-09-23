@@ -24,7 +24,7 @@ This function adds a new range that is allowed for dialog input. This can be a m
 
 ## Example
 
-```plaintext
+```c
 handle = TestCreateValueInputRange("Test Text", "Test Caption", "Test Value Input Range Timeout");
 TestAddRange(handle, 0, 5);
 TestWaitForInput(handle, 5000);

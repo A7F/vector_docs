@@ -79,7 +79,7 @@ Observes the J1939 Request2 (C900h). It is possible to observe all Request2 mess
 
 ## Example
 
-```plaintext
+```c
 TestCheck check;
 // checks the if a response from N2 is received after a J1939 Request2 from node N1
 checkId = ChkStart_J1939Request2(N1, N2, GBSD, 0x01, 0, 1250, 50, 0);

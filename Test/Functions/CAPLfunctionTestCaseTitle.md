@@ -28,7 +28,7 @@ The title of a test case is acquired automatically from the test case name in th
 
 **Example 1**
 
-```plaintext
+```c
 testcase CheckLockingOnCrash ()
 {
    TestCaseTitle("TC 1.0", "Check unlock of central locking system on crash");

@@ -75,25 +75,25 @@ Later this ID can be used to control the stimuli.
 
 To stimulate signals:
 
-```plaintext
+```c
 mId = StmCreate_Ramp(MsgBuf, Msg::Sig, CycleTime, Tup, Thigh, Tdown, Tlow);
 ```
 
 To stimulate signals with the Interaction Layer:
 
-```plaintext
+```c
 mId = StmCreate_Ramp(Msg::Sig, CycleTime, Tup, Thigh, Tdown, Tlow);
 ```
 
 To stimulate environment variables:
 
-```plaintext
+```c
 mId = StmCreate_Ramp(EnvVarToStimulate, CycleTime, Tup, Thigh, Tdown, Tlow);
 ```
 
 To stimulate system variables:
 
-```plaintext
+```c
 mId = StmCreate_Ramp(SysVarToStimulate, CycleTime, Tup, Thigh, Tdown, Tlow);
 ```
 

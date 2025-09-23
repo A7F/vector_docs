@@ -53,7 +53,7 @@ Checks the timing of the synchronization break field in LIN headers. An event wi
 
 ## Example
 
-```plaintext
+```c
 ...
 dword checkId;
 ChkConfig_SetPrecision(9); // switch to ns precision

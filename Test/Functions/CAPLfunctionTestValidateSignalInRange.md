@@ -48,7 +48,7 @@ Use the **int64 parameters** for system variables of UInt64 and Int64 type to co
 
 ## Example
 
-```plaintext
+```c
 // validates the value of the signal against the given range
 long result;
 result = testValidateSignalInRange("Check Velocity", Node_SUT::Velocity, 60, 100);

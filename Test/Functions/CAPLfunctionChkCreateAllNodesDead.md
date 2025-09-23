@@ -38,7 +38,7 @@ All monitored nodes must send at least one of their Tx messages within a specifi
 
 ## Example
 
-```plaintext
+```c
 // checks that at least one message is sent in each 100 ms
 checkId = ChkStart_AllNodesDead (100);
 TestAddCondition(checkId);

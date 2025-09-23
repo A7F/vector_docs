@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long ChkQuery_EventStatus (dword aCheckId, char aBuffer[], dword aBufferLength);
 ```
 
@@ -12,7 +12,7 @@ long ChkQuery_EventStatus (dword aCheckId, char aBuffer[], dword aBufferLength);
 
 [Method Syntax](../../../Shared/CAPL/General/ClassesAndObjects.md)
 
-```plaintext
+```c
 check.QueryEventStatus (char aBuffer[], dword aBufferLength);
 ```
 
@@ -33,7 +33,7 @@ Converts the status into a string that can be printed. Returns the number of cha
 
 ## Example
 
-```plaintext
+```c
 long result;
 dword checkId;
 char eventStatus[256];

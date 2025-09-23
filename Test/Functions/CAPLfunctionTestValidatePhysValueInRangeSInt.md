@@ -31,7 +31,7 @@ The test step is evaluated as either passed or failed depending on the results.
 
 ## Example
 
-```plaintext
+```c
 long ret;
 ret = testValidatePhysValueInRangeSInt(MirrorStatus[CANoe].Temperature, 20.0, 30.0);
 

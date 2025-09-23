@@ -23,7 +23,7 @@ Waits until a running generator has finished.
 
 ## Example
 
-```plaintext
+```c
 HILAPIStartSignalGenerator(hGenerator);
 testWaitForHILAPISignalGeneratorFinished(hGenerator);
 ```

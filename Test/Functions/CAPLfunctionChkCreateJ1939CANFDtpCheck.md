@@ -66,7 +66,7 @@ Further information on site [MultiBus Environment](../../../Shared/CAPL/General/
 
 ## Example
 
-```plaintext
+```c
 dword checkId;
 checkId = ChkStart_J1939_CANFD_TP_Check(N1, N2);
 TestAddCondition(checkId);

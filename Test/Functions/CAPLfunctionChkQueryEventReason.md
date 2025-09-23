@@ -12,7 +12,7 @@ long ChkQuery_EventReason (dword checkId);
 
 [Method](../../../Shared/CAPL/General/ClassesAndObjects.md) Syntax
 
-```
+```c
 check.QueryEventReason();
 ```
 

@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForChangeCountGreater(valueHandle * value, qword count, dword timeoutMs);
 ```
 
@@ -29,7 +29,7 @@ In case of a distributed object, this functionality is only available if the `[E
 
 ## Example
 
-```plaintext
+```c
 long ret;
 consumedEventRef * anEvent;
 anEvent = lookupConsumedEvent(path);

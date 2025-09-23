@@ -41,7 +41,7 @@ You can optionally define some default input for the dialog.
 
 **Example 1**
 
-```plaintext
+```c
 // ask for the test ID and report it in the Write Window
 TestWaitForValueInput("Please enter the test ID", 5000);
 Write("Test ID = %f", TestGetValueInput());
@@ -49,7 +49,7 @@ Write("Test ID = %f", TestGetValueInput());
 
 **Example 2**
 
-```plaintext
+```c
 return = TestWaitForValueInput("Test Text", "Test Caption", "Test Value Input", 0);
 write("Result: %f", TestGetValueInput());
 

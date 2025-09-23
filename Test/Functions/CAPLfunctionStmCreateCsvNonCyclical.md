@@ -6,25 +6,25 @@
 
 **To stimulate signals:**
 
-```plaintext
+```c
 dword StmCreate_CSV(message aMessage, dbsignal aDBSignal, const char *aFile);
 ```
 
 **To stimulate signals with the Interaction Layer (IL):**
 
-```plaintext
+```c
 dword StmCreate_CSV(signal aDBSignal, const char *aFile);
 ```
 
 **To stimulate environment variables:**
 
-```plaintext
+```c
 dword StmCreate_CSV(dbenvvar EnvVarHandle, dbsignal aDBSignal, const char *aFile);
 ```
 
 **To stimulate system variables:**
 
-```plaintext
+```c
 dword StmCreate_CSV(sysvar SystemVariable, dbsignal aDBSignal, const char *aFile);
 ```
 
@@ -32,7 +32,7 @@ dword StmCreate_CSV(sysvar SystemVariable, dbsignal aDBSignal, const char *aFile
 
 [TestStimulus::CreateCSV](../../../Shared/CAPL/General/ClassesAndObjects.md)
 
-```plaintext
+```c
 TestStimulus::CreateCSV(message aMessage, dbsignal aDBSignal, const char *aFile);
 TestStimulus::CreateCSV(signal aDBSignal, const char *aFile);
 TestStimulus::CreateCSV(dbenvvar EnvVarHandle, dbsignal aDBSignal, const char *aFile);
@@ -60,7 +60,7 @@ Later this ID can be used to control the stimuli.
 
 ## Example
 
-```plaintext
+```c
 dword stimId;
 dbSignal StimSig;
 

@@ -26,7 +26,7 @@ Please note that this function can only be used for signal generators that activ
 
 ## Example
 
-```plaintext
+```c
 dword generator;
 
 // Load the signal description

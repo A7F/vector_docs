@@ -29,7 +29,7 @@ If a message event is the last event that triggers a wait instruction, the messa
 
 ## Example
 
-```plaintext
+```c
 // add msg event to the current set of "joined events" and fill the msg data to message ‘eventMessage’
 dword index = 0;
 TestJoinMessageEvent(VehicleMotion);

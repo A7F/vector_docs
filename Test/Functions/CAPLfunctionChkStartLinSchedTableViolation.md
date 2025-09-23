@@ -58,7 +58,7 @@ Checks a certain LIN schedule table for correspondence with the database definit
 
 ## Example
 
-```plaintext
+```c
 ...
 dword checkId;
 ChkConfig_SetPrecision(6); // switch to µs precision

@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestJoinImplValueInRangeFloat(valueHandle * value, float aLowLimit, float aHighLimit); // form 1
 long TestJoinImplValueInRangeFloat(valueHandle * value, float aLowLimit, float aHighLimit, word waitForSignalUpdate); // form 2
 ```
@@ -33,7 +33,7 @@ This function can only be used for **valueHandles** with a floating point data t
 
 ## Example
 
-```plaintext
+```c
 long ret;
 dword index = 0;
 ret = testJoinImplValueInRangeFloat(MirrorStatus[CANoe].Temperature, 20.0, 30.0);

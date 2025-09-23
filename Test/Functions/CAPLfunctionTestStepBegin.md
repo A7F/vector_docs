@@ -34,7 +34,7 @@ With these functions, test steps can be logged within a test case. Such a test s
 
 ## Example
 
-```plaintext
+```c
 TestStepBegin (0, "3.1", "Receipt of response message");
 if (result == 1)
     TestStepPass ();

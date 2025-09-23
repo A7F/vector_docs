@@ -6,7 +6,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestValidateImplValueUInt(char aTestStep[], valueHandle * value, qword awaitedValue);
 ```
 
@@ -29,7 +29,7 @@ The test step is evaluated as either passed or failed depending on the results.
 
 ## Example
 
-```plaintext
+```c
 long ret;
 ret = testValidateImplValueUInt("Validate error signal", ErrorSignal[LeftMirror], 1);
 ```

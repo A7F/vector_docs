@@ -23,7 +23,7 @@ Starts or resumes a Signal Generator.
 
 Starts or resumes the Signal Generator:
 
-```plaintext
+```c
 HILAPIStartSignalGenerator(hGenerator);
 ```
 

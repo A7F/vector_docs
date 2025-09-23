@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestResetSysVarValue (sysvar aSysVar);
 ```
 
@@ -23,7 +23,7 @@ Resets the system variable to initial value. If no initial value is defined, the
 
 ## Example
 
-```plaintext
+```c
 // check reaction of signal "LockState" after crash
 @sysvar::Error::SysVarCrashDetected = 1;
 TestWaitForTimeout(100);

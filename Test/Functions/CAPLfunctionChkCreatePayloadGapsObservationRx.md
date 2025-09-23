@@ -41,7 +41,7 @@ Checks the payload gaps and the DLC of all Rx messages of a node. The check cond
 
 ## Example
 
-```plaintext
+```c
 // checks the payload gaps of the message
 checkId = ChkStart_PayloadGapsObservationRx(NodeToObserve, 0);
 TestAddCondition(checkId);

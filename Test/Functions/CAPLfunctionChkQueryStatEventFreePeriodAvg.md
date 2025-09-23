@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 double ChkQuery_StatEventFreePeriodAvg (dword aCheckId);
 ```
 
@@ -12,7 +12,7 @@ double ChkQuery_StatEventFreePeriodAvg (dword aCheckId);
 
 [Method Syntax](../../../Shared/CAPL/General/ClassesAndObjects.md)
 
-```plaintext
+```c
 check.QueryStatEventFreePeriodAvg();
 ```
 
@@ -36,7 +36,7 @@ Returns the average timely distance between events and check starts/stops.
 
 ## Example
 
-```plaintext
+```c
 double result;
 dword checkId;
 checkId = ChkStart_MsgRelCycleTimeViolation(VehicleMotion, 0.9, 1.1);

@@ -44,7 +44,7 @@ If the rating period and the maximal number of distance undercuts (\> 0) are spe
 
 ## Example
 
-```plaintext
+```c
 // checks the send distance between all Tx messages of the node
 checkId = ChkStart_NodeMsgsAbsDistViolation(NodeToObserve, 30, 2, 40);
 TestAddCondition(checkId);

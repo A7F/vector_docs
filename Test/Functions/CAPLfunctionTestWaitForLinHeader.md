@@ -31,7 +31,7 @@ When no frame is specified the wait condition is resolved on any LIN header.
 
 ## Example
 
-```plaintext
+```c
 testcase tcTFS_linHdrEvent ()
 {
    linheader  linHeaderData;

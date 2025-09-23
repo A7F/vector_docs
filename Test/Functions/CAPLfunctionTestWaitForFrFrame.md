@@ -37,7 +37,7 @@ Waits for the occurrence of the valid specified FlexRay frame. Should the frame 
 
 The following test program waits for the occurrence of one of two frames. It is assumed that the database defines the frames Sync_Message_1_Ch_A and Sync_Message_2_Ch_A on the cluster FlexRay A.
 
-```plaintext
+```c
 variables
 {
     dword gBusContextFr1;

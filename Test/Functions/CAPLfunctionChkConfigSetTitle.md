@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long ChkConfig_SetTitle (dword aCheckId, char aTitle[]);
 ```
 
@@ -12,7 +12,7 @@ long ChkConfig_SetTitle (dword aCheckId, char aTitle[]);
 
 [Method Syntax](../../../Shared/CAPL/General/ClassesAndObjects.md)
 
-```plaintext
+```c
 check.SetTitle(char aTitle[]);
 ```
 
@@ -33,7 +33,7 @@ Sets the title of a check. The check is displayed in the Write Window and the te
 
 ## Example
 
-```plaintext
+```c
 // set title of the check
 dword mCheckId;
 mCheckId = ChkCreate_Timeout(1000);

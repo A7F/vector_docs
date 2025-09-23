@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForDoIPActivationLineStartup();
 ```
 
@@ -23,7 +23,7 @@ Wait until the DoIP Activation Line startup time has passed after start of the m
 
 ## Example
 
-```plaintext
+```c
 // If this testcase is run first, activation line startup will be observed
 testcase ConnectToVehicle( char target[])
 {

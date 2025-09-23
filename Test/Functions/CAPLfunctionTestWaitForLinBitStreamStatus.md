@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForLinBitStreamStatus(dword awaitedStatus, dword timeout); // form 1
 long TestWaitForLinBitStreamStatus(dword channel, dword awaitedStatus, dword timeout); // form 2
 ```
@@ -39,7 +39,7 @@ Should the event not occur before the expiration of the time **timeout**, the wa
 
 ## Example
 
-```plaintext
+```c
 testcase tc_TestWaitForLinBitStreamStatus()
 {
   long  result;

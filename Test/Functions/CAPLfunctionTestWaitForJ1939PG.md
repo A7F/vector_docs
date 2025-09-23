@@ -33,7 +33,7 @@ To get the message content of the parameter group which triggered the wait condi
 
 ## Example
 
-```plaintext
+```c
 long result;
 //wait for RQST PG (sent form SA=0x01 to DA=0xAA) for 2000 ms
 result = TestWaitForJ1939PG(0xEA00, 0x01, 0xAA, 2000);

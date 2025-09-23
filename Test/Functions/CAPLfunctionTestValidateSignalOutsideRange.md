@@ -46,7 +46,7 @@ Dependent on the used parameter type the appropriate bus context in a multibus e
 
 ## Example
 
-```plaintext
+```c
 // validates the value of the signal against the given range
 long result;
 result = testValidateSignalOutsideRange("Check Velocity", Node_SUT::Velocity, 60, 100);

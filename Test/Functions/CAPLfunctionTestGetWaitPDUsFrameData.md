@@ -30,7 +30,7 @@ Form 4-6 can only be used for joined events. The number of the joined event (ret
 
 ## Example
 
-```plaintext
+```c
 testcase Test_01()
 {
   long ret;

@@ -23,7 +23,7 @@ Stops all currently running recordings in the test report. If recordings are not
 
 ## Example
 
-```plaintext
+```c
 testReportStartRecording(comfort::VehicleMotion::CrashDetected, "Signal1");
 testReportStartRecording(sysvar::Namespace1::SVTest);
 

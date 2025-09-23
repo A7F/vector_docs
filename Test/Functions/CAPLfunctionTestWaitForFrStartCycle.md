@@ -34,7 +34,7 @@ When no numeric cycle is specified the wait condition is resolved on any FlexRay
 
 The following test program waits for the occurrence of one of two different start of cycles. It is assumed that the test is executed at the cluster FlexRay A.
 
-```plaintext
+```c
 variables
 {
     dword gBusContextFr1;

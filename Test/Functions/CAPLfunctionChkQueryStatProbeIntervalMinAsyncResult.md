@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 double ChkQuery_StatProbeIntervalMin_AsyncResult(dword aCheckId);
 ```
 
@@ -12,7 +12,7 @@ double ChkQuery_StatProbeIntervalMin_AsyncResult(dword aCheckId);
 
 [Method](../../../Shared/CAPL/General/ClassesAndObjects.md) Syntax
 
-```plaintext
+```c
 check.QueryStatProbeIntervalMinAsyncResult();
 ```
 
@@ -36,7 +36,7 @@ The data has to be queried first using [testWaitForCheckQuery](CAPLfunctionTestW
 
 ## Example
 
-```plaintext
+```c
 long result;
 dword checkId;
 double statProbe;

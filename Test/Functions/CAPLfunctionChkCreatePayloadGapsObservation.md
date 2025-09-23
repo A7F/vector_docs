@@ -61,7 +61,7 @@ Further information on site [MultiBus Environment](../../../Shared/CAPL/General/
 
 ## Example
 
-```plaintext
+```c
 // checks the payload gaps of the message
 checkId = ChkStart_PayloadGapsObservation(MsgToObserve, 0);
 TestAddCondition(checkId);

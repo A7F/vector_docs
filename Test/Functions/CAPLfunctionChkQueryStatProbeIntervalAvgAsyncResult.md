@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 double ChkQuery_StatProbeIntervalAvg_AsyncResult(dword aCheckId);
 ```
 
@@ -12,7 +12,7 @@ double ChkQuery_StatProbeIntervalAvg_AsyncResult(dword aCheckId);
 
 [Method Syntax](../../../Shared/CAPL/General/ClassesAndObjects.md)
 
-```plaintext
+```c
 check.QueryStatProbeIntervalAvgAsyncResult();
 ```
 
@@ -32,7 +32,7 @@ Returns the average timely distance between 2 consumed message events. The data 
 
 ## Example
 
-```plaintext
+```c
 long result;
 dword checkId;
 double statProbe;

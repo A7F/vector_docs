@@ -34,7 +34,7 @@ All contained symbols in a recording group will be recorded when the recording o
 
 ## Example
 
-```plaintext
+```c
 DWORD groupHandle;
 
 groupHandle = testReportCreateRecordingGroup("GroupName1");

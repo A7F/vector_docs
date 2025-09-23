@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForByteInput(char text[], char caption[], char info[]); // form 1
 long TestWaitForByteInput(char text[], char caption[], char info[], dword timeout); // form 2
 ```
@@ -27,7 +27,7 @@ This function opens a dialog for byte array input. Optionally you can set some t
 
 ## Example
 
-```plaintext
+```c
 return = TestWaitForByteInput("Test Text", "Test Caption", "Test Byte Input", 0);
 TestGetByteInput(resultByte, elcount(resultByte));
 

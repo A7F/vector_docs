@@ -37,7 +37,7 @@ Checks the maximum burst time on a bus.
 
 ## Example
 
-```plaintext
+```c
 // observes the maximum burst time 3 ms
 checkId = ChkStart_BurstTimeLimitViolation ("CAN", 3);
 TestAddCondition(checkId);

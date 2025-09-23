@@ -31,7 +31,7 @@ Consider to set always the appropriate bus context in a multibus environment bef
 
 ## Example
 
-```plaintext
+```c
 testcase tcTFS_waitForLINResponse(int frameId)
 {
     long eventIndex;

@@ -22,7 +22,7 @@ Sends diagnostic requests to the currently selected diagnostic target or the giv
 
 ## Example
 
-```plaintext
+```c
 testcase IdentifyAllEcus()
 {
   char ecuQual[200];

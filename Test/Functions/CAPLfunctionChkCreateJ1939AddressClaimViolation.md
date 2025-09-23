@@ -68,7 +68,7 @@ Further information on site [MultiBus Environment](../../../Shared/CAPL/General/
 
 ## Example
 
-```plaintext
+```c
 TestCheck c;
 // checks the address claim violation of node N1
 c = TestCheck::CreateJ1939AddressClaimViolation( N1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 200, 0x01);

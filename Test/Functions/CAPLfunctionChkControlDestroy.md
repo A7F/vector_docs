@@ -7,7 +7,7 @@
 
 ### Function Syntax
 
-```plaintext
+```c
 long ChkControl_Destroy(dword aCheckId);
 ```
 
@@ -15,7 +15,7 @@ long ChkControl_Destroy(dword aCheckId);
 
 [Constructor](../../../Shared/CAPL/General/ClassesAndObjects.md)
 
-```plaintext
+```c
 check.Destroy();
 ```
 
@@ -38,7 +38,7 @@ The check is destroyed and cannot be accessed anymore. Its resources are freed.
 
 ### Example
 
-```plaintext
+```c
 dword checkId;
 dword numCheckEvents;
 

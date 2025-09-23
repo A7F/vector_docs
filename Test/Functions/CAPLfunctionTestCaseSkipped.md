@@ -28,7 +28,7 @@ The verdict of the test module is not affected. This function may only be called
 **Example**  
 test case "tc3" is only executed under certain conditions
 
-```plaintext
+```c
 MainTest
 {
    tc1();

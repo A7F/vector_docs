@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 double ChkQuery_StatEventFreePeriodMed_AsyncResult(dword aCheckId);
 ```
 
@@ -12,7 +12,7 @@ double ChkQuery_StatEventFreePeriodMed_AsyncResult(dword aCheckId);
 
 [Method Syntax](../../../Shared/CAPL/General/ClassesAndObjects.md)
 
-```plaintext
+```c
 check.QueryStatEventFreePeriodMedAsyncResult();
 ```
 
@@ -31,7 +31,7 @@ Returns the average timely distance between events and check starts/stops. The d
 
 ## Example
 
-```plaintext
+```c
 long result;
 dword checkId;
 double period;

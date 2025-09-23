@@ -33,7 +33,7 @@ This function enables access to the signal value which was last reported by a ch
 
 ## Example
 
-```plaintext
+```c
 CallbackOnSignalXyzViolation(dword aCheckId)
 {
    double lBadValue[1]; // use an array to allow "call-by-reference"; length: 1 element

@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 double ChkQuery_Precision_AsyncResult(dword aCheckId);
 ```
 
@@ -12,7 +12,7 @@ double ChkQuery_Precision_AsyncResult(dword aCheckId);
 
 [Method Syntax](../../../Shared/CAPL/General/ClassesAndObjects.md)
 
-```plaintext
+```c
 check.QueryPrecisionAsyncResult();
 ```
 
@@ -32,7 +32,7 @@ The data has to be queried first using [testWaitForCheckQuery](CAPLfunctionTestW
 
 ## Example
 
-```plaintext
+```c
 long result;
 dword checkId;
 double precision;

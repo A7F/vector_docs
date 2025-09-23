@@ -29,7 +29,7 @@ To avoid absolute paths in CAPL code and to be independent of the execution plat
 
 **Example:**
 
-```plaintext
+```c
 char absPath[256];
 GetUserFilePath("MyApplication.exe", absPath, 256);
 TestValidateSystemCall("D:\\temp\\", absPath, 100);
@@ -37,7 +37,7 @@ TestValidateSystemCall("D:\\temp\\", absPath, 100);
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestValidateSystemCall (char workingDir[], char commandLine[], dword timeout);
 long TestValidateSystemCall (char workingDir[], char commandLine[], dword timeout, long& syscallExitCode);
 ```

@@ -7,7 +7,7 @@ This function replaces `getSignalByTxNode`.
 
 ## Function Syntax
 
-```plaintext
+```c
 float getSignal(Signal aSignal); // form 1
 ```
 
@@ -35,14 +35,14 @@ Gets the value of a signal.
 
 **Example 1 — Signal is unique**
 
-```plaintext
+```c
 float value;
 value = getSignal(OnOff);
 ```
 
 **Example 2 — Signal is ambiguous**
 
-```plaintext
+```c
 float value;
 //Node and signal
 value = getSignal(LightSwitch::OnOff);
@@ -54,7 +54,7 @@ value = getSignal(CAN1::Status);
 
 ### Function Syntax
 
-```plaintext
+```c
 float getSignal(char signalName[]); // form 2
 ```
 
@@ -90,14 +90,14 @@ Gets the value of a signal.
 
 **Example 1 — Signal is unique**
 
-```plaintext
+```c
 float value;
 value = getSignal("OnOff");
 ```
 
 **Example 2 — Signal is ambiguous**
 
-```plaintext
+```c
 float value;
 //Message and signal
 value = getSignal("LightState::OnOff");

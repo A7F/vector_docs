@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long testWaitScopeGetFieldLengthData (ScopeAnalyseHandle handle,  dword bitNo, ScopeFieldLengthData bitData);
 ```
 

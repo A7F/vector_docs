@@ -8,7 +8,7 @@ For more information on how this function is typically called and where to deriv
 
 ## Function Syntax
 
-```plaintext
+```c
 long testWaitForDiagSecurityTaskCompleted(char ecuQualifier[], char taskId[], char jobQualifier[], char params[], dword timeout);
 ```
 
@@ -32,7 +32,7 @@ Initiates the diagnostics generic security task and waits until this task has co
 
 ## Example
 
-```plaintext
+```c
 long error;
 long result;
 

@@ -35,7 +35,7 @@ Generates the security key from the seed using the configured **Seed and Key** D
 
 ## Example
 
-```plaintext
+```c
 Testfunction ComputeKeyInExtendedSession( BYTE seed[], BYTE key[])
 {
   DWORD keyLenOut;

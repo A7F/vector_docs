@@ -33,7 +33,7 @@ If neither event occurs before the expiration of the specified time **aTimeout**
 
 ## Example
 
-```plaintext
+```c
 long handle1, handle2, handle3, stopHandle, result;
 
 // form 1

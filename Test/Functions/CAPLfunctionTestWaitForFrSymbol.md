@@ -36,7 +36,7 @@ Waits for the occurrence of a FlexRay symbol on the bus. Should the symbol not o
 
 The following test program waits for the occurrence of different POC state events and symbols on one FlexRay bus.
 
-```plaintext
+```c
 variables
 {
   char bus1[20] = "FlexRay_1";

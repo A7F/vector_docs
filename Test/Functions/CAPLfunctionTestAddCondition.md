@@ -33,7 +33,7 @@ Adds an event object or an event text as a condition. Checks from the Test Servi
 
 Add check as condition
 
-```plaintext
+```c
 dword checkId;
 dword numCheckEvents;
 
@@ -75,7 +75,7 @@ ChkControl_Destroy(checkId);
 
 Add text event as condition
 
-```plaintext
+```c
 // test case to check if Error Frames occur
 testcase CheckErrorFrameReceived ()
 {

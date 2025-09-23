@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestJoinForAnswer(callContext cco);
 ```
 
@@ -24,7 +24,7 @@ Completes the current set of **joined events** with the transmitted event. This 
 
 ## Example
 
-```plaintext
+```c
 long ret;
 callContext MirrorAdjustment.Adjust cco;
 cco = MirrorAdjustment[0,0].Adjust.CallAsync(50, 0);

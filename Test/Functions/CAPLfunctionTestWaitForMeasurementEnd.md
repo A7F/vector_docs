@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForMeasurementEnd (dword aTimeout);
 ```
 
@@ -29,7 +29,7 @@ The test module monitors constraints and conditions. This monitoring process sho
 
 ## Example
 
-```plaintext
+```c
 // monitoring of condition is active until measurement end
 dword checkId;
 long result;

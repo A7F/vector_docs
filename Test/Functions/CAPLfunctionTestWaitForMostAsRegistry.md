@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForMostAsRegistry(long aRegistry, unsigned long aTimeout);
 ```
 

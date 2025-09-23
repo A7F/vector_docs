@@ -67,7 +67,7 @@ For FlexRay only valid data frames and PDUs are recognized as communication, Nul
 
 ## Example
 
-```plaintext
+```c
 // checks that the message is sent less than 3 times
 checkId = ChkStart_MsgOccurrenceCount (MsgToObserve, 2);
 TestAddCondition(checkId);

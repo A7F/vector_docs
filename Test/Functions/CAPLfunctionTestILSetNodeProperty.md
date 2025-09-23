@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long testILSetNodeProperty( dbNode node, char propertyName[], long propertyValue);
 ```
 
@@ -128,7 +128,7 @@ Changes an internal property of the specified node.
 
 ## Example
 
-```plaintext
+```c
 if(testILSetNodeProperty(EBS, "BAM_DT_Interval", 100) < 0)
 {
   write( "Can’t set node property ‘BAM_DT_Interval‘ " );

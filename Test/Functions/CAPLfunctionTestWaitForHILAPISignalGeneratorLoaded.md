@@ -23,7 +23,7 @@ Waits until a signal generator created with [HILAPICreateSignalGenerator](CAPLfu
 
 ## Example
 
-```plaintext
+```c
 hGenerator = HILAPICreateSignalGenerator("Example.sti");
 testWaitForHILAPISignalGeneratorLoaded(hGenerator);
 ```

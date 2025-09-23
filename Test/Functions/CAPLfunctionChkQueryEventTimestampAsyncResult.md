@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long ChkQuery_EventTimestamp_AsyncResult(dword CheckId);
 ```
 
@@ -12,7 +12,7 @@ long ChkQuery_EventTimestamp_AsyncResult(dword CheckId);
 
 [Method](../../../Shared/CAPL/General/ClassesAndObjects.md) Syntax
 
-```plaintext
+```c
 check.QueryEventTimestampAsyncResult();
 ```
 
@@ -31,7 +31,7 @@ Retrieves time stamp of last fired event. The data has to be queried first using
 
 ## Example
 
-```plaintext
+```c
 long result;
 dword checkId;
 checkId = ChkStart_MsgRelCycleTimeViolation(VehicleMotion, 0.9, 1.1);

@@ -52,7 +52,7 @@ Object of type **TestCheck**.
 
 ## Example
 
-```plaintext
+```c
 variables
 {
   const dword cTesttime = 640; // [ms] per check

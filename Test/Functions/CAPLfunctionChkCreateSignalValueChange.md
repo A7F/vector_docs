@@ -66,7 +66,7 @@ Checks the physical value of a signal or an environment variable. An event will 
 
 **Example 1**
 
-```plaintext
+```c
 // checks that there is no change of the value of the signal
 checkId = ChkStart_SignalValueChange(SignalToObserve);
 TestAddCondition(checkId);
@@ -77,7 +77,7 @@ TestRemoveCondition(checkId);
 
 **Example 2: CAPL Callback**
 
-```plaintext
+```c
 // checks that there is no change of the value of the signal
 checkId = ChkStart_SignalValueChange(SignalToObserve, "CAPL_Callback");
 TestAddCondition(checkId);
@@ -93,7 +93,7 @@ void CAPL_Callback(dword check)
 
 **Example 3: Function Pointer**
 
-```plaintext
+```c
 // checks that there is no change of the value of the distributed object member
 checkId = ChkStart_SignalValueChange(DOProvider.DoubleMember, delegate (dword check)
   {

@@ -54,7 +54,7 @@ Observes the BAM transport protocol. It is possible to observe all BAM transmiss
 
 ## Example
 
-```plaintext
+```c
 // checks the BAM transport protocol of node N1
 checkId = ChkStart_J1939BAM(N1, 100, 200);
 TestAddCondition(checkId);

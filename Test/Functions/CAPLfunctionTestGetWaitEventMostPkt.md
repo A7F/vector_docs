@@ -26,7 +26,7 @@ Once another wait condition is set up in the current test sequence, access to th
 
 ## Example
 
-```plaintext
+```c
 // Access to packet data:
   if(testWaitForMostPkt("AudioDiskPlayer.MediaInfo.Status", 1, 500) == 1)
   {

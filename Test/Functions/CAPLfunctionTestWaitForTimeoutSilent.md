@@ -6,7 +6,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForTimeoutSilent(int64 aTimeout);
 ```
 
@@ -26,7 +26,7 @@ Waits until the expiration of the specified timeout time. The function does not 
 
 ## Example
 
-```plaintext
+```c
 // waits for 3000 ms
 long result;
 result = TestWaitForTimeoutSilent(3000);

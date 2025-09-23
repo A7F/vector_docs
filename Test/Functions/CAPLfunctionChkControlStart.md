@@ -35,7 +35,7 @@ Begin or continue checking the event condition. May work on a check stopped earl
 
 ## Example
 
-```plaintext
+```c
 dword checkId;
 dword numCheckEvents;
 

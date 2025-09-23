@@ -46,7 +46,7 @@ Checks the LIN response transmission time. An event will be generated if the mea
 
 ## Example
 
-```plaintext
+```c
 ...
 dword checkId;
 ChkConfig_SetPrecision(9); // switch to ns precision

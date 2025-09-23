@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long testWaitScopeGetAnalysedBitSegments(long bitNumber, ScopeAnalyseBitSegmentData segmentData, dword noOfSegments);
 ```
 

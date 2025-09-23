@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForTextEvent(char aText[], dword aTimeout);
 ```
 
@@ -29,7 +29,7 @@ Should this event not occur before the expiration of the time **aTimeout**, the 
 
 ## Example
 
-```plaintext
+```c
 // waits for the occurrence of text event "ErrorFrame occurred!"
 long result;
 result = TestWaitForTextEvent("ErrorFrame occurred!", 3000);

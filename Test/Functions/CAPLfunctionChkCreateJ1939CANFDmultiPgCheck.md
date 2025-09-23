@@ -45,7 +45,7 @@ Further information on site [MultiBus Environment](../../../Shared/CAPL/General/
 
 ## Example
 
-```plaintext
+```c
 dword checkId;
 checkId = ChkCreate_J1939_CANFD_MultiPgCheck(N1);
 TestAddCondition(checkId);

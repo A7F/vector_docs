@@ -26,7 +26,7 @@ Completes the current set of "joined events" with the transmitted event. This fu
 
 ## Example
 
-```plaintext
+```c
 testcase tcTFS_waitForLINHeader(int frameId)
 {
     long eventIndex;

@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long testILSetMessageProperty(dbNode node, dbMsg msg, char propertyName[], long propertyValue);
 ```
 
@@ -33,7 +33,7 @@ Sets the internal property of a message, assigned to the node.
 
 ## Example
 
-```plaintext
+```c
 if (testILSetMessageProperty(EBS, TSC1, "MessageCounterToContinue", 12) < 0)
 {
   write("Can’t set message property ‘MessageCounterToContinue‘");

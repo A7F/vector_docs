@@ -25,7 +25,7 @@ If LIN Header event is the last event that triggers a wait instruction, the head
 
 ## Example
 
-```plaintext
+```c
 testcase tcTFS_linHdrEvent ()
 {
     linheader  linHeaderData;

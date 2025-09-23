@@ -24,7 +24,7 @@ Completes the current set of **joined events** with the transmitted event. This 
 
 ## Example
 
-```plaintext
+```c
 long ret;
 consumedEventRef * anEvent;
 anEvent = lookupConsumedEvent(path);

@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 dword ChkStart_LINSynchBreakTimingViolation (dword MinBreakLen, dword MaxBreakLen);
 dword ChkStart_LINSynchBreakTimingViolation (dword MinBreakLen, dword MaxBreakLen, char[] CaplCallback);
 ```
@@ -48,7 +48,7 @@ An event will be generated, if the measured length [in bit times] of break low p
 
 ## Example
 
-```plaintext
+```c
 ...
 dword checkId;
 ChkConfig_SetPrecision(9); // switch to ns precision

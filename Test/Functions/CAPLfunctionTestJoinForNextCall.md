@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestJoinForNextCall(providedMethodRef * method); // form 1
 long TestJoinForNextCall(distObjMethodRef * method); // form 2
 ```
@@ -25,7 +25,7 @@ Completes the current set of **joined events** with the transmitted event. This 
 
 ## Example
 
-```plaintext
+```c
 long ret;
 providedMethodRef MirrorAdjustment.Adjust method;
 

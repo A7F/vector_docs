@@ -49,7 +49,7 @@ Further information on site [MultiBus Environment](../../../Shared/CAPL/General/
 
 ## Example
 
-```plaintext
+```c
 // observes the bus ‘CAN1’ for undefined messages
 SetBusContext(getBusNameContext("CAN1"));
 checkId = ChkStart_UndefinedMessageReceived();

@@ -26,7 +26,7 @@ Form 2 can only be used for joined events. The number of the joined event (retur
 
 ## Example
 
-```plaintext
+```c
 testcase TC_CheckPDUTPProperties()
 {
   dword srcAddr, dstAddr, srcPort, dstPort;

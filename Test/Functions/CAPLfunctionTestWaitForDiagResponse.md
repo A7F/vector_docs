@@ -7,7 +7,7 @@ This function can only be called within a test module!
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForDiagResponse (diagRequest request, dword timeout); // form 1
 long TestWaitForDiagResponse (dword timeout); // form 2
 ```

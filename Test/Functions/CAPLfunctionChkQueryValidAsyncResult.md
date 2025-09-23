@@ -4,7 +4,7 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long ChkQuery_Valid_AsyncResult(dword aCheckId);
 ```
 
@@ -12,7 +12,7 @@ long ChkQuery_Valid_AsyncResult(dword aCheckId);
 
 [Method Syntax](../../../Shared/CAPL/General/ClassesAndObjects.md)
 
-```plaintext
+```c
 check.QueryValidAsyncResult();
 ```
 
@@ -32,7 +32,7 @@ Examines whether a check with particular Id is valid. The data has to be queried
 
 ## Example
 
-```plaintext
+```c
 long result;
 dword checkId;
 checkId = ChkStart_MsgRelCycleTimeViolation(VehicleMotion, 0.9, 1.1);

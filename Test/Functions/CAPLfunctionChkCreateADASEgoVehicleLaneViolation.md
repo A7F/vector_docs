@@ -42,7 +42,7 @@ Observes the lane of the EgoVehicle. The check fires an event if the EgoVehicle 
 
 ## Example
 
-```plaintext
+```c
 dword checkId1;
 checkId1 = chkStart_ADASEgoVehicleLaneViolation();
 

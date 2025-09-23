@@ -46,7 +46,7 @@ For FlexRay only valid data frames and PDUs are recognized as communication, Nul
 
 ## Example
 
-```plaintext
+```c
 // checks that at least one message of the node is sent in each 100 ms
 checkId = ChkStart_NodeDead (Node1, 100);
 TestAddCondition(checkId);

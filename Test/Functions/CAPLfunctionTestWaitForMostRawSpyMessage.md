@@ -4,11 +4,11 @@
 
 ## Function Syntax
 
-```plaintext
+```c
 long TestWaitForMostRawSpyMessage(long aSourceAddress, long aDestinationAddress, long aRType, BYTE aMsgData [], dword aMsgDataLength, dword aTimeout);
 ```
 
-```plaintext
+```c
 long TestWaitForMostRawSpyMessage(long aSourceAddress, long aDestinationAddress, long aRType, char aMsgDesc[], dword aTimeout);
 ```
 
